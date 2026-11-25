@@ -1,0 +1,476 @@
+{
+ "questions": [
+  {
+   "question": "Arecombinant form of a natural cytokine",
+   "choices": [
+    "Ustekinumab",
+    "Basiliximab",
+    "Mycophenolate mofetil",
+    "Sirolimus",
+    "Tacrolimus",
+    "Leflunomide",
+    "Azathioprine",
+    "Cyclosporine",
+    "Aldesleukin",
+    "Muromonab-CD3"
+   ],
+   "answer": 8,
+   "explanation": "Matching item. Correct match: Aldesleukin.",
+   "source": "Pharmacology VII-4 Q1",
+   "topic": "Easy",
+   "topic_n": 1
+  },
+  {
+   "question": "This drug binds to the CD25 α chain of the interleukin-2 receptor on activated T lymphocytes.",
+   "choices": [
+    "Tacrolimus",
+    "Basiliximab",
+    "Leflunomide",
+    "Azathioprine",
+    "Sirolimus",
+    "Muromonab-CD3",
+    "Cyclosporine",
+    "Ustekinumab",
+    "Aldesleukin",
+    "Mycophenolate mofetil"
+   ],
+   "answer": 1,
+   "explanation": "Matching item. Correct match: Basiliximab.",
+   "source": "Pharmacology VII-4 Q2",
+   "topic": "Easy",
+   "topic_n": 2
+  },
+  {
+   "question": "A specific inhibitor of inosine monophosphate dehydrogenase",
+   "choices": [
+    "Azathioprine",
+    "Tacrolimus",
+    "Basiliximab",
+    "Mycophenolate mofetil",
+    "Ustekinumab",
+    "Sirolimus",
+    "Muromonab-CD3",
+    "Leflunomide",
+    "Cyclosporine",
+    "Aldesleukin"
+   ],
+   "answer": 3,
+   "explanation": "Matching item. Correct match: Mycophenolate mofetil.",
+   "source": "Pharmacology VII-4 Q3",
+   "topic": "Easy",
+   "topic_n": 3
+  },
+  {
+   "question": "A prodrug that is converted into mercaptopurine in the body",
+   "choices": [
+    "Leflunomide",
+    "Tacrolimus",
+    "Azathioprine",
+    "Sirolimus",
+    "Aldesleukin",
+    "Muromonab-CD3",
+    "Mycophenolate mofetil",
+    "Basiliximab",
+    "Ustekinumab",
+    "Cyclosporine"
+   ],
+   "answer": 2,
+   "explanation": "Matching item. Correct match: Azathioprine.",
+   "source": "Pharmacology VII-4 Q4",
+   "topic": "Easy",
+   "topic_n": 4
+  },
+  {
+   "question": "A 56-year-old man with end-stage renal disease underwent a kidney transplant. He received immunosuppressive therapy that included a drug that suppresses cellular immunity, inhibits both prostaglandin and leukotriene synthesis, and increases the catabolism of immunoglobulin G (IgG) antibodies. Which of the following drugs has all of these actions?",
+   "choices": [
+    "Azathioprine",
+    "Prednisone",
+    "Cyclophosphamide",
+    "Muromonab-CD3",
+    "Tacrolimus"
+   ],
+   "answer": 1,
+   "explanation": "An immunosuppressive drug therapy must be given to all patients undergoing organ transplant. No consensus exists on the best induction and maintenance immunosuppressive regimen, but most regimens rely on three or four agents, and one of these is almost always a glucocorticoid, such as prednisone. Glucocorticoids suppress primarily cellular immunity because of their ability to modify cellular function. In addition, they can inhibit phospholipase A2 blocking both prostaglandin and leukotriene synthesis, and they increase the fractional catabolic rate of immunoglobulin G ( IgG), the major class of antibody immunoglobulins, thus lowering the concentration of specific antibodies. B-E All of these immunosuppressive drugs can suppress cellular immunity, but they do not affect eicosanoid synthesis or the catabolism of IgG antibodies.",
+   "source": "Pharmacology VII-4 Q5",
+   "topic": "Easy",
+   "topic_n": 5
+  },
+  {
+   "question": "A 27-year-old woman was admitted to the hospital with fever, malar butterfly erythema, arthralgia, intermittent pleuritic pain, and oral ulcers. Her lab tests revealed the following: serum creatinine 3.2 mg/dL, blood urea nitrogen (BUN) 35 mg/dL, and a high serum level of antinuclear antibodies. A diagnosis was made, and an appropriate therapy was started. Which of the following drugs most likely should be included in the therapeutic management of this patient?",
+   "choices": [
+    "Aldesleukin",
+    "Interferon beta-1b",
+    "BCG (bacilli Calmette-Guérin) vaccine",
+    "Ustekinumab",
+    "Prednisone"
+   ],
+   "answer": 4,
+   "explanation": "The signs and symptoms of the patient indicate that she was most likely affected by lupus erythematosus. In fact, the patient showed 5 of the 11 signs and symptoms most often associated with this disease: malar (butterfly) erythema, arthritis, oral ulcers, renal disorder, and nuclear antibodies). According to the American College of Rheumatology, the diagnosis of lupus erythematosus is made when the patient has 4 or more of these 11 signs and symptoms. The cause of lupus erythematosus is unknown but is thought to involve autoimmune mechanisms. The therapy almost always includes corticosteroids, which are especially valuable for the more severe and life-threatening manifestations of the disease. Because in this case there are signs of renal insufficiency (see creatinine and blood urea nitrogen [BUN] values), steroid therapy is clearly indicated. A Ustekinumab is approved for the treatment of plaque psoriasis only. C-E These are immunostimulant drugs and therefore are contraindicated in autoimmune disease.",
+   "source": "Pharmacology VII-4 Q6",
+   "topic": "Medium",
+   "topic_n": 1
+  },
+  {
+   "question": "A 39-year-old woman who has been suffering from myasthenia gravis for 4 years developed progressive dyspnea several days after an upper respiratory tract infection. Physical examination disclosed bilateral ptosis, bilateral facial weakness, and diminished upper and lower motor strength. An intravenous edrophonium injection improved muscle strength. A serum assay for antiacetylcholine receptor antibody was 4.8 (normal < 0.5). A promptly instituted treatment included a parenteral injection of prednisone. Which of the following statements best explains the most likely mechanism of action of the drug in this case?",
+   "choices": [
+    "Activation of cholinergic Nm receptors",
+    "Inhibition of plasma cholinesterase",
+    "Stimulation of synthesis of interleukin-2",
+    "Stimulation of synthesis of interleukin-1",
+    "Inhibition of T-cell activation and proliferation"
+   ],
+   "answer": 4,
+   "explanation": "Myasthenia gravis is an acquired autoimmune disease characterized by exercise-induced muscle fatigue that resolves after rest. The pathogenesis is due to antibody-mediated destruction of cholinergic Nm receptor sites. The initiating event leading to antibody production is unknown. This patient most likely developed a myasthenic crisis (edrophonium improved muscle strength), which may be precipitated by infection but also can occur without apparent cause. Myasthenic crisis requires intensive management that includes selected anticholinesterase drugs suchas neostigmine and immunosuppressive treatment with glucocorticoids and cyclosporine. The immunosuppressive effect of glucocorticoids is likely due to multiple Answers mechanisms of action. Especially important in this regard is the inhibition of T-cell activation (due to inhibition of synthesis of interleukin-1) and T-cell proliferation (due to inhibition of synthesis of interleukin-2). A, B Glucocorticoids have no effect on plasma cholinesterase or nicotinic receptors. C, E Glucocorticoids actually decrease the synthesis of these interleukins (see correct answer explanation).",
+   "source": "Pharmacology VII-4 Q7",
+   "topic": "Medium",
+   "topic_n": 2
+  },
+  {
+   "question": "A 53-year-old man with a heart transplant underwent immunosuppressive treatment that included oral cyclosporine. Which of the following cells represent the main site of action of this drug?",
+   "choices": [
+    "A. Macrophages",
+    "Natural killer cells",
+    "T-helper cells",
+    "Plasma cells",
+    "Dendritic cells"
+   ],
+   "answer": 2,
+   "explanation": "Cyclosporine is a selective inhibitor of T-helper cells, suppressing the early cellular response to antigenic stimuli. Its site of action is within the cytoplasm of T-helper cells, where it binds to an immunophilin called cyclophilin. A, B, D, E These cells are not direct targets for cyclosporine.",
+   "source": "Pharmacology VII-4 Q8",
+   "topic": "Easy",
+   "topic_n": 6
+  },
+  {
+   "question": "A 54-year-old woman who underwent a kidney transplant developed nausea, vomiting, and diarrhea a few days after the surgery. The patient had received posttransplant therapy with cyclosporine and prednisone. A decision was made to substitute sirolimus for the cyclosporine. Which of the following actions most likely mediated the immunosuppressive effect of sirolimus?",
+   "choices": [
+    "Inhibition of T-cell proliferation",
+    "Stimulation of the synthesis of tumor necrosis factor",
+    "Stimulation of B-cell proliferation",
+    "Inhibition of histamine release",
+    "Inhibition of calcineurin"
+   ],
+   "answer": 0,
+   "explanation": "Sirolimus (formerly called rapamycin) resembles tacrolimus and binds to the same intracellular FK-binding proteins. However, whereas tacrolimus and cyclosporine block gene transcription, sirolimus acts later to block interleukin-2dependent lymphocyte proliferation. This blockade is likely due to the inhibition of mammalian kinase (called mammalian target of rapamycin), an enzyme that is essential for cell-cycle progression. Therefore, the drug substantially inhibits T- and B-cell proliferation. A-C, E See correct answer explanation.",
+   "source": "Pharmacology VII-4 Q9",
+   "topic": "Medium",
+   "topic_n": 3
+  },
+  {
+   "question": "A 57-year-old man complained of a tingling sensation in his hands and peripheral edema. The man, who had received a heart transplant 1 month earlier, was in the hospital and scheduled for endomyocardial biopsy. Significant blood test results were potassium 6.1 mEq/L (normal 3.5-5.0 mEq/L), creatinine 3.8 mg/dL (normal 0.6-1.2 mg/dL), blood urea nitrogen (BUN) 42 mg/dL (normal 7-18 mg/dL). Current medications were cyclosporine, prednisone, and azathioprine to prevent rejection, omeprazole for heartburn, and diltiazem for arrhythmia. Biopsy results indicated no acute rejection. If the laboratory results were drug-related, which of the following was the most likely causative agent?",
+   "choices": [
+    "Diltiazem",
+    "Cyclosporine",
+    "Azathioprine",
+    "Prednisone",
+    "Omeprazole"
+   ],
+   "answer": 1,
+   "explanation": "The lab tests suggest that the patient is suffering from renal insufficiency. Nephrotoxicity is the most common adverse effect of cyclosporine, occurring in up to 80% of treated patients. The pathophysiology of this adverse effect is still uncertain. A, C-E These drugs have a negligible risk of nephrotoxicity.",
+   "source": "Pharmacology VII-4 Q10",
+   "topic": "Medium",
+   "topic_n": 4
+  },
+  {
+   "question": "A 66-year-old woman suffering from metastatic renal cancer started a pharmacotherapy that included aldesleukin. Which of the following classes of receptors most likely mediated the therapeutic effect of the drug in the patient's disease?",
+   "choices": [
+    "Tyrosine-kinase linked",
+    "Intracellular",
+    "Metabotropic",
+    "Ionotropic",
+    "Janus-kinase linked"
+   ],
+   "answer": 4,
+   "explanation": "Aldesleukin is a cytokine (recombinant interleukin-2). Most cytokines activate receptors that belong to the Januskinase family. These receptors are polypeptides consisting of an extracellular cytokine-binding domain and a cytoplasmic enzyme domain. When a cytokine binds to the extracellular domain, the intracellular domain binds to and phosphorylates a separate intracellular tyrosine kinase termed Janus kinase. This tyrosine kinase in turn phosphorylates other of proteins called STAT (signal transduction and activation transcription) that translocate to the nucleus and regulate transcription of specific genes. B-E See correct answer explanation. and Explanations: VIl-4 Immunomodulating Drugs 393",
+   "source": "Pharmacology VII-4 Q11",
+   "topic": "Easy",
+   "topic_n": 7
+  },
+  {
+   "question": "A 44-year-old woman was in the coronary unit after a heart transplant performed 2 weeks earlier. Pertinent blood test results were white blood cell count 1.2 x 10^3/mm^3 (normal 4.5-11.0 x 10^3/mm^3), platelets 40,000/mm^3 (normal 150,000-400,000/mm^3). Which of the following drugs most likely caused these findings?",
+   "choices": [
+    "Fluorouracil",
+    "Azathioprine",
+    "Dopamine",
+    "Cyclosporine",
+    "Dobutamine"
+   ],
+   "answer": 1,
+   "explanation": "The profound leukopenia and thrombocytopenia exhibited by the patient suggest bone marrow suppression. Transplant patients always receive immunosuppressive therapy to prevent organ allograft rejection. Cyclosporine, azathioprine, and a glucocorticoid are the drugs most frequently used for this purpose. Azathioprine is a prodrug that is converted in the body to mercaptopurine, an antimetabolite anticancer drug. It is therefore a cytotoxic agent that can cause significant myelosuppression. A Cyclosporine is the drug most frequently given for immunosuppression in transplant patients, but it does not cause myelosuppression. B, C Dobutamine and dopamine are often given to heart transplant patients to increase cardiac output and renal blood flow, but they do not cause myelosuppression. E Fluorouracil is an anticancer drug that is not used for immunosuppression.",
+   "source": "Pharmacology VII-4 Q12",
+   "topic": "Easy",
+   "topic_n": 8
+  },
+  {
+   "question": "A 41-year-old man came to the clinic complaining of an extensive rash, white plaquelike lesions in his mouth, dry eyes, hyperpigmentation of the tissues surrounding the eyes, and diarrhea. Three months earlier, the man, who was suffering from chronic myelogenous leukemia, underwent an allogeneic bone marrow transplant from his sister. He was successfully treated for his acute graft-versus-host disease and had no major health problems after that disease. Which of the following two-drug combinations would represent an appropriate immunosuppressive pharmacotherapy for the patient at this time?",
+   "choices": [
+    "Doxorubicin and vinblastine",
+    "Vinblastine and prednisone",
+    "Prednisone and cyclosporine",
+    "Cyclophosphamide and doxorubicin",
+    "Cyclosporine and erythromycin"
+   ],
+   "answer": 2,
+   "explanation": "The patient most likely suffered from chronic GVHD, which occurs in up to 70% of allogeneic bone marrow transplant patients. The most important risk factor for developing chronic GVHD is a prior diagnosis of acute GVHD. The mainstay of therapy of GVHD is long-term immunosuppressive therapy. Prednisone and cyclosporine are among the most commonly used agents for this purpose. The combination of cyclosporine and prednisone has resulted in higher survival when compared with prednisone or cyclosporine alone. B-E Erythromycin, doxorubicin, and vinblastine are not immunosuppressive drugs.",
+   "source": "Pharmacology VII-4 Q13",
+   "topic": "Medium",
+   "topic_n": 5
+  },
+  {
+   "question": "A 43-year-old man who underwent a kidney transplant had been receiving an immunosuppressive treatment that included a macrolide antibiotic. The drug binds to a FK-binding proteins located in T cells, thus blocking gene expression for production of several cytokines. Which of the following drugs most likely works with this mechanism of action?",
+   "choices": [
+    "Cyclosporine",
+    "Tacrolimus",
+    "Azathioprine",
+    "Tobramycin",
+    "Azithromycin"
+   ],
+   "answer": 1,
+   "explanation": "Antibiotics endowed with immunosuppressant properties include cyclosporine, tacrolimus, and sirolimus. They interfere with T-cell function by binding to immunophilins, small intracellular proteins that play a key role in T-cell response to cytokines. Cyclosporine binds to cyclophilin; tacrolimus and sirolimus bind to FK-binding proteins. The tacrolimusprotein complex binds to calcineurin, a cytoplasmic phosphatase, thus inhibiting calcineurin-mediated expression for production of several cytokines. A Azithromycin is a macrolide antibiotic with antibacterial activity. It is devoid of immunosuppressive properties. B Azathioprine is a cytotoxic drug with immunosuppressive properties, but it does not bind to an FK-binding protein. D Cyclosporine also inhibits calcineurin actions, but it binds to cyclophilin, not to an FK-binding protein. E Tobramycin is an aminoglycoside antibiotic devoid of immunosuppressive properties.",
+   "source": "Pharmacology VII-4 Q14",
+   "topic": "Medium",
+   "topic_n": 6
+  },
+  {
+   "question": "A 42-year-old woman who underwent a liver transplant complained of nausea and vomiting, severe abdominal pain, and diarrhea 1 week after the surgery. The patient had been receiving a multidrug immunosuppressive therapy. If the patient’s symptoms were drug-related, which of the following drugs most likely caused the reported adverse effects?",
+   "choices": [
+    "Fluorouracil",
+    "Doxorubicin",
+    "Paclitaxel",
+    "Leflunomide",
+    "Etanercept",
+    "Mycophenolate mofetil"
+   ],
+   "answer": 5,
+   "explanation": "Mycophenolate mofetil is currently used with prednisone and cyclosporine to prevent rejection in transplanted patients. Gastrointestinal effects are the most common adverse reactions associated with this drug and include severe abdominal pain (up to 60%) nausea and vomiting (up to 30%), diarrhea (up to 50%), and constipation (up to 40%). A, C-F These drugs are not used to prevent allograft rejection.",
+   "source": "Pharmacology VII-4 Q15",
+   "topic": "Easy",
+   "topic_n": 9
+  },
+  {
+   "question": "A 35-year-old woman who received a cadaveric liver transplant was treated with intravenous infusion of basiliximab immediately postoperatively. A few minutes later, she began to show wheezing, cyanosis, diaphoresis, pruritus, and a diffuse skin rash. Vital signs were pulse 128 bpm, blood pressure 98/50 mm Hg, respirations 22/min. Which of the following pathologic events most likely caused the patient’s signs and symptoms?",
+   "choices": [
+    "Acute encephalopathy",
+    "Acute cardiac failure",
+    "Metabolic acidosis",
+    "Acute renal failure",
+    "Anaphylactoid reaction"
+   ],
+   "answer": 4,
+   "explanation": "The patient was most likely experiencing an infusionrelated reaction, which is a major adverse effect of most monoclonal antibodies. This reaction can be due to a cytokine release syndrome or an anaphylactoid reaction. The symptoms and signs of this patients point out that the syndrome was most likely an anaphylactoid reaction. A-D These are not adverse effects of basiliximab.",
+   "source": "Pharmacology VII-4 Q16",
+   "topic": "Easy",
+   "topic_n": 10
+  },
+  {
+   "question": "A 35-year-old man who underwent renal transplant showed signs of acute allograft rejection that was resistant to corticosteroid treatment. He was treated with muromonab-CD3 that was able to reverse the rejection. Which of the following actions most likely mediated the therapeutic effect of the drug in the patient’s disease?",
+   "choices": [
+    "Inhibition of several enzymes involved in purine metabolism",
+    "Neutralization of a surface protein receptor complex in T cells",
+    "Stimulation of interleukin-1 synthesis in T cells",
+    "Inhibition of antibody formation by plasma cells",
+    "Inhibition of calcineurin enzyme in T-cell cytoplasm"
+   ],
+   "answer": 1,
+   "explanation": "Muromonab-CD3 is a monoclonal antibody against CD3 molecules present on the surface of human thymocytes and mature T cells. CD3 molecules are necessary for a signal to be transduced to the cytoplasm after the T-cell receptor binds to the antigen. The drug binds and neutralizes the CD3 protein receptor complex, causing the death of T cells. A Muromonab-CD3 has negligible effects on B cells. B This is the mechanism of action of azathioprine. C This is the mechanism of action of cyclosporine and tacrolimus. D Stimulation of the synthesis of interleukin-1 would cause an immunostimulant, not an immunosuppressive, effect.",
+   "source": "Pharmacology VII-4 Q17",
+   "topic": "Easy",
+   "topic_n": 11
+  },
+  {
+   "question": "A 42-year-old man with end-stage renal disease underwent a kidney transplant. Therapeutic management of the patient included an intravenous injection of azathioprine just before surgery. Which of the following molecular actions most likely mediated the immunosuppressive effect of the drug in this patient?",
+   "choices": [
+    "Stimulation of macrophage phagocytic activity",
+    "Inhibition of antigen presentation by dendritic cells",
+    "Blockade of tumor necrosis factor-α (TNF-α) receptors",
+    "Inhibition of clonal expansion of T and B lymphocytes",
+    "Stimulation of genetic expression of interleukin-2"
+   ],
+   "answer": 3,
+   "explanation": "Azathioprine is an immunosuppressive agent used in organ transplantation to prevent rejection. It is a prodrug that is converted in the body to mercaptopurine, an antimetabolite anticancer drug that blocks purine biosynthesis. This leads to cytotoxicity mainly toward cells with a high turnover rate, which includes T and B lymphocytes. Because the proliferation of these lymphocytes is inhibited, both cell- and antibody-mediated immune responses are inhibited. This also explains why most antimetabolite anticancer drugs have immunosuppressive actions. Azathioprine, however, appears to be a more effective immunosuppressive than mercaptopurine itself. The basis for this superiority is unknown. early stages of cell differ- Because azathioprine inhibits the is useful for preventing entiation and proliferation, the drug of acute rejection. rejection but is ineffective for the treatment activity on receptors of A Azathioprine has no blocking tumor necrosis factor-α (TNF-@). antigen-presenting C Antigen presentation by different immune response. This cells is an early step in the adaptive step is not inhibited by azathioprine. not de- D, E These two actions would actually increase, crease, the immunologic response of the body.",
+   "source": "Pharmacology VII-4 Q18",
+   "topic": "Easy",
+   "topic_n": 12
+  },
+  {
+   "question": "A 42-year-old woman undergoing heart transplant received mycophenolate mofetil, cyclosporine, and prednisone before surgery. Which of the following statements best explains why mycophenolate mofetil is currently used instead of azathioprine to prevent rejection in solid organ transplantation?",
+   "choices": [
+    "It selectively inhibits antigen recognition by antigen-presenting cells.",
+    "It selectively inhibits macrophage-mediated production of several interleukins.",
+    "It has significantly fewer adverse effects than azathioprine.",
+    "It has drastically reduced the risk of graft-versus-host disease.",
+    "Its immunosuppressive activity is definitely superior to that of azathioprine."
+   ],
+   "answer": 2,
+   "explanation": "Mycophenolate mofetil is a prodrug that is biotransformed into mycophenolic acid. This active metabolite inhibits inosine monophosphate dehydrogenase, an enzyme involved in the de novo pathway of purine biosynthesis. However, unlike azathioprine, it does not inhibit enzymes involved in the salvage pathway of purine or pyrimidine biosynthesis. Thus, it selectively inhibits the proliferation of lymphocytes (including B and T lymphocytes), as these cells lack the enzymes of the alternative salvage pathway. Because of this, mycophenolate mofetil is cytotoxic only for lymphocytes, whereas azathioprine is cytotoxic for all rapidly growing cells. This explains why mycophenolate mofetil has significantly fewer adverse effects than azathioprine. A The immunosuppressive activity of mycophenolate and azathioprine is roughly the same because both drugs are able to kill B and T lymphocytes. C Graft-versus-host disease occurs after stem cell transplantation, not after solid organ transplantation. D Mycophenolate mofetil has negligible effects on macrophages because these cells can utilize the salvage pathway for purine biosynthesis. E Mycophenolate mofetil has no effect on antigen-presenting cells.",
+   "source": "Pharmacology VII-4 Q19",
+   "topic": "Medium",
+   "topic_n": 7
+  },
+  {
+   "question": "A 30-year-old man recently diagnosed with Crohn disease experienced substantial improvement after 1 month of prednisone therapy. Which of the following drugs would be appropriate to maintain remission of symptoms in this patient?",
+   "choices": [
+    "Sirolimus",
+    "Thalidomide",
+    "Tacrolimus",
+    "Azathioprine",
+    "Fluorouracil"
+   ],
+   "answer": 3,
+   "explanation": "Several studies have shown that glucocorticoids are ineffective in maintaining remission in Crohn disease, although a subset of patients require chronic administration of glucocorticoids to prevent recurrence of symptoms (termed steroid-dependent Crohn disease). Given the poor long-term efficacy of glucocorticoids, many experts attempt treatment with other immunosuppressive drugs. Azathioprine, methotrexate, and infliximab are effective in maintaining remission and are also used as a steroid-sparing strategy in patients with steroid-dependent Crohn disease. A-D See correct answer explanation. Answers",
+   "source": "Pharmacology VII-4 Q20",
+   "topic": "Medium",
+   "topic_n": 8
+  },
+  {
+   "question": "A 42-year-old woman who had been undergoing hemodialysis for 3 years was admitted to the hospital for a kidney transplant. Before and after surgery, she received cyclosporine, azathioprine, and prednisone. Four days after surgery, she developed acute allograft rejection. High-dose prednisone failed to resolve the rejection. Which of the following drugs could be used to treat this case of steroid-resistant rejection?",
+   "choices": [
+    "Aldesleukin",
+    "Methotrexate",
+    "Cyclophosphamide",
+    "Dexamethasone",
+    "Muromonab-CD3"
+   ],
+   "answer": 4,
+   "explanation": "A high-dose glucocorticoid (usually intravenous methylprednisolone) is considered first-line therapy for acute rejection because it works very quickly in decreasing lymphocyte responsiveness and can reverse at least 75% of acute rejection episodes. Muromonab-CD3 is usually reserved for steroid-resistant rejection. A Because prednisone failed to resolve the rejection, administration of another steroid would be irrational. C Aldesleukin is an immunostimulant, not an immunosuppressive drug. D, E Because a cytotoxic drug (azathioprine) failed to prevent rejection, the choice of other cytotoxic drugs is not appropriate.",
+   "source": "Pharmacology VII-4 Q21",
+   "topic": "Medium",
+   "topic_n": 9
+  },
+  {
+   "question": "A 37-year-old man who was scheduled for a heart transplant received a triple immunosuppressive therapy just before surgery that included azathioprine and prednisone. Which of the following drugs was most likely the third agent of that combination drug regimen?",
+   "choices": [
+    "Infliximab",
+    "Aldesleukin",
+    "Triamcinolone",
+    "Cyclosporine",
+    "Etanercept"
+   ],
+   "answer": 3,
+   "explanation": "Immunosuppressive therapy is given aggressively during the early transplant period because the risk of organ rejection is greater at this time. Azathioprine with prednisone was associated with a 50% organ survival rate. When cyclosporine was added, more than an 80% rate of organ survival was obtained. A Aldesleukin is an immunostimulant drug, so its use would be irrational in this setting. C Triamcinolone is a synthetic glucocorticoid. The combined use of prednisone and triamcinolone (two different glucocorticoids with equivalent effects) is superfluous. D, E Infliximab and etanercept are immunosuppressive drugs that neutralize tumor necrosis factor-α (TNF-α). They are used only in Crohn disease and rheumatoid arthritis, both autoimmune diseases.",
+   "source": "Pharmacology VII-4 Q22",
+   "topic": "Easy",
+   "topic_n": 13
+  },
+  {
+   "question": "A 48-year-old woman who underwent a liver transplant had been receiving immunosuppression treatment with prednisone and cyclosporine. Despite the therapy, a liver biopsy still showed rejection 12 days after surgery, and the therapeutic team decided to substitute tacrolimus for cyclosporine. Which of the following cells represent the main site of action of tacrolimus?",
+   "choices": [
+    "Natural killer cells",
+    "Macrophages",
+    "T-helper cells",
+    "Dendritic cells",
+    "Plasma cells"
+   ],
+   "answer": 2,
+   "explanation": "Tacrolimus is not chemically related to cyclosporine but has a similar site and mechanism of action. Both drugs bind to immunophilins located in the cytoplasm of T-helper cells, suppressing the early cellular response to antigenic stimuli. A, B, D, E These cells are not direct targets for tacrolimus.",
+   "source": "Pharmacology VII-4 Q23",
+   "topic": "Easy",
+   "topic_n": 14
+  },
+  {
+   "question": "A 53-year-old man who underwent liver transplantation for advanced biliary cirrhosis had been receiving immunosuppression treatment with prednisone and cyclosporine. Despite the therapy, a liver biopsy still showed rejection 14 days after surgery. Which of the following drugs could be substituted for cyclosporine to treat this case of cyclosporineresistant rejection?",
+   "choices": [
+    "Fluorouracil",
+    "Paclitaxel",
+    "Tacrolimus",
+    "Aldesleukin",
+    "Vinblastine"
+   ],
+   "answer": 2,
+   "explanation": "Patients who receive an initial immunosuppressant apy with cyclosporine are sometimes converted to tacrolimus, either because of persistent drug reactions or of a poor response, as in this case. Tacrolimus has a mechanism of and Explanations: VIl-4 Immunomodulating Drugs 395 action very close to that of cyclosporine. Nevertheless, patient survival rates exceeding 80% have been reported in liver transplant patients who were converted from cyclosporine to tacrolimus because of failure of cyclosporine therapy. A, B, D, E These drugs are not immunosuppressants.",
+   "source": "Pharmacology VII-4 Q24",
+   "topic": "Easy",
+   "topic_n": 15
+  },
+  {
+   "question": "A 65-year-old woman recently diagnosed with polymyositis had not improved after 2 weeks of treatment with prednisone. A decision was made to replace prednisone with an immunosuppressive drug that acts by inhibiting enzymes essential for purine biosynthesis. Which of the following drugs was most likely prescribed?",
+   "choices": [
+    "Tacrolimus",
+    "Cyclosporine",
+    "Infliximab",
+    "Azathioprine",
+    "Etanercept",
+    "Sirolimus"
+   ],
+   "answer": 3,
+   "explanation": "Azathioprine It is a prodrug that is biotransformed into mercaptopurine and then into the corresponding false nucleotide. The false nucleotide inhibits enzymes critical for the synthesis of phosphoribosylamine, which is an essential step in purine biosynthesis, as well as in the salvage pathway for purine conservation. The false nucleotide also causes DNA damage upon intercalation. A-D, F These immunosuppressive drugs do not affect purine biosynthesis.",
+   "source": "Pharmacology VII-4 Q25",
+   "topic": "Easy",
+   "topic_n": 16
+  },
+  {
+   "question": "A 45-year-old woman who underwent a liver transplant started an immunosuppressive therapy that included tacrolimus. The risk of which of the following drug-related disorders was most likely increased in this patient?",
+   "choices": [
+    "Hypokalemia",
+    "Hemolytic anemia",
+    "Hypoglycemia",
+    "Neurotoxicity",
+    "Hypotension"
+   ],
+   "answer": 3,
+   "explanation": "Neurotoxicity and nephrotoxicity are the two major adverse effects of tacrolimus, occurring in more than 50% of patients receiving this drug. Neurotoxicity includes headache, insomnia, tremor, paresthesias, and seizures. A-C Tacrolimus actually can cause hypertension, hyperkalemia, and hyperglycemia. D Hemolytic anemia has been reported very rarely during tacrolimus treatment.",
+   "source": "Pharmacology VII-4 Q26",
+   "topic": "Easy",
+   "topic_n": 17
+  },
+  {
+   "question": "A 51-year-old man presented to the clinic with complaints of an enlarged, painful lymph node in his groin. One year earlier, he had undergone surgical resection of stage 2 malignant melanoma. A lymph node biopsy confirmed the recurrence of malignant melanoma. The patient started a course of chemotherapy that included the intravenous administration of aldesleukin. Which of the following molecular actions most likely mediated the therapeutic effect of the drug in the patient’s disorder?",
+   "choices": [
+    "Decreased synthesis of calcineurin",
+    "Inhibition of macrophage phagocytic activity",
+    "Inhibition of activity of natural killer cells",
+    "Inhibition of antigen presentation by dendritic cells",
+    "Proliferation and differentiation of B and T lymphocytes"
+   ],
+   "answer": 4,
+   "explanation": "Aldesleukin is recombinant interleukin-2 (IL-2) with a mechanism of action essentially identical to that of IL-2. Aldesleukin activates IL-2 receptors expressed on T-helper cells and stimulates a cytokine cascade involving various interferons, interleukins, and tumor necrosis factors. In this way, it induces proliferation of B and T cells (including cytotoxic T cells) and activation of natural killer cells and lymphokine-activated killer cells. The drug is approved for the adjunctive treatment of renal cell carcinoma and malignant melanoma. The mechanism of antitumor activity is unknown but is probably related to the activation of cytotoxic T cells. Aldesleukin is associated with serious cardiovascular, renal, and central nervous system toxicity, so extensive monitoring is required during therapy. B-E All of these actions would lead to immunosuppressive, not immunostimulant, effects.",
+   "source": "Pharmacology VII-4 Q27",
+   "topic": "Medium",
+   "topic_n": 10
+  },
+  {
+   "question": "A 48-year-old woman presented to her ophthalmologist because of loss of central vision and pain on movement of her left eye. She reported that in the past she had had recurrent episodes of weakness and abnormal sensations in her arms and legs. The patient was referred to the neurologic clinic, where laboratory exams and brain magnetic resonance imaging confirmed the diagnosis of multiple sclerosis. The patient was prescribed a supportive therapy that included a recombinant cytokine endowed with immunostimulant properties. Which of the following drugs was most likely administered?",
+   "choices": [
+    "Tacrolimus",
+    "Prednisone",
+    "Infliximab",
+    "Interferon beta-1b",
+    "Trastuzumab"
+   ],
+   "answer": 3,
+   "explanation": "Interferon beta-1b is a cytokine produced by various cells, including fibroblasts and macrophages. Like other interferons, it has antiviral, immunomodulating, and antiproliferative activities. Interferon beta-1b was the first agent shown to have an effect on the course of multiple sclerosis (MS). The exact mechanism of its action is still unknown, but it is likely related to its immunomodulating properties, including the downregulation of the expression of class II major histocompatibility complex and of interferon-y (gamma). It is thought that interferon-y is a major factor responsible for triggering the autoimmune reaction leading to MS. It stimulates cytotoxic T cells and induces macrophages to produce proteinases that degrade the myelin sheath around the spinal cord. A, B, D, E These drugs are not recombinant cytokines.",
+   "source": "Pharmacology VII-4 Q28",
+   "topic": "Easy",
+   "topic_n": 18
+  },
+  {
+   "question": "A 27-year-old primipara woman delivered a baby boy at term. The woman was Rho(D) negative, and her husband was Rho(D) positive. The woman received an intravenous injection of Rho(D) immune globulin just after the delivery. The reason for this treatment was most likely to prevent which of the following events?",
+   "choices": [
+    "Production of antibodies against fetal Rho(D)-positive erythrocytes",
+    "Placental crossing of fetal erythrocytes in subsequent pregnancies",
+    "Placental crossing of fetal Rho(D) antibodies in subsequent pregnancies",
+    "Production of fetal Rho(D)-positive erythrocytes in subsequent pregnancies",
+    "The mother's hemolytic disease in subsequent pregnancies"
+   ],
+   "answer": 0,
+   "explanation": "Because the woman was Rho(D) negative, and her husband was Rho(D) positive, the baby had a 100% chance (if the father was homozygous) or a 50% chance (if the father was heterozygous) of being Rho(D) positive. When a Rho(D)-negative mother carries a Rho(D)-positive fetus, she will produce antibodies against Rho(D)-positive erythrocytes if these erythrocytes leak into the maternal circulation. This can occur during pregnancy, and the risk of this fetomaternal transfer increases as the pregnancy progresses. The risk is the highest during delivery. In subsequent pregnancies, these maternal antibodies are transferred to the fetus, leading to the development of hemolytic disease in the newborn (called erythroblastosis fetalis). If Rho(D) immune globulin is administered just after delivery, it destroys the Rho(D)-positive fetal cells in the maternal bloodstream before she has an opportunity to make her own antibodies, thus preventing erythroblastosis fetalis in subsequent pregnancies. This is an example of passive immunization. A Placental crossing of Rho(D)-positive erythrocytes in subsequent pregnancies is not prevented, so the mother must receive the Rho(D) immune globulin after each delivery to prevent sensitization. It should be remembered that passive immunization lasts for the lifetime of the administered antibodies. The half-life of Rho(D) immune globulin is 20 to 25 days. C The drug actually prevents the hemolytic disease of the newborn, not of the mother. D The production of Rho(D)-positive fetal erythrocytes is genetically determined. E Rho(D) antibodies are produced by the mother, not by the fetus.",
+   "source": "Pharmacology VII-4 Q29",
+   "topic": "Medium",
+   "topic_n": 11
+  },
+  {
+   "question": "A 45-year-old woman received a deceased-donor kidney transplant. Within 12 hours of the transplantation, she started immunosuppressive pharmacotherapy that included cyclosporine. Which of the following actions most likely mediated the therapeutic effect of the drug in the patient's disease?",
+   "choices": [
+    "Stimulation of synthesis of tumor necrosis factor",
+    "Inhibition of calcineurin enzyme",
+    "Stimulation of B-cell differentiation into memory B cells",
+    "Inhibition of the apoptosis pathway in target cells",
+    "Stimulation of gene expression for interleukin-2 production"
+   ],
+   "answer": 1,
+   "explanation": "The activity of cyclosporine is mediated through reversible inhibition of T-cell function, particularly T-helper cells. The drug binds to a T-helper cell cytoplasmic cyclophilin, then the complex binds to calcineurin (a phosphatase) and inhibits its action. This inhibition is thought to prevent activation of nuclear factors involved in the gene transcription of interleukin-2 and other cytokines. Because interleukin-2 is needed for T-cell activation and proliferation, these T-cell functions are suppressed. A-D All of these actions would activate, not inhibit, immunity processes.",
+   "source": "Pharmacology VII-4 Q30",
+   "topic": "Easy",
+   "topic_n": 19
+  }
+ ]
+}

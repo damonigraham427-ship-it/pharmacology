@@ -1,0 +1,348 @@
+{
+ "questions": [
+  {
+   "question": "The agent of choice for echinococcosis",
+   "choices": [
+    "Praziquantel",
+    "Diethylcarbamazine",
+    "Pyrantel pamoate",
+    "Mebendazole",
+    "Albendazole",
+    "Ivermectin"
+   ],
+   "answer": 4,
+   "explanation": "Albendazole is the agent of choice for echinococcosis (hydatid disease). (Matching key, Questions 1-5: 1. A)",
+   "source": "Pharmacology VIII-8 Q1",
+   "topic": "Easy",
+   "topic_n": 1
+  },
+  {
+   "question": "A drug active against most trematodes and cestodes",
+   "choices": [
+    "Praziquantel",
+    "Pyrantel pamoate",
+    "Ivermectin",
+    "Albendazole",
+    "Mebendazole",
+    "Diethylcarbamazine"
+   ],
+   "answer": 0,
+   "explanation": "Praziquantel is active against most trematodes and cestodes. (Matching key, Questions 1-5: 2. E)",
+   "source": "Pharmacology VIII-8 Q2",
+   "topic": "Easy",
+   "topic_n": 2
+  },
+  {
+   "question": "A benzimidazole derivative with less than 10% oral bioavailability",
+   "choices": [
+    "Albendazole",
+    "Diethylcarbamazine",
+    "Pyrantel pamoate",
+    "Praziquantel",
+    "Ivermectin",
+    "Mebendazole"
+   ],
+   "answer": 5,
+   "explanation": "Mebendazole is a benzimidazole derivative with an oral bioavailability of less than 10%. (Matching key, Questions 1-5: 3. D)",
+   "source": "Pharmacology VIII-8 Q3",
+   "topic": "Easy",
+   "topic_n": 3
+  },
+  {
+   "question": "The agent of choice for onchocerciasis",
+   "choices": [
+    "Pyrantel pamoate",
+    "Praziquantel",
+    "Ivermectin",
+    "Diethylcarbamazine",
+    "Mebendazole",
+    "Albendazole"
+   ],
+   "answer": 2,
+   "explanation": "Ivermectin is the agent of choice for onchocerciasis. (Matching key, Questions 1-5: 4. C)",
+   "source": "Pharmacology VIII-8 Q4",
+   "topic": "Easy",
+   "topic_n": 4
+  },
+  {
+   "question": "This drug most likely acts by increasing worm cell permeability to Ca2+.",
+   "choices": [
+    "Mebendazole",
+    "Ivermectin",
+    "Diethylcarbamazine",
+    "Praziquantel",
+    "Albendazole",
+    "Pyrantel pamoate"
+   ],
+   "answer": 3,
+   "explanation": "Praziquantel acts by increasing worm cell permeability to Ca2+, causing contraction and spastic paralysis of the worm. (Matching key, Questions 1-5: 5. E)",
+   "source": "Pharmacology VIII-8 Q5",
+   "topic": "Easy",
+   "topic_n": 5
+  },
+  {
+   "question": "A 14-year-old boy living in a rural area of the southern United States was diagnosed with strongyloidiasis. Treatment with ivermectin was started. Which of the following molecular actions on the worm cells most likely mediated the therapeutic effect of the drug in this patient?",
+   "choices": [
+    "Activation Cl channels",
+    "Inhibition of DNA polymerase",
+    "Inhibition of protein synthesis",
+    "Blockade of nicotinic receptors",
+    "Increased membrane Ca2+ permeability"
+   ],
+   "answer": 0,
+   "explanation": "Strongyloidiasis is endemic throughout the tropics and subtropics, including rural areas of the southern United States. Ivermectin induces paralysis of worm musculature by activating a family of glutamate-gated Cl- channels that are found only in invertebrates. This causes a slow and irreversible opening of the channels, leading to a long-lasting hyperpolarization of neurons or muscle cells. Ivermectin also activates (directly or indirectly) gamma-aminobutyric acid (GABA)-gated Cl channels, which leads to the same hyperpolarizing action. The ultimate effect is the paralysis of the worm. The drug, given for 1 or 2 days, is highly active against Strongyloides stercoralis. The drug does not cross the blood-brain barrier, so it cannot affect GABA neurotransmission in the human central nervous system. A-C, E See correct answer explanation.",
+   "source": "Pharmacology VIII-8 Q6",
+   "topic": "Easy",
+   "topic_n": 6
+  },
+  {
+   "question": "A 56-year-old homeless man living in a poor area of southern California was seen at a local clinic because of abdominal pain, nausea, and vomiting over the past 12 hours. Physical examination revealed a malnourished man with diffuse abdominal tenderness. Stool exam showed numerous eggs of Ascaris lumbricoides and Trichuris trichiura, as well as rhabditiform larvae of Strongyloides stercoralis. An appropriate treatment was ordered. Which of the following drugs would be most appropriate to treat the patient's mixed worm infection?",
+   "choices": [
+    "Metronidazole",
+    "Praziquantel",
+    "Mebendazole",
+    "Ivermectin",
+    "Diethylcarbamazine"
+   ],
+   "answer": 2,
+   "explanation": "Combined infections with two or even three different nematode species are not exceptional in people with inadequate personal hygiene living in a poor sanitation area, as in this case. Mebendazole is a drug of choice for roundworm and whipworm infection and is an alternative drug for threadworm infection. It is therefore the most appropriate drug in this case. A Metronidazole is effective against Dracunculus medinensis only. B Diethylcarbamazine is effective against filariasis only. C Ivermectin is very effective against Strongyloides stercoralis but is far less effective than mebendazole against Ascaris lumbricoides and Trichuris trichiura. D Praziquantel is used to kill trematodes and cestodes.",
+   "source": "Pharmacology VIII-8 Q7",
+   "topic": "Easy",
+   "topic_n": 7
+  },
+  {
+   "question": "A 10-year-old boy who recently moved from India to the United States was admitted to the hospital with fever (103.4°F, 39.6°C) and acute lymphedema of the scrotum. Further exams led to the diagnosis of bancroftian filariasis, and pharmacotherapy was prescribed. Which of the following drugs would be most appropriate for this boy?",
+   "choices": [
+    "Chloroquine",
+    "Metronidazole",
+    "Mebendazole",
+    "Diethylcarbamazine",
+    "Praziquantel"
+   ],
+   "answer": 3,
+   "explanation": "Wuchereria bancrofti infection affects 120 million people worldwide each year. More than 26 million cases of this infection are hydrocele. India bears the greatest burden of this disease, with more than 550 million people at risk. Infection often leads to microfilaremia without overt clinical manifestations. However, acute inflammatory filariasis can occur with fever and inflammation of lymph nodes, as in this case. Genitals and lower extremities are most commonly affected. Diethylcarbamazine is the first-line agent for filariasis infection. It kills both microfilariae and adult worms, but adults are killed more slowly, often requiring repeated courses of treatment. A-D These drugs are not active against W. bancrofti.",
+   "source": "Pharmacology VIII-8 Q8",
+   "topic": "Medium",
+   "topic_n": 1
+  },
+  {
+   "question": "A 5-year-old boy was seen in his pediatrician's office. His mother said the boy had been very irritable and complained of abdominal discomfort and perianal pruritus on two occasions the previous week. The mother also noticed some very small motile worms in the boy's stools. Exam of a cellophane tape swab placed over the perianal skin demonstrated translucent eggs. Which of the following drugs would be appropriate for this child?",
+   "choices": [
+    "Ivermectin",
+    "Diethylcarbamazine",
+    "Mebendazole",
+    "Praziquantel",
+    "Metronidazole",
+    "Pyrimethamine"
+   ],
+   "answer": 2,
+   "explanation": "The patient's signs and lab exam indicate that he was most likely suffering from enterobiasis, which is the most common helminthic infection in the United States, with an estimated annual incidence of 42 million. Mebendazole is a first-line agent against pinworm infection, and a single dose, repeated after 2 weeks, usually eradicates the infection. The drug has an oral bioavailability of less than 10%, so it is nearly free of adverse effects. A-D, F These drugs are not active against Enterobius vermicularis.",
+   "source": "Pharmacology VIII-8 Q9",
+   "topic": "Medium",
+   "topic_n": 2
+  },
+  {
+   "question": "A 31-year-old man was seen at a clinic with fever (103.2°F, 39.5°C), chills, nausea, abdominal pain, myalgia, and urticaria rashes. The man had taken a vacation trip to the Amazon River 4 weeks earlier. Stool exams upon admission disclosed eggs with a lateral spine and miracidium larvae inside. A diagnosis was made, and a pharmacotherapy was started. Which of the following pairs correctly matches the most likely offending pathogen with the appropriate treatment?",
+   "choices": [
+    "Diphyllobothrium latum: ivermectin",
+    "Enterobius vermicularis: praziquantel",
+    "Echinococcus granulosus: ivermectin",
+    "Necator americanus: metronidazole",
+    "Schistosoma mansoni: praziquantel",
+    "Taenia solium: metronidazole"
+   ],
+   "answer": 4,
+   "explanation": "The patient's history and lab exam (eggs with a lateral spine) suggest that Schistosoma mansoni was the most likely offending pathogen. This worm is the only schistosoma species present in the Western Hemisphere (Brazil, Venezuela, and some Caribbean islands). Humans are infected from cercariae present in fresh water. Acute schistosomiasis may occur 2 to 4 weeks after exposure and presents most of the signs and symptoms showed by the patient. Praziquantel is the first-line agent for treatment of most trematode infections, including schistosomiasis. B-F These helminths are incorrectly matched with the effective drug.",
+   "source": "Pharmacology VIII-8 Q10",
+   "topic": "Medium",
+   "topic_n": 3
+  },
+  {
+   "question": "A 24-year-old man living in the US Great Lakes region was recently diagnosed with diphyllobothriasis. The physician prescribed a single tablet of praziquantel. Which of the following molecular actions on the worm cells most likely mediated the therapeutic effect of the drug in this patient?",
+   "choices": [
+    "Increased membrane permeability to calcium",
+    "Activation of GABA-mediated neurotransmission",
+    "Activation of topoisomerase II",
+    "Blockade of muscarinic receptors",
+    "Inhibition of gamma-aminobutyric acid (GABA)-mediated neurotransmission"
+   ],
+   "answer": 0,
+   "explanation": "Diphyllobothrium latum is a tapeworm found mainly in the northern temperate regions where freshwater fish are a major portion of the diet. Many freshwater fish species constitute the intermediate host of the parasite. Praziquantel is a drug of choice for diphyllobothriasis. It is thought to act by enhancing calcium influx, thus increasing worm muscular activity followed by contraction and spastic paralysis. A-C, E See correct answer explanation.",
+   "source": "Pharmacology VIII-8 Q11",
+   "topic": "Easy",
+   "topic_n": 8
+  },
+  {
+   "question": "A 6-year-old girl who was living in a rural area of Texas was recently diagnosed with trichuriasis. Tablets of mebendazole were prescribed for 3 days. Which of the following molecular actions on the worm cells most likely mediated the therapeutic effect of the drug in this patient?",
+   "choices": [
+    "Stimulation of nicotinic receptors at the neuromuscular junction",
+    "Inhibition of heme polymerase",
+    "Enhancement of gamma-aminobutyric acid (GABA)-mediated neurotransmission",
+    "Increased membrane permeability to calcium",
+    "Inhibition of microtubule polymerization and assembly",
+    "Inhibition of dihydrofolate reductase"
+   ],
+   "answer": 4,
+   "explanation": "Trichuris trichiura (whipworm) is a parasite with cosmopolitan distribution, although it is more common in warm, moist regions. The infection is usually asymptomatic, but heavy infection can cause abdominal pain, anorexia, and diarrhea and may retard growth. Mebendazole, albendazole, and thiabendazole are benzimidazole derivatives mainly active against nematodes. These drugs produce many biochemical changes in worm cells, but the main action seems to be inhibition of microtubule polymerization by binding to β-tubulin. The microtubular system of the host cells is unaffected. The inhibition of tubulin polymerization disrupts nematode motility and DNA replication, leading to immobilization and the death of the worm. A-E See correct answer explanation.",
+   "source": "Pharmacology VIII-8 Q12",
+   "topic": "Easy",
+   "topic_n": 9
+  },
+  {
+   "question": "A 53-year-old woman who had spent most of her adult life as a missionary in Senegal was referred to an ophthalmologist for evaluation of diminished visual acuity. An eye exam showed sclerosing keratitis and chorioretinal lesions. Physical examination disclosed firm, nontender subcutaneous nodules on her elbows, iliac bones, and knees. A skin biopsy showed microfilariae. Which of the following drugs would be appropriate for this patient?",
+   "choices": [
+    "Ivermectin",
+    "Fluconazole",
+    "Praziquantel",
+    "Metronidazole",
+    "Diethylcarbamazine"
+   ],
+   "answer": 0,
+   "explanation": "The patient's ocular signs and the skin biopsy indicate that she was suffering from a filarial infection, most likely due to Onchocerca volvulus. The infection causes a chronic skin disease and eye lesions that may lead to blindness (onchocerciasis is also called river blindness). Ivermectin is the drug of choice for onchocerciasis given as a single oral dose once or twice a year. A, B Diethylcarbamazine and praziquantel are not active against onchocerciasis. D, E Fluconazole and metronidazole are not anthelmintics.",
+   "source": "Pharmacology VIII-8 Q13",
+   "topic": "Medium",
+   "topic_n": 4
+  },
+  {
+   "question": "A 32-year-old woman who recently moved to the United States from Japan was seen at the clinic because of dyspnea, chest pain, and blood in her sputum. Chest x-rays showed a diffuse infiltrate with pleural effusion. Lab exam of sputum was negative for pathogen bacteria but disclosed numerous large operculated eggs. A presumptive diagnosis was made, and pharmacotherapy was started. Which of the following drugs would be appropriate for this patient?",
+   "choices": [
+    "Diethylcarbamazine",
+    "Mebendazole",
+    "Metronidazole",
+    "Ivermectin",
+    "Praziquantel"
+   ],
+   "answer": 4,
+   "explanation": "The patient's history and lab exam indicate that she was most likely suffering from an infection by Paragonimus westermani (oriental lung fluke), a disease caused by ingestion of raw or poorly cooked crustaceans infected with encysted cercariae. The infection is endemic in Japan, Korea, China, and Taiwan, where people eat undercooked freshwater crabs or crayfish. The eggs of the helminth are large (80-100 millimicrons) and operculated. The infection affects the lung, as in this case. Praziquantel is effective for most trematode and cestode infections, and a 2-day course provides 90 to 100% cure rates for pulmonary paragonimiasis. A-D These anthelmintics are not active against trematode infections.",
+   "source": "Pharmacology VIII-8 Q14",
+   "topic": "Medium",
+   "topic_n": 5
+  },
+  {
+   "question": "A 7-year-old girl who was living in a poor sanitation area of Mexico was brought by her mother to the family physician's office. The mother reported that the previous day, the girl had complained of abdominal cramps and was frightened by seeing some large, motile worms in her stools. Which of the following drugs would be appropriate for this girl?",
+   "choices": [
+    "Primaquine",
+    "Metronidazole",
+    "Praziquantel",
+    "Fluconazole",
+    "Mefloquine",
+    "Mebendazole"
+   ],
+   "answer": 5,
+   "explanation": "The patient's signs indicate that she was most likely suffering from an infection with Ascaris lumbricoides, one of the most common and cosmopolitan helminthic diseases. Benzimidazoles such as mebendazole and albendazole are first-line agents for this disease. Mebendazole, given for 3 consecutive days, achieves a cure rate of 90 to 100% for ascariasis. A, C-F See correct answer explanation.",
+   "source": "Pharmacology VIII-8 Q15",
+   "topic": "Medium",
+   "topic_n": 6
+  },
+  {
+   "question": "A 41-year-old man was admitted to the hospital with fever (103.5°F, 39.7°C), dizziness, prostration, skin rashes, tachycardia, hypotension, and pain in the muscles, joints, and lymph glands. The man, who had lived in Guatemala for several years, was recently diagnosed with onchocerciasis and had started an appropriate medical therapy the day before. Which of the following drugs most likely caused the patient's syndrome?",
+   "choices": [
+    "Mebendazole",
+    "Mefloquine",
+    "Ketoconazole",
+    "Praziquantel",
+    "Ivermectin",
+    "Amphotericin B"
+   ],
+   "answer": 4,
+   "explanation": "The patient's history, signs, and symptoms suggest he was most likely suffering from a Mazzotti-like reaction, a syndrome due to killing of microfilariae by ivermectin. The drug does not kill adult worms but affects developing larvae and kills microfilariae in the worm uterus, markedly decreasing microfilarial counts in the skin and other tissues. The reaction is usually mild and lasts just a few days. Rarely, a more severe reaction can occur, as in this case. Antihistamines and nonsteroidal antiinflammatory drugs usually can control the syndrome. Glucocorticoids are indicated for the most severe cases. B, C Praziquantel and mebendazole are not active against onchocerciasis. D-F Ketoconazole, amphotericin B, and mefloquine are not anthelmintics.",
+   "source": "Pharmacology VIII-8 Q16",
+   "topic": "Easy",
+   "topic_n": 10
+  },
+  {
+   "question": "A 45-year-old man who raised sheep in California complained to his physician of abdominal pain over the past 3 days. Physical examination disclosed an abdominal mass, and a subsequent computed tomography scan showed a large liver cyst. Aspiration of the cyst revealed hydatid sand. Pharmacotherapy was started, and the patient was scheduled for surgical removal of the cyst. Which of the following drugs would be appropriate for the patient at this time?",
+   "choices": [
+    "Chloroquine",
+    "Ivermectin",
+    "Diethylcarbamazine",
+    "Metronidazole",
+    "Albendazole",
+    "Ketoconazole"
+   ],
+   "answer": 4,
+   "explanation": "The patient's exams indicate that he was most likely suffering from cystic hydatid disease due to Echinococcus granulosus. This type of infection occurs in sheep-raising areas of many parts of the world. Albendazole is the treatment of choice for medical therapy of the disease. It provides only a modest cure rate when used alone, but it is a useful adjunct treatment in the preoperative period to reduce the risk of disseminated infection resulting from spillage of the cyst contents at the time of surgery or during aspiration. C, D The anthelmintic drugs ivermectin and diethylcarbamazine are not active against echinococcosis. A, B, F Metronidazole and chloroquine are not anthelmintics.",
+   "source": "Pharmacology VIII-8 Q17",
+   "topic": "Medium",
+   "topic_n": 7
+  },
+  {
+   "question": "A 13-year-old boy who had recently moved from Costa Rica to Los Angeles complained to the school nurse of vague abdominal pain and that he kept seeing “white noodle-like” objects in his stools. Examination of a cellophane tape swab placed over the perianal area and stool samples demonstrated proglottids and numerous free eggs. Which of the following drugs would be appropriate for this boy?",
+   "choices": [
+    "Praziquantel",
+    "Fluconazole",
+    "Ivermectin",
+    "Metronidazole",
+    "Amphotericin B",
+    "Artemisin"
+   ],
+   "answer": 0,
+   "explanation": "The history and signs of the patient, together with the lab results, indicate that he was suffering from taeniasis most likely due to Taenia saginata (unlike Taenia solium, T. saginata proglottids can emerge by means of their own motility through the anus and deposit the eggs in the perianal region). Praziquantel is currently a drug of choice for most cestode and trematode infections. A single dose results in nearly 100% cure rates for T. solium, T. saginata, and Diphyllobothrium latum. A, B The anthelmintics ivermectin and artemisin are not active against cestodes. D-F Metronidazole, amphotericin B, and fluconazole are not anthelmintics.",
+   "source": "Pharmacology VIII-8 Q18",
+   "topic": "Medium",
+   "topic_n": 8
+  },
+  {
+   "question": "A 10-year-old boy who was living in a poor rural area of the southeastern United States was seen at a clinic because of weakness, tachycardia, abdominal cramps, and diarrhea over the past 2 days. Physical examination disclosed a pale boy with evident signs of growth retardation. Blood tests revealed hypochromic-microcytic anemia, eosinophilia, and thrombocytopenia. A stool analysis showed occult blood and numerous thin-shelled oval eggs in the four-cell stage of segmentation. A diagnosis was made, and a medical therapy was prescribed. Which of the following pairs correctly matches the most likely offending pathogen with the appropriate treatment?",
+   "choices": [
+    "Ascaris lumbricoides: metronidazole",
+    "Diphyllobothrium latum: mebendazole",
+    "Necator americanus: mebendazole",
+    "Enterobius vermicularis: ivermectin",
+    "Onchocerca volvulus: metronidazole",
+    "Schistosoma mansoni: ivermectin"
+   ],
+   "answer": 2,
+   "explanation": "The patient's signs and lab results indicate that he was suffering from a chronic helminthic infection (see the thin-shelled oval eggs) due to a worm able to cause iron deficiency anemia. Hook worms such as Necator americanus attach to the intestinal villi and suck blood. They periodically move from one place of the intestinal wall to another to suck blood from different villi. Because they locally inject anticoagulant compounds, the arteriole bleeds for a while, so occult blood is found in the stools. Mebendazole is the drug of choice for ancylostomiasis. A cure rate of more than 99% has been reported after a course of two tablets daily for 3 days. A-D, F Infection with these helminths rarely causes anemia, and they are incorrectly matched with the effective drug.",
+   "source": "Pharmacology VIII-8 Q19",
+   "topic": "Medium",
+   "topic_n": 9
+  },
+  {
+   "question": "A 6-year-old girl recently diagnosed with enterobiasis started a treatment with mebendazole, but after two cycles of therapy, many worms were still found in her stools. The physician decided to prescribe an alternative treatment. Which of the following drugs would be appropriate for the patient at this time?",
+   "choices": [
+    "Metronidazole",
+    "Pyrantel pamoate",
+    "Praziquantel",
+    "Fluconazole",
+    "Diethylcarbamazine"
+   ],
+   "answer": 1,
+   "explanation": "When a drug therapy is not effective, an alternative treatment is appropriate. Pyrantel pamoate is a broad-spectrum anthelmintic that is highly effective for the treatment of enterobiasis and ascariasis. Pyrantel actions are neither vermicidal nor ovicidal. The drug inhibits cholinesterase and activates nicotinic acetylcholine receptors, thus acting as a depolarizing neuromuscular blocking agent in helminths. These actions cause extensive depolarization of the helminth muscle membrane, producing tension of the helminth's muscles that causes paralysis of the worms. Then normal peristalsis causes expulsion of the parasites from the gastrointestinal tract. B, C The anthelmintics praziquantel and diethylcarbamazine are not active against Enterobius vermicularis. D, E Metronidazole and fluconazole are not anthelmintics.",
+   "source": "Pharmacology VIII-8 Q20",
+   "topic": "Easy",
+   "topic_n": 11
+  },
+  {
+   "question": "A 46-year-old woman was admitted to the emergency department with fever (102.2°F, 39°C), diarrhea, poor appetite, and fatigue over the past 48 hours. History revealed that 2 weeks earlier, the woman had been diagnosed with ascariasis and started an appropriate treatment for 3 days. The treatment was repeated 4 days before admission. Physical examination showed a febrile patient with an erythematous rash over the chest and trunk. Pertinent blood exam results on admission were alanine aminotransferase 350 U/L (normal < 40 U/L), eosinophils 18% (normal < 3%). Tests for hepatitis A, B, and C were negative. Ultrasound of the abdomen was negative. Stools were negative for ova and parasites. A liver biopsy showed multiple granulomas with multinucleate cells and active inflammation. Which of the following drugs most likely caused the patient's syndrome?",
+   "choices": [
+    "Fluconazole",
+    "Diethylcarbamazine",
+    "Praziquantel",
+    "Metronidazole",
+    "Mebendazole"
+   ],
+   "answer": 4,
+   "explanation": "The patient's symptoms and laboratory values indicate that she was most likely suffering from an acute hepatocellular injury. The injury arose concurrently with signs and symptoms of hypersensitivity (rash and fever) within days of starting a second course of mebendazole. This pattern is typical of a drug-induced allergic reaction, immunoallergic hepatitis in this case. The disease usually resolves rapidly when the offending drug is withdrawn. The granulomas found on liver biopsy reflect the generalized hypersensitivity, and similar granulomas are likely to be found in other organs. Intestinal absorption of mebendazole is quite low (oral bioavailability is less than 10%), and dose-related adverse effects are rare. Although allergic reactions to mebendazole are also rare, they can occur, as in this case. B, C Most drugs can cause allergic reactions, but the anthelmintic drugs praziquantel and diethylcarbamazine are not used to treat ascariasis. D, E Metronidazole and fluconazole are not anthelmintics.",
+   "source": "Pharmacology VIII-8 Q21",
+   "topic": "Medium",
+   "topic_n": 10
+  },
+  {
+   "question": "A 34-year-old man complained to his physician that the drug he was taking caused nausea, abdominal pain, loose stools, and itching. Three days earlier, the man had been diagnosed with Taenia solium infection and had started an appropriate therapy. The physician told the patient that his symptoms were common adverse effects of the drug and should subside in 1 or 2 days. Which of the following drugs most likely caused the patient's symptoms?",
+   "choices": [
+    "Pyrantel pamoate",
+    "Diethylcarbamazine",
+    "Metronidazole",
+    "Praziquantel",
+    "Ivermectin",
+    "Miconazole"
+   ],
+   "answer": 3,
+   "explanation": "The patient's symptoms indicate that he was most likely suffering from adverse effects of praziquantel. This drug is the first-line agent for most trematode and cestode infections. Although serious adverse effects of the drug are rare, minor adverse effects are common and usually subside in 1 or 2 days. A-C The anthelmintic drugs diethylcarbamazine, ivermectin, and pyrantel pamoate are not used against cestode infections. E, F Metronidazole and miconazole are not anthelmintics.",
+   "source": "Pharmacology VIII-8 Q22",
+   "topic": "Medium",
+   "topic_n": 11
+  }
+ ]
+}

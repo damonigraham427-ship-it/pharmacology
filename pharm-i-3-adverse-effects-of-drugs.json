@@ -1,0 +1,289 @@
+{
+ "questions": [
+  {
+   "question": "A 23-year-old woman complained to her physician that the diphenhydramine she used to prevent motion sickness when traveling by boat was effective in preventing vomiting but caused drowsiness and dry mouth. Which of the following terms best explains the underlying cause of these drug-related adverse effects?",
+   "choices": [
+    "Preexisting pathology",
+    "Genetic predisposition",
+    "Nonspecific cytotoxicity",
+    "Immunologic response",
+    "Drug-receptor interaction"
+   ],
+   "answer": 4,
+   "explanation": "According to the most accepted definition, a side effect is an unintended but not toxic pharmacological response to a normal therapeutic dose of a drug. Therefore, the adverse effects of the drug in this patient are classic side effects and are a consequence of a drug-receptor interaction. In fact, all antihistamines used for motion sickness have sedative effects that result from activation of central H1 receptors, as well as anticholinergic effects that are due to blockade of peripheral cholinergic receptors. A, B, D, E See correct answer explanation.",
+   "source": "Pharmacology I-3 Q1",
+   "topic": "Easy",
+   "topic_n": 1
+  },
+  {
+   "question": "Five new anticonvulsant drugs (P, Q, R, S, and T) were tested in laboratory animals. It was found that all of the drugs had approximately the same lethal dose that produces death in 50% of subjects (LD50). The median effective dose of each drug is reported below: Drug P: 3 mg; Drug Q: 10 mg; Drug R: 24 mg; Drug S: 35 mg; Drug T: 50 mg. Which of the drugs most likely has the highest risk of overdose toxicity?",
+   "choices": [
+    "Drug Q",
+    "Drug P",
+    "Drug S",
+    "Drug T",
+    "Drug R"
+   ],
+   "answer": 3,
+   "explanation": "The risk of overdose toxicity can be estimated from the therapeutic index of a drug, which is the ratio between a harmful dose (lethal, in this case) and an effective dose of that drug (median effective dose, in this case). The lower the therapeutic index, the higher the risk of overdose toxicity. Because the lethal dose is the same for all drugs, the drug with the highest median effective dose will be the drug with the lowest therapeutic index and thus the highest risk of overdose toxicity. A-D See correct answer explanation.",
+   "source": "Pharmacology I-3 Q2",
+   "topic": "Medium",
+   "topic_n": 1
+  },
+  {
+   "question": "A 51-year-old man reported to his physician that in the morning he noticed his urine was cloudy and red. The man had been taking an oral anticoagulant for 3 weeks to treat a deep venous thrombosis. If the patient's symptoms were caused by the anticoagulant, which of the following adverse drug reactions was most likely involved?",
+   "choices": [
+    "Overdose toxicity",
+    "Pseudoallergic reaction",
+    "Immediate allergic reaction",
+    "Idiosyncratic reaction",
+    "Autoimmune reaction"
+   ],
+   "answer": 0,
+   "explanation": "Bleeding is the major adverse effect of anticoagulants and is a direct consequence of their pharmacological action. It is therefore due to a dose that is too high for that patient (i.e., overdose toxicity). This risk can be decreased by careful control of dosage and close monitoring with appropriate lab tests. Hematuria (microscopic, or less frequently, macroscopic, as in the present case) is usually the first sign of overdosage, but bleeding in the nose, oral pharynx, or intestinal tract is also common. B-E See correct answer explanation.",
+   "source": "Pharmacology I-3 Q3",
+   "topic": "Easy",
+   "topic_n": 2
+  },
+  {
+   "question": "A 23-year-old woman scheduled for surgical dilation and curettage was anesthetized with thiopental. Shortly after recovery from the anesthesia, the woman had generalized seizures followed by a deep coma. Further information given by her husband indicated that the patient's mother had suffered from acute intermittent porphyria. If the coma was caused by thiopental, which of the following drug reactions was most likely involved?",
+   "choices": [
+    "Pseudoallergic reaction",
+    "Type II allergic reaction",
+    "Delayed allergic reaction",
+    "Overdose toxicity",
+    "Idiosyncratic reaction"
+   ],
+   "answer": 4,
+   "explanation": "Barbiturate-induced attacks of acute porphyria in genetically susceptible people are a well-known example of idiosyncratic drug reaction. These patients have a genetic deficiency of heme biosynthetic pathway enzymes. The heme normally functions as a repressor of δ-aminolevulinate synthase (ALA synthase), the enzyme that regulates the rate-limiting step in porphyrin biosynthesis. Barbiturates induce the synthesis of cytochrome P-450 in the liver. This leads to an enhanced consumption of heme, which is a component of cytochrome P-450, and the concentration of heme in the liver cells decreases. The lower concentration of heme enhances the synthesis of ALA synthase (derepression), which in turn stimulates the synthesis of porphyrins. These intermediates accumulate, as they cannot be transformed into heme due to the deficiency of an enzyme in the heme biosynthetic pathway. Attacks of acute intermittent porphyria can be very serious and (rarely) fatal. The patient's family history is the best indicator of the risk of acute intermittent porphyria. A, B, D, E All of these options are unlikely.",
+   "source": "Pharmacology I-3 Q4",
+   "topic": "Hard",
+   "topic_n": 1
+  },
+  {
+   "question": "A 28-year-old woman who had had a mitral valve replacement for rheumatic heart disease 2 years ago had her suspected pregnancy confirmed by a positive pregnancy test. Her current medications include the anticoagulant warfarin (U.S. Food and Drug Administration [FDA] category for teratogenic risk D) and amoxicillin (FDA category B). Which of the following would be the best course of action to be implemented by her family physician?",
+   "choices": [
+    "Stop all medications throughout pregnancy",
+    "Suspend warfarin for the first trimester of pregnancy",
+    "Reduce the dose of warfarin and continue amoxicillin",
+    "Replace warfarin with heparin and continue amoxicillin",
+    "Continue warfarin and replace amoxicillin with penicillin G"
+   ],
+   "answer": 3,
+   "explanation": "Warfarin is a teratogenic drug (category D includes drugs with a positive evidence of human prenatal risk). Exposure to warfarin during the first trimester may cause several malformations, including eye anomalies, dwarfism, congenital heart disease, and deafness. Fetal death can also occur. Heparin is a parenteral anticoagulant that is not harmful to the fetus because it is a large molecule (molecular weight 15,000 daltons [D]) and therefore does not cross the placenta. All penicillins are considered safe during pregnancy. A This choice is irrational. Patients with artificial heart valves must receive anticoagulant therapy. B The teratogenic risk of warfarin extends to the second and third trimesters of pregnancy. Exposure in these periods may cause central nervous system anomalies, including hydrocephalus, mental retardation, seizures, and spasticity. Moreover, when given shortly before delivery, it may cause a hemorrhagic effect in the newborn. D See correct answer explanation. E Reducing the dose of warfarin could reduce the risk to the fetus (teratogenic effects are also related to the dose of the offending drug) but does not avoid it. Moreover, reducing the dose will most likely reduce the effectiveness of the therapy for the mother.",
+   "source": "Pharmacology I-3 Q5",
+   "topic": "Medium",
+   "topic_n": 2
+  },
+  {
+   "question": "A 32-year-old African American man who worked as a Peace Corps volunteer in Ghana presented with weakness, fatigue, yellowing of his skin and sclera, and slight fever. He recently was given chloroquine as a prophylaxis for malaria. Laboratory findings confirmed the diagnosis of hemolytic anemia likely due to chloroquine treatment. This patient's disease was most likely mediated by genetic polymorphism of which of the following enzymes?",
+   "choices": [
+    "Glucose-6-phosphate dehydrogenase",
+    "Reduced form of nicotinamide adenine dinucleotide (NADH)-methemoglobin reductase",
+    "Pseudocholinesterase",
+    "Glucuronosyltransferase",
+    "N-acetyltransferase"
+   ],
+   "answer": 0,
+   "explanation": "The genetic polymorphism of glucose-6-phosphate dehydrogenase (G6PD) is pronounced; over 400 mutant forms of the enzyme have been identified. Only some of these mutations cause clinical symptoms because their activity is 1 to 15% of normal. G6PD deficiency is X-linked and is the most common disease-producing enzyme abnormality in humans; more than 200 million people are estimated to carry the trait. The defect is fully expressed in males and affects about 10% of African American males. Diminished G6PD activity impairs the ability to form NADPH, the reduced form of nicotinamide adenine dinucleotide phosphate, which is essential in detoxification of free radicals and peroxides formed within cells. Although the deficiency occurs in all cells, it is more severe in erythrocytes, where the hexose monophosphate provides the only means of generating NADPH. Thus, red blood cells are especially sensitive to factors such as infections, diabetic acidosis, and oxidant drugs that cause oxidative damage of the cell and lead to hemolysis. Commonly used drugs that produce hemolytic anemia in patients with G6PD deficiency are some antimalarials (e.g., primaquine, chloroquine, and quinine), some sulfonamides (e.g., sulfamethoxazole), and some salicylates. A, C-E See correct answer explanation.",
+   "source": "Pharmacology I-3 Q7",
+   "topic": "Medium",
+   "topic_n": 3
+  },
+  {
+   "question": "A 61-year-old woman complained to her physician of a burning sensation when she urinated. Past history of the patient was significant for serious hypersensitivity to sulfa drugs. Urinalysis revealed abundant gram-negative bacteria, and a sensitivity test showed that they were sensitive to amikacin, piperacillin, trimethoprim-sulfamethoxazole, ciprofloxacin, and ceftriaxone. A diagnosis of urinary tract infection was made, and an antibiotic therapy was prescribed. Which of the following antibiotics should be avoided in this patient?",
+   "choices": [
+    "Amikacin",
+    "Ceftriaxone",
+    "Trimethoprim-sulfamethoxazole",
+    "Ciprofloxacin",
+    "Piperacillin"
+   ],
+   "answer": 2,
+   "explanation": "Because the woman had a serious hypersensitivity to sulfa drugs, any agent having a sulfur atom in its molecule (sulfamethoxazole, in this case) should be avoided, as cross-sensitivity usually occurs in drugs with similar chemical structure. B-E See correct answer explanation.",
+   "source": "Pharmacology I-3 Q8",
+   "topic": "Medium",
+   "topic_n": 4
+  },
+  {
+   "question": "A new hypnotic drug was tested in laboratory animals. It was found that the ED50 for inducing sleep was 2 mg/kg. Which of the following best explains the meaning of that dose?",
+   "choices": [
+    "The dose that elicits a median therapeutic sleep response in most animals",
+    "The dose with a 50% probability of causing sleep",
+    "The dose that elicits sleep in 50% of animals",
+    "The mean dose able to elicit sleep induction",
+    "The mean dose with a good probability of sleep induction"
+   ],
+   "answer": 2,
+   "explanation": "By definition, the dose able to elicit a specific response (sleep, in this case) in 50% of individuals receiving the drug is called the median effective dose (ED50). A, B, D, E See correct answer explanation.",
+   "source": "Pharmacology I-3 Q9",
+   "topic": "Easy",
+   "topic_n": 3
+  },
+  {
+   "question": "A newborn boy whose mother had epilepsy presented with microcephaly, a broad nasal bridge, short nose, cleft palate, and hypoplasia of the distal phalanges. Drugs used by the mother during pregnancy included phenytoin for seizures, methyldopa for pregnancy-induced hypertension, and erythromycin for an upper respiratory infection during the first trimester. During the delivery, the woman was treated with diazepam and had epidural anesthesia with lidocaine. Which of the drugs taken by the mother most likely caused the baby's presenting syndrome?",
+   "choices": [
+    "Diazepam",
+    "Lidocaine",
+    "Erythromycin",
+    "Methyldopa",
+    "Phenytoin"
+   ],
+   "answer": 4,
+   "explanation": "Many first generation anticonvulsant drugs are classified category D or X by the U.S. Food and Drug Administration (FDA). The syndrome exhibited by this newborn baby is called fetal phenytoin syndrome and may include nearly all possible types of malformations. It is now recognized that this syndrome has been linked to other first generation anticonvulsants and occurs in about 4% of the children of epileptic women who receive this therapy during pregnancy. Yet, because uncontrolled generalized seizures during pregnancy can lead to fetal injury and death, treatment with second generation anticonvulsants is generally advisable. A Methyldopa is the antihypertensive of choice during pregnancy because very few adverse effects have been reported in neonates exposed to this drug in utero, despite its extensive use. C Erythromycin is considered safe during pregnancy (FDA prenatal risk category B). D, E These drugs were given during the delivery, so they could not be associated with the malformations of the newborn baby.",
+   "source": "Pharmacology I-3 Q10",
+   "topic": "Medium",
+   "topic_n": 5
+  },
+  {
+   "question": "A 75-year-old woman complained to her physician of increased need to urinate during the night. The woman had been receiving gentamicin for 2 months to treat a urinary tract infection. Lab tests revealed a serum creatinine level of 5 mg/dL (normal 0.5-1.2 mg/dL). Serum gentamicin concentration obtained just before the last dose was 9 mg/dL (normal < 2 mg/dL). The patient was most likely suffering from which of the following adverse drug reactions?",
+   "choices": [
+    "Type III allergic reaction",
+    "Pseudoallergic reaction",
+    "Type II allergic reaction",
+    "Idiosyncratic reaction",
+    "Overdose toxicity"
+   ],
+   "answer": 4,
+   "explanation": "The very high serum creatinine level indicates renal failure. The nocturia reported by the patient is often an early symptom, principally due to a failure to concentrate the urine. Aminoglycoside antibiotics such as gentamicin can cause nephrotoxicity when given at high doses, and the gentamicin serum level points out that the drug had reached a too-high steady-state concentration. The mechanism of aminoglycoside-induced renal failure is complex but seems to be mainly related to a destruction of brush border cells of the renal tubule. A, B Certain renal diseases (e.g., tubulointerstitial nephritis) may be caused by drug hypersensitivity, but aminoglycoside antibiotics rarely cause sensitization, and the high gentamicin concentration indicates that overdose toxicity is the most likely drug reaction. C, D See correct answer explanation.",
+   "source": "Pharmacology I-3 Q11",
+   "topic": "Medium",
+   "topic_n": 6
+  },
+  {
+   "question": "A 34-year-old man was admitted to the hospital because of sudden onset of fever (102.2°F, 39.0°C), oliguria, and a skin rash. The man had been receiving ampicillin for primary syphilis. Laboratory findings showed eosinophiluria, proteinuria, and increased serum levels of urea nitrogen and creatinine. A diagnosis of drug-induced tubulointerstitial nephritis was made. Which of the following adverse drug reactions best explains the disease of this patient?",
+   "choices": [
+    "Overdose toxicity",
+    "Allergic reaction",
+    "Tachyphylactic reaction",
+    "Pseudoallergic reaction",
+    "Idiosyncratic reaction"
+   ],
+   "answer": 1,
+   "explanation": "The signs of the patient (skin rash, eosinophiluria) suggest that his disease was caused by an allergic reaction. The most frequent cause of tubulointerstitial nephritis is a type II allergic drug reaction. Allergic tubulointerstitial nephritis is rather common and is the underlying cause of up to 3% of all cases of acute renal failure. The disease can be caused by many different drugs, including antibiotics, diuretics, and nonsteroidal antiinflammatory drugs (NSAIDs), but penicillins are most frequently implicated. Recognition of a drug-related cause is important, because severe renal damage is often preventable and reversible. A-C, E See correct answer explanation.",
+   "source": "Pharmacology I-3 Q12",
+   "topic": "Medium",
+   "topic_n": 7
+  },
+  {
+   "question": "A 15-year-old boy was admitted to the hospital with fever (103.1°F, 39.5°C), a morbilliform skin eruption, lymphadenopathy, angioedema, and arthralgia. The boy had been receiving ampicillin for a pulmonary infection for 2 weeks. Lab data revealed elevated circulating immune complexes. Which of the following adverse drug reactions best explains the patient's disorder?",
+   "choices": [
+    "Idiosyncratic reaction",
+    "Autoimmune reaction",
+    "Overdose toxicity",
+    "Anaphylactoid reaction",
+    "Serum sickness"
+   ],
+   "answer": 4,
+   "explanation": "The patient was most likely suffering from serum sickness, a type III allergic reaction to drugs characterized by acute urticaria and angioedema or by morbilliform eruptions, often accompanied by polyarthritis, myalgia, and fever, due to an excessive formation of immune complexes. The antigen-antibody complex usually precipitates very quickly and, being phagocytosed by macrophages, elicits no reaction. If the antigen is in excess to the antibody, however, the immune complexes may remain soluble in the blood and continue to circulate. Eventually they may deposit on the walls of blood vessels at basement membranes, causing complement activation and local inflammation. Penicillins are typical causative agents of serum sickness. A-D See correct answer explanation.",
+   "source": "Pharmacology I-3 Q13",
+   "topic": "Medium",
+   "topic_n": 8
+  },
+  {
+   "question": "A 69-year-old man presented to the hospital with a skin eruption over his neck, arms, and legs. The patient reported that he was diagnosed with senile pruritus 3 weeks earlier, and he had been applying a topical doxepin cream to relieve itching. Physical examination revealed red, swollen skin covered with blisters, and a patch test confirmed that the skin eruption was due to doxepin. Which of the following adverse drug reactions best explains the patient's disorder?",
+   "choices": [
+    "Type I allergic reaction",
+    "Type IV allergic reaction",
+    "Pseudoallergic reaction",
+    "Type II allergic reaction",
+    "Idiosyncratic reaction"
+   ],
+   "answer": 1,
+   "explanation": "The patient was likely suffering from contact dermatitis, which is an adverse effect common to many drugs given locally. Topical doxepin, which is effective in many cases of pruritus, is especially prone to cause this adverse effect. Contact dermatitis is the most common manifestation of type IV (cell-mediated) allergic reaction. Patients may become allergic to drugs used to treat skin diseases. It takes 6 to 10 days (in the case of strong sensitizers) to years (for weaker sensitizers) for patients to become sensitized. Contact dermatitis may resemble other types of dermatitis, but skin changes and the history of exposure facilitate the diagnosis. A-D All of these options are unlikely because of the history of exposure and the result of the patch test.",
+   "source": "Pharmacology I-3 Q14",
+   "topic": "Hard",
+   "topic_n": 2
+  },
+  {
+   "question": "A 38-year-old woman went to her physician because of a bluish discoloration of her lips. Medical history was significant for an inherited deficiency of the reduced form of nicotinamide adenine dinucleotide (NADH)-methemoglobin reductase. One week earlier, she had started therapy with trimethoprim-sulfamethoxazole to treat a urinary tract infection. Physical examination showed cyanosis of the oral mucosa, and a blood test revealed a high level of methemoglobinemia. The physician suspected that sulfamethoxazole was the cause of the patient's cyanosis. Which of the following adverse drug reactions best explains the patient's disorder?",
+   "choices": [
+    "Overdose toxicity",
+    "Idiosyncratic reaction",
+    "Type I allergic reaction",
+    "Pseudoallergic reaction",
+    "Type IV allergic reaction"
+   ],
+   "answer": 1,
+   "explanation": "The patient was most likely suffering from a genetically determined abnormal reaction to sulfamethoxazole. Several drugs, including sulfonamides, some local anesthetics, nitrites, primaquine, and dapsone, can cause methemoglobinemia. Patients with a genetic deficiency of NADH-methemoglobin reductase are especially sensitive to drug-induced methemoglobinemia, because they lack the enzyme that reduces methemoglobin to hemoglobin. A, B, D, E See correct answer explanation.",
+   "source": "Pharmacology I-3 Q15",
+   "topic": "Hard",
+   "topic_n": 3
+  },
+  {
+   "question": "A 32-year-old woman complained to her physician of urticaria. Three days earlier, the woman had started therapy with amoxicillin for infectious tonsillitis. The physician suspected an allergic reaction to the drug. Which of the following was most likely the main determinant of that drug reaction?",
+   "choices": [
+    "Dose of the drug",
+    "Genetic pedigree of the patient",
+    "Oral bioavailability of the drug",
+    "Liver and kidney functions of the patient",
+    "Chemical structure of the drug"
+   ],
+   "answer": 4,
+   "explanation": "Some drugs cause allergic reactions very rarely, whereas other compounds (obviously not used as drugs) can cause sensitization in all exposed subjects. Therefore, the drug structure is the major determinant of the frequency of an allergic reaction to a drug. A Even if in some rare occurrences the dose can be a factor predisposing to allergy (i.e., penicillin-induced hemolytic anemia requires high and sustained drug concentrations), the occurrence and the severity of an allergic reaction are not dose-dependent in most cases. C The bioavailability refers to the fraction of the drug reaching the general circulation. Because allergy is not related to dose, bioavailability is not an important factor for an allergic drug reaction. Moreover, the oral route carries the lowest risk of allergic reaction. D The genetic pedigree is important for idiosyncratic drug reactions. E The patient's liver and kidney functions are important factors for drug overdose toxicity.",
+   "source": "Pharmacology I-3 Q16",
+   "topic": "Easy",
+   "topic_n": 4
+  },
+  {
+   "question": "An 85-year-old woman was admitted to the hospital with an infected decubitus ulcer. Cultures revealed Staphylococcus aureus that was sensitive to some β-lactam antibiotics, namely, oxacillin, cephalexin, and imipenem. Which of the following would be the first procedure to undertake in order to minimize the risk of an allergic reaction to these antibiotics?",
+   "choices": [
+    "Use another β-lactam antibiotic active against S. aureus",
+    "Pretreat the patient with an antiallergic drug",
+    "Start the therapy with a very small dose",
+    "Perform a skin sensitivity test",
+    "Get a detailed drug history"
+   ],
+   "answer": 4,
+   "explanation": "A detailed personal and family history should be the first procedure to undertake in order to minimize the risk of an allergic drug reaction. This should include information about prior allergic and medication encounters, prior exposure to the same or structurally related medications, and the nature and severity of the reaction. This information can alert the physician about certain types of compounds to which the patient is likely to react. A Giving a small dose is not a safeguard against allergic reaction to a drug because the seriousness of an allergic reaction is not related to the dose given. B Skin tests are reliable methods for the diagnosis of allergy to β-lactam antibiotics, but they should be performed only after the history has determined the likelihood of an allergic reaction to them. C Antiallergic medications (corticosteroids, antihistamines, etc.) can be used for the therapy of specific allergic reactions, but they are not effective for prevention of any supposed (and still unknown) hypersensitivity reaction. D To change the drug the patient is allergic (or is supposed to be allergic) to with another drug belonging to the same chemical class does not decrease the risk of an allergic reaction because cross-sensitivity is very common among different drugs belonging to the same class.",
+   "source": "Pharmacology I-3 Q17",
+   "topic": "Easy",
+   "topic_n": 5
+  },
+  {
+   "question": "A 32-year-old pregnant woman was found to have a red blood cell count of 3.2 x 10^6/mm3 (normal 3.5-5.5 x 10^6) and a positive direct Coombs test during a regular clinic visit. The woman had started a treatment with methyldopa 4 months earlier because of stage 1 hypertension. Which of the following mechanisms most likely mediated the drug-induced reaction of this patient?",
+   "choices": [
+    "Deficiency of glucose-6-phosphate dehydrogenase",
+    "Production of autoantibodies against red blood cells",
+    "Drug-induced deficiency of folic acid",
+    "Deficiency of the reduced form of nicotinamide adenine dinucleotide (NADH)-methemoglobin reductase",
+    "Drug-induced bone marrow suppression"
+   ],
+   "answer": 1,
+   "explanation": "The positive Coombs test indicates that the patient was most likely suffering from autoimmune hemolytic anemia. Positive Coombs reaction occurs in up to 30% of patients treated for 3 to 6 months with methyldopa, with hemolytic anemia occurring in 1 to 5% of cases. This is a type II allergic drug reaction. The drug is able to induce the formation of autoantibodies (immunoglobulin G) to red blood cells, thus causing cell lysis. The anemia usually ceases within 3 weeks after withdrawal of the drug, but a Coombs test can remain positive for more than 1 year. A, C-E See correct answer explanation.",
+   "source": "Pharmacology I-3 Q18",
+   "topic": "Medium",
+   "topic_n": 9
+  },
+  {
+   "question": "A 64-year-old man was hospitalized for treatment of Staphylococcus aureus bacteremia and was given an intravenous infusion of vancomycin. A few minutes later he developed symptoms of an anaphylactic-like reaction. The patient was not aware of previous exposure to vancomycin, and a search for antibodies to the suspected drug was negative. Which of the following types of drug reaction was most likely experienced by the patient?",
+   "choices": [
+    "Overdose toxicity",
+    "Autoimmune reaction",
+    "Pseudoallergic reaction",
+    "Genetically mediated reaction",
+    "Type I allergic reaction"
+   ],
+   "answer": 2,
+   "explanation": "The signs and symptoms of the patient indicate that he was suffering from a type I-like allergic reaction, but circulating antibodies cannot be detected. In these cases, the reaction is called pseudoallergic, and the clinical symptoms are due to a drug-induced direct formation and/or release of mediators normally involved in allergic reactions. A-C, E See correct answer explanation.",
+   "source": "Pharmacology I-3 Q19",
+   "topic": "Easy",
+   "topic_n": 6
+  },
+  {
+   "question": "A 43-year-old man had to undergo surgery to remove a biliary calculus. The anesthesiologist chose to supplement the anesthesia with succinylcholine, a paralyzing agent that has a rapid onset and a short duration of action. In this patient, however, the drug-induced paralysis lasted several hours, necessitating the anesthesiologist to continue the anesthesia and continue artificial respiration. Which of the following adverse drug reactions best explains the patient's disorder?",
+   "choices": [
+    "Immediate allergic reaction",
+    "Pseudoallergic reaction",
+    "Overdose toxicity",
+    "Idiosyncratic reaction",
+    "Type II allergic reaction"
+   ],
+   "answer": 3,
+   "explanation": "An idiosyncratic reaction is commonly defined as a genetically determined abnormal reaction to a drug. Succinylcholine and mivacurium are neuromuscular blocking drugs that are primarily metabolized by plasma cholinesterase (butyrylcholinesterase). Because of this extensive and rapid metabolism, the action of these drugs is brief. The neuromuscular blockade by these drugs may be exceedingly prolonged in patients who have a genetically abnormal variant of cholinesterase. Also, because this variant is much less efficient than the normal enzyme, it can take 2 to 3 hours for the paralysis to disappear. In this case, the anesthesiologist must continue the general anesthesia and artificial respiration until cessation of the drug effect. A, B, D, E These other options are unlikely.",
+   "source": "Pharmacology I-3 Q20",
+   "topic": "Medium",
+   "topic_n": 10
+  }
+ ]
+}

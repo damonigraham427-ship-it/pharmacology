@@ -1,0 +1,477 @@
+{
+ "questions": [
+  {
+   "question": "Directions for questions 1–5: Match each diuretic with the appropriate description (each lettered option can be selected once, more than once, or not at all). This drug inhibits Na+ reabsorption in the proximal tubule.",
+   "choices": [
+    "Ethacrynic acid",
+    "Triamterene",
+    "Amiloride",
+    "Spironolactone",
+    "Indapamide",
+    "Acetazolamide",
+    "Mannitol",
+    "Conivaptan"
+   ],
+   "answer": 5,
+   "explanation": "Matching item. Correct match: Acetazolamide.",
+   "source": "Pharmacology IV-1 Q1",
+   "topic": "Easy",
+   "topic_n": 1
+  },
+  {
+   "question": "Directions for questions 1–5: Match each diuretic with the appropriate description (each lettered option can be selected once, more than once, or not at all). This drug inhibits the synthesis of new Na+ channels in the collecting duct.",
+   "choices": [
+    "Acetazolamide",
+    "Mannitol",
+    "Triamterene",
+    "Ethacrynic acid",
+    "Spironolactone",
+    "Amiloride",
+    "Conivaptan",
+    "Indapamide"
+   ],
+   "answer": 4,
+   "explanation": "Matching item. Correct match: Spironolactone.",
+   "source": "Pharmacology IV-1 Q2",
+   "topic": "Easy",
+   "topic_n": 2
+  },
+  {
+   "question": "Directions for questions 1–5: Match each diuretic with the appropriate description (each lettered option can be selected once, more than once, or not at all). This drug causes an initial extracellular volume expansion in normal subjects.",
+   "choices": [
+    "Amiloride",
+    "Ethacrynic acid",
+    "Indapamide",
+    "Spironolactone",
+    "Mannitol",
+    "Acetazolamide",
+    "Conivaptan",
+    "Triamterene"
+   ],
+   "answer": 4,
+   "explanation": "Matching item. Correct match: Mannitol.",
+   "source": "Pharmacology IV-1 Q3",
+   "topic": "Easy",
+   "topic_n": 3
+  },
+  {
+   "question": "Directions for questions 1–5: Match each diuretic with the appropriate description (each lettered option can be selected once, more than once, or not at all). This drug increases the renal reabsorption of Ca2+.",
+   "choices": [
+    "Ethacrynic acid",
+    "Mannitol",
+    "Spironolactone",
+    "Triamterene",
+    "Conivaptan",
+    "Indapamide",
+    "Amiloride",
+    "Acetazolamide"
+   ],
+   "answer": 5,
+   "explanation": "Matching item. Correct match: Indapamide.",
+   "source": "Pharmacology IV-1 Q4",
+   "topic": "Easy",
+   "topic_n": 4
+  },
+  {
+   "question": "Directions for questions 1–5: Match each diuretic with the appropriate description (each lettered option can be selected once, more than once, or not at all). This drug competitively blocks antidiuretic hormone receptors.",
+   "choices": [
+    "Triamterene",
+    "Spironolactone",
+    "Ethacrynic acid",
+    "Indapamide",
+    "Mannitol",
+    "Acetazolamide",
+    "Amiloride",
+    "Conivaptan"
+   ],
+   "answer": 7,
+   "explanation": "Matching item. Correct match: Conivaptan.",
+   "source": "Pharmacology IV-1 Q5",
+   "topic": "Easy",
+   "topic_n": 5
+  },
+  {
+   "question": "A 56-year-old woman recently diagnosed with congestive heart failure started a therapy that included furosemide. Acetazolamide was added to counteract the potential metabolic alkalosis induced by furosemide. Which of the following molecular actions most likely mediated the therapeutic effect of acetazolamide in this patient?",
+   "choices": [
+    "Stimulation of carbonic acid formation inside the tubular cells",
+    "Inhibition of Na+ reabsorption in the early distal tubule",
+    "Inhibition of carbonic acid dehydration in the tubular lumen",
+    "Stimulation of bicarbonate reabsorption in the proximal tubule",
+    "Stimulation of H* reabsorption in the proximal tubule"
+   ],
+   "answer": 2,
+   "explanation": "Acetazolamide is a carbonic anhydrase inhibitor. Carbonic anhydrase is an enzyme located in the brush border and cytoplasm of renal proximal convoluted tubule epithelial cells. In the proximal tubule, a large amount of H* is secreted into the lumen via the Na+/H* exchanger. Most of this H* combines with bicarbonate ion in the tubular fluid to form carbonic acid, which is rapidly dehydrated to CO, and water (this reaction is catalyzed by carbonic anhydrase). The CO, diffuses into the proximal tubular cells, where the opposite reaction takes place to form H* and HCO, (this reaction is also catalyzed by carbonic anhydrase). The HCO, exits the cell on the basolateral side and is reabsorbed as bicarbonate. Hydrogen ion is secreted into the lumen via the Na+/H* exchanger. By blocking carbonic anhydrase, acetazolamide blocks the reabsorption of bicarbonate and Na', resulting in increased diuresis.",
+   "source": "Pharmacology IV-1 Q6",
+   "topic": "Easy",
+   "topic_n": 6
+  },
+  {
+   "question": "A 69-year-old depressed man with a 10-year history of glaucoma was admitted to the emergency department after he took several tablets of one of his medications in a suicide attempt. The patient was drowsy and complained of nausea, paresthesias, and tiredness. Physical examination revealed erythematous skin eruptions. Lab tests indicated hyperchloremic metabolic acidosis. Which of the following medications might have caused the patient's symptoms?",
+   "choices": [
+    "Latanoprost",
+    "Mannitol",
+    "Acetazolamide",
+    "Timolol",
+    "Pilocarpine"
+   ],
+   "answer": 2,
+   "explanation": "The symptoms of the patient are classic for acetazolamide overdose. The drug is used to treat glaucoma, because it decreases the production of aqueous humor, a fluid rich in bicarbonate. High doses of carbonic anhydrase inhibitors such as acetazolamide can cause metabolic acidosis as they profoundly increase the urinary excretion of bicarbonate. Because the plasma loss of bicarbonate is counterbalanced by an increase of extracellular Cl', most incidents of metabolic acidosis are hyperchloremic.",
+   "source": "Pharmacology IV-1 Q8",
+   "topic": "Medium",
+   "topic_n": 1
+  },
+  {
+   "question": "A55-year-old alcoholic man was admitted to the emergency department because of disorientation, amnesia, confusion, and bizarre behavior for the past 24 hours. His wife reported that the man was being treated for hypertension and for recently diagnosed glaucoma. Physical examination revealed a cachectic male in a confused mental state. His abdomen appeared tense with prominent veins and ascites, and a musty, pungent odor was noted in his breath. Neurologic signs included nystagmus, ataxia, and asterixis. Which of the following drugs most likely triggered the patient's syndrome?",
+   "choices": [
+    "Nifedipine",
+    "Acetazolamide",
+    "Lovastatin",
+    "Timolol",
+    "Losartan"
+   ],
+   "answer": 1,
+   "explanation": "The history, symptoms, and signs of the patient suggest that he was suffering from portal-systemic encephalopathy, a syndrome that can occur when extensive portal-systemic collaterals have developed as a result of portal hypertension. Liver cirrhosis is one of the most common causes of portal-systemic encephalopathy, and this was most likely the cause in this case. Carbonic anhydrase inhibitors cause urine alkalinization, which in turn reduces urinary excretion of ammonia. The resulting hyperammonemia is an important cause of portal-systemic encephalopathy, as NH,* causes brain toxicity. Most likely, the ophthalmologist overlooked the possibility that the patient had liver cirrhosis and prescribed acetazolamide for glaucoma.",
+   "source": "Pharmacology IV-1 Q9",
+   "topic": "Hard",
+   "topic_n": 1
+  },
+  {
+   "question": "A 54-year-old woman recently diagnosed with open-angle glaucoma was prescribed topical timolol. Two weeks later, intraocular pressure was decreased but was still above the normal value. The ophthalmologist decided to add a topical drug that acts by decreasing aqueous humor production. Which of the following drugs was most likely prescribed as the second drug?",
+   "choices": [
+    "Latanoprost",
+    "Mannitol",
+    "Pilocarpine",
+    "Carbachol",
+    "Dorzolamide"
+   ],
+   "answer": 4,
+   "explanation": "Dorzolamide is a carbonic anhydrase inhibitor. The rationale for the use of carbonic anhydrase inhibitors in openangle glaucoma is based on the fact that aqueous humor is rich in bicarbonate. By inhibiting bicarbonate synthesis, the production of aqueous humor is decreased.",
+   "source": "Pharmacology IV-1 Q10",
+   "topic": "Easy",
+   "topic_n": 7
+  },
+  {
+   "question": "A 15-year-old boy awoke with weakness and 1 hour later realized that he could not move his legs. The attack lasted about 2 hours but then disappeared without residual symptoms. The boy was referred to a neurologic clinic, where the diagnosis of familial hypokalemic periodic paralysis was made. He was prescribed potassium chloride and a diuretic that is able to prevent the attacks in many cases. Which of the following drugs was most likely prescribed?",
+   "choices": [
+    "Hydrochlorothiazide",
+    "Mannitol",
+    "Triamterene",
+    "Acetazolamide",
+    "Ethacrynic acid"
+   ],
+   "answer": 3,
+   "explanation": "Familial hypokalemic periodic paralysis is a rare autosomal condition characterized by episodes of flaccid paralysis with loss of deep tendon reflex. Potassium flows from the bloodstream into muscle cells during attacks. Acetazolamide may help to prevent the attacks; the mechanism of action is still uncertain, but it could be related to the production of metabolic acidosis, which decreases the activity of Na+/K* ATPase, thus lowering the entry of potassium into muscle cells.",
+   "source": "Pharmacology IV-1 Q11",
+   "topic": "Hard",
+   "topic_n": 2
+  },
+  {
+   "question": "A67-year-old man was found to have a plasma calcium level of 12.2 mg/dL during a follow-up visit. The man had a 3-year history of Hodgkin lymphoma. He was recently diagnosed with nephrolithiasis for which he had been treated with hydrochlorothiazide for the past 3 weeks. Which of the following best explains the most likely mechanism of thiazideinduced hypercalcemia?",
+   "choices": [
+    "Activation of the Na+/Ca2+ exchanger in the distal tubule",
+    "Activation of Na+/K*/2Cl symporter in the thick ascending loop of Henle",
+    "Decreased secretion of parathyroid hormone",
+    "7",
+    "Increased glomerular filtration of Ca2+",
+    "Decreased renal excretion of vitamin D (ee",
+    "Increased Ca2+ reabsorption in the proximal tubule"
+   ],
+   "answer": 0,
+   "explanation": "In the kidney, the distal convolute tubule reabsorbs about 8% of the filtered Ca** load. This reabsorption occurs through epithelial Ca** channels. In the steady state, however, the cell must extrude all the entered Ca2+; this occurs through a plasma membrane Ca2+-ATPase (the Ca** pump) and also through the Na+/Ca2+ exchanger located on the basolateral surface of cells of the distal tubule. Thiazides inhibit the Na+/Cl symporter in the early distal convoluted tubule, thus decreasing the intracellular concentration of Na. This likely enhances the activity of the Na+/Ca** exchanger, which in turn creates a greater driving force for reabsorption of Ca2+ through the epithelial Ca2* channels. The final effect is an increased reabsorption of Ca2+ that can cause hypercalcemia or, more often, can unmask hypercalcemia due to other causes, as in this case (malignancy is a common cause of hypercalcemia).",
+   "source": "Pharmacology IV-1 Q12",
+   "topic": "Medium",
+   "topic_n": 2
+  },
+  {
+   "question": "A 67-year-old woman was found to have a plasma level of potassium 2.8 mEq/L (normal 3.5-5.0 mEq/L) during a follow-up visit. The woman had been receiving hydrochlorothiazide for 1 month to treat her recently diagnosed essential hypertension. Which of the following actions most likely contributed to the thiazide-induced increase in renal excretion of potassium?",
+   "choices": [
+    "Decreased delivery of bicarbonate to the collecting duct",
+    "Increased Na+ load in the lumen of the collecting tubule",
+    "Thiazide-induced decrease in renal secretion of uric acid",
+    "Stimulation of Na+/K* pump",
+    "Blockade of Na+/K*/2Cl- cotransporter"
+   ],
+   "answer": 1,
+   "explanation": "Potassium secretion by the distal tubule is a passive process that depends on the electrochemical gradient between the distal tubular cells and the tubular lumen. The higher the Na+ load in the distal tubule, the higher the Na+ reabsorption. This creates a lumen-negative potential that favors K* excretion.",
+   "source": "Pharmacology IV-1 Q13",
+   "topic": "Medium",
+   "topic_n": 3
+  },
+  {
+   "question": "A52-year-old alcoholic man suffering from liver cirrhosis was admitted to the emergency department because of a 2-week history of nausea, vomiting, and lower abdominal cramps. Physical examination showed a tense abdomen with prominent veins, and 3+ ascites was noted by shifting dullness and a fluid wave. A diagnosis of ascites was made, and an appropriate therapy was started. Which of the following diuretics would be contraindicated for this patient?",
+   "choices": [
+    "Ethacrynic acid",
+    "Furosemide",
+    "Spironolactone",
+    "Acetazolamide",
+    "Triamterene"
+   ],
+   "answer": 3,
+   "explanation": "Drugs that can cause alkaline urine are usually contraindicated in serious hepatic disease for the following reason: ammonia (NH,) is secreted by the proximal tubule by a countertransport mechanism in exchange for Na+, which is reabsorbed. If the urine is acidic, it accepts a proton and exists almost entirely as NH,*, which is trapped there. If the urine is alkaline, fewer protons are available, and ammonia can return to the systemic circulation. In patients with serious hepatic disease, ammonia cannot be converted into urea and can cause hyperammonemia, which in turn can trigger a hepatic coma.",
+   "source": "Pharmacology IV-1 Q14",
+   "topic": "Hard",
+   "topic_n": 3
+  },
+  {
+   "question": "A76-year-old woman from a nursing home presented to the emergency department with a change in her mental state over the past few hours. She had a medical history of coronary artery disease and hypertension. Her medications included aspirin, captopril, lovastatin, and a diuretic. On physical examination she showed decreased skin turgor, orthostatic hypotension, and disorientation to time, place, and person without focal neurologic deficits. Pertinent blood test results on admission were Na+ 125 mEq/L, creatinine 2.7 mg/dL. Which of the following drugs most likely caused the patient's syndrome?",
+   "choices": [
+    "Triamterene",
+    "Indapamide",
+    "Captopril",
+    "Spironolactone",
+    "Lovastatin",
+    "Acetazolamide"
+   ],
+   "answer": 1,
+   "explanation": "Indapamide is a sulfonamide compound categorized as a \"thiazide-like\" diuretic. The patient's signs and symptoms suggest the diagnosis of dilutional hyponatremia, which is a rare but sometimes fatal adverse effect of thiazide and thiazide-like diuretics. These drugs affect the diluting ability of the kidney while increasing Na+ excretion. Once volume depletion occurs, the release of antidiuretic hormone (ADH) causes water retention and worsens the hyponatremia. In contrast, loop diuretics (not included in the question) also affect the concentrating ability of the kidney, thus limiting ADH-mediated water retention. The effect of thiazides may last 1 to 2 weeks after cessation of the therapy. Elderly patients are especially prone to thiazide-induced hyponatremia, particularly if a preexisting renal insufficiency exists, as in this case (see the high creatinine level).",
+   "source": "Pharmacology IV-1 Q15",
+   "topic": "Hard",
+   "topic_n": 4
+  },
+  {
+   "question": "A 63-year-old man with a long history of heart failure was admitted to the emergency department because of severe dyspnea and edema in his legs, thighs, and lower abdominal wall. Pertinent lab results on admission included a glomerular filtration rate of 20 mL/min. A diuretic with which of the following mechanism of action would be appropriate to relieve the edema in this patient?",
+   "choices": [
+    "Inhibition of aldosterone actions in the collecting tubule",
+    "Blockade of Na+ channels in the collecting tubule",
+    "Blockade of Na+/Cl symport in the early distal tubule",
+    "Blockade of Na+ reabsorption in the proximal tubule",
+    "Blockade of Na+/K*/2Cl- symport in the loop of Henle"
+   ],
+   "answer": 4,
+   "explanation": "When the glomerular filtration rate (GFR) is less than 30 mL/min (as can occur in severe heart failure), the only diuretics that are still active are loop diuretics. This is likely related, at least in part, to the fact that by inhibiting Na+ and Cl transport into the macula densa, the macula densa is no longer able to sense salt concentration in the tubular fluid and therefore increases renin secretion, leading to an increase in angiotensin II. Because angiotensin II preferentially constricts the efferent arteriole, GFR is enhanced.",
+   "source": "Pharmacology IV-1 Q17",
+   "topic": "Medium",
+   "topic_n": 4
+  },
+  {
+   "question": "A 42-year-old obese woman was hospitalized because of hypokalemia despite daily administration of a potassium supplement. Laboratory tests on admission revealed metabolic alkalosis. The patient admitted taking furosemide tablets in an effort to lose weight. Which of the following actions most likely contributed to furosemide-induced metabolic alkalosis in this patient?",
+   "choices": [
+    "Inhibition of renin secretion",
+    "Increased reabsorption of uric acid",
+    "Mild inhibition of carbonic anhydrase",
+    "Increased delivery of Na+ to the distal tubule",
+    "Decreased reabsorption of Ca** in the loop of Henle"
+   ],
+   "answer": 3,
+   "explanation": "There are three main causes of alkalosis induced by loop diuretics. The most important is increased delivery of Na+ to the distal tubule. The consequent increased reabsorption of Na+ creates a lumen-negative potential that favors both H* and K* excretion. The second cause is the stimulation of aldosterone release due to volume contraction and increased renin secretion. The third cause occurs only when hypokalemia is severe. In this case, K* tends to leave the cell, and H* enters to maintain electroneutrality, with the final result of extracellular alkalosis and intracellular acidosis.",
+   "source": "Pharmacology IV-1 Q18",
+   "topic": "Medium",
+   "topic_n": 5
+  },
+  {
+   "question": "A78-year-old man from a nursing home was admitted to the emergency department because of a change in his mental state over the past few hours. He had a medical history of angina and hypertension presently treated with isosorbide mononitrate, losartan, and hydrochlorothiazide. Physical examination showed a person with decreased skin turgor and disorientation to time and place without focal neurologic deficits. Blood pressure was 110/65 mm Hg on standing and 140/88 mm Hg on lying. Pertinent blood tests on admission were Na+ 116 mEq/L (normal 136-145 mEq/L); K* 3.1 mEq/L (normal 3.5-5.0 mEq/L); uric acid 10.2 mg/dL (normal 3.0- 8.2 mg/dL); creatinine 3.1 mg/dL (normal 0.6-1.2 mg/dL). The physician thought that the syndrome was due to diuretic therapy. Which of the following drug-induced adverse effects most likely caused the patient's signs and symptoms?",
+   "choices": [
+    "Hyperuricemia",
+    "Kidney insufficiency",
+    "Hypovolemic hyponatremia",
+    "Hypokalemia",
+    "Hypervolemic hyponatremia"
+   ],
+   "answer": 2,
+   "explanation": "The patient's signs and symptoms suggest the diagnosis of hypovolemic hyponatremia, which is a rare but sometimes fatal adverse effect of thiazide diuretics. These drugs affect the diluting ability of the kidney while increasing Na+ excretion. Once volume depletion occurs, the release of antidiuretic hormone causes water retention and worsens hyponatremia. This effect of thiazides may last 1 to 2 weeks after cessation of the therapy. Elderly patients are especially prone to thiazide-induced hyponatremia, particularly if preexisting renal insufficiency exists, as in this case (see the high creatinine level).",
+   "source": "Pharmacology IV-1 Q19",
+   "topic": "Hard",
+   "topic_n": 5
+  },
+  {
+   "question": "A 66-year-old woman suffering from systolic cardiac failure was brought to the emergency department because of a sudden onset of extreme dyspnea. She presented with cyanosis, tachypnea, hyperpnea, restlessness, anxiety, and a sense of suffocation. Cough was prominent and produced pink-tinged, frothy sputum. Pulse was thready and fast (120 bpm), blood pressure 80/45 mm Hg, and rales were audible at the lung bases. Which of the following drugs was most likely included in the immediate medical treatment of this patient?",
+   "choices": [
+    "Hydrochlorothiazide",
+    "Amiloride",
+    "Mannitol",
+    "Epinephrine",
+    "Metoprolol",
+    "Furosemide"
+   ],
+   "answer": 5,
+   "explanation": "The patient exhibits the classic symptoms of pulmonary edema. Furosemide is the diuretic of first choice for this condition because it is able to quickly reduce preload (and therefore the left ventricular filling pressure) through the following actions: * Rapid increase in venous capacitance, likely mediated by prostaglandin release (the initial beneficial effect may result more from this action than from diuresis) ¢ Brisk and abundant natriuresis",
+   "source": "Pharmacology IV-1 Q20",
+   "topic": "Medium",
+   "topic_n": 6
+  },
+  {
+   "question": "A 63-year-old woman was brought to the emergency department because she had become more lethargic and unresponsive over the past several days. Her past medical history was significant for bone metastases from breast cancer. Physical examination revealed a dehydrated, cachectic female responsive only to painful stimuli. Pertinent serum values were Na+ 148 mEq/L (136-145 mEq/L); Ca 19.2 mg/dL (8.5- 10.5 mg/dL). An intravenous saline infusion was started, and a diuretic was given concurrently. Which of the following diuretics was most likely administered?",
+   "choices": [
+    "Amiloride",
+    "Acetazolamide",
+    "Furosemide",
+    "Hydrochlorothiazide",
+    "Spironolactone"
+   ],
+   "answer": 2,
+   "explanation": "Lab values of this patient indicate very high Ca2+ levels, and her symptoms and history are in accordance with the diagnosis of profound hypercalcemia. Malignancy and hyperparathyroidism are the most common causes of hypercalcemia. The first-line emergency treatment for this disorder is hydration and volume expansion, as such patients are volume depleted due to the accompany polyuria, nausea, and vomiting. Furosemide is administered because it can increase urinary Ca2+ excretion. Ca2* and Mg?* are reabsorbed in the thick ascending limb of the loop of Henle, because the action of the Na+/K*/2Cl cotransporter in that portion of the nephron leads to excess K* accumulation within the tubular cells. This results in back-diffusion of K* into the tubular lumen and development of a lumen-positive electrical potential. This potential provides the driving force for reabsorption of Ca2* and Mg?* via the paracellular pathway. By blocking the Na+/K*/2Cl\" cotransporter, furosemide decreases the reabsorption of these ions.",
+   "source": "Pharmacology IV-1 Q21",
+   "topic": "Hard",
+   "topic_n": 6
+  },
+  {
+   "question": "A 64-year-old woman suffering from stage C heart failure had her diuretic medication changed because of a serious allergic reaction to furosemide. Which of the following diuretics was most likely prescribed?",
+   "choices": [
+    "Ethacrynic acid",
+    "Mannitol",
+    "Indapamide",
+    "Acetazolamide",
+    "Triamterene",
+    "Spironolactone"
+   ],
+   "answer": 0,
+   "explanation": "The only loop diuretic that is not a sulfonamide is ethacrynic acid. Therefore, ethacrynic acid represents a suitable alternative to the use of furosemide when furosemide is contraindicated because of serious adverse effects, as in this case.",
+   "source": "Pharmacology IV-1 Q22",
+   "topic": "Medium",
+   "topic_n": 7
+  },
+  {
+   "question": "A 49-year-old woman was admitted to the hospital because of generalized weakness, continuous nausea, and diarrhea. Bowel movements were frequent and watery. The patient's own report was vague, but notes in the chart from other hospitals revealed that she had a very long history of laxative abuse. Blood test results on admission showed pronounced hypokalemia (K* 2.8 mEq/L). An appropriate therapy was started that included the administration of triamterene. Which of the following actions best explains the potassiumsparing effect of this drug?",
+   "choices": [
+    "Blockade of aldosterone receptors in the collecting duct",
+    "Enhancement of K* reabsorption in the loop of Henle",
+    "Blockade of Na+ channels in the collecting duct",
+    "Enhancement of Kt reabsorption in the proximal tubule",
+    "Blockade of Na+ reabsorption in the proximal tubule"
+   ],
+   "answer": 2,
+   "explanation": "Potassium-sparing diuretics are administered in cases of hypokalemia, which may occur in laxative abusers, as in this case. Epithelial cells in the late distal tubule and collecting duct have luminal membrane Na+ channels that provide a conductive pathway for the entry of Na+ into the cells down an electrochemical gradient created by the basolateral Na+/K* pump. This entry creates a lumen-negative potential that supplies a driving force for the secretion of K* into the lumen through Kt channels located in the luminal membrane. Triamterene and amiloride block Na+ channels in the late distal tubule and collecting duct. Because K* secretion is coupled with Na+ entry in these segments, the blockade of Na+ channels causes a K*-sparing effect.",
+   "source": "Pharmacology IV-1 Q23",
+   "topic": "Easy",
+   "topic_n": 8
+  },
+  {
+   "question": "A 60-year-old man was admitted to the hospital because of symptoms of episodic weakness, polydipsia, and polyuria over the past 2 weeks. Vital signs on admission were blood pressure 136/95 mm Hg; heart rate 80 bpm; respirations 13/min. Significant serum results on admission were K* 3.1 mEq/L (normal 3.5-5.0 mEq/L); aldosterone 45 ng/dL (normal 7-30 ng/dL). A computed tomography scan showed bilateral adrenal hyperplasia. Which of the following drugs was most likely included in the therapeutic regimen of this patient?",
+   "choices": [
+    "Mannitol",
+    "Furosemide",
+    "Nitroprusside",
+    "Fenoldopam",
+    "Hydrochlorothiazide",
+    "Spironolactone"
+   ],
+   "answer": 5,
+   "explanation": "The signs of the patient and lab results indicated that he was most likely suffering from primary hyperaldosteronism due to adrenal hyperplasia, which is more common in elderly men. Unlike adrenal adenoma, surgery is not recommended for bilateral adrenal hyperplasia; the hyperaldosteronism usually can be controlled by spironolactone, an aldosterone receptor antagonist. However, about 50% of such patients need additional antihypertensive treatment.",
+   "source": "Pharmacology IV-1 Q24",
+   "topic": "Medium",
+   "topic_n": 8
+  },
+  {
+   "question": "A54-year-old alcoholic man was admitted to the emergency department with a 2-week history of nausea, vomiting, and lower abdominal cramps. Physical examination revealed an afebrile, jaundiced, and cachectic male in moderate distress. The abdomen appeared very tense with prominent veins, and 2+ ascites was noted by shifting dullness and a fluid wave. Pertinent serum values on admission were Nat 144 mEq/L (normal 136-145 mEq/L); K* 2.9 mEq/L (normal 3.5-5.0 mEq/L); bicarbonate 34 mEq/L (normal 22-28 mEq/L); albumin 2.3 g/dL (normal 3.3-4.8 mEq/L). Which of the following diuretics would be the drug of choice for this patient?",
+   "choices": [
+    "Furosemide",
+    "Triamterene",
+    "Spironolactone",
+    "Mannitol",
+    "Indapamide"
+   ],
+   "answer": 2,
+   "explanation": "The history and symptoms of the patient suggest that he has been suffering from liver cirrhosis. Moreover, the low Kt and high bicarbonate levels suggest that high levels of aldosterone are present. Secondary hyperaldosteronism is common in advanced liver cirrhosis for the following reasons: * Ascites-induced hypovolemia activates the renin-angiotensin-aldosterone system. * Liver metabolism of aldosterone is reduced because of liver impairment. * Hypoalbuminemia is a known consequence of liver cirthosis. Because aldosterone is highly bound to albumin, cirrhotic patients have a higher free, active concentration of aldosterone. Spironolactone is an aldosterone receptor antagonist and therefore is a rational diuretic choice.",
+   "source": "Pharmacology IV-1 Q25",
+   "topic": "Medium",
+   "topic_n": 9
+  },
+  {
+   "question": "A 65-year-old patient was scheduled for surgery to remove a glioma located on his left parietal lobe. Which of the following drugs would be most appropriately given before and after surgery to prevent increased intracranial pressure?",
+   "choices": [
+    "Triamterene",
+    "Mannitol",
+    "Propranolol",
+    "Verapamil",
+    "Hydrochlorothiazide"
+   ],
+   "answer": 1,
+   "explanation": "Osmotic diuretics are often given to patients with a brain tumor before and after neurosurgery to reduce cerebrospinal fluid volume and therefore intracranial pressure. These drugs cannot cross the blood-brain barrier, and they enhance the diffusion of water back into the plasma by elevating plasma osmolality.",
+   "source": "Pharmacology IV-1 Q26",
+   "topic": "Easy",
+   "topic_n": 9
+  },
+  {
+   "question": "A57-year-old Black woman, recently diagnosed with closedangle glaucoma, was scheduled for iridotomy. Which of the following agents was most likely given intravenously before and after surgery to reduce intraocular pressure?",
+   "choices": [
+    "Mannitol",
+    "Hydrochlorothiazide",
+    "Phenylephrine",
+    "Homatropine (i",
+    "Triamterene",
+    "Furosemide"
+   ],
+   "answer": 0,
+   "explanation": "Hyperosmotic agents such as mannitol can lower intraocular pressure by creating an osmotic gradient between the ocular fluid and plasma. They are used to decrease intraocular pressure before and after iridotomy and, together with other drugs that lower intraocular pressure, in acute attacks of glaucoma.",
+   "source": "Pharmacology IV-1 Q27",
+   "topic": "Easy",
+   "topic_n": 10
+  },
+  {
+   "question": "A 52-year-old woman was admitted to the hospital with a 1-week history of muscle cramps, lethargy, and confusion. Past history of the patient was significant for depression treated with amitriptyline. Vital signs on admission were blood pressure 134/82 mm Hg (with no significant changes upon standing); heart rate 85 bpm; respirations 14/min. Physical examination was unremarkable. Pertinent lab test results on admission were serum Na+ 118 mEq/L (normal 136-145 mEq/L); serum osmolality 220 mOsm/kg (normal 275-295 mOsm/kg); urine osmolality 950 mOsm/kg (normal 50-1400 mOsm/kg). A diagnosis was made, and an appropriate therapy was prescribed. Which of the following drugs was most likely included in the patient's treatment?",
+   "choices": [
+    "Triamterene",
+    "Acetazolamide",
+    "Mannitol",
+    "Furosemide",
+    "Conivaptan",
+    "Hydrochlorothiazide"
+   ],
+   "answer": 4,
+   "explanation": "The signs and lab values of this patient suggest the diagnosis of syndrome of inappropriate antidiuretic hormone secretion (SIADH), which is usually characterized by hypervolemic (or sometimes normovolemic) hyponatremia, low serum osmolality, and urine osmolality higher than serum osmolality. The syndrome is associated with myriad disorders, including chronic treatment with tricyclic antidepressants, as in this case. The majority of patients with SIADH do not require therapy because plasma Na+ usually stabilizes in the range of 125 to 130 mEq/L; these patients are asymptomatic. However, when plasma Na' is more than 120 mEq/L, and symptoms supervene, as in this case, therapy should be initiated. Because the syndrome is due to excessive ADH secretion, the use of an ADH antagonist, conivaptan, is a rational choice. Patients with very high urine osmolality (like this patient) benefit most from ADH antagonists.",
+   "source": "Pharmacology IV-1 Q28",
+   "topic": "Hard",
+   "topic_n": 7
+  },
+  {
+   "question": "A 69-year-old man was recently diagnosed with severe cardiac failure, and the physician started treatment with propranolol, captopril, and digoxin. Diuretic therapy was also included. Which of the following pairs of diuretics would have been most appropriate for this patient?",
+   "choices": [
+    "Hydrochlorothiazide and mannitol",
+    "Furosemide and spironolactone",
+    "Triamterene and acetazolamide",
+    "Furosemide and mannitol",
+    "Hydrochlorothiazide and acetazolamide"
+   ],
+   "answer": 1,
+   "explanation": "The majority of patients with cardiac failure will require the chronic administration of a loop diuretic to maintain euvolemia. However, these drugs cause hypokalemia, which increases the risk of adverse effects with cardiac glycosides. In fact, a decrease in serum K* concentration increases the binding of cardiac glycosides to Na+/K* ATPase. The concurrent administration of potassium-sparing diuretics such as spironolactone will prevent furosemide-induced hypokalemia.",
+   "source": "Pharmacology IV-1 Q29",
+   "topic": "Medium",
+   "topic_n": 10
+  },
+  {
+   "question": "A 63-year-old man was admitted to the emergency department because of a 12-hour history of dyspnea and bradycardia. He was taking propranolol, captopril, furosemide, and amiloride because of a previous myocardial infarction, as well as ibuprofen for osteoarthritis. Physical examination showed the patient was in respiratory distress with the following vital signs: blood pressure 150/86 mm Hg; heart rate 40 bpm; respirations 20/min. A lab analysis was ordered. Which of the following substances was most likely increased in the patient's serum?",
+   "choices": [
+    "Potassium",
+    "Glucose",
+    "Triglycerides",
+    "Sodium",
+    "Calcium",
+    "Urea nitrogen"
+   ],
+   "answer": 0,
+   "explanation": "The history and the signs of the patient (extreme bradycardia) suggest that he was most likely suffering from hyperkalemia due to several causes. He received amiloride, a potassium-sparing diuretic, and captopril, which indirectly decreases aldosterone formation, thus hindering the body's ability to counteract the hyperkalemia (normally, a small increase in Kt concentration will increase aldosterone secretion several fold). The patient was also treated with propranolol and ibuprofen. Beta-blockers can cause hyperkalemia by suppressing renin release and by decreasing K* uptake by skeletal muscle, and nonsteroidal antiinflammatory drugs can cause hyperkalemia by reducing renal K* excretion. The patient was also taking furosemide, but the hypokalemic action of the furosemide most likely was not enough to counteract all the hyperkalemic actions mentioned above.",
+   "source": "Pharmacology IV-1 Q30",
+   "topic": "Medium",
+   "topic_n": 11
+  },
+  {
+   "question": "A 32-year-old woman suffering from idiopathic hypercalciuria was diagnosed with a large urinary stone in the right renal pelvis. She was scheduled for surgical removal of the calculus. Which of the following drugs would be appropriate for this patient to prevent new stone production after the operation?",
+   "choices": [
+    "Acetazolamide",
+    "Triamterene",
+    "Spironolactone",
+    "Furosemide",
+    "Hydrochlorothiazide"
+   ],
+   "answer": 4,
+   "explanation": "Thiazide diuretics decrease urinary Ca2+ excretion and therefore are often used in cases of kidney stones and idiopathic hypercalciuria.",
+   "source": "Pharmacology IV-1 Q31",
+   "topic": "Easy",
+   "topic_n": 11
+  },
+  {
+   "question": "In a phase 1 clinical trial, the same dose of four new diuretics (P, Q, R, and S) was given intravenously to a healthy volunteer on four separate occasions. Lab studies had shown that all drugs were acidic molecules that were able to block the Na+/Cl- cotransporter in the early distal tubule with the same affinity. They had about the same plasma protein binding levels and were not metabolized in the body. The acid dissociation constant (pK,) levels of the drugs were P=3.5 Q=7.2 R=5.1 S=10.1 Which of the following drugs most likely produced the greatest increase in diuresis in the subject?",
+   "choices": [
+    "Drug Q",
+    "Drug P",
+    "Drug R",
+    "Drug S"
+   ],
+   "answer": 1,
+   "explanation": "In order to act, all diuretics must reach a certain concentration in the tubular lumen, as the tubular cells in different parts of the nephron are the molecular targets of these agents. The diuretics under study are given at the same dose and have the same plasma protein binding, which indicates that the same amount was filtered by the glomerulus. The reabsorption of the drug by the proximal tubule will be related to the lipid solubility in the urine. An acidic drug is mainly water soluble when its acid dissociation constant (pKa) is less than the pH of the medium. Because the pH range of the urine is from 4.0 to 8.5, drug P will be the one with the lowest lipid solubility and be the least reabsorbed by the proximal tubule. This means that its concentration in the late distal tubule will be the highest. The four diuretics have equal affinity for the Na+/Cl- transporter, so their diuretic effect will be proportional to their concentration at the site of action.",
+   "source": "Pharmacology IV-1 Q32",
+   "topic": "Hard",
+   "topic_n": 8
+  }
+ ]
+}

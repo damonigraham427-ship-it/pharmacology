@@ -1,0 +1,716 @@
+{
+ "questions": [
+  {
+   "question": "This drug is sometimes used to decrease alcohol craving in alcoholics.",
+   "choices": [
+    "Naloxone",
+    "LSD",
+    "Caffeine",
+    "Heroin",
+    "Nicotine",
+    "Phencyclidine",
+    "Cocaine",
+    "Ethanol",
+    "Cannabinoids",
+    "Gamma-hydroxybutyric acid",
+    "Amphetamine",
+    "Buprenorphine",
+    "Methylenedioxymethamphetamine (MDMA)"
+   ],
+   "answer": 0,
+   "explanation": "Matching question; the book prints only the answer key for matching sets (key: N).",
+   "source": "Pharmacology III-13 Q1",
+   "topic": "Easy",
+   "topic_n": 1
+  },
+  {
+   "question": "This drug acts mainly by increasing the nonvesicular release of dopamine from dopaminergic neurons.",
+   "choices": [
+    "Methylenedioxymethamphetamine (MDMA)",
+    "Naloxone",
+    "Gamma-hydroxybutyric acid",
+    "LSD",
+    "Amphetamine",
+    "Nicotine",
+    "Phencyclidine",
+    "Heroin",
+    "Ethanol",
+    "Buprenorphine",
+    "Cannabinoids",
+    "Caffeine",
+    "Cocaine"
+   ],
+   "answer": 4,
+   "explanation": "Matching question; the book prints only the answer key for matching sets (key: A).",
+   "source": "Pharmacology III-13 Q2",
+   "topic": "Easy",
+   "topic_n": 2
+  },
+  {
+   "question": "The elimination of this drug follows mainly zero-order kinetics.",
+   "choices": [
+    "Amphetamine",
+    "Methylenedioxymethamphetamine (MDMA)",
+    "Nicotine",
+    "Ethanol",
+    "Buprenorphine",
+    "Cocaine",
+    "LSD",
+    "Caffeine",
+    "Phencyclidine",
+    "Heroin",
+    "Gamma-hydroxybutyric acid",
+    "Cannabinoids",
+    "Naloxone"
+   ],
+   "answer": 3,
+   "explanation": "Matching question; the book prints only the answer key for matching sets (key: F).",
+   "source": "Pharmacology III-13 Q3",
+   "topic": "Easy",
+   "topic_n": 3
+  },
+  {
+   "question": "This drug is used in heroin detoxification programs.",
+   "choices": [
+    "Caffeine",
+    "LSD",
+    "Phencyclidine",
+    "Naloxone",
+    "Cannabinoids",
+    "Heroin",
+    "Amphetamine",
+    "Buprenorphine",
+    "Methylenedioxymethamphetamine (MDMA)",
+    "Gamma-hydroxybutyric acid",
+    "Cocaine",
+    "Ethanol",
+    "Nicotine"
+   ],
+   "answer": 7,
+   "explanation": "Matching question; the book prints only the answer key for matching sets (key: B).",
+   "source": "Pharmacology III-13 Q4",
+   "topic": "Easy",
+   "topic_n": 4
+  },
+  {
+   "question": "The central effects of this drug are most likely mediated by the activation of type B gamma-aminobutyric acid (GABA,) receptors.",
+   "choices": [
+    "Cocaine",
+    "Buprenorphine",
+    "Nicotine",
+    "LSD",
+    "Caffeine",
+    "Gamma-hydroxybutyric acid",
+    "Naloxone",
+    "Phencyclidine",
+    "Heroin",
+    "Cannabinoids",
+    "Ethanol",
+    "Methylenedioxymethamphetamine (MDMA)",
+    "Amphetamine"
+   ],
+   "answer": 5,
+   "explanation": "Matching question; the book prints only the answer key for matching sets (key: G).",
+   "source": "Pharmacology III-13 Q5",
+   "topic": "Easy",
+   "topic_n": 5
+  },
+  {
+   "question": "A 28-year-old man was brought to the psychiatric clinic by the police after he attempted to assault a woman in the street. The man presented with elevated mood, rapid speech, muscle twitching, and dilated pupils. He kept on scratching himself repeatedly because he stated that “bugs are crawling under my skin.” Vital signs were blood pressure 170/105, heart rate 120 bpm, respirations 20 /min. After a short time, stereotyped behavior developed accompanied by paranoid delusions, but the man remained oriented and alert. Which of the following drugs most likely caused the patient’s syndrome?",
+   "choices": [
+    "Marijuana",
+    "LSD",
+    "Ethanol",
+    "Phencyclidine",
+    "Cocaine"
+   ],
+   "answer": 4,
+   "explanation": "The patient’s signs and symptoms indicate that he most likely took a high dose of cocaine. Formication (“Bugs are crawling under my skin”), stereotyped behavior, and paranoid delusions, together with signs of sympathetic overactivity (hypertension and tachycardia), are classic symptoms of cocaine overdose. A, B, D These drugs do not cause all the symptoms exhibited by the patient. E Phencyclidine can cause many signs and symptoms similar to those of cocaine, but the patient is usually disoriented, and nystagmus is a prominent sign. Both are absent in this patient.",
+   "source": "Pharmacology III-13 Q6",
+   "topic": "Medium",
+   "topic_n": 1
+  },
+  {
+   "question": "A 44-year-old man was a regular user of high doses of cocaine. Which of the following signs and symptoms was most likely prominent in this person, shortly after the administration of the drug?",
+   "choices": [
+    "Stereotyped behavior",
+    "Increased feeling of fatigue",
+    "Disorientation in time and space",
+    "Lethargy",
+    "Ravenous appetite"
+   ],
+   "answer": 0,
+   "explanation": "Behavioral stereotypy is a prominent symptom of chronic use of high doses of psychostimulants such as cocaine and amphetamines. Stereotyped behavior is characterized by repetitive and purposeless motor actions, and it has been postulated to result from an abnormal dopamine response after long-term use. A Even after high doses of cocaine, the person usually remains alert and oriented. B, C, EThese symptoms usually occur when cocaine is withdrawn, but opposite symptoms occur as long as sufficient cocaine levels are present in the body.",
+   "source": "Pharmacology III-13 Q7",
+   "topic": "Medium",
+   "topic_n": 2
+  },
+  {
+   "question": "The mother of a 16-year-old boy noticed a change in her son’s behavior. When he returned home in the evening after meeting with his friends, he was always very hungry, despite having eaten his dinner. He always appeared happy, would find everything amusing, and laughed a lot. Occasionally, his eyes would be rather red. In the morning he was reluctant to go to school and did not appear to care whether he did well or not. A drug with which of the following mechanisms of action was he most likely abusing?",
+   "choices": [
+    "Activation of 1 (mu) opioid receptors et ike! Blockade of dopaminergic receptors",
+    "Activation of cannabinoid receptors",
+    "Blockade of norepinephrine reuptake",
+    "Activation of serotonin receptors"
+   ],
+   "answer": 1,
+   "explanation": "The boy’s signs and symptoms indicate that he was most likely using cannabis. Cannabinoid receptors have been found in the human brain, and endogenous ligands (anandamide and 2-arachidonyl glycerol) have been identified that act as neurotransmitters. These receptors are widely distributed in the cerebral cortex, hippocampus, striatum, and cerebellum and are mainly located presynaptically, thus inhibiting the release of glutamate or gamma-aminobutyric acid (GABA). The physiological role of these receptors and their endogenous ligands is not completely understood, but they most likely have important functions because of their wide location. For example, in the hippocampus, they may contribute to induction of synaptic plasticity during memory formation. B-E These actions would not cause all the symptoms exhibited by the patient.",
+   "source": "Pharmacology III-13 Q8",
+   "topic": "Easy",
+   "topic_n": 6
+  },
+  {
+   "question": "An 18-year-old girl who had never used recreational drugs joined in smoking multiple marijuana cigarettes at a party. Which of the following signs and symptoms did the girl most likely experience just after smoking?",
+   "choices": [
+    "Depressive mood",
+    "Hypertension",
+    "Increased heart rate",
+    "Improved memory (ae re Pale skin",
+    "Hyperalgesia"
+   ],
+   "answer": 2,
+   "explanation": "The two most characteristic somatic effects of cannabinoids in humans are increased pulse rate and reddening of conjunctiva, which is related to the general vasodilation induced by these drugs. A Cannabinoids can cause vasodilation, which in turn causes a dose-related decrease in blood pressure. Postural hypotension, not hypertension, is evident. C Cannabinoids produce changes in mood, but the most common psychic effects are euphoria and disinhibition, not depression. D In fact, cannabinoids have a weak but clinically significant analgesic action. E Although cannabinoids cause subjective feelings of confidence and heightened creativity, they usually lead to impairment of cognitive functions, learning, and memory. F Cannabinoids cause generalized vasodilation, so pale skin is unlikely.",
+   "source": "Pharmacology III-13 Q9",
+   "topic": "Easy",
+   "topic_n": 7
+  },
+  {
+   "question": "A 33-year-old man was in his physician’s office because he started to perceive flashes of colors and fleeting movements of strange objects as he entered a dark room. The man, who was an alcoholic and an occasional user of recreational drugs, took two tablets of an illegal drug while at a party 2 months ago. Which of the following syndromes most likely accounted for the patient’s symptoms?",
+   "choices": [
+    "Phencyclidine withdrawal",
+    "Heroin withdrawal",
+    "Amphetamine-induced schizophrenic episode",
+    "LSD flashbacks",
+    "Alcohol withdrawal",
+    "Cocaine-induced schizophrenic episode"
+   ],
+   "answer": 3,
+   "explanation": "The fact that the man perceived symptoms typical of LSD intoxication 2 months after taking the offending drug points out that he was most likely experiencing a flashback, a particularly troubling aftereffect of LSD and related drugs. The flashback (now called hallucinogen-persisting perception disorder) is a recurrence of part or all of a hallucinogenic drug experience, weeks or months after the drug was last taken. Some users have reported these perceptual sensations even years after the drug exposure. Precipitating conditions include stress, fatigue, anxiety states, emergence into a dark environment, and neuroleptics. A, B, D-F These syndromes lack the symptoms described by the patient.",
+   "source": "Pharmacology III-13 Q10",
+   "topic": "Easy",
+   "topic_n": 8
+  },
+  {
+   "question": "A 42-year-old woman complained to her doctor about increasing anxiety, insomnia, irritability, and severe craving for cigarettes. The patient, who was a two-pack-a-day smoker for 15 years, had recently quit smoking. The physician prescribed a drug that could relieve her symptoms. Which of the following drugs would be most appropriate for this patient?",
+   "choices": [
+    "Buprenorphine",
+    "Bupropion",
+    "Methyldopa a (Oe Fa Be Imipramine",
+    "Bromocriptine",
+    "Naloxone"
+   ],
+   "answer": 1,
+   "explanation": "Bupropion is an atypical antidepressant structurally similar to diethylpropion, an amphetamine-like appetite suppressant. The drug inhibits reuptake of dopamine, noradrenaline, and serotonin in the central nervous system, is a noncompetitive nicotine receptor antagonist, and at high concentrations inhibits the firing of noradrenergic neurons in the locus ceruleus. It is not clear which of these effects accounts for the usefulness of bupropion during smoking cessation, but all could be important. During nicotine withdrawal, there is a reduction in central dopamine and norepinephrine levels and increased firing in the locus ceruleus. The antismoking effect of bupropion does not seem to be related to the antidepressant effect, as bupropion is equally effective as a smoking cessation therapy in smokers with and without depression. The drug can achieve long-term abstinence in about 20% of smokers. Other drugs used for smoking cessation are clonidine and varenicline. A, C-F See correct answer explanation.",
+   "source": "Pharmacology III-13 Q11",
+   "topic": "Easy",
+   "topic_n": 9
+  },
+  {
+   "question": "A 22-year-old man came to the clinic complaining of muscle aches, nausea, and anxiety. He reported that he was a heroin addict and that he had been smoking phencyclidine occasionally for the past 6 months. He was sweating, shaking, and kept yawning. Physical examination revealed hyperventilation, hyperthermia, high blood pressure, and tachycardia. His pupils were dilated, but no nystagmus was observed. Which of the following types of drugs would be most appropriate to provide immediate relief to this patient?",
+   "choices": [
+    "5-HT receptor agonist",
+    "Glutamate receptor antagonist",
+    "Alpha, receptor antagonist",
+    "D, receptor antagonist",
+    "Mu receptor agonist",
+    "GABA receptor agonist"
+   ],
+   "answer": 4,
+   "explanation": "The patient’s symptoms indicate that he was most likely experiencing heroin withdrawal. Administration of an opioid drug acting mainly on p (mu) receptors is the best strategy to attenuate withdrawal from opiates. Methadone was the preferred drug in the past, because it has a long duration of action and can be tapered slowly to minimize abstinence symptoms. More recently, buprenorphine has been shown to work better than other opioids for treating withdrawal from opiates and is now the drug most frequently used for this purpose. A, C-F See correct answer explanation.",
+   "source": "Pharmacology III-13 Q12",
+   "topic": "Easy",
+   "topic_n": 10
+  },
+  {
+   "question": "A 38-year-old heroin addict was determined to quit the habit and was admitted to a detoxification clinic. After physical examination and laboratory tests, treatment was started. Sublingual administration of which of the following drugs would be most appropriate for this patient?",
+   "choices": [
+    "Codeine alm) kek ae) Pentazocine",
+    "Phenobarbital",
+    "Buprenorphine",
+    "Naltrexone",
+    "Diazepam"
+   ],
+   "answer": 2,
+   "explanation": "Detoxification from opioids follows the general principles that are valid for all drugs of abuse. It is convenient to change the patient from an intravenous opioid such as heroin to an orally active and pharmacologically equivalent opioid, then to reduce the dose of that opioid gradually. Methadone was extensively used in the past, but more recently the introduction of buprenorphine, a partial 1 (mu) opioid agonist, has represented a major change in the treatment of opiate addiction. The drug produces minimal withdrawal symptoms when stopped and has low potential for overdose, a long duration of action, and the ability to block heroin effects. A Benzodiazepines are sometimes used to sedate a person under heroin withdrawal, but they are not suitable to achieve the goal of a drug-free patient. C Naltrexone blocks the euphoric effect of opioids and is therefore used to prevent relapse and eventually to extinguish the habit, once the addict has become drug-free, but it can precipitate withdrawal if used in a person still physically dependent on opioids. D-F These drugs are not used in opioid detoxification.",
+   "source": "Pharmacology III-13 Q13",
+   "topic": "Easy",
+   "topic_n": 11
+  },
+  {
+   "question": "A 35-year-old male body builder was brought to the emergency department for treatment of traumatic injuries to his legs as a result of a motor vehicle accident. He was agitated, hyperaggressive, and in a rage. He had been restrained by security guards following an altercation with one of the nurses. He denied use of alcohol or other mood-altering drugs. Physical examination showed a distraught patient with extensive skin acne. Vital signs were within normal limits, and the results of routine drug screen tests for illegal substances were negative. Which of the following drugs was most likely to have caused the patient’s behavior?",
+   "choices": [
+    "Oxandrolone Mm we > Danazol",
+    "Heroin",
+    "Diazepam",
+    "Mifepristone",
+    "Marijuana"
+   ],
+   "answer": 0,
+   "explanation": "The patient’s signs and symptoms, as well as his personal history (he is a body builder), suggest that an anabolic steroid is most likely the culprit drug. Anabolic steroids are often abused by people engaging in competitive sports; by body builders, for example. The primary effects sought are increased muscle mass and strength. Among the manifestations of heavy use are increased irritability and aggression (common), changes in libido and sexual functions, and mood changes with occasional psychotic features. A-C Overdose of these drugs rarely causes aggressive behavior, and all can be detected by routine drug screening. D, F Mifepristone and danazol are not abused drugs.",
+   "source": "Pharmacology III-13 Q14",
+   "topic": "Easy",
+   "topic_n": 12
+  },
+  {
+   "question": "A 17-year-old girl who had never used drugs decided to join in with her friends who were smoking drugged cigarettes. In the first 5 minutes, she experienced euphoria, uncontrollable laughter, depersonalization, and sharpened vision. Her concentration became difficult, and she noticed that her heart was “pounding.” Her friends noted reddening of her conjunctiva but no change in pupil diameter. Which of the following drugs most likely caused the girl’s symptoms?",
+   "choices": [
+    "Heroin 1s JUSID)",
+    "Phencyclidine",
+    "Cocaine",
+    "Cannabis"
+   ],
+   "answer": 3,
+   "explanation": "The girl’s signs and symptoms indicate that she most likely smoked marijuana cigarettes. Tachycardia and reddening of the conjunctiva are the two most characteristic somatic effects of cannabinoids in humans. Other symptoms are euphoria, uncontrollable laughter, depersonalization, and sharpened vision, as in this case. A, C-E The behavioral signs and symptoms caused by these drugs are different from those exhibited by this girl. Moreover, a typical somatic effect of LSD and cocaine is mydriasis, whereas heroin and phencyclidine cause miosis, neither of which occurred in this girl.",
+   "source": "Pharmacology III-13 Q15",
+   "topic": "Easy",
+   "topic_n": 13
+  },
+  {
+   "question": "A 40-year-old female alcoholic was admitted to an alcohol rehabilitation center because she was determined to quit the habit. A drug was given to facilitate avoidance from ethanol dependence, based on research suggesting that compulsive alcohol drinking is influenced by opiate receptor activity. Which of the following drugs was most likely administered?",
+   "choices": [
+    "Buprenorphine F.",
+    "Naltrexone",
+    "Diazepam",
+    "Methadone",
+    "Disulfiram C.",
+    "Clonidine"
+   ],
+   "answer": 1,
+   "explanation": "Experimental studies in animals suggest that alcohol drinking is influenced by opiate receptor activity and is reduced by opiate antagonist action. Several clinical trials have shown that naltrexone decreases the rate of relapse to alcohol consumption and reduces alcohol craving. The drug has been approved by the U.S. Food and Drug Administration for this purpose. A, B Diazepam and clonidine are used to treat ethanol abstinence syndrome, but they do not reduce ethanol craving in alcoholics. C Disulfiram is used to induce a conditioned aversion to alcohol, but the rationale for its use is not based on a relationship between ethanol craving and opioid activity. E, F Methadone and buprenorphine are not used to treat ethanol dependence.",
+   "source": "Pharmacology III-13 Q16",
+   "topic": "Medium",
+   "topic_n": 3
+  },
+  {
+   "question": "A 27-year-old man with a recent history of drug abuse presented to the emergency department with violent, shaking chills. He also complained of restlessness, insomnia, nausea, and abdominal cramps and exhibited profuse sweating, rhinorrhea, yawning, and piloerection. He admitted he was out of money and was unable to get the usual supply of the drug he had been using for 3 months. From which of the following drugs was he most likely experiencing withdrawal?",
+   "choices": [
+    "Cocaine",
+    "Amphetamines",
+    "Phencyclidine",
+    "MDMA",
+    "LSD",
+    "Heroin"
+   ],
+   "answer": 5,
+   "explanation": "The patient’s signs and symptoms indicate that heroin was the drug from which he was experiencing withdrawal. Opioid abstinence syndrome includes * Prodromal phase, characterized by autonomic activation (rhinorrhea, lacrimation, salivation, yawning, and sweating) that lasts 6 to 10 hours * Acute withdrawal syndrome, characterized by a high degree of behavioral, somatic, and autonomic activation (restlessness, shaking chills, piloerection, nausea, abdominal cramps, etc.) that lasts about 7 to 10 days. * Protracted withdrawal syndrome, characterized by subtle signs and symptoms that can persist for up to 6 months. During this period, the recidivism rate is high. B, C Abstinence syndrome from these drugs is primarily characterized by depressive symptoms (depression, sleepiness, and fatigue). D-F There is no evidence of a clinically significant withdrawal syndrome for these drugs in humans.",
+   "source": "Pharmacology III-13 Q17",
+   "topic": "Medium",
+   "topic_n": 4
+  },
+  {
+   "question": "A 28-year-old woman was admitted unconscious to the emergency department. A friend stated that the woman was a polydrug user and that she had self-injected a drug approximately 45 minutes prior to admission. Vital signs were blood pressure 100/50, heart rate 95 bpm, respirations 5/min. Physical examination showed cyanosis and pinpoint pupils. Which of the following drugs did the woman most likely take?",
+   "choices": [
+    "LSD",
+    "Amphetamine",
+    "Cocaine",
+    "Heroin",
+    "Phencyclidine",
+    "Diazepam"
+   ],
+   "answer": 3,
+   "explanation": "The triad of coma, miosis, and respiratory depression indicates that heroin was most likely the drug the woman had self-injected. Accidental overdosage is not uncommon in addicts, as the dose of an illicit drug is never accurate. The respiratory rate can be very low, or the patient may even be apneic, and cyanosis is often present. The pupils are symmetrical and pinpoint in size, although if hypoxia is severe, they may be dilated. Blood pressure can be near normal at first but falls progressively. A, C-F Overdose of these drugs is not characterized by pinpoint pupils.",
+   "source": "Pharmacology III-13 Q18",
+   "topic": "Medium",
+   "topic_n": 5
+  },
+  {
+   "question": "A 41-year-old man decided to stop smoking cigarettes and asked his family physician about a possible withdrawal syndrome. He had been smoking two packs of cigarettes daily for 24 years. Which of the following are the withdrawal symptoms the man was most likely to experience?",
+   "choices": [
+    "Tachycardia and hypertension",
+    "Decreased appetite and weight loss",
+    "Asthenia and sleepiness",
+    "Euphoria and elation",
+    "Irritability and restlessness"
+   ],
+   "answer": 4,
+   "explanation": "Upon sudden cessation of smoking tobacco, individuals who smoke 20 or more cigarettes daily develop an abstinence syndrome, which is usually not severe. Its main features are Irritability and restlessness (the most common symptoms) * Craving for cigarettes (usually intense and persistent) * Insomnia ¢ ° Fatigue * Difficulty in concentrating * Dysphoric, anxious, or depressed mood * Cough, dry throat, nasal drip * Constipation, stomach pain ¢ Decreased heart rate, hypotension * Increased appetite and weight gain B-E Nicotine abstinence symptoms are opposite to those listed in these options.",
+   "source": "Pharmacology III-13 Q19",
+   "topic": "Easy",
+   "topic_n": 14
+  },
+  {
+   "question": "A 53-year-old woman suffered a generalized seizure and was taken to the emergency department. On admission she was extremely anxious and agitated. She reported she had no history of epilepsy. Further questioning revealed that she had a long history of drug abuse, but the day before she decided to quit and ceased taking the abused drug. Withdrawal from which of the following drugs most likely caused the patient’s seizure?",
+   "choices": [
+    "Methamphetamine",
+    "LSD",
+    "Heroin",
+    "Cocaine",
+    "Cannabis",
+    "Alprazolam"
+   ],
+   "answer": 5,
+   "explanation": "People who have been using high doses of benzodiazepines, such as alprazolam, for long periods can experience withdrawal symptoms on abrupt termination of the administration. The withdrawal syndrome may include the following symptoms: * Following moderate dose usage: anxiety, agitation, increased sensitivity to light and sound, paresthesias, myoclonic jerks, sleep disturbances, dizziness * Following high-dose usage: delirium, seizure The abrupt onset of the withdrawal syndrome, as well as its severity, is a function of the half-life of the drug. Benzodiazepines with shorter elimination half-lives (alprazolam, lorazepam, temazepam, and midazolam) produce a rapidly evolving and severe withdrawal syndrome (symptoms within 12 to 24 hours after the last dose), whereas those with longer half-lives usually have a built-in tapering-off action that makes the withdrawal syndrome less severe but longer in duration. A No withdrawal syndrome from a hallucinogenic drug such as LSD has been observed. B, D-F Seizures are exceptionally rare in withdrawal syndromes from these drugs.",
+   "source": "Pharmacology III-13 Q20",
+   "topic": "Medium",
+   "topic_n": 6
+  },
+  {
+   "question": "A 48-year-old male alcoholic complained of flushing, nausea, a throbbing headache, and confusion after drinking a glass of wine. The man was taking a drug as part of his rehabilitation treatment for alcoholism. The symptoms of the patient are most likely caused by the accumulation in the body of which of the following substances?",
+   "choices": [
+    "Serotonin",
+    "Formaldehyde",
+    "Methanol",
+    "Dopamine",
+    "Acetaldehyde",
+    "Ethanol"
+   ],
+   "answer": 4,
+   "explanation": "The history and symptoms of the patient point out that the administered drug was most likely disulfiram, an agent approved by the U.S. Food and Drug Administration for the treatment of alcoholism. By inhibiting aldehyde dehydrogenase, disulfiram causes an accumulation of acetaldehyde, the substance responsible for the toxic symptoms exhibited by the patient. The rationale behind the therapy with disulfiram is based on the premise that the patient will not drink ethanol because of the unpleasant effect that occurs when ethanol is administered with disulfiram. Although effective pharmacologically, the drug has not been found effective in clinical trials because compliance with this therapy is often very low. A, C-E See correct answer explanation.",
+   "source": "Pharmacology III-13 Q21",
+   "topic": "Medium",
+   "topic_n": 7
+  },
+  {
+   "question": "A 15-year-old boy was admitted to the hospital in a panicky state, crying and complaining of being seriously ill. The boy, who had never used recreational drugs, had just smoked two drugged cigarettes at a party with his friends. Physical examination showed a confused and fearful patient with fast pulse (120 bpm), reddening of the conjunctiva with no change in pupil diameter, and diffuse tremor. Which of the following drugs did he most likely take?",
+   "choices": [
+    "Heroin",
+    "Amphetamine",
+    "Gamma-hydroxybutyric acid",
+    "Cocaine",
+    "Cannabis"
+   ],
+   "answer": 4,
+   "explanation": "The signs of the patient (reddening of the conjunctiva with no change in pupil diameter, a fast pulse, and a diffuse tremor) suggest that the boy was smoking marijuana and was experiencing an acute panic reaction. This reaction is the most frequently reported adverse effect of cannabis, and several surveys indicate that about one half of cannabis users have reported at least one panic experience. A, B Amphetamine and cocaine would have caused pronounced mydriasis. C A panic reaction is exceptionally rare with gammahydroxybutyric acid. D Heroin would have caused pronounced miosis.",
+   "source": "Pharmacology III-13 Q22",
+   "topic": "Medium",
+   "topic_n": 8
+  },
+  {
+   "question": "A50-year-old homeless man was brought to the emergency room by the police, who had found him disoriented and trembling under a bridge. Physical examination and vital signs led to the diagnosis of delirium tremens. Which of the following signs and symptoms did the patient most likely show?",
+   "choices": [
+    "Profound hypotension",
+    "Hypothermia",
+    "Visual hallucinations",
+    "Skeletal muscle relaxation",
+    "Pinpoint pupils"
+   ],
+   "answer": 2,
+   "explanation": "Delirium tremens characterizes stage 4 of ethanol abstinence syndrome. It includes terrifying visual (or, less frequently, auditory or tactile) hallucinations, marked weakness, gross disorientation in space and time, confusion, aggression, extreme psychic agitation, coarse tremors of the hands, head, and trunk, marked ataxia, nystagmus, muscular cramps, and signs of autonomic activation (sweating, nausea and vomiting, abdominal pain, hypertension, mydriasis, tachycardia, tachypnea, and hyperthermia). The life-threatening potential of alcohol abstinence syndrome is the highest of all such syndromes. When delirium tremens occurs, the mortality ranges from 5 to 15%, despite appropriate treatment, and is about 35% in untreated cases. Death usually occurs from respiratory failure and cardiac arrhythmias. A Mydriasis, not miosis, is a prominent symptom. B Hypertension, not hypotension, is present in most cases. C Hyperthermia, not hypothermia, is a prominent symptom. D Muscular cramps, not relaxation, is a prominent symptom.",
+   "source": "Pharmacology III-13 Q23",
+   "topic": "Easy",
+   "topic_n": 15
+  },
+  {
+   "question": "A 48-year-old woman became agitated and visibly tremulous and showed hallucinatory behavior 1 day after being admitted to the hospital for elective surgery. She also accused the doctors and her husband of being unsympathetic and uncaring. Which of the following statements most likely explains the reason for the patient’s behavior?",
+   "choices": [
+    "Halothane anesthesia used during surgery",
+    "Ethanol withdrawal",
+    "Opioid medication given before surgery",
+    "Benzodiazepine medication given before surgery Depressive episode triggered by the operation"
+   ],
+   "answer": 2,
+   "explanation": "Ethanol withdrawal can occur when an alcoholic person is forced to stop drinking because of some external event, such as the hospital admission in this case. The signs and symptoms of the patient (agitation, tremulousness, and hallucinations) are consistent with the first phase of alcohol withdrawal that typically occurs 8 to 48 hours after the last ethanol intake. A, B, D, E These events do not cause the syndrome exhibited by the patient.",
+   "source": "Pharmacology III-13 Q24",
+   "topic": "Medium",
+   "topic_n": 9
+  },
+  {
+   "question": "A 30-year-old man with a long history of polydrug abuse came to the emergency department after expectorating a “basin of blood.” The patient admitted he was regularly using intravenous heroin and oral amphetamine. He also said he had smoked marijuana, phencyclidine, and crack cocaine just prior to admission. A chest x-ray showed bilateral alveolar infiltrates, and bronchoscopy revealed diffuse alveolar hemorrhage. Which of the drugs he was taking most likely caused the hemorrhage?",
+   "choices": [
+    "Crack cocaine",
+    "Marijuana",
+    "Amphetamine",
+    "Heroin",
+    "Phencyclidine"
+   ],
+   "answer": 0,
+   "explanation": "Smoking freebase cocaine (crack) is a common cause of diffuse alveolar hemorrhage. Other causes are Goodpasture syndrome, systemic lupus erythematosus, systemic vasculitis, and rapidly progressing glomerulonephritis. Bilateral alveolar infiltrates are typical of diffuse alveolar hemorrhage. Bronchoscopy is the most useful procedure in defining bleeding sites and determining whether they are local or diffuse. A-D None of these drugs cause diffuse alveolar hemorrhage.",
+   "source": "Pharmacology III-13 Q25",
+   "topic": "Hard",
+   "topic_n": 1
+  },
+  {
+   "question": "A 16-year-old girl attended a party with several friends. A drug was covertly slipped into her drink, and a friend then asked her to join him for a walk in the park. A few hours later she was found with a contused face, bruises on her arms, and a torn dress. She stated she was unable to recall what had happened. Which of the following drugs was most likely put into her drink?",
+   "choices": [
+    "Phenobarbital",
+    "LSD",
+    "Cocaine",
+    "Heroin",
+    "BE OS Sek OS ae a Gamma-hydroxybutyric acid",
+    "Imipramine"
+   ],
+   "answer": 4,
+   "explanation": "The girl was most likely raped after a drug was added to her drink. Such “date rape” drugs can be used to assist in the commission of a sexual assault. Drugs used to facilitate rape may have sedative, hypnotic, dissociative, or amnesiac effects and can be added to food or drink without the victim’s knowledge. The three most commonly used date rape drugs are alcohol, gamma-hydroxybutyric acid (GHB), and benzodiazepines (e.g., flunitrazepam). Alcohol is most frequently implicated in substance-assisted sexual assault. Both benzodiazepines and GHB can cause anterograde amnesia, thus making the victim unable to recall the sexual assault. A-E These are not “date rape” drugs.",
+   "source": "Pharmacology III-13 Q26",
+   "topic": "Easy",
+   "topic_n": 16
+  },
+  {
+   "question": "A 46-year-old homeless alcoholic man was brought to the emergency department in a confused and incoherent state. He constantly repeated that he could not see clearly because of “flickering white spots in front of my eyes.” He was breathing rapidly, appeared very anxious, and showed marked mydriasis and loss of pupillary reflex. Laboratory exams on admission showed a serum pH of 7.2. Which of the following syndromes most likely caused the patient’s signs and symptoms?",
+   "choices": [
+    "Ethanol withdrawal",
+    "Barbiturate poisoning",
+    "Opiate withdrawal",
+    "Ethanol poisoning",
+    "Methanol poisoning",
+    "Amphetamine withdrawal"
+   ],
+   "answer": 4,
+   "explanation": "Methanol (methyl alcohol) is extensively used in cleaning products, fuel for small stoves, paint strippers, and gas line antifreeze. Poisoning sometimes occurs in homeless alcoholics who drink methanol when they are out of money and cannot purchase the daily amount of alcohol they require. Symptoms of methanol poisoning may appear as soon as 12 hours following ingestion, but they usually develop 24 hours after ingestion. These may resemble ethanol intoxication and consist of drowsiness, confusion, and ataxia, as well as weakness, headache, nausea, vomiting, and abdominal pain. Methanol toxicity in humans is primarily due to metabolism to formaldehyde and formic acid, a reaction catalyzed by the enzyme alcohol dehydrogenase. As methanol metabolism proceeds, the accumulation of these metabolites leads to a severe anion gap metabolic acidosis. Severe metabolic acidosis in conjunction with visual effects is the hallmark of methanol poisoning. Patients usually describe blurred or misty vision (e.g., being in a snowstorm), double vision, or changes in color perception. There may be constricted visual field and, occasionally, total loss of vision. Characteristic visual dysfunctions include pupillary dilation and loss of pupillary reflex. Treatment of methanol poisoning includes suppression of its metabolism to toxic products. Because ethanol is metabolized preferentially by alcohol dehydrogenase, its administration (orally or intravenously) can retard the biotransformation of methanol to its toxic metabolites. A more specific inhibitor of alcohol dehydrogenase, fomepizole, has been approved for treatment of methanol and ethylene glycol poisoning. A-E These syndromes do not cause the signs and symptoms exhibited by the patient.",
+   "source": "Pharmacology III-13 Q27",
+   "topic": "Medium",
+   "topic_n": 10
+  },
+  {
+   "question": "An 18-year-old male patient started smoking marijuana cigarettes 1 month ago. He was healthy and had no previous history of use of recreational drugs. Three years earlier, he was in a psychiatric hospital for 2 months because of a schizoaffective disorder that disappeared after neuroleptic therapy. The patient was at increased risk of which of the following cannabis-induced adverse effects?",
+   "choices": [
+    "Depressive episode",
+    "Atrioventricular block",
+    "Psychotic episode",
+    "Seizures",
+    "Irritable bowel syndrome"
+   ],
+   "answer": 2,
+   "explanation": "The ordinary use of cannabis produces little or no disturbances of behavior in people with stable personality. However, there are numerous clinical reports that cannabis use can precipitate a recurrence in people with a history of schizophrenia. A A depressive episode after cannabis use is extremely rare. B, D, E Cannabis use does not increase the risk of these disorders.",
+   "source": "Pharmacology III-13 Q28",
+   "topic": "Medium",
+   "topic_n": 11
+  },
+  {
+   "question": "A 39-year-old man had been using many recreational drugs over several years. Which of the following drugs taken by this polydrug user is known to be devoid of physical dependence?",
+   "choices": [
+    "Heroin",
+    "Cannabis",
+    "Phencyclidine",
+    "Cocaine",
+    "Ethanol (e. JUS)"
+   ],
+   "answer": 0,
+   "explanation": "Unlike most recreational drugs, hallucinogenic agents such as LSD induce neither physical nor psychological dependence and therefore do not lead to addiction. A likely reason for this is that these drugs primarily influence cortical and thalamic circuits and do not activate the mesolimbic dopamine reward system. A, B, D-F All of these drugs can cause more or less pronounced physical dependence when used chronically.",
+   "source": "Pharmacology III-13 Q29",
+   "topic": "Medium",
+   "topic_n": 12
+  },
+  {
+   "question": "A 27-year-old man with a long history of drug abuse was brought unconscious to the emergency department. Vital signs were blood pressure 190/110 mm Hg, pulse 150 beats/ min, rectal temperature 104°F (40°C). Pupils were mydriatic, and his skin was moist and cold. Twenty minutes later he experienced a tonic-clonic seizure, his respiration became shallow, and his systolic blood pressure fell to 50 mm Hg. Shortly afterward he died from cardiovascular collapse and ventricular fibrillation. Which of the following drugs most likely caused the patient’s death?",
+   "choices": [
+    "Gamma-hydroxybutyric acid",
+    "Heroin",
+    "Ketamine",
+    "Tetrahydrocannabinol",
+    "Cocaine",
+    "Diazepam",
+    "LSD"
+   ],
+   "answer": 4,
+   "explanation": "The patient’s syndrome was most likely due to cocaine overdose. This syndrome is often rapidly fatal because of seizures, respiratory depression, and arrhythmias, as in this case. A Death can occur from heroin overdose, but the syndrome is characterized by coma, shallow breathing, and miotic, not mydriatic, pupils. B Death can occur from gamma-hydroxybutyric acid overdose, but the syndrome is characterized by coma, myoclonic movements, bradycardia (about 30% of patients), and hypothermia, not hyperthermia. C-F The risk of death from overdose by these drugs is negligible.",
+   "source": "Pharmacology III-13 Q30",
+   "topic": "Medium",
+   "topic_n": 13
+  },
+  {
+   "question": "A 30-year-old woman came to the emergency department because she felt disassociated from her body, had no sense of her ego boundaries, and found that objects around her were grossly distorted. The woman, who had been a polydrug user for many years, had smoked three drugged cigarettes bought on the street. Physical examination showed blood pressure of 168/100 mm Hg, miosis, vertical and horizontal nystagmus, sweating, and flushed skin. Which of the following is most likely the major mechanism of action of the drug that apparently caused the patient’s signs and symptoms?",
+   "choices": [
+    "Inhibition of transmitter reuptake at noradrenergic synapses",
+    "Blockade of NMDA subtype of glutamate receptors",
+    "Activation of serotonergic presynaptic receptors",
+    "Activation of 1: (mu)-type opiate receptors",
+    "Stimulation of the release of monoamines from the synaptic vesicles"
+   ],
+   "answer": 1,
+   "explanation": "The vertical and horizontal nystagmus showed by the patient suggests that she smoked phencyclidine-drugged cigarettes. Nystagmus (vertical, horizontal, or rotatory) is considered a hallmark of phencyclidine intoxication, as it is present in up to 69% of cases. Phencyclidine binds with high affinity and blocks the N-methyl-p-aspartate (NMDA) subtype of glutamate receptors in the brain. This seems to be the main mechanism of action of the drug, but other mechanisms have been proposed, including the activation of py (mu) opioid receptors, which may account for its analgesic properties. A-D See correct answer explanation.",
+   "source": "Pharmacology III-13 Q31",
+   "topic": "Hard",
+   "topic_n": 2
+  },
+  {
+   "question": "A 16-year-old girl started feeling nervous and experienced mild nausea after taking a drug while at a party. One hour later she became hysterical, crying and yelling about being crazy. Two friends took her to the hospital. Physical examination showed mydriasis but no nystagmus, mild tachycardia, blood pressure of 160/98 mm Hg, sweating, and tremor. She appeared very anxious and stated that she had a strong sense that the furniture in the room was alive and that surrounding sounds were colored. Which of the following drugs most likely caused the patient's signs and symptoms?",
+   "choices": [
+    "LSD",
+    "Phencyclidine",
+    "Cocaine",
+    "Amy] nitrite",
+    "Heroin",
+    "Cannabis"
+   ],
+   "answer": 0,
+   "explanation": "The symptoms and signs of the patient indicate that she had taken LSD (lysergic acid diethylamide) and was experiencing a mild adverse mental effect that in the users’ jargon is a “bad trip.” A more severe psychotic reaction can rarely occur with terrifying hallucinations, panic reactions, loss of emotional control, and cataleptic behavior. The users refer to this as a “freak-out.” A Cocaine can cause some of the patient’s signs and symptoms (mydriasis, tachycardia, increased blood pressure, sweating, and tremor), but the type of illusion she experienced (room furniture being “alive”) is an extremely rare effect of cocaine overdose. B Opioid effects are mainly depressant in nature, and miosis, not mydriasis, is a prominent sign. CA very large dose of cannabinoids can cause distortion of visual perception and hallucinations, but these are usually accompanied by drowsiness and lethargy, not by excitation. D Amy] nitrite is a volatile liquid that is sometimes abused to enhance orgasm. It can only produce a transient feeling of “rush,” flushing, and dizziness. E Phencyclidine causes effects that can be similar to those of LSD, but nystagmus is a prominent effect of the drug and is absent in this patient.",
+   "source": "Pharmacology III-13 Q32",
+   "topic": "Hard",
+   "topic_n": 3
+  },
+  {
+   "question": "A 23-year-old man was brought to the emergency department by police for violent, combative behavior. Friends claimed he took some tablets of a recreational drug at a party. The patient appeared agitated, diaphoretic, and disoriented. His blood pressure was 170/100 mm Hg, pulse 130 bpm, and temperature 101°F (about 38°C). His pupils were miotic, unreactive to light, and vertical and horizontal nystagmus was noted. Which of the following drugs most likely caused the patient’s signs and symptoms?",
+   "choices": [
+    "Cocaine",
+    "Marijuana",
+    "LSD",
+    "Heroin",
+    "Phencyclidine"
+   ],
+   "answer": 4,
+   "explanation": "The signs and symptoms of the patient suggest that phencyclidine was most likely the self-administered drug. Phencyclidine causes effects that are different from those of psychedelic drugs such as LSD. In low doses, the drug causes emotional withdrawal, inebriation, ataxia, changes in body image, and a mind-body dissociative feeling. Horizontal nystagmus, vertical nystagmus, or both are often present and are considered hallmarks of phencyclidine intoxication. As the dose of phencyclidine increases, the patient may manifest agitation, hostile and assaultive behavior (unlike psychedelic drugs, which very rarely cause such behavior). The action of the drug on the autonomic nervous system becomes more prominent and is characterized by a confusing combination of adrenergic, cholinergic, and dopaminergic effects. A hypertensive response is typically encountered. Tachycardia, tachypnea, hyperthermia, and miosis (or, more rarely, mydriasis) may also be noted. The agitated, combative patient often has feelings of great strength. This, combined with the anesthetic effect of the drug, can result in serious injury because there is no pain sensation to stop the physical activity. With very large doses, catatonia and coma can occur with muscular rigidity that can cause rhabdomyolysis. A, B, D, E All of these drugs can cause some or many of the symptoms exhibited by the patient, but nystagmus is rare.",
+   "source": "Pharmacology III-13 Q33",
+   "topic": "Medium",
+   "topic_n": 14
+  },
+  {
+   "question": "A 3-year-old boy was brought to the emergency department with severe vomiting after having ingested an antifreeze mixture containing ethylene glycol. Vital signs were blood pressure 70/40 (normal at age 3: 100/67), heart rate 115 bpm, respirations 22 breaths/min. Lab tests showed a plasma pH of 7.2 and oxalate crystals in the urine. An intravenous solution of 10% ethanol was given. Which of the following statements best explains the purpose of ethanol treatment in this patient?",
+   "choices": [
+    "It speeds up the metabolism of ethylene glycol by the liver.",
+    "It combines with ethylene glycol in blood, leading to an inert product.",
+    "It prevents the absorption of ethylene glycol from the intestines.",
+    "It speeds up the elimination of ethylene glycol by the kidneys.",
+    "It retards the oxidation of ethylene glycol to its toxic metabolites."
+   ],
+   "answer": 4,
+   "explanation": "Poisoning by ethylene glycol is not uncommon in young children because of its sweet taste. The chemical itself is relatively nontoxic, but it is biotransformed into hippuric, oxalic, and glycolic acids by the enzyme alcohol dehydrogenase. These metabolites are toxic and can cause severe metabolic acidosis, renal failure, and coma. Metabolism of ethylene glycol to its toxic products can be blocked by inhibiting alcohol dehydrogenase. Ethanol is metabolized preferentially by alcohol dehydrogenase; therefore, its administration (orally or intravenously) can retard the biotransformation of ethylene glycol to its toxic metabolites. A, B, D, E See correct answer explanation.",
+   "source": "Pharmacology III-13 Q34",
+   "topic": "Easy",
+   "topic_n": 17
+  },
+  {
+   "question": "A 24-year old man, who had started smoking marijuana 5 years ago, had been smoking 5 to 10 marijuana cigarettes daily and occasionally self-injecting pure hashish oil. The man was most likely at increased risk of which of the following adverse events? Death from parenteral injection of hashish oil Death from acute cannabis withdrawal Colon cancer Driving or work accidents Alzheimer disease",
+   "choices": [
+    "Alzheimer disease",
+    "Death from parenteral injection of hashish oil",
+    "Death from acute cannabis withdrawal",
+    "Colon cancer",
+    "Driving or work accidents"
+   ],
+   "answer": 4,
+   "explanation": "Because cannabis alters the sense of time and spatial perception, the risk of driving or work accidents is increased in people who are using cannabis. A There is no recorded death from parenteral injection of pure hashish oil. The therapeutic index of cannabinoids is exceedingly high. B A mild abstinence syndrome has been described following chronic use of very high doses. The syndrome includes increased restlessness, irritability, confusion, insomnia, sleep disturbances, nausea, cramping, and sweating. The syndrome is never lethal. C, E There are no data reported in the literature of an increased risk of these diseases with the use of cannabis.",
+   "source": "Pharmacology III-13 Q35",
+   "topic": "Medium",
+   "topic_n": 15
+  },
+  {
+   "question": "A 32-year-old man was brought to the emergency department after taking a large amount of ecstasy at a rave party. Physical examination showed a confused and agitated patient with profuse sweating, jaw clenching, muscle twitching and rigidity, and temperature of 103.8°F (39.8°C). Vital signs were blood pressure 170/98 mg Hg, pulse 115 bpm, respirations 22/min. Blood analysis showed the presence of methylenedioxymethamphetamine (MDMA). Which of the following neurotransmitters most likely mediated the effects of the drug in this patient?",
+   "choices": [
+    "Norepinephrine",
+    "pao y Spee",
+    "perctenin .",
+    "Dopamine",
+    "Gamma-aminobutyric acid (GABA)",
+    "Glut u amate"
+   ],
+   "answer": 2,
+   "explanation": "The patient’s signs and symptoms (hyperthermia, mental status changes, and muscle rigidity) suggest that he was most likely suffering from serotonin syndrome. MDMA causes the release of monoamines by reversing the action of their respective transporters. It has a preferential affinity for serotonin transporter resulting in increased synaptic levels of serotonin. The release of this neurotransmitter is so great that there is a marked intracellular depletion for 24 hours after a single dose A, C-F See correct answer explanation.",
+   "source": "Pharmacology III-13 Q36",
+   "topic": "Easy",
+   "topic_n": 18
+  },
+  {
+   "question": "An 18-year-old male patient who had never previously drunk a large amount of alcohol was brought unconscious to the emergency department after drinking whiskey in a betting game at a party. His alcohol level on admission was 5 mg/mL. The volume of distribution of ethanol is about 45 L. Which of the following (in grams) was most likely the quantity of alcohol present in the patient’s body?",
+   "choices": [
+    "400",
+    "355",
+    "425",
+    "100",
+    "300",
+    "225"
+   ],
+   "answer": 5,
+   "explanation": "The quantity of a drug in a person's body can be calculated by Amount = (Gs xVi, where C, is plasma concentration and V, is volume of distribution. Therefore, the quantity in the patient’s body on admission was about 225 g, a quantity close to the lethal dose for 50% of subjects (LD...) of ethanol. A, C-F See correct answer explanation.",
+   "source": "Pharmacology III-13 Q37",
+   "topic": "Easy",
+   "topic_n": 19
+  },
+  {
+   "question": "A 24-year-old woman who had never previously used recreational drugs took one tablet of LSD at a party. The central nervous system (CNS) effects of this drug are primarily related to the activation of which of the following receptor types in the CNS?",
+   "choices": [
+    "Noradrenergic",
+    "Muscarinic",
+    "Serotoninergic",
+    "GABAergic",
+    "Nicotinic",
+    "Glutamatergic"
+   ],
+   "answer": 2,
+   "explanation": "LSD (lysergic acid diethylamide) is a semisynthetic ergot alkaloid. Extensive studies have shown that the drug, like most ergot derivatives, interacts with several serotonin receptor subtypes in the brain (mainly 5-HT,, and 5-HT,,) as a full or partial agonist. It appears to act as a full agonist at 5-HT,, autoreceptors in raphe neurons, producing a marked slowing of the firing rate of serotonergic neurons. Action on 5-HT,, receptors appears to disrupt thalamic gating, which in turn causes sensory overload of the brain cortex. A-C, E, F See correct answer explanation.",
+   "source": "Pharmacology III-13 Q38",
+   "topic": "Easy",
+   "topic_n": 20
+  },
+  {
+   "question": "A 34-year-old man with a long history of drug abuse came to the hospital complaining of severe somnolence, ravenous appetite, headache, depression, and lack of motivation. He said he failed to get a supply of the drug he was used to taking and repeatedly asked the doctor to give him that drug to reduce his symptoms. Withdrawal from which of the following drugs may have caused these symptoms?",
+   "choices": [
+    "Amphetamine",
+    "Phencyclidine",
+    "Diazepam",
+    "Heroin",
+    "Ethanol"
+   ],
+   "answer": 0,
+   "explanation": "Signs and symptoms of withdrawal from an abused drug tend to be opposite to the original effects produced by that drug. Therefore, the withdrawal syndrome from psychostimulant drugs such as amphetamines and cocaine is manly depressant in nature and includes somnolence, headache, depression, and lack of motivation. Because amphetamine-like drugs cause anorexia, a ravenous appetite is also a prominent symptom of withdrawal. The withdrawal syndrome from amphetamine-like drugs may last for several days. A-C, E The withdrawal syndrome from these drugs is mainly excitatory in nature.",
+   "source": "Pharmacology III-13 Q39",
+   "topic": "Medium",
+   "topic_n": 16
+  },
+  {
+   "question": "A 55-year-old woman with a long history of severe alcoholism was admitted to the hospital because of deterioration of her general status. Physical examination and lab tests confirmed advanced liver cirrhosis. Which of the following was most likely another disease found in this patient?",
+   "choices": [
+    "Dilated cardiomyopathy",
+    "Renal insufficiency",
+    "Pulmonary emphysema",
+    "Stomach cancer",
+    "Ulcerative colitis"
+   ],
+   "answer": 0,
+   "explanation": "Chronic use of high doses of ethanol can damage several organs, but the liver, brain, and heart are the ones most frequently involved. Dilated cardiomyopathy is due to extensive myocardial fibrosis with diffuse loss of myocytes. This results in thinning of heart walls, consequent dilation of ventricular chambers, and heart failure. Patients with advanced alcoholic cardiomyopathy and severe heart failure have a poor prognosis, particularly if they continue to drink; less than one quarter of such patients survive 3 years. A-D, F The increased risk of these diseases due to alcoholism is low or negligible.",
+   "source": "Pharmacology III-13 Q40",
+   "topic": "Medium",
+   "topic_n": 17
+  },
+  {
+   "question": "A57-year-old homeless man was brought to the emergency department by the police, who had found him wandering the streets. The man had a long history of alcoholism; he also abused various inhalants when he did not have money to buy alcohol. He admitted that almost daily over the past 3 months, he had inhaled a drug supplied by a local vendor in cartridges because it was much cheaper than alcohol. Pertinent findings on physical examination included muscle weakness, unsteady gait, vibratory sense loss on lower extremities, and hyperalgesia. Which of the following drugs most likely caused the patient’s syndrome?",
+   "choices": [
+    "Nitrous oxide",
+    "Propane",
+    "Amyl nittite",
+    "Isoflurane",
+    "Helium"
+   ],
+   "answer": 0,
+   "explanation": "The patient was most likely suffering from polyneuropathy due to chronic administration of nitrous oxide. This gas can be found easily because it is used in the food and car industries. Common sources are cartridges used to recharge whipped cream containers. The brief euphoria produced by nitrous oxide makes it prone to abuse. The mechanism of nitrous oxide-induced neuropathy is still uncertain but seems related to a deficiency of vitamin B,,, because the drug inactivates the vitamin by oxidation of the cobalt atom. The deficiency is more likely in persons already at risk of vitamin B,, deficiency, as in this case (see the long history of alcoholism). A Amyl nitrite is sometimes abused but does not cause polyneuropathy. C-E These are not abused drugs.",
+   "source": "Pharmacology III-13 Q41",
+   "topic": "Easy",
+   "topic_n": 21
+  },
+  {
+   "question": "A 10-year-old boy was brought by his mother to their family physician’s office because she realized that recently the boy’s behavior had changed. Careful inquiry by the physician eventually made the boy admit he had started sniffing some paint thinners and stain removers, following a friend’s suggestion. The pattern of effects caused by these inhalants is most similar to that caused by which of the following drugs?",
+   "choices": [
+    "Cocaine",
+    "Morphine",
+    "LSD",
+    "Amphetamine",
+    "Ethanol"
+   ],
+   "answer": 4,
+   "explanation": "Inhalants are a group of substances whose chemical vapors can be inhaled to produce pleasant effects. Whereas other abused substances can be inhaled, the term inhalants is used to describe substances that are rarely, if ever, taken in any other way. A variety of products common in the home and workplace contain substances that can be inhaled. These include volatile solvents, such as glues and stain removers, and aerosols that contain propellants and solvents, such as deodorant sprays and whipped cream aerosols. Children and adolescents are particularly prone to this form of abuse because the chemicals can be easily found at home. Gases and vapors are rapidly absorbed when inhaled and tend to distribute preferentially in lipid-rich and highly perfused organs, such as the brain and the liver. Nearly all inhalants have central nervous system (CNS) depressant effects, and evidence from animal studies suggests that their effects and mechanism of action are similar to those of alcohol and other sedative-hypnotics. They produce a temporary stimulation and reduced inhibition before the depressive CNS effects occur. Inhalant abuse is typically episodic in nature; thus, users may not be exposed to levels with sufficient frequency necessary to develop physical dependence. However, it is a very dangerous habit because inhaling highly concentrated amounts of the chemicals can cause heart failure and death within minutes after repeated inhalation (a syndrome known as “sudden sniffing death”). A-D See correct answer explanation.",
+   "source": "Pharmacology III-13 Q42",
+   "topic": "Easy",
+   "topic_n": 22
+  },
+  {
+   "question": "A 23-year-old man was found dead at home by his roommate. The roommate said they were at a party the night before and went home at about 3:00 a.m. He also reported that the patient was a drug user and tried different drugs from time to time. Autopsy showed a blood level of morphine substantially lower than the estimated minimum lethal concentration of the drug. The pathologist was quite sure that the death was caused by the concomitant administration of another drug. Which of the following was most likely the other drug involved in the patient’s death?",
+   "choices": [
+    "| Bs) D)",
+    "Amphetamine",
+    "Methylphenidate",
+    "Marijuana",
+    "Cc. Ethanol"
+   ],
+   "answer": 4,
+   "explanation": "The patient’s history and blood exams suggest that his death was most likely due to a combination of heroin (which is converted to morphine) and alcohol. Ethanol enhances the sedative effects of most other CNS depressants, including sedative-hypnotics, opioids, several neuroleptics, and some antihistamines, as well as the effects of some psychostimulant drugs, including cocaine and amphetamine. The interaction between alcohol and sedative-hypnotics or opioids is particularly prominent, and several studies indicate that ethanol substantially decreases the minimum lethal concentration of heroin, as in this case. A, B, D, E These drugs do not enhance the CNS depressant effects of opioids. Death due to a combination of an opioid and one of the listed drugs is exceptionally rare.",
+   "source": "Pharmacology III-13 Q43",
+   "topic": "Easy",
+   "topic_n": 23
+  },
+  {
+   "question": "A 16-year-old boy was brought by his friends to the emergency department because he felt a general malaise, strong headache, and nausea and asked for medical assistance. History revealed that 6 hours earlier, the boy, who had never previously used recreational drugs, smoked two drugged cigarettes at a party. Physical examination showed an agitated and talkative patient with mydriasis, muscle twitching, and a fine hand tremor. Vital signs were blood pressure 160/95 mm Hg, pulse 115 bpm, respirations 24/min. Which of the following drugs most likely caused the patient’s signs and symptoms?",
+   "choices": [
+    "Marijuana",
+    "Cocaine",
+    "LSD",
+    "Heroin",
+    "Amphetamine"
+   ],
+   "answer": 4,
+   "explanation": "The patient’s history and symptoms indicate that he was most likely suffering from a psychostimulant overdose. Cocaine and amphetamines have very similar physiological and psychological effects. Although the specific mechanisms of action are different, the final molecular action is quite similar; that is, both can increase the availability of monoamines in the synaptic cleft of brain neurons. This explains why even experienced drug users cannot distinguish the effect of the two drugs when they are injected intravenously; the orgasm-like sensation is practically the same. The patient’s history, however, indicates that amphetamine was most likely the culprit drug, as the effects of amphetamine can last several hours, whereas the effects of cocaine generally last less than 1 hour. A See correct answer explanation. B, C, E, F These drugs do not cause the pattern of effects shown by the patient. DRUGS of ABUSE",
+   "source": "Pharmacology III-13 Q44",
+   "topic": "Medium",
+   "topic_n": 18
+  }
+ ]
+}

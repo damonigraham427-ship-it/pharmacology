@@ -1,0 +1,458 @@
+{
+ "questions": [
+  {
+   "question": "A halogenated anesthetic that causes fast induction and recovery",
+   "choices": [
+    "Sevoflurane",
+    "Fentanyl",
+    "Halothane",
+    "Ketamine",
+    "Thiopental",
+    "Midazolam",
+    "Nitrous oxide",
+    "Propofol",
+    "Etomidate"
+   ],
+   "answer": 0,
+   "explanation": "Matching question; the book prints only the answer key for matching sets (key: B).",
+   "source": "Pharmacology III-3 Q1",
+   "topic": "Easy",
+   "topic_n": 1
+  },
+  {
+   "question": "A drug that can trigger an attack of acute porphyria in at-risk patients",
+   "choices": [
+    "Midazolam",
+    "Ketamine",
+    "Thiopental",
+    "Sevoflurane",
+    "Propofol",
+    "Halothane",
+    "Nitrous oxide",
+    "Fentanyl",
+    "Etomidate"
+   ],
+   "answer": 2,
+   "explanation": "Matching question; the book prints only the answer key for matching sets (key: D).",
+   "source": "Pharmacology III-3 Q2",
+   "topic": "Easy",
+   "topic_n": 2
+  },
+  {
+   "question": "This drug has the highest incidence of postanesthetic nausea and vomiting.",
+   "choices": [
+    "Ketamine",
+    "Propofol",
+    "Thiopental",
+    "Etomidate",
+    "Halothane",
+    "Midazolam",
+    "Nitrous oxide",
+    "Sevoflurane",
+    "Fentanyl"
+   ],
+   "answer": 3,
+   "explanation": "Matching question; the book prints only the answer key for matching sets (key: F).",
+   "source": "Pharmacology III-3 Q3",
+   "topic": "Easy",
+   "topic_n": 3
+  },
+  {
+   "question": "This inhaled anesthetic substantially reduces the required concentration of other inhaled anesthetics given concomitantly.",
+   "choices": [
+    "Etomidate",
+    "Thiopental",
+    "Nitrous oxide",
+    "Halothane",
+    "Ketamine",
+    "Fentanyl",
+    "Propofol",
+    "Midazolam",
+    "Sevoflurane"
+   ],
+   "answer": 2,
+   "explanation": "Matching question; the book prints only the answer key for matching sets (key: C).",
+   "source": "Pharmacology III-3 Q4",
+   "topic": "Easy",
+   "topic_n": 4
+  },
+  {
+   "question": "A drug that can cause a cataleptic state called dissociative anesthesia",
+   "choices": [
+    "Midazolam",
+    "Halothane",
+    "Sevoflurane",
+    "Ketamine",
+    "Propofol",
+    "Etomidate",
+    "Nitrous oxide",
+    "Thiopental",
+    "Fentanyl"
+   ],
+   "answer": 3,
+   "explanation": "Matching question; the book prints only the answer key for matching sets (key: G).",
+   "source": "Pharmacology III-3 Q5",
+   "topic": "Easy",
+   "topic_n": 5
+  },
+  {
+   "question": "A59-year-old man underwent surgery to repair an inguinal hernia. Lorazepam was administered as preanesthetic medication. General anesthesia was induced by propofol and maintained with halothane and nitrous oxide, Ondansetron was also given to prevent vomiting. Fifteen minutes after starting the operation, the electrocardiogram monitor showed ventricular tachycardia. Which of the drugs most likely caused this adverse effect?",
+   "choices": [
+    "Nitrous oxide",
+    "Lorazepam",
+    "Ondansetron",
+    "Halothane",
+    "Propofol"
+   ],
+   "answer": 3,
+   "explanation": "Halothane can cause cardiac arrhythmias because it increases the automaticity of the heart and sensitizes the heart to catecholamines. Other halogenated anesthetics are less likely to produce cardiac arrhythmias. A-C, E See correct answer explanation.",
+   "source": "Pharmacology III-3 Q7",
+   "topic": "Easy",
+   "topic_n": 6
+  },
+  {
+   "question": "A 32-year-old man was admitted to the hospital for reduction of a dislocated shoulder. Sedation with diazepam was supplemented with a 30% concentration of nitrous oxide. Which of the following effects most likely occurred after nitrous oxide administration?",
+   "choices": [
+    "Sharp decrease in blood pressure",
+    "Excellent skeletal muscle relaxation",
+    "Rapidly achieved unconsciousness",
+    "Profound respiratory depression",
+    "Very pronounced analgesia"
+   ],
+   "answer": 4,
+   "explanation": "In subanesthetic concentrations, nitrous oxide can induce a euphoric state accompanied by very good analgesia. For this reason, it is frequently used as an analgesic in minor orthopedic and dental procedures that do not require general anesthesia, as in this case. A Muscle relaxation with nitrous oxide is negligible. C Unconsciousness cannot be achieved with nitrous oxide alone even when given at 100% concentration in the inspired air. D Blood pressure is well maintained by nitrous oxide because the direct depressant effect upon the heart is counteracted by sympathetic stimulation. E Respiration is minimally affected by nitrous oxide.",
+   "source": "Pharmacology III-3 Q8",
+   "topic": "Easy",
+   "topic_n": 7
+  },
+  {
+   "question": "A 64-year-old man underwent surgery for prostate cancer. An intravenous injection of thiopental was administered, and the patient lost consciousness in about 10 seconds. Which of the following was most likely the major mechanism of action mediating the anesthetic effect of this drug?",
+   "choices": [
+    "Activation of GABA, receptors on presynaptic terminals",
+    "Enhancement of B-carboline affinity for GABA, receptors",
+    "Enhancement of Cl channel opening in the absence of GABA",
+    "Blockade of NMDA glutamate receptors in the central nervous system",
+    "Increased affinity of GABA for GABA, receptors"
+   ],
+   "answer": 2,
+   "explanation": "All barbiturates increase the affinity of GABA for GABA, receptors, but unlike benzodiazepines, when given at high doses they can enhance Cl channel opening in the absence of GABA. Because the dose of thiopental was high enough to lose consciousness, the mechanism of this action was most likely an enhancement of Cl channel opening in the absence of GABA. A-C, E See correct answer explanation.",
+   "source": "Pharmacology III-3 Q9",
+   "topic": "Hard",
+   "topic_n": 1
+  },
+  {
+   "question": "A 34-year-old woman was admitted to the day surgery center for strabismus surgery. This surgery is considered highly emetogenic due to a stimulation of the vomiting center during the operative manipulation of extraocular muscles. Which of the following anesthetics would be most appropriate for this patient?",
+   "choices": [
+    "Propofol",
+    "Ketamine",
+    "Halothane",
+    "Thiopental",
+    "Fentanyl"
+   ],
+   "answer": 0,
+   "explanation": "Propofol is an intravenous anesthetic with an onset and duration of anesthesia similar to that of thiopental. It is the only anesthetic with antiemetic action, so it is the preferred drug in patients at high risk of nausea and vomiting, as in this case. A-C, E See correct answer explanation.",
+   "source": "Pharmacology III-3 Q10",
+   "topic": "Easy",
+   "topic_n": 8
+  },
+  {
+   "question": "A 52-year-old woman underwent hysterectomy to remove an endometrial carcinoma. Anesthesia was induced with thiopental and maintained with nitrous oxide and halothane. Which of the following reasons best explains why another anesthetic, in this case halothane, was added to nitrous oxide?",
+   "choices": [
+    "To prevent sensitization of the myocardium to catecholamines",
+    "To prevent anesthesia-induced respiratory depression",
+    "To maintain unconsciousness and muscle relaxation",
+    "To prevent postanesthetic nausea and vomiting",
+    "To achieve a more complete analgesia"
+   ],
+   "answer": 2,
+   "explanation": "Unconsciousness, which is usually achieved with thiopental, cannot be maintained with nitrous oxide alone (the drug has a minimum alveolar concentration higher than 100%), and therefore another potent anesthetic is needed. Moreover, nitrous oxide has negligible effects on skeletal muscle tone, so a halogenated anesthetic is given with it most of the time (all halogenated anesthetics cause relaxation of skeletal muscle and enhance the effects of neuromuscular blocking agents). A Nitrous oxide-induced analgesia is excellent, even at low concentration of the gas. C-E Halothane can cause, not prevent, all of these effects.",
+   "source": "Pharmacology III-3 Q11",
+   "topic": "Easy",
+   "topic_n": 9
+  },
+  {
+   "question": "A 12-year-old boy was admitted to the hospital with the admitting diagnosis of acute appendicitis. Family history of the patient indicated that his father underwent surgery a few years earlier and suffered a serious disorder just after the beginning of general anesthesia. Further analysis indicated that the disorder was an inherited autosomal dominant disease. Because of this, the anesthesiologist avoided the use of halogenated anesthetics in this boy. Which of the following was most likely the disorder suffered by the patient’s father?",
+   "choices": [
+    "Malignant hyperthermia",
+    "Acute intermittent porphyria",
+    "Hemolytic anemia",
+    "Acute hepatitis",
+    "Myasthenia gravis"
+   ],
+   "answer": 0,
+   "explanation": "In genetically susceptible patients, all halogenated anesthetics can trigger malignant hyperthermia, an autosomal dominant disorder characterized by severe muscle contraction, rapid development of hyperthermia, and a massive increase in metabolic rate. The syndrome is frequently fatal. A Acute intermittent porphyria is an idiosyncratic disorder that can be triggered by barbiturates, not by halogenated anesthetics. C Acute hepatitis is a rare disease that can be induced by halothane but not by other halogenated anesthetics. Moreover, it is not a genetic disorder. D, E These diseases are not genetically determined and are not induced by halogenated anesthetics.",
+   "source": "Pharmacology III-3 Q12",
+   "topic": "Easy",
+   "topic_n": 10
+  },
+  {
+   "question": "A 43-year-old man underwent surgery to remove a prostatic cancer. Sevoflurane was used for general anesthesia. The drug has a minimum alveolar concentration (MAC) of 2%. Which of the following best describes the MAC of an inhalational anesthetic?",
+   "choices": [
+    "The concentration of anesthetic needed for short surgery",
+    "The ED50 on a conventional quantal dose-response curve",
+    "The concentration of anesthetic in the inspired air",
+    "The blood/gas partition coefficient of the anesthetic",
+    "The maximal efficacy of the anesthetic"
+   ],
+   "answer": 1,
+   "explanation": "The minimum alveolar concentration (MAC) is defined as the concentration of the anesthetic that results in the immobility of 50% of patients when exposed to a supramaximal noxious stimulus. Thus, MAC represents the ED.) on a conventional quantal dose-response curve and is therefore a measure of the potency of the inhaled anesthetic. A, B, D, E See correct answer explanation.",
+   "source": "Pharmacology III-3 Q13",
+   "topic": "Easy",
+   "topic_n": 11
+  },
+  {
+   "question": "A 48-year-old woman underwent surgery to remove a uterine myoma. General anesthesia was induced with propofol and maintained by sevoflurane and nitrous oxide. The blockade of which of the following receptors most likely mediated the effectiveness of nitrous oxide in this patient?",
+   "choices": [
+    "NMDA glutamatergic",
+    "5-HT, serotonergic",
+    "Nm cholinergic",
+    "Alpha-1 adrenergic",
+    "GABAergic"
+   ],
+   "answer": 0,
+   "explanation": "Nitrous oxide is a potent and selective inhibitor of NUDAactivated current, suggesting that its depressant effects on the central nervous system are produced via noncompetitive antagonistic activity at NMDA receptors. A, B, D, E See correct answer explanation.",
+   "source": "Pharmacology III-3 Q14",
+   "topic": "Easy",
+   "topic_n": 12
+  },
+  {
+   "question": "A 44-year-old woman underwent surgery because of a prolapsed intervertebral disk. General anesthesia was induced with propofol and maintained with sevoflurane. When administration of sevoflurane was discontinued, the patient regained consciousness in a few minutes. Which of the following statements best explains why anesthetic recovery is so rapid when sevoflurane administration is stopped?",
+   "choices": [
+    "It has a low minimum alveolar concentration (MAC) value.",
+    "It is rapidly metabolized.",
+    "It has a low blood/gas partition coefficient.",
+    "It redistributed rapidly to the lipid tissue.",
+    "It distributes mainly into the cerebral cortex."
+   ],
+   "answer": 2,
+   "explanation": "Sevoflurane has a blood/gas partition coefficient of 0.69. Halothane, the prototype of halogenated general anesthetics, has a blood/gas partition of 2.4. Because the speed of induction and recovery of anesthesia are inversely proportional to the blood/gas partition coefficient, sevoflurane causes a rapid anesthetic induction and recovery. A Redistribution can be a factor that speeds up the recovery from anesthesia, but sevoflurane has low lipid solubility, so redistribution into lipid tissue is minimal. B Metabolism of sevoflurane is very low (about 3%). C The minimum alveolar concentration (MAC) of an inhalational anesthetic is a measure of the potency of the drug; that is, it is a pharmacodynamic variable. The speed of induction depends on pharmacokinetic variables. E Inhalational anesthetics distribute uniformly into the brain. They are not concentrated in a specific region of the brain.",
+   "source": "Pharmacology III-3 Q15",
+   "topic": "Medium",
+   "topic_n": 1
+  },
+  {
+   "question": "A 63-year-old woman underwent surgery to remove a vulvar cancer. The patient was a heavy smoker and had been suffering from chronic obstructive pulmonary disease for 20 years. General anesthesia was induced with propofol and maintained with isoflurane. Which of the following effects most likely occurred during surgery?",
+   "choices": [
+    "Decreased cardiac output",
+    "Increased ventilatory response to carbon dioxide",
+    "Bronchodilation",
+    "Increased uterine tone",
+    "Increased skeletal muscle tone"
+   ],
+   "answer": 2,
+   "explanation": "All halogenated anesthetics have bronchodilating properties, which is beneficial in patients with underlying airway problems, as in this case. A Cardiac output is minimally affected by isoflurane. B, D, E Isoflurane has effects opposite to those listed.",
+   "source": "Pharmacology III-3 Q16",
+   "topic": "Easy",
+   "topic_n": 13
+  },
+  {
+   "question": "A 55-year-old man suffering from chronic heart failure underwent an exploratory laparotomy because of an abdominal swelling. The anesthesia protocol included a drug that causes rapid induction, a very rapid rate of recovery, and minimal changes in cardiovascular and respiratory functions. Which of the following drugs was most likely administered?",
+   "choices": [
+    "Ketamine",
+    "Etomidate",
+    "propate)",
+    "Ehiope a!",
+    "Halothane"
+   ],
+   "answer": 1,
+   "explanation": "Etomidate is an intravenous anesthetic agent that causes anesthetic induction and recovery similar to that of thiopental (about 5 to 10 minutes of unconsciousness with a standard anesthetic dose), but it has minimal actions on cardiovascular and respiratory functions. It is mainly used for induction of anesthesia in patients with serious respiratory or cardiovascular disease, as in this case. A Halothane causes a dose-dependent depression of the cardiovascular and respiratory systems. B Ketamine produces cardiovascular stimulation by excitation of the sympathetic nervous system. C Propofol causes a marked decrease in blood pressure, primarily due to a decrease in total peripheral resistance. D Barbiturates such as thiopental are respiratory and circulatory depressants.",
+   "source": "Pharmacology III-3 Q17",
+   "topic": "Easy",
+   "topic_n": 14
+  },
+  {
+   "question": "A4-year-old girl who had been suffering from severe asthma for 6 months was scheduled for a short suture procedure that was anticipated to take approximately 10 minutes. She was brought to the operating room by her parents and was in distress over parting from them and afraid of the doctors. Which of the following drugs would be appropriate for providing sedation and analgesia for this girl?",
+   "choices": [
+    "Halothane",
+    "Fentanyl",
+    "Thiopental",
+    "Sevoflurane",
+    "Ketamine"
+   ],
+   "answer": 4,
+   "explanation": "Ketamine is a general anesthetic that induces a state of sedation, characterized by immobility, profound analgesia, anterograde amnesia, and a strong feeling of dissociation from the environment without complete loss of consciousness. This state has been termed dissociative anesthesia. Because it can provoke postoperative disorientation, perceptual illusions, and vivid dreams, it is not commonly used in general surgery. The drug causes negligible respiratory depression and significant sympathetic stimulation. It is used for short, painful surgical procedures in children (who are less influenced by the mental effects of the drug), especially when they have respiratory problems, as in this case. B, C Thiopental and fentanyl can cause significant respiratory depression and therefore are not indicated in asthmatic patients. D, E Generally, halogenated anesthetics such as halothane and sevoflurane are not used for minor surgical procedures.",
+   "source": "Pharmacology III-3 Q18",
+   "topic": "Easy",
+   "topic_n": 15
+  },
+  {
+   "question": "A 52-year-old man underwent liver biopsy for a suspected liver cancer. Conscious sedation was induced with a drug combination that has the advantage of being reversible by the administration of specific receptor antagonists. Which of the following pairs of drugs was most likely administered?",
+   "choices": [
+    "Fentanyl and thiopental",
+    "Fentanyl and midazolam",
+    "Thiopental and ketamine",
+    "Thiopental and midazolam",
+    "Fentanyl and ketamine"
+   ],
+   "answer": 1,
+   "explanation": "Conscious sedation refers to a drug-induced state of altered consciousness with the following features: * Consciousness is not lost (the patient can respond to verbal commands). * A patent airway is maintained (the patient does not have to be ventilated). * Cardiovascular effects generally are not marked. * Anxiety is alleviated. ¢ Pain is relieved. * Some degree of anterograde amnesia is present. A wide variety of intravenous anesthetic agents (benzodiazepines, propofol, and opioids) have been used. Benzodiazepines and opioids have the advantage that their effects can be easily reversed by the use of specific receptor antagonists (flumazenil and naloxone, respectively). A, C-E There are no specific antagonists for thiopental and ketamine.",
+   "source": "Pharmacology III-3 Q19",
+   "topic": "Medium",
+   "topic_n": 2
+  },
+  {
+   "question": "A 57-year-old man was undergoing surgery to remove a kidney carcinoma. The anesthesia was induced with propofol, maintained with halothane, and supplemented by succinylcholine. A few minutes into the operation, the patient exhibited a fever of 104°F (40°C), skeletal muscle contracture, and profuse diaphoresis. His blood pressure dropped to 80/50 mm Hg, and the heart rate was 125 bpm. Which of the following molecular actions best explains the signs and symptoms of the patient?",
+   "choices": [
+    "muscle membrane",
+    "Excessive release of acetylcholine from motor neuron terminals",
+    "Opening of K* channels in the skeletal muscle membrane Excessive release of Ca2+ from the sarcoplasmic reticulum Blockade of Ca2+ channel in the skeletal",
+    "Opening of Cl channels in the motor end plate"
+   ],
+   "answer": 0,
+   "explanation": "The signs of the patient strongly suggest that he was suffering from malignant hyperthermia, a rare autosomal dominant disorder that can be triggered by the administration of halogenated anesthetics and/or succinylcholine. The pathogenesis of the disease is thought to involve a mutation in the gene encoding the skeletal muscle ryanodine receptor, a channel responsible for the regulation of Ca** release from the sarcoplasmic reticulum. This mutation would result in an excessive release of Ca2+, which would be the main cause of the signs and symptoms of malignant hyperthermia. A, B, D, E None of these actions cause the syndrome exhibited by the patient.",
+   "source": "Pharmacology III-3 Q20",
+   "topic": "Medium",
+   "topic_n": 3
+  },
+  {
+   "question": "A60-year-old man was about to undergo surgery to remove a prostate cancer. The man had been suffering from ischemic heart disease for 2 years. The anesthesiologist decided to use nitrous oxide and another general anesthetic that causes a pronounced increase in coronary blood flow with concomitant decrease in myocardial oxygen consumption and negligible effects on cardiac output. Which of the following anesthetics was most likely given with nitrous oxide for anesthesia maintenance?",
+   "choices": [
+    "Propofol",
+    "Etomidate",
+    "Halothane",
+    "Sevoflurane",
+    "Isoflurane"
+   ],
+   "answer": 4,
+   "explanation": "Isoflurane is a potent coronary vasodilator, simultaneously producing increased coronary blood flow and decreased myocardial oxygen consumption. It is a particularly safe anesthetic to use for patients with ischemic heart disease, as in this case. A, E Halothane and sevoflurane cause a dose-dependent decrease in cardiac output. B, C Etomidate and propofol are used for induction, not for maintenance of general anesthesia.",
+   "source": "Pharmacology III-3 Q21",
+   "topic": "Easy",
+   "topic_n": 16
+  },
+  {
+   "question": "A 68-year-old hospitalized woman developed general malaise, fever (100.7°F. 38.2°C), nausea and vomiting, jaundice, and a skin rash. The woman had undergone surgery 4 days earlier to remove a uterine myoma. Emergency lab exams showed the following pertinent results: aspartate aminotransferase 240 U/L, alkaline phosphatase 380 U/L. The patient’s condition rapidly deteriorated, and coma ensued. Which of the following drugs most likely caused the patient’s syndrome?",
+   "choices": [
+    "Halothane",
+    "Sevoflurane",
+    "Nitrous oxide",
+    "Fentanyl",
+    "Isoflurane",
+    "Thiopental"
+   ],
+   "answer": 0,
+   "explanation": "The patient’s signs and symptoms indicated that she was most likely suffering from fulminant hepatitis. Halothane can produce fulminant hepatic necrosis in a small number of patients (1/10,000). The syndrome typically starts 3 to 5 days after anesthesia and rapidly progresses to hepatic failure. The prognosis is poor (death occurs in about 50% of these patients).The mechanism of hepatotoxicity is still uncertain. The current hypothesis is that some hepatic proteins become trifluoroacetylated by halothane metabolites and initiate an immune response. A, F The risk of toxic hepatitis with other fluorinated anesthetics is negligible. C-E Nitrous oxide, thiopental, and fentanyl do not cause liver toxicity.",
+   "source": "Pharmacology III-3 Q22",
+   "topic": "Easy",
+   "topic_n": 17
+  },
+  {
+   "question": "A 22-year-old woman was about to undergo surgery to remove a mandibular cancer. The anesthesiologist had decided to use nitrous oxide and sevoflurane for anesthesia maintenance. Which of the following would be the minimum alveolar concentration of both drugs needed to provide an appropriate general anesthesia in this patient?",
+   "choices": [
+    "Nitrous oxide 1.0; sevoflurane 0.7",
+    "Nitrous oxide 0.2; sevoflurane 0.3",
+    "Nitrous oxide 0.7; sevoflurane 0.6",
+    "Nitrous oxide 0.4; sevoflurane 0.1",
+    "Nitrous oxide 1.0; sevoflurane 1.6"
+   ],
+   "answer": 2,
+   "explanation": "The minimum alveolar concentration (MAC) is defined as the concentration of the anesthetic that results in the immobility of 50% of patients when exposed to a supramaximal noxious stimulus (i.e., surgical skin incision). MAC values of inhalational anesthetics have a very important property: they are roughly additive. Because the alveolar concentration needed to provide surgical anesthesia in most patients is about 1.3 MAC, a 0.7 MAC of nitrous oxide plus 0.6 MAC of sevoflurane will provide an appropriate surgical anesthesia for the patient. This explains why nitrous oxide, which is a very poor aesthetic when given alone, can enhance the effect of all other inhalational anesthetics given concomitantly. Another important consequence of the additive property of MAC is that the anesthetic effects of two inhalational anesthetics are additive, but the adverse effects are not. As nitrous oxide has low toxicity, the mixture of a large MAC fraction of this gas with a small MAC fraction of another inhalational anesthetic can provide surgical anesthesia with adverse effects substantially lower than that of the other anesthetic given alone. A, C The sum of these MACs is not enough to ensure an appropriate surgical anesthesia. D, E The sum of these MACs is above the 1.3 level needed for surgical anesthesia. This means that the alveolar concentration is too high and can substantially increase the risk of adverse effects. Moreover, because 1 MAC of nitrous oxide is more than 100% of the gas alveolar concentration, nitrous oxide cannot be used at a concentration above 80% (i.e., about 0.8 MAC), as this would limit the delivery of an adequate amount of oxygen.",
+   "source": "Pharmacology III-3 Q23",
+   "topic": "Medium",
+   "topic_n": 4
+  },
+  {
+   "question": "A 43-year-old woman underwent dilation and curettage for abnormal vaginal bleeding. General anesthesia was performed with thiopental. The patient lost consciousness in about 10 seconds and regained it 15 minutes later. Which of the following reasons best explains why general anesthesia induced by a standard dose of thiopental lasts 5 to 15 minutes?",
+   "choices": [
+    "Rapid biotransformation of the drug by the brain",
+    "Poor diffusion of the drug into the central neurons",
+    "Slow distribution of the drug into the central nervous system (CNS)",
+    "Redistribution of the drug into peripheral tissues",
+    "Fast elimination of the drug from the body"
+   ],
+   "answer": 3,
+   "explanation": "Thiopental rapidly diffuses out of the brain and other highly vascularized tissues and is redistributed to muscle, fat, and eventually to all body tissues. This is the principal mechanism limiting anesthetic duration after a single anesthetic dose. A, E Actually, thiopental distributes very rapidly into the CNS. Because it is very lipid soluble, diffusion into the CNS neurons is very good. B, D Thiopental half-life is about 12 hours, which indicates that the elimination of the drug from the body is slow.",
+   "source": "Pharmacology III-3 Q24",
+   "topic": "Easy",
+   "topic_n": 18
+  },
+  {
+   "question": "A 29-year-old woman was admitted to the hospital for dilation and curettage after a spontaneous abortion. General anesthesia was induced by propofol. Which of the following drugs would be most appropriately co-injected with propofol?",
+   "choices": [
+    "Diazepam",
+    "Etomidate",
+    "Thiopental",
+    "Lidocaine",
+    "Paroxetine"
+   ],
+   "answer": 3,
+   "explanation": "The intravenous injection of propofol is associated with pain, most likely due to its alcohol nature that irritates the vascular endothelium. Three out of five patients experience pain on injection, with one of these patients reporting severe or excruciating pain. As a result, several interventions have been investigated to alleviate the pain associated with propofol injection. The coadministration of several drugs, including opioids, ketamine, and nonsteroidal antiinflammatory drugs, can be effective in reducing pain, but lidocaine, in conjunction with venous occlusion, is thought to be the most effective intervention. A-C, E See correct answer explanation.",
+   "source": "Pharmacology III-3 Q25",
+   "topic": "Medium",
+   "topic_n": 5
+  },
+  {
+   "question": "An 80-year-old woman underwent surgery to remove a bladder cancer. Medical history indicated that she had been suffering from gastrointestinal reflux disease presently treated with omeprazole. General anesthesia was maintained with nitrous oxide and sevoflurane. In this patient, the sum of the minimum alveolar concentration (MAC) of the two inhalational anesthetics needed to obtain surgical anesthesia turned out to be 0.7 MAC. In most patients this total is 1.3 MAC. Which of the following variables most likely caused the decrease in MAC in this case?",
+   "choices": [
+    "The use of two anesthetics",
+    "The addition of nitrous oxide eN The use of omeprazole",
+    "The cancer of the patient",
+    "The age of the patient"
+   ],
+   "answer": 3,
+   "explanation": "Itis known that MAC can be decreased by several physiological and pharmacological variables, including age, pregnancy, hypothermia, hypercalcemia, hyponatremia, and in the presence of certain drugs (acute alcohol, opioids, benzodiazepines, barbiturates, ketamine, lithium, clonidine, etc.). One of the most striking is the 6% decrease in MAC per decade of age, regardless of volatile anesthetic. It drops to about half by age 80, as in this case. A, B, D, E See correct answer explanation.",
+   "source": "Pharmacology III-3 Q26",
+   "topic": "Medium",
+   "topic_n": 6
+  },
+  {
+   "question": "A 46-year-old man recently diagnosed with pheochromocytoma was scheduled for surgery to remove the tumor. He had normal pulmonary and renal function, but his blood catecholamine levels were substantially elevated. Which of the following drugs would be contraindicated for inclusion in his anesthetic protocol?",
+   "choices": [
+    "Thiopental",
+    "Fentanyl",
+    "Halothane",
+    "Lorazepam",
+    "Nitrous oxide"
+   ],
+   "answer": 2,
+   "explanation": "Halothane can sensitize the myocardium to the arrhythmogenic effect of catecholamines and is therefore contraindicated in patients with high blood catecholamine levels, as in this case. B-E None of these drugs cause sensitization of the myocardium to catecholamines.",
+   "source": "Pharmacology III-3 Q27",
+   "topic": "Easy",
+   "topic_n": 19
+  },
+  {
+   "question": "A 62-year-old man was about to undergo surgery to repair a small bowel closed loop obstruction. Which of the following general anesthetics would be contraindicated in this patient?",
+   "choices": [
+    "Nitrous oxide",
+    "Thiopental",
+    "Sevoflurane mw > Enflurane",
+    "Propofol",
+    "Halothane"
+   ],
+   "answer": 0,
+   "explanation": "In closed loop obstruction, the lumen of the bowel is occluded at two points, thus preventing prograde and retrograde movements of bowel contents. Because nitrous oxide diffuses into the cavity more rapidly than the air (principally nitrogen) diffuses out, the gas can increase the intraluminal pressure of the obstructed bowel loop, thus increasing the risk of gut rupture. Examples of conditions in which nitrous oxide might be hazardous include all the closed cavities filled with air, such as pneumothorax, pulmonary air cysts, and pneumocephalus. A, C-E See correct answer explanation.",
+   "source": "Pharmacology III-3 Q28",
+   "topic": "Easy",
+   "topic_n": 20
+  },
+  {
+   "question": "A 61-year-old woman underwent colonoscopy because of rectal bleeding. The woman was very afraid of the procedure and asked for a general anesthesia. Because she had been suffering from exertional angina for 7 years, etomidate was chosen for anesthesia. Which of the following adverse effects would be most likely to occur in this patient during the postanesthetic period?",
+   "choices": [
+    "Decreased cardiac output",
+    "Pronounced respiratory depression",
+    "Nausea and vomiting",
+    "Hypertension",
+    "Delusions"
+   ],
+   "answer": 2,
+   "explanation": "Cardiovascular stability is a major advantage of etomidate over barbiturate or propofol and therefore is most suited in patients with coronary disease, as in this case. Etomidate has the highest incidence of postoperative nausea and vomiting (more than 30% of cases) among the general anesthetics. B-E Etomidate does not cause delusion and has minimal cardiovascular and respiratory effects.",
+   "source": "Pharmacology III-3 Q29",
+   "topic": "Easy",
+   "topic_n": 21
+  },
+  {
+   "question": "A 49-year-old man underwent emergency surgery because of multiple fractures due to a car accident. Because the patient was experiencing severe pain, fentanyl was given before surgery. General anesthesia was induced by propofol and maintained by nitrous oxide and isoflurane. Cisatracurium was added to ensure a complete muscle relaxation. After the operation, the anesthesiologist administered oxygen for five minutes before disconnecting the face mask. The procedure was performed to prevent an adverse effect of which of the following drugs?",
+   "choices": [
+    "Cisatracurium",
+    "Nitrous oxide",
+    "Fentanyl",
+    "Isoflurane",
+    "Propofol"
+   ],
+   "answer": 1,
+   "explanation": "On recovery from anesthesia, the outpouring of large volumes of nitrous oxide can cause an effect called diffusion hypoxia. These volumes may cause hypoxia in two ways. First, they may directly affect oxygenation by displacing oxygen. Second, by diluting alveolar carbon dioxide, they may decrease respiratory drive and hence ventilation. Both of these effects require that large volumes of nitrous oxide be released into the alveoli. Because these large volumes are released only during the first 5 to 10 minutes of recovery, this is the period of greatest concern. An additional reason is that this period may be the time of greatest respiratory depression. For these reasons, 100% oxygen is often administered for the first 5 to 10 minutes of recovery. This procedure may be particularly indicated when postoperative respiratory depression is anticipated, as in the present case (see the administration of fentanyl). A-C, E These drugs do not cause diffusion hypoxia.",
+   "source": "Pharmacology III-3 Q30",
+   "topic": "Medium",
+   "topic_n": 7
+  }
+ ]
+}

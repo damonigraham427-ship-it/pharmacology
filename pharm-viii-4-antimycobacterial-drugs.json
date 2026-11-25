@@ -1,0 +1,346 @@
+{
+ "questions": [
+  {
+   "question": "This drug imparts a harmless orange color to urine, sweat, and tears.",
+   "choices": [
+    "Amikacin",
+    "Ethionamide",
+    "Ciprofloxacin",
+    "Clarithromycin",
+    "Rifampin",
+    "Ethambutol",
+    "Isoniazid",
+    "Streptomycin",
+    "Pyrazinamide"
+   ],
+   "answer": 4,
+   "explanation": "Rifampin imparts a harmless orange color to urine, sweat, and tears. (Matching key, Questions 1 and 2: 1. H)",
+   "source": "Pharmacology VIII-4 Q1",
+   "topic": "Easy",
+   "topic_n": 1
+  },
+  {
+   "question": "This drug is effective against some atypical mycobacteria but not against Mycobacterium tuberculosis.",
+   "choices": [
+    "Pyrazinamide",
+    "Amikacin",
+    "Rifampin",
+    "Ethionamide",
+    "Ciprofloxacin",
+    "Isoniazid",
+    "Clarithromycin",
+    "Streptomycin",
+    "Ethambutol"
+   ],
+   "answer": 6,
+   "explanation": "Clarithromycin is effective against some atypical mycobacteria (e.g., Mycobacterium avium complex) but not against Mycobacterium tuberculosis. (Matching key, Questions 1 and 2: 2. C)",
+   "source": "Pharmacology VIII-4 Q2",
+   "topic": "Easy",
+   "topic_n": 2
+  },
+  {
+   "question": "A 31-year-old homosexual man was found to be HIV positive. Currently, he did not have symptoms of tuberculosis, but his tuberculin skin test was positive. A treatment with isoniazid was prescribed. The inhibition of synthesis of which of the following endogenous compounds most likely mediated the therapeutic effect of the drug in this patient?",
+   "choices": [
+    "Peptidoglycan",
+    "Mycolic acids",
+    "DNA-dependent RNA polymerase",
+    "Topoisomerase II",
+    "Arabinosyl transferase"
+   ],
+   "answer": 1,
+   "explanation": "Isoniazid is used alone for the prophylaxis of tuberculosis in at-risk patients, including those who are HIV positive, as in this case. The drug inhibits the synthesis of mycolic acids, which are specific constituents of the mycobacterial cell wall. This can explain, at least in part, why isoniazid is effective only against mycobacteria. B The synthesis of peptidoglycan is inhibited by B-lactam antibiotics. C Arabinosyl transferase is inhibited by ethambutol. D Topoisomerase II is inhibited by fluoroquinolones. E DNA-dependent RNA polymerase is inhibited by rifamycins.",
+   "source": "Pharmacology VIII-4 Q3",
+   "topic": "Easy",
+   "topic_n": 3
+  },
+  {
+   "question": "A 56-year-old Hispanic man diagnosed with bone tuberculosis started a multidrug treatment, but 4 months later, the disease was minimally improved, and susceptibility testing showed a complete resistance to isoniazid. A high level of resistance of tubercle bacilli to isoniazid involves a decrease in the activity of which of the following enzymes?",
+   "choices": [
+    "Topoisomerase II",
+    "Catalase-peroxidase",
+    "Transpeptidase",
+    "Acetyltransferase",
+    "DNA-dependent RNA polymerase"
+   ],
+   "answer": 1,
+   "explanation": "Isoniazid is a prodrug that must be converted into the active compound by a mycobacterial catalase-peroxidase. Resistance is often associated with the deletion of the katG gene that codes for the synthesis of catalase peroxidase. In this way, activation of the prodrug cannot occur. B-E These enzymes are not involved in the mechanism of resistance of mycobacteria to isoniazid.",
+   "source": "Pharmacology VIII-4 Q4",
+   "topic": "Medium",
+   "topic_n": 1
+  },
+  {
+   "question": "A 49-year-old Asian woman recently diagnosed with tuberculosis started an appropriate multidrug therapy. Which of the drugs she was taking is inactivated by hepatic acetylation, the rate of which depends on genetic background?",
+   "choices": [
+    "Ethambutol",
+    "Streptomycin",
+    "Rifampin",
+    "Pyrazinamide",
+    "Isoniazid"
+   ],
+   "answer": 4,
+   "explanation": "Isoniazid is metabolized by hepatic acetylation, which is under genetic control. Patients may be fast acetylators (mainly among people of Asian origin) or slow acetylators (mainly among people of European and African origin). Fast acetylators require higher dosage than slow acetylators to obtain equivalent therapeutic effects. A-C, E These drugs are not metabolized by acetylation.",
+   "source": "Pharmacology VIII-4 Q5",
+   "topic": "Easy",
+   "topic_n": 4
+  },
+  {
+   "question": "A 36-year-old Black man recently diagnosed with pulmonary tuberculosis started a drug treatment that included rifampin. Inhibition of which of the following enzymes most likely mediated the therapeutic efficacy of rifampin in the patient's disease?",
+   "choices": [
+    "Topoisomerase II",
+    "DNA-dependent RNA polymerase",
+    "Transpeptidase",
+    "Arabinosyl transferase",
+    "RNA-dependent DNA polymerase"
+   ],
+   "answer": 1,
+   "explanation": "Rifampin inhibits DNA-dependent RNA polymerase in mycobacteria and other sensitive microorganisms by binding to the B subunit of the enzyme to form a stable drug-enzyme complex. This leads to suppression of initiation of chain formation in RNA synthesis. The ultimate effect is bactericidal. B This enzyme is inhibited by ethambutol. C This enzyme is inhibited by B-lactam antibiotics. D This enzyme is inhibited by fluoroquinolones. E This enzyme is inhibited by reverse transcriptase inhibitors. Drugs objective: Explain the mechanism of action of ethambutol. Learning transferase, disrupting the 7. CEthambutol inhibits arabinosyl of the synthesis of arabinogalactan, an essential component wall. The ultimate effect is bacteriostatic. mycobacterial cell trimethoprim. A This enzyme is inhibited by enzyme is inhibited by chloramphenicol. B This inhibited fosfomycin. D This enzyme is by E This enzyme is inhibited by sulfonamides. F This enzyme is inhibited by vancomycin. in",
+   "source": "Pharmacology VIII-4 Q6",
+   "topic": "Easy",
+   "topic_n": 5
+  },
+  {
+   "question": "A 63-year-old man recently diagnosed with pulmonary tuberculosis started a multidrug treatment that included ethambutol. Inhibition of which of the following enzymes most likely mediated the therapeutic efficacy of the drug in the patient's disease?",
+   "choices": [
+    "Transglycosylase",
+    "Dihydropteroate synthetase",
+    "Arabinosyl transferase",
+    "Enolpyruvate transpherase",
+    "Peptidyl transferase",
+    "Dihydrofolate reductase"
+   ],
+   "answer": 2,
+   "explanation": "Ethambutol inhibits arabinosyl transferase, disrupting the synthesis of arabinogalactan, an essential component of the mycobacterial cell wall. The ultimate effect is bacteriostatic. A This enzyme is inhibited by trimethoprim. B This enzyme is inhibited by chloramphenicol. D This enzyme is inhibited by fosfomycin. E This enzyme is inhibited by sulfonamides. F This enzyme is inhibited by vancomycin.",
+   "source": "Pharmacology VIII-4 Q7",
+   "topic": "Easy",
+   "topic_n": 6
+  },
+  {
+   "question": "A 34-year-old woman who was HIV positive presented with fever (100.8°F, 38.2°C), profuse night sweats, poor appetite, and a 20-lb (4.5-kg) weight loss over the past 5 months. Physical examination revealed a cachectic female with prominent oral thrush and mild splenomegaly. Her CD4+ lymphocyte count was 45 cells/mm3 (normal > 500 cells/mm3), and a DNA probe test confirmed the diagnosis of Mycobacterium avium complex infection. An appropriate multidrug regimen was started. Which of the following drugs was most likely included in the patient's pharmacotherapy?",
+   "choices": [
+    "Ceftriaxone",
+    "Vancomycin",
+    "Clarithromycin",
+    "Linezolid",
+    "Metronidazole"
+   ],
+   "answer": 2,
+   "explanation": "MAC infection is common in end-stage AIDS patients, and the risk of developing the infection is the highest when the CD4+ lymphocyte count is less than 50 cells/mm?, as in this case. MAC is much less susceptible than Mycobacterium tuberculosis to most antimycobacterial drugs, and in most cases disseminated MAC is incurable and therapy is lifelong. Drug regimens for MAC should include at least three drugs, and one of these must be a macrolide, such as clarithromycin or azithromycin, as these are the only antibiotics for which a correlation between in vitro susceptibility tests for MAC and clinical response has been demonstrated. Other drugs active against MAC are rifampin, ethambutol, ethionamide, imipenem, and fluoroquinolones. A-C, E These drugs are not active against MAC.",
+   "source": "Pharmacology VIII-4 Q8",
+   "topic": "Medium",
+   "topic_n": 2
+  },
+  {
+   "question": "A 28-year-old man underwent a tuberculin skin test (Mantoux method) that turned out to be positive. The man was the husband of a woman who had uncomplicated pulmonary tuberculosis treated at home with a multiple-drug regimen. The man was prescribed a drug to be taken daily for 6 months. Which of the following drugs was most likely given?",
+   "choices": [
+    "Ciprofloxacin",
+    "Amikacin",
+    "Pyrazinamide",
+    "Isoniazid",
+    "Ethambutol"
+   ],
+   "answer": 3,
+   "explanation": "Isoniazid is the drug of choice to prevent tuberculosis in skin test converters and in close contacts of patients with active disease, as in this case. The drug is given as the sole agent for at least 6 and up to 12 months. In people at high risk of infection with multidrug-resistant strains (i.e., HIVpositive patients), preventive therapy is usually performed with more than one drug. A, B, D, E These drugs are not used for prophylaxis of tuberculosis unless the patient is at high risk of infection.",
+   "source": "Pharmacology VIII-4 Q9",
+   "topic": "Easy",
+   "topic_n": 7
+  },
+  {
+   "question": "A 44-year-old woman complained of blurred vision and inability to distinguish green objects from red objects. The woman, recently diagnosed with cavitary pulmonary tuberculosis, had been receiving a three-drug combination regimen for 2 months. An eye examination indicated a narrowing of her visual field. Which of the following drugs most likely caused these adverse effects?",
+   "choices": [
+    "Ethambutol",
+    "Pyrazinamide",
+    "Ciprofloxacin",
+    "Streptomycin",
+    "Isoniazid"
+   ],
+   "answer": 0,
+   "explanation": "The signs and symptoms of the patient are most likely due to ethambutol-induced optic neuritis, a serious adverse effect of the drug that is dose- and duration-related. Because of this, periodic visual acuity testing is desirable during ethambutol therapy. Recovery is usually, but not always, complete when the drug is discontinued. A-C, E These drugs do not cause optic neuritis. Answers",
+   "source": "Pharmacology VIII-4 Q10",
+   "topic": "Easy",
+   "topic_n": 8
+  },
+  {
+   "question": "A 34-year-old HIV-positive woman was admitted to the hospital because of a 4-week history of fatigue, increasing abdominal girth, exertional dyspnea, nocturnal dyspnea, and peripheral edema. Vital signs were pulse 80, blood pressure 90/70 mm Hg. Physical examination revealed prominent external jugular veins that became more distended during inspiration. The heart was slightly enlarged, and a third sound was noted in early diastole. A computed tomography scan showed a large pericardial effusion, and pericardiocentesis removed 500 mL of bloody fluid with a high protein content. A diagnosis of hemorrhagic pericarditis was made, and an appropriate therapy was prescribed. Which of the following pairs of drugs would be most appropriately included in the patient's regimen?",
+   "choices": [
+    "Trimethoprim-sulfamethoxazole",
+    "Streptomycin and erythromycin",
+    "Piperacillin and tobramycin",
+    "Isoniazid and rifampin",
+    "Ciprofloxacin and azithromycin"
+   ],
+   "answer": 3,
+   "explanation": "This patient demonstrates many of the clinical features of constrictive pericarditis, including an inspiratory increase of systemic venous pressure (Kussmaul sign), third heart sound, and narrow pulse pressure. The slow development of symptoms and the large amount of bloody fluid removed by pericardiocentesis indicate subacute effusive-constrictive pericarditis. The two most common causes for hemorrhagic pericarditis are tuberculosis (TB) and metastatic carcinoma. Because the patient is HIV positive, TB is much more likely. In fact, TB is the leading cause of death in HIV-infected people worldwide. Antimycobacterial therapy should be carried out if a TB origin can be diagnosed, is suspected, or cannot be excluded in a patient with chronic constrictive pericarditis. Isoniazid and rifampin are the leading drugs for TB even if, as in this case, a four-drug regimen including pyrazinamide and ethambutol should be administered because TB pericarditis is a serious infection, and HIV patients are also at risk of developing TB meningitis. A-C, E These combinations contain at least one drug not active against Mycobacterium tuberculosis.",
+   "source": "Pharmacology VIII-4 Q11",
+   "topic": "Hard",
+   "topic_n": 1
+  },
+  {
+   "question": "A 10-year-old girl was brought to the emergency department by her mother, who said that her daughter had high fever (103.3°F, 39.6°C) and was irritable and lethargic. Physical examination showed nuchal rigidity and a positive Brudzinski sign. Subsequent exams led to the diagnosis of meningococcal meningitis. Which of the following drugs would have been appropriate prophylaxis for the health personnel assisting this girl?",
+   "choices": [
+    "Isoniazid",
+    "Rifampin",
+    "Amikacin",
+    "Piperacillin",
+    "Doxycycline"
+   ],
+   "answer": 1,
+   "explanation": "Rifampin is the drug of first choice for chemoprophylaxis of close contacts of patients with meningococcal meningitis. The potential for a close contact to become infected with Neisseria meningitidis is 500 to 800 times greater than for the total population. The drug should be administered as soon as possible because the risk of secondary disease is greatest within 2 to 5 days after exposure to the index case. Other drugs used for chemoprophylaxis include ceftriaxone and ciprofloxacin. A-D These antibiotics are not active against N. meningitidis.",
+   "source": "Pharmacology VIII-4 Q12",
+   "topic": "Easy",
+   "topic_n": 9
+  },
+  {
+   "question": "A 47-year-old Hispanic man recently diagnosed with pulmonary tuberculosis started a multidrug treatment. One of the drugs he was given is active against most mycobacteria, many gram-positive and -negative bacteria, chlamydiae, rickettsiae, and poxviruses. Which of the following drugs has such a broad antibacterial spectrum?",
+   "choices": [
+    "Ethambutol",
+    "Pyrazinamide",
+    "Rifampin",
+    "Streptomycin",
+    "Isoniazid"
+   ],
+   "answer": 2,
+   "explanation": "The antimicrobial spectrum of rifampin is broad. The drug is active against most mycobacteria; most gram-positive bacteria, including methicillin-resistant staphylococci; and many gram-negative bacteria, including Escherichia coli, Proteus, Klebsiella, Legionella, Brucella, Haemophilus, Chlamydia, and Rickettsia species and poxviruses. A, D, E These drugs are active only against mycobacteria. C Aminoglycoside antibiotics are active mainly against gram-negative aerobic bacteria.",
+   "source": "Pharmacology VIII-4 Q13",
+   "topic": "Easy",
+   "topic_n": 10
+  },
+  {
+   "question": "A 66-year-old man recently diagnosed with pulmonary tuberculosis started a three-drug treatment with isoniazid, rifampin, and ethambutol. The man, who had been suffering from atrial fibrillation for 4 years, was currently being treated with propranolol and warfarin. At this point, which of the following changes in the patient's therapeutic regimen would be appropriate?",
+   "choices": [
+    "Substitute isoniazid with streptomycin",
+    "Substitute propranolol with digoxin",
+    "Increase the dose of warfarin",
+    "Decrease the dose of propranolol",
+    "Add pyrazinamide to the current therapy"
+   ],
+   "answer": 2,
+   "explanation": "Rifampin is a strong inducer of the hepatic P-450 system and can increase the metabolism of many drugs, including glucocorticoids, oral contraceptives, methadone, B-blockers, and warfarin. Therefore, the dose of warfarin should be increased to maintain an appropriate anticoagulant effect. B The dose of propranolol should be raised, not reduced, because the metabolism of the drug is increased. C-E All of these options are irrational.",
+   "source": "Pharmacology VIII-4 Q14",
+   "topic": "Medium",
+   "topic_n": 3
+  },
+  {
+   "question": "A 64-year-old alcoholic woman suffering from pulmonary tuberculosis complained of anorexia, nausea, and abdominal discomfort. She had been receiving isoniazid, ethambutol, and rifampin for 2 months. Lab results revealed an aspartate aminotransferase level of 330 U/L (normal 8-20 U/L). Which of the following best explains the reason for the patient's signs and symptoms?",
+   "choices": [
+    "Isoniazid-induced neuropathy",
+    "Ethambutol-induced peripheral neuritis",
+    "Isoniazid-induced hepatitis",
+    "Ethambutol-induced hepatitis",
+    "Rifampin-induced induction of the P-450 system",
+    "Rifampin-induced hemolytic anemia"
+   ],
+   "answer": 2,
+   "explanation": "The symptoms of the patient and the lab results indicate that she was most likely suffering from isoniazid-induced hepatitis, which is the most frequent major toxic effect of isoniazid. It occurs in about 1% of patients and can lead to potentially fatal multilobular necrosis. The risk increases with age and in alcoholics, as in this case. A-C, E These disorders cause neither the symptoms reported by the patient nor an increase in aminotransferase level. F Ethambutol-induced hepatitis is a very rare disorder.",
+   "source": "Pharmacology VIII-4 Q15",
+   "topic": "Medium",
+   "topic_n": 4
+  },
+  {
+   "question": "A 30-year-old man with AIDS was recently diagnosed with pulmonary tuberculosis and started a multidrug treatment with isoniazid, rifampin, pyrazinamide, and ethambutol. Which of the following best explains why ethambutol was added to the therapeutic regimen?",
+   "choices": [
+    "To prevent the neurotoxic effects of isoniazid",
+    "To delay the emergence of drug resistance",
+    "To enhance the antibacterial activity of pyrazinamide",
+    "To provide antibacterial activity against atypical mycobacteria",
+    "To prevent Pneumocystis jiroveci pneumonia"
+   ],
+   "answer": 1,
+   "explanation": "The main reason for the use of any drug combination in the therapy of TB is to delay the emergence of resistance. In the case of ethambutol, this is by far the primary reason, as the drug has only weak bacteriostatic activity against Mycobacterium tuberculosis and cannot add significant antibacterial effect to a given therapeutic regimen. A-D All of these options are irrational.",
+   "source": "Pharmacology VIII-4 Q16",
+   "topic": "Easy",
+   "topic_n": 11
+  },
+  {
+   "question": "A 62-year-old man presented to the hospital complaining of anorexia, nausea and vomiting, and abdominal discomfort. He also had pain on motion and stiffness in several joints. The man, recently diagnosed with renal tuberculosis, started a four-drug combination regimen 1 month ago. Lab results showed serum aspartate aminotransferase of 280 U/L (normal 8-20 U/L) and serum uric acid of 25 mg/dL (normal 3.0-8.2 mg/dL). Which of the following drugs most likely caused the patient symptoms and signs?",
+   "choices": [
+    "Rifampin",
+    "Pyrazinamide",
+    "Streptomycin",
+    "Isoniazid",
+    "Azithromycin"
+   ],
+   "answer": 1,
+   "explanation": "The gastrointestinal symptoms and the high aminotransferase levels (which suggest some liver dysfunction), together with the joint pain and hyperuricemia, strongly indicate that pyrazinamide is the drug that caused these adverse effects. Hepatotoxicity is the major limiting adverse effect of pyrazinamide, is dose-related, and is far less common today with current dosing regimens. Arthralgia is also common and dose-related. Hyperuricemia is seen in more than 50% of patients taking the drug and is likely due to inhibition of uric acid secretion. A Rifampin very rarely causes hepatitis but can substantially increase the risk of hepatotoxicity when given together with pyrazinamide. However, it does not cause hyperuricemia. C Isoniazid can cause hepatotoxicity, but hyperuricemia is very rarely reported. D, E These drugs do not cause hepatotoxicity or hyperuricemia. objective: Describe the therapeutic strategy for multiLearning drug-resistant tuberculosis (TB). starting treatment of this patient is standard for ac18. E The tive TB, but when resistance occurs, the treatment must be changed. There is no standard regimen for multidrugresistant TB, but it is critical to avoid adding or substituting a single drug to a failing regimen. Adding one drug at a time leads to the sequential selection of drug resistance. Therefore, two or more previously unused drugs, chosen among the second-line agents, should be substituted. Second-line agents include some aminoglycoside antibiotics (mainly streptomycin; amikacin is also active), ethionamide, cycloserine, p-aminosalicylic acid, and fluoroquinolones. Most fluoroquinolones have excellent antimycobacterial activity in vitro; moxifloxacin seems the most active clinically. A-D All of these combinations contain at least one drug that is not active against Mycobacterium tuberculosis.",
+   "source": "Pharmacology VIII-4 Q17",
+   "topic": "Medium",
+   "topic_n": 5
+  },
+  {
+   "question": "A 35-year-old man recently diagnosed with pulmonary tuberculosis started a treatment with isoniazid, rifampin, pyrazinamide, and ethambutol, but 2 months later, susceptibility testing revealed a Mycobacterium tuberculosis resistant to isoniazid and pyrazinamide. These drugs were discontinued, and two other drugs were prescribed. Which of the following pairs of drugs would be most appropriate for the patient at this time?",
+   "choices": [
+    "Ethionamide and azithromycin",
+    "Ceftriaxone and linezolid",
+    "Streptomycin and moxifloxacin",
+    "Amikacin and vancomycin",
+    "Imipenem and doxycycline"
+   ],
+   "answer": 2,
+   "explanation": "The starting treatment of this patient is standard for active TB, but when resistance occurs, the treatment must be changed. There is no standard regimen for multidrug-resistant TB, but it is critical to avoid adding or substituting a single drug to a failing regimen. Adding one drug at a time leads to the sequential selection of drug resistance. Therefore, two or more previously unused drugs, chosen among the second-line agents, should be substituted. Second-line agents include some aminoglycoside antibiotics (mainly streptomycin; amikacin is also active), ethionamide, cycloserine, p-aminosalicylic acid, and fluoroquinolones. Most fluoroquinolones have excellent antimycobacterial activity in vitro; moxifloxacin seems the most active clinically. A-D All of these combinations contain at least one drug that is not active against Mycobacterium tuberculosis.",
+   "source": "Pharmacology VIII-4 Q18",
+   "topic": "Medium",
+   "topic_n": 6
+  },
+  {
+   "question": "A 57-year-old man complained of a tingling sensation in his limbs and that his arms sometimes felt heavy. The man, who had been suffering from type II diabetes for 10 years, had been recently diagnosed with pulmonary tuberculosis and had been receiving isoniazid and rifampin for 1 month. The concomitant use of which of the following drugs would have most likely prevented the patient's neurologic symptoms?",
+   "choices": [
+    "Vitamin B2",
+    "Cyanocobalamin",
+    "Folinic acid",
+    "Folic acid",
+    "Pyridoxine"
+   ],
+   "answer": 4,
+   "explanation": "The patient is most likely suffering from isoniazid-induced peripheral neuropathy. Neurotoxicity is the most common adverse effect of isoniazid when the daily dose exceeds 6 mg/kg (unless pyridoxine is given concurrently), likely because the drug promotes the excretion of pyridoxine, a vitamin involved in several metabolic transformations, including the synthesis of some neurotransmitters (gamma-aminobutyric acid, norepinephrine, and serotonin). The risk of neurotoxicity is increased in slow acetylators, alcoholics, and diabetics, as in this case. Peripheral neuropathy is the main sign of isoniazid neurotoxicity (it can affect as many as 20% of patients at risk), but high doses can also provoke memory loss, confusion, hallucinations, and seizures. Most neurotoxic effects can be prevented or corrected by pyridoxine supplementation without losing the antibacterial effect, A, C-E These drug are useless in isoniazid-induced neurotoxicity.",
+   "source": "Pharmacology VIII-4 Q19",
+   "topic": "Easy",
+   "topic_n": 12
+  },
+  {
+   "question": "A 13-year-old boy had been receiving a multidrug treatment for bone tuberculosis. After 4 months of therapy, susceptibility testing showed that the mycobacterium was resistant to isoniazid and rifampin. Which of the following was most likely the mechanism of mycobacterial resistance to rifampin in this patient?",
+   "choices": [
+    "Increased bacterial acetylation of the drug",
+    "Gene-induced changes in bacterial RNA polymerase",
+    "Blockade of mycolic acid synthesis",
+    "Gene-induced changes in bacterial peptidyl transferase",
+    "Gene-induced changes in bacterial topoisomerase II"
+   ],
+   "answer": 1,
+   "explanation": "Resistance to rifampin results primarily from mutation in the gene that codes for the B subunit of RNA polymerase. This mutation prevents binding of rifampin to the enzyme. A, B, D, E These enzymes are not involved in the bacterial resistance to rifampin. Identify the first-line agent to treat leprosy.",
+   "source": "Pharmacology VIII-4 Q20",
+   "topic": "Easy",
+   "topic_n": 13
+  },
+  {
+   "question": "A 44-year-old man who recently moved from Mexico to Los Angeles presented to the hospital because of a diffuse skin disease. Skin examination showed macules, nodules, and plaques over his face and thorax. Further exams led to the diagnosis of lepromatous leprosy, and an appropriate therapy was started. Which of the following drugs should be included in the therapeutic regimen of this patient?",
+   "choices": [
+    "Ampicillin",
+    "Ceftriaxone",
+    "Ivermectin",
+    "Dapsone",
+    "Metronidazole",
+    "Fluconazole"
+   ],
+   "answer": 3,
+   "explanation": "Leprosy is an exceedingly rare disease in the developed world, but about 5000 cases are reported each year in the United States, mainly in immigrants from Mexico and Central America, as in this case. Lepromatous leprosy is the most severe form of the disease because life-threatening complications (erythema nodosum leprosum and necrotizing skin reaction) can develop. Dapsone, a sulfone derivative, is the mainstay of therapy. The drug concentrates in the infected skin, which explains, at least in part, its undisputed efficacy. Other drugs active against Mycobacterium leprae are rifampin, clofazimine, macrolides, tetracyclines, and fluoroquinolones. A-C, E, F These antibiotics are not effective against M. leprae.",
+   "source": "Pharmacology VIII-4 Q21",
+   "topic": "Easy",
+   "topic_n": 14
+  },
+  {
+   "question": "A 33-year-old man had been receiving a multidrug treatment for pulmonary tuberculosis. After 3 months of therapy, susceptibility testing showed that the mycobacterium was resistant to isoniazid and ethambutol. Which of the following was most likely the mechanism of mycobacterial resistance to ethambutol in this patient?",
+   "choices": [
+    "Increased bacterial metabolism of the drug",
+    "Decreased bacterial permeability to the drug",
+    "Gene-induced changes in bacterial topoisomerase II",
+    "Gene-induced changes in bacterial RNA polymerase",
+    "Gene-induced changes in bacterial arabinosyl transferase",
+    "Decrease activity of the bacterial multiefflux pump"
+   ],
+   "answer": 4,
+   "explanation": "A general mechanism of resistance to antimycobacterial drugs is related to mutation of genes that encode for the synthesis of enzymes that are inhibited by the drug. This mutation inhibits binding of the drug to the enzyme, preventing antibacterial activity. Ethambutol resistance is thought to result primarily from mutation in the gene that encodes for mycobacterial arabinosyl transferase, the enzyme specifically inhibited by the drug. A, B, D-F These actions are not involved in the mycobacterial resistance to ethambutol. ANTIMYCOBACTERIAL DRUGS Answer key",
+   "source": "Pharmacology VIII-4 Q22",
+   "topic": "Easy",
+   "topic_n": 15
+  }
+ ]
+}

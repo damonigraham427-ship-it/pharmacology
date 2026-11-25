@@ -1,0 +1,486 @@
+{
+ "questions": [
+  {
+   "question": "An antihistamine drug with pronounced sedative properties",
+   "choices": [
+    "Sumatriptan",
+    "Loratadine",
+    "Ergonovine",
+    "Ondansetron",
+    "Promethazine",
+    "Cyproheptadine"
+   ],
+   "answer": 4,
+   "explanation": "Matching item. Correct match: Promethazine.",
+   "source": "Pharmacology VII-1 Q1",
+   "topic": "Easy",
+   "topic_n": 1
+  },
+  {
+   "question": "A histamine and serotonin receptor antagonist sometimes used for treatment of intestinal hypermobility of carcinoid",
+   "choices": [
+    "Promethazine",
+    "Ondansetron",
+    "Sumatriptan",
+    "Loratadine",
+    "Cyproheptadine",
+    "Ergonovine"
+   ],
+   "answer": 4,
+   "explanation": "Matching item. Correct match: Cyproheptadine.",
+   "source": "Pharmacology VII-1 Q2",
+   "topic": "Easy",
+   "topic_n": 2
+  },
+  {
+   "question": "This drug can act as an agonist at serotonergic and α-adrenergic receptors.",
+   "choices": [
+    "Ergonovine",
+    "Loratadine",
+    "Ondansetron",
+    "Promethazine",
+    "Sumatriptan",
+    "Cyproheptadine"
+   ],
+   "answer": 0,
+   "explanation": "Matching item. Correct match: Ergonovine.",
+   "source": "Pharmacology VII-1 Q3",
+   "topic": "Easy",
+   "topic_n": 3
+  },
+  {
+   "question": "A 64-year-old man suffering from benign prostatic hyperplasia presented to his physician complaining of generalized itching. The problem began 1 week earlier, after an afternoon of prolonged sun exposure. The patient reported that the itching was distressing, especially during the night. Physical examination showed an enlarged prostate and no other evidence of ongoing disease. Which of the following drugs would be appropriate for this patient?",
+   "choices": [
+    "Acetaminophen",
+    "Famotidine",
+    "Cyproheptadine",
+    "Diphenhydramine",
+    "Ibuprofen",
+    "Loratadine"
+   ],
+   "answer": 5,
+   "explanation": "Itching is sometimes caused by exposure to sunlight, especially in the elderly. Because histamine is most often involved in itching, histamine H1 antagonists are effective antipruritics. In this case, a second-generation antihistamine is the appropriate choice, as the patient has prostatic hypertrophy, which contraindicates first-generation antihistamines because of their antimuscarinic properties. A, B See correct answer explanation. C, E, F These drugs lack antipruritic properties.",
+   "source": "Pharmacology VII-1 Q4",
+   "topic": "Medium",
+   "topic_n": 1
+  },
+  {
+   "question": "A 46-year-old woman recently diagnosed with classic migraine had a headache attack at least once a week. Ergotamine was prescribed to prevent the impending attacks. Which of the following actions most likely contributed to the therapeutic effect of the drug in the patient’s disorder?",
+   "choices": [
+    "Increased firing of trigeminal neurons",
+    "Constriction of cerebral vessels",
+    "Platelet aggregation in the cerebral vascular bed",
+    "Prostaglandin release from vascular endothelium",
+    "Extravasation of plasma into perivascular space"
+   ],
+   "answer": 1,
+   "explanation": "The effectiveness of ergot alkaloids in migraine seems to be primarily related to their cerebral vasoconstricting effects, which are apparently due to activation of both α adrenoceptors and serotonin (5-HT) receptors. The pathophysiology of migraine seems to include a vasomotor component, because the onset of headache is sometimes associated with increased amplitude of temporal artery pulsations; ergotamine can diminish these pulsations. Other mechanisms are probably also operative. For example, ergotamine blocks inflammation of the trigeminal neurovascular system. This action, possibly mediated by activation of 5-HT receptors, may be responsible for both the pain-relieving and the vasoconstricting effects of ergot alkaloids. B-E Ergotamine does not cause these effects. Moreover, these effects would increase, not decrease, the risk of a migraine attack.",
+   "source": "Pharmacology VII-1 Q5",
+   "topic": "Easy",
+   "topic_n": 4
+  },
+  {
+   "question": "A 30-year-old man presented to the clinic with a 2-month history of right-side head pain recurring on a weekly basis. His headaches were usually preceded by unformed flashes of light, bilaterally, and were associated with nausea, vomiting, and photophobia. The headaches were not relieved by aspirin or ibuprofen and usually lasted all day unless he was able to sleep. A drug acting on which of the following receptors would be most appropriate to stop the migraine attack in this patient?",
+   "choices": [
+    "GABAergic",
+    "M1 cholinergic",
+    "Beta-2 adrenergic",
+    "D1 dopaminergic",
+    "5-HT1B/1D serotonergic",
+    "Alpha-2 adrenergic"
+   ],
+   "answer": 4,
+   "explanation": "Triptans (e.g., sumatriptan and zolmitriptan) are specific 5-HT1B/1D agonists that are equally as or more effective than ergot alkaloids in the acute treatment of migraine attack. There are two major proposed mechanisms for effectiveness of triptans in acute migraine headache: vasoconstriction of cerebral vessels via the activation of vascular 5-HT1B/1D receptors, and inhibition of release of neuropeptides with inflammatory properties via the activation of presynaptic 5-HT1B/1D receptors. Triptans are not intended for use in the prophylaxis of migraine. A Beta-blockers are effective for the prophylaxis of migraine in some patients, but they are of no value in the treatment of an ongoing migraine attack. B, C, E, F Drugs acting on these receptors cannot cure a migraine attack.",
+   "source": "Pharmacology VII-1 Q6",
+   "topic": "Easy",
+   "topic_n": 5
+  },
+  {
+   "question": "A 34-year-old woman underwent magnetic resonance imaging (MRI) to investigate an acoustic neurinoma. Because the woman had had a mild allergic reaction to contrast media in the past, she was given a prescription for drugs to be taken before the MRI. Which of the following drugs should be included in that prescription?",
+   "choices": [
+    "Diphenhydramine",
+    "Famotidine",
+    "Fludrocortisone",
+    "Zafirlukast",
+    "Bromocriptine",
+    "Ondansetron"
+   ],
+   "answer": 0,
+   "explanation": "Drugs usually given to prevent an acute allergic reaction in patients at risk are glucocorticoids and histamine H1 antagonists. First-generation H1 antagonists are generally preferred when drug-induced sedation may be useful to reduce fear related to the procedure, as in this case. A-C, E, F These drugs are devoid of antiallergic properties.",
+   "source": "Pharmacology VII-1 Q7",
+   "topic": "Easy",
+   "topic_n": 6
+  },
+  {
+   "question": "A 30-year-old primipara woman had visible vaginal bleeding within a few hours after delivering her baby. Uterine massage and infusion of oxytocin did not control the bleeding. Upon examination, it was felt that the hemorrhage was due to uterine atony. An intramuscular injection of ergonovine was given. Which of the following actions most likely mediated the therapeutic effect of the drug in this patient?",
+   "choices": [
+    "Platelet aggregation in the uterine vascular bed",
+    "Selective constriction of uterine arteries",
+    "Endothelin release in the uterine vascular bed",
+    "Activation of coagulation cascade in uterine capillaries",
+    "Induction of powerful uterine contracture"
+   ],
+   "answer": 4,
+   "explanation": "Uterine atony (absence of uterine contracture following the delivery of the placenta) is the most common cause of postpartum hemorrhage. When the hemorrhage does not respond to oxytocin administration, ergot alkaloids may be used to decrease bleeding. The uterus at term is extremely sensitive to the stimulant action of ergot alkaloids, and even an intermediate dose produces a prolonged and powerful spasm of the muscle that squeezes the uterine vessels, thus controlling bleeding. A Ergotamine can constrict uterine arteries, but this is not the main reason why the drug can stop postpartum bleeding. B-D Ergotamine does not have these effects.",
+   "source": "Pharmacology VII-1 Q8",
+   "topic": "Easy",
+   "topic_n": 7
+  },
+  {
+   "question": "A 24-year-old woman experienced severe motion sickness whenever she traveled by air or sea. Diphenhydramine taken before a trip was effective in minimizing her symptoms. The therapeutic effect of the drug was most likely due to blockade of which of the following pairs of central receptors?",
+   "choices": [
+    "Alphα-adrenergic and muscarinic",
+    "Serotonergic and peptidergic",
+    "GABAergic and serotonergic",
+    "Dopaminergic and β-adrenergic",
+    "Histaminergic and muscarinic"
+   ],
+   "answer": 4,
+   "explanation": "Diphenhydramine is a first-generation histamine H1-receptor antagonist. Most drugs of this class can also block muscarinic receptors. The drug easily crosses the bloodbrain barrier and can block H1 receptors and muscarinic receptors located in vestibular nuclei and in the nucleus of the tractus solitarius, thus decreasing the firing from these nuclei to the vomiting center. A-C, E All of these options have at least one receptor that is not involved in the mechanism of nausea and vomiting.",
+   "source": "Pharmacology VII-1 Q9",
+   "topic": "Easy",
+   "topic_n": 8
+  },
+  {
+   "question": "A 33-year-old woman was hospitalized after 1 week of increasing pain, tenderness, and cyanosis in her legs. She admitted to taking several medications to relieve a migraine headache. Physical examination revealed that no pulses could be palpated below the femoral vessels, and an aortogram showed a pronounced constriction of the vessels distal to the iliac arteries. The vasoconstriction disappeared after 3 hours of nitroprusside intravenous infusion. Which of the following drugs most likely caused the vessel constriction?",
+   "choices": [
+    "Ergotamine",
+    "Aspirin",
+    "Diclofenac",
+    "Naproxen",
+    "Acetaminophen",
+    "Propranolol"
+   ],
+   "answer": 0,
+   "explanation": "Ergot alkaloids constrict most human blood vessels and can cause prolonged vasospasm when high doses are given. The vasospasm mainly affects the arms and legs and may result in gangrene. The vasospasm is refractory to most vasodilators, but nitroprusside or nitroglycerin infusion may be successful, as in this case. A, B, D-F All of these drugs can be used to relieve headache, but they do not cause peripheral vasospasm.",
+   "source": "Pharmacology VII-1 Q10",
+   "topic": "Medium",
+   "topic_n": 2
+  },
+  {
+   "question": "A 33-year-old man complained to his physician that the drug he was taking made him feel tightness in his chest and throat soon after the injection. The man, recently diagnosed with classic migraine, had started a treatment that included the block an impendsubcutaneous administration of a drug to following drugs most likely ing acute attack. Which of the caused the patient’s symptoms?",
+   "choices": [
+    "Aspirin",
+    "Sumatriptan",
+    "Ibuprofen",
+    "Valproic acid",
+    "Diphenhydramine",
+    "Propranolol"
+   ],
+   "answer": 1,
+   "explanation": "Symptoms of chest pressure or tightness have been.reported in up to 40% of patients treated with subcutaneous sumatriptan. These symptoms, most likely due to the serotonin 5-HT1B/1D-mediated vasoconstricting action of the drug, are rarely serious, but in some cases the drug can cause coronary vasospasm and myocardial infarction. A, B, D, F These drugs are used for the treatment or prophylaxis of migraine, but they do not cause the symptoms reported by the patient. E Antihistamines are not used for migraine prophylaxis, and they do not cause the symptoms reported by the patient.",
+   "source": "Pharmacology VII-1 Q11",
+   "topic": "Easy",
+   "topic_n": 9
+  },
+  {
+   "question": "A 25-year-old man suffering from hay fever started treatment with an over-the-counter antihistamine preparation. Which of the following statements best explains the molecular mechanism of action of the prescribed drug to treat this patient’s hay fever?",
+   "choices": [
+    "Irreversible binding to H1 receptors",
+    "Irreversible binding to H2 receptors",
+    "Irreversible binding to H3 receptors",
+    "Reversible binding to H2 receptors",
+    "Reversible binding to H3 receptors",
+    "Reversible binding to H1 receptors"
+   ],
+   "answer": 5,
+   "explanation": "Drugs effective against hay fever are histamine H1-receptor competitive antagonists. Competitive means that the binding to the receptor is reversible; that is, the antagonism is pharmacological and surmountable. A-D, F H1 antagonists have negligible blocking activity against H2 and H3 receptors.",
+   "source": "Pharmacology VII-1 Q12",
+   "topic": "Easy",
+   "topic_n": 10
+  },
+  {
+   "question": "A 34-year-old man presented to his physician complaining of dry mouth, constipation, and difficulty in urination. He also noticed an increase in appetite. The man had started a therapy with cyproheptadine 2 weeks earlier to treat coldinduced urticaria. Drug-induced blockade of which of the following pairs of receptors most likely mediated the patient’s symptoms?",
+   "choices": [
+    "Dopaminergic and α1-adrenergic",
+    "H2-histaminergic and α1-adrenergic",
+    "Dopaminergic and GABAergic",
+    "Muscarinic and serotonergic",
+    "H2-histaminergic and muscarinic",
+    "Serotonergic and GABAergic"
+   ],
+   "answer": 3,
+   "explanation": "Cyproheptadine is a first-generation H1 antagonist. Like other drugs of this class, it can also block muscarinic and serotonergic receptors (mainly 5-HT2). The blockade of muscarinic receptors explains the dry mouth, constipation, and dysuria, while the increase in appetite was likely due to blockade of 5-HT2 receptors in the hypothalamus. In fact, cyproheptadine has been used to treat anorexia, with mixed results. A-D, F See correct answer explanation.",
+   "source": "Pharmacology VII-1 Q13",
+   "topic": "Medium",
+   "topic_n": 3
+  },
+  {
+   "question": "A 43-year-old man with a long history of exertional angina was recently diagnosed with migraine. Which of the following antimigraine drugs would be contraindicated in this patient?",
+   "choices": [
+    "Sumatriptan",
+    "Acetaminophen",
+    "Aspirin",
+    "Ibuprofen",
+    "Propranolol"
+   ],
+   "answer": 0,
+   "explanation": "Triptans are contraindicated in serious suspected coronary artery disease, because rare but life-threatadverse cardiac effects, including heart attacks, been ening disturbances of cardiac rhythm, and death, have reported within a few hours of receiving one of these drugs. The mechanism of this adverse effect is likely related to the vasoconstricting actions of these drugs. A, B, D, E All of these drugs are used in the acute therapy and/or in prevention of migraine headache.",
+   "source": "Pharmacology VII-1 Q14",
+   "topic": "Medium",
+   "topic_n": 4
+  },
+  {
+   "question": "A 40-year-old woman suffering from chronic classic migraine headaches took three sublingual tablets of ergotamine to abort an impending migraine attack. Which of the following adverse effects were most likely to occur in this patient?",
+   "choices": [
+    "Visual hallucinations",
+    "Adynamic ileus",
+    "Facial flushing",
+    "Postural hypotension",
+    "Nausea and vomiting"
+   ],
+   "answer": 4,
+   "explanation": "Ergot alkaloids cause nausea and vomiting in about 10% of patients. The effect is most likely due to activation of dopamine D2 and serotonin 5-HT3 receptors in the chemoreceptor trigger zone. A Hallucinations occur only after administration of toxic doses of ergot alkaloids. B, C Ergotamine has powerful vasoconstricting actions. Therefore, these effects are unlikely. D Adynamic ileus is unlikely because ergotamine has stimulant effects on smooth muscle.",
+   "source": "Pharmacology VII-1 Q15",
+   "topic": "Easy",
+   "topic_n": 11
+  },
+  {
+   "question": "A 48-year-old woman suffering from allergic urticaria started a treatment with loratadine. The decreased synthesis of which of the following substances most likely mediated the therapeutic effect of the drug in the patient's disease?",
+   "choices": [
+    "Cyclooxygenase-2",
+    "Cyclic adenosine monophosphate (cAMP)",
+    "Cyclooxygenase-1",
+    "Inositol triphosphate",
+    "Cyclic guanosine monophosphate (cGMP)"
+   ],
+   "answer": 3,
+   "explanation": "Loratadine is a histamine H1-receptor antagonist. Activation of H1 receptors increases the synthesis of inositoltriphosphate and diacylglycerol, which in turn increases the cytoplasmic Ca2+ concentration in target cells. Most histamine effects due to activation of H1 receptors are mediated by this increased availability of cytoplasmic Ca2*. By blocking H1 receptors, loratadine decreases the synthesis of inositoltriphosphate and diacylglycerol, thus antagonizing all histamine effects mediated by activation of H1 receptors. A, B, D, E See correct answer explanation.",
+   "source": "Pharmacology VII-1 Q16",
+   "topic": "Easy",
+   "topic_n": 12
+  },
+  {
+   "question": "A 10-year-old boy developed pruritus and skin wheals after eating fried eggs. He was diagnosed with food allergy, and loratadine was prescribed. Which of the following statements best explains why loratadine is used in several allergic disorders?",
+   "choices": [
+    "It prevents many histamine-induced effects in peripheral tissues.",
+    "It elicits effects that are opposite to those elicited by histamine.",
+    "It blocks the antigen-induced release of histamine from mast cells.",
+    "It blocks muscarinic and adrenergic receptors in smooth muscle.",
+    "It prevents the antigen-antibody reaction on the surface of mast cells."
+   ],
+   "answer": 0,
+   "explanation": "Histamine H1 antagonists such as loratadine are used in allergic disorders because they block H1 receptors in most peripheral organs and tissues. In this way, they prevent most histamine-induced effects. A Although some second-generation antihistamines can block histamine release, this is not the main mechanism of the antiallergic action of these drugs. B-D Loratadine does not cause these effects.",
+   "source": "Pharmacology VII-1 Q17",
+   "topic": "Easy",
+   "topic_n": 13
+  },
+  {
+   "question": "A 33-year-old woman complained to her physician of numbness and tingling in her fingers and toes. The woman had been taking a drug for 1 month to abort headache. Which of the following drugs most likely caused the patient’s symptoms?",
+   "choices": [
+    "Aspirin",
+    "Propranolol",
+    "Ergotamine",
+    "Acetaminophen",
+    "Ibuprofen",
+    "Valproic acid"
+   ],
+   "answer": 2,
+   "explanation": "Ergot alkaloids can cause peripheral vasospasm that can lead to pain, numbness, and tingling of the fingers and toes. The vasospasm, likely due to activation of α adrenoceptors and serotonin receptors, is often refractory to most vasodilators. A, B, D, E These drugs do not cause peripheral vasospasm.",
+   "source": "Pharmacology VII-1 Q18",
+   "topic": "Easy",
+   "topic_n": 14
+  },
+  {
+   "question": "A 59-year-old man with a body mass index of 42 and a long history of poorly controlled hypertension was recently diagnosed with migraine headaches. Which of the following antimigraine drugs would be contraindicated in this patient?",
+   "choices": [
+    "Propranolol",
+    "Ergotamine",
+    "Verapamil",
+    "Aspirin",
+    "Ibuprofen",
+    "Acetaminophen"
+   ],
+   "answer": 1,
+   "explanation": "Ergot alkaloids such as ergotamine are contraindicated in patients with coronary artery disease and peripheral vascular disease because of the vasoconstricting properties of these drugs. It is even recommended that ergotamine not be given to patients in whom unrecognized coronary artery disease can be predicted by the presence of risk factors (hypertension, hypercholesterolemia, smoking, obesity, etc.), as in this case. A, B, D-F These drugs are used for the treatment of migraine, and they are not contraindicated in this patient.",
+   "source": "Pharmacology VII-1 Q19",
+   "topic": "Easy",
+   "topic_n": 15
+  },
+  {
+   "question": "A 29-year-old woman suffering from allergic rhinitis started treatment with loratadine. The drug can completely counteract the histamine-induced release of which of the following endogenous compounds?",
+   "choices": [
+    "Pepsin",
+    "Cyclic adenosine monophosphate (cAMP)",
+    "Nitric oxide",
+    "Bradykinin",
+    "Gastric acid"
+   ],
+   "answer": 2,
+   "explanation": "Loratadine is a histamine H1-receptor antagonist. Activation of H1 receptors on vascular endothelium causes the release of nitric oxide, which is involved in the vasodilation, vascular permeability, and edema associated with acute inflammation. By blocking H1 receptors, loratadine inhibits nitric oxide release, thus exerting a useful antiinflammatory response. A-C Histamine can induce the release of these endogenous compounds, but this release is mediated by the activation of H1 receptors and therefore cannot be antagonized by H1-receptor antagonists. E Histamine does not cause the release of bradykinin.",
+   "source": "Pharmacology VII-1 Q20",
+   "topic": "Medium",
+   "topic_n": 5
+  },
+  {
+   "question": "A 47-year-old man presented to the clinic complaining of a recent onset of repeating episodes of vertigo associated with nausea and vomiting. The patient was otherwise healthy and denied use of alcohol or illicit drugs. Physical examination was unremarkable, but a provocative test elicited severe vertigo. A diagnosis was made, and a pharmacotherapy was prescribed. Which of the following drugs would be appropriate for this patient?",
+   "choices": [
+    "> Ww Propranolol",
+    "Loratadine",
+    "Ondansetron",
+    "Ergotamine",
+    "Dronabinol",
+    "Diphenhydramine"
+   ],
+   "answer": 5,
+   "explanation": "The symptoms of the patient and the provocative test indicate that he was most likely affected by benign positional vertigo, a violent vertigo lasting less than 30 seconds and induced by certain head positions. The disorder is most likely due to formation of granular masses in the cupula of the semicircular canals. First-generation antihistamines such as diphenhydramine are often used to treat vestibular disturbances such as positional vertigo and Meniere syndrome. The beneficial effect is most likely due to blockade of histamine H1 receptors in the nucleus of the tractus solitarius (vestibular pathways include histaminergic afferents to the nucleus of the tractus solitarius and to vestibular nuclei). B, C Ondansetron and dronabinol are antiemetic drugs, but they are not effective when nausea and vomiting are due to vestibular disturbances. D, F Ergotamine and propranolol have no effect on vestibular disturbances. E Loratadine is a second-generation H1 receptor antagonist that does not cross the blood-brain barrier effectively and so cannot reach the nucleus of the tractus solitarius.",
+   "source": "Pharmacology VII-1 Q21",
+   "topic": "Hard",
+   "topic_n": 1
+  },
+  {
+   "question": "A 43-year-old woman complained to her physician of annoying daytime sleepiness. The woman, who was treated in the past with several drugs for generalized anxiety, had been receiving diazepam for the past month. One week ago, she started taking an over-the-counter preparation for seasonal allergic rhinitis. Which of the following drugs most likely precipitated the patient’s daytime sleepiness?",
+   "choices": [
+    "Zolpidem",
+    "Trazodone",
+    "Prednisone",
+    "Diphenhydramine",
+    "Mirtazapine",
+    "Loratadine"
+   ],
+   "answer": 3,
+   "explanation": "First-generation histamine H1 antagonists such as diphenhydramine can cause pronounced sedation because they are able to cross the blood-brain barrier. This effect is more likely if the patient is already receiving another sedative drug, as in this case. A Second-generation H1 antagonists are devoid of central depressive effects. B Glucocorticoid-induced central depressant effects are very rare. D-F All of these drugs can cause sedation, but they are not used to treat allergic disorders.",
+   "source": "Pharmacology VII-1 Q22",
+   "topic": "Medium",
+   "topic_n": 6
+  },
+  {
+   "question": "A 53-year-old man presented to the clinic complaining of itching, flushing, arthralgia, heartburn, and diarrhea. Further exams led to the diagnosis of systemic mastocytosis. Which of the following pairs of drugs should be included in the therapeutic treatment of this patient?",
+   "choices": [
+    "Misoprostol and ergotamine",
+    "Aspirin and ergotamine",
+    "Loratadine and diphenhydramine",
+    "Loratadine and famotidine",
+    "Aspirin and famotidine"
+   ],
+   "answer": 3,
+   "explanation": "Systemic mastocytosis is a disease of unknown origin characterized by an excessive accumulation of mast cells in various body tissues. Most symptoms of the disease are due to the extremely high plasma levels of histamine. Treatment with H1 and H2 antagonists represents a rational therapy. A, B, D, E See correct answer explanation.",
+   "source": "Pharmacology VII-1 Q23",
+   "topic": "Hard",
+   "topic_n": 2
+  },
+  {
+   "question": "A 28-year-old woman who was 26 weeks’ pregnant had been recently diagnosed with classic migraine. Which of the following drugs would be appropriate to reduce the frequency and severity of her migraine attacks?",
+   "choices": [
+    "Ergotamine",
+    "Ergonovine",
+    "Propranolol",
+    "Valproic acid",
+    "Sumatriptan"
+   ],
+   "answer": 2,
+   "explanation": "Propranolol is the drug of choice for migraine headache prophylaxis because of its efficacy and favorable adverse effect profile. Beta-blockers are approved by the U.S. Food and Drug Administration for prevention of migraine headache, but their mechanism of action in this disease remains uncertain. A, C Ergot alkaloids are absolutely contraindicated in pregnant women because they could cause abortion due to the induction of powerful uterine contracture. D Valproic acid is an antiepileptic drug approved for prevention of migraine headache. However, it is contraindicated in pregnant women because of its substantial teratogenic risk. E Triptans are used to treat an impending migraine attack, not for chronic prophylaxis. effects of hista-",
+   "source": "Pharmacology VII-1 Q24",
+   "topic": "Easy",
+   "topic_n": 16
+  },
+  {
+   "question": "A 66-year-old man suffering from benign prostatic hyperplasia was admitted to the hospital because of severe suprapubic pain and an inability to pass urine for the past 24 hours. On questioning, he said he had been taking diphenhydramine for a few days to relieve itching. Which of the following actions most likely mediated the adverse effect of the drug in this patient?",
+   "choices": [
+    "Relaxation of the bladder internal sphincter",
+    "Increased diuresis",
+    "Constriction of the bladder external sphincter",
+    "Relaxation of the detrusor muscle",
+    "Constriction of the prostate capsule"
+   ],
+   "answer": 3,
+   "explanation": "First-generation histamine H1 antagonists such as diphenhydramine have significant blocking activity on muscarinic receptors. This action relaxes the bladder detrusor, an effect that is without clinical consequences in normally healthy people, but that can further impair the voiding of the bladder in men with prostatic hypertrophy, as in this case. B The bladder external sphincter includes striated muscle and is not under the control of the autonomic nervous system. C The prostate capsule is constricted via a, receptors. Most antihistamines have negligible effects on these receptors. D The bladder internal sphincter has mainly a, receptors. Most antihistamines have negligible effects on these receptors. E Antihistamines have negligible effects on diuresis.",
+   "source": "Pharmacology VII-1 Q25",
+   "topic": "Medium",
+   "topic_n": 7
+  },
+  {
+   "question": "A 48-year-old woman was admitted to the emergency department because of fever (103.1°F, 39.5°C), flushing, sweating, tremors, and altered consciousness. Medical history indicated that she had been suffering from depression for 8 years, currently treated with paroxetine, and for insomnia, currently treated with zolpidem. The patient also reported that 24 hours earlier, she had self-administered three tablets of a drug given to her by a friend to treat a severe headache. Further exams confirmed the preliminary diagnosis, and an appropriate treatment was started. Which of the following drugs most likely triggered the patient's disorder?",
+   "choices": [
+    "Diclofenac",
+    "Acetaminophen",
+    "Sumatriptan",
+    "Ibuprofen",
+    "Zolpidem",
+    "Cyproheptadine"
+   ],
+   "answer": 2,
+   "explanation": "The patient’s history and symptoms indicate the she was most likely suffering from serotonin syndrome, a rare but potentially fatal disorder that is related to an inappropriate increase of serotonergic transmission in the central nervous system (CNS). The syndrome can be caused by several drugs either alone or in combination, especially when given in high doses. The combination of two drugs that enhance serotonin transmission can be particularly dangerous. In this case, the patient was taking paroxetine, a selective serotonin reuptake inhibitor (SSRI). The addition of sumatriptan, a serotonin agonist, most likely triggered the syndrome. The U.S. Food and Drug Administration has issued a warning against the concomitant use of SSRIs and triptans. A, C-F None of these drugs cause an increase in serotonergic transmission in the CNS.",
+   "source": "Pharmacology VII-1 Q26",
+   "topic": "Medium",
+   "topic_n": 8
+  },
+  {
+   "question": "A 48-year-old man had a long history of classic migraine that was recently well controlled by sumatriptan. Which of the following parts of the central nervous system was most likely a primary site of therapeutic action of the drug in the patient’s disease?",
+   "choices": [
+    "Nucleus caudalis",
+    "Olfactory nerve",
+    "Trigeminal nerve",
+    "Nucleus accumbens",
+    "Vestibular nuclei",
+    "Chemoreceptor trigger zone"
+   ],
+   "answer": 2,
+   "explanation": "Sumatriptan and its congeners are currently first-line agents for the abortive therapy of acute, severe migraine attacks. The pathophysiology of migraine remains unknown, but the current view is that a complex series of neural and vascular events initiates migraine (the so-called neurovascular theory). The theory states that activation of the nucleus caudalis of the trigeminal nerve leads to the release of several potent vasodilating neuropeptides, which in turn causes dilation of cerebral blood vessels. This vasodilation seems to be a major cause of the throbbing headache of the migraine attack. By activating presynaptic serotonin 5-HT1B/1D receptors on trigeminal nerve endings, triptans can prevent the release of vasodilating neuropeptides. A, C-F See correct answer explanation. caused anticholin-",
+   "source": "Pharmacology VII-1 Q27",
+   "topic": "Medium",
+   "topic_n": 9
+  },
+  {
+   "question": "A 2-year-old boy was brought to the emergency department with high body temperature (104’F, 40°C), flushed and dry skin, and widely dilated pupils unresponsive to light. He was agitated and underwent a brief tonic-clonic convulsion. His mother stated that the boy apparently swallowed several tablets of her allergy medication. Which of the following drugs most likely caused the patient’s poisoning?",
+   "choices": [
+    "Diphenhydramine",
+    "Loratadine",
+    "Atropine",
+    "Ibuprofen",
+    "Phenylephrine",
+    "Celecoxib"
+   ],
+   "answer": 0,
+   "explanation": "The patient's syndrome indicated that he was poisoned by an anticholinergic drug. First-generation antihistamines such as diphenhydramine have significant antimuscarinic effects, and acute poisoning by these drugs is remarkably similar to that of atropine poisoning. A, C, D These drugs do not have antimuscarinic effects. E This drug is a second-generation antihistamine. Unlike first-generation, second-generation drugs are devoid of blocking activity on muscarinic receptors. F As stated above, the patient was poisoned by an antimuscarinic drug. However, atropine is unlikely, as the drug is not used to treat allergic symptoms.",
+   "source": "Pharmacology VII-1 Q28",
+   "topic": "Medium",
+   "topic_n": 10
+  },
+  {
+   "question": "A 54-year-old man at a scheduled ophthalmic check-up was found to have increased intraocular pressure. The man had been suffering from open-angle glaucoma for 2 years, but up until the current visit, the disease was found to be well controlled by local treatment with timolol and latanoprost. Drugs taken recently by the patient included over-the-counter preparations for episodic headache, heartburn, and insomnia. Which of the following drugs could have caused the patient’s increased intraocular pressure?",
+   "choices": [
+    "Diphenhydramine",
+    "Omeprazole",
+    "Acetaminophen",
+    "Ibuprofen",
+    "Famotidine"
+   ],
+   "answer": 0,
+   "explanation": "Diphenhydramine is a first-generation histamine H1 antagonist with pronounced sedative properties. Because of this, the drug is a component of over-the-counter preparations for insomnia. First-generation H1 antagonists have prominent antimuscarinic actions. By blocking M, receptors in the ciliary muscle, these drugs can narrow the spaces of the trabecular meshwork and the lumen of Schlemm canal, thus hindering the outflow of the aqueous humor. A-C, E See correct answer explanation.",
+   "source": "Pharmacology VII-1 Q29",
+   "topic": "Medium",
+   "topic_n": 11
+  },
+  {
+   "question": "A 21-year-old woman suffering from seasonal allergic conjunctivitis started a treatment with eye drops of azelastine, a second-generation histamine H1 antagonist. Second-generation H1 antagonists are used locally in the conjunctiva instead of first-generation H1 antagonists to provide which of the following therapeutic advantages?",
+   "choices": [
+    "Negligible effects on pupil size and accommodation",
+    "Negligible penetration into the central nervous system",
+    "Higher dilating activity on conjunctival vessels",
+    "Higher antibacterial activity against conjunctival infections",
+    "Higher blocking activity on lacrimal gland secretion"
+   ],
+   "answer": 0,
+   "explanation": "Unlike first-generation H1 antagonists, second-generation H1 antagonists are devoid of blocking activity on muscarinic receptors. Therefore, they do not have effects on pupil size and accommodation when applied into the conjunctival sac. This explains why only second-generation H1 antagonists are used locally in allergic conjunctivitis. B Second-generation H1 antagonists do not appreciably cross the blood-brain barrier and are therefore free of central nervous system properties. However, at most, this is a minor advantage when they are used locally in the eye because the systemic absorption of these drugs from the eye is negligible. C By blocking H1 receptors, both first- and second-generation H1 antagonists antagonize histamine-induced vasodilation. D Antihistamines are devoid of antibacterial activity. E Unlike first-generation, second-generation H1 antagonists do not affect secretion of lacrimal glands because they are devoid of muscarinic M,--receptor blocking activity.",
+   "source": "Pharmacology VII-1 Q30",
+   "topic": "Medium",
+   "topic_n": 12
+  },
+  {
+   "question": "An 8-year-old girl was diagnosed with seasonal allergic conjunctivitis triggered by exposure to airborne pollen. She started a topical therapy with cromolyn sodium. Which of the following actions most likely mediated the therapeutic effectiveness of cromolyn in this patient?",
+   "choices": [
+    "Blockade of H1 receptors",
+    "Constriction of conjunctival vessels",
+    "Blockade of mediator release from mast cells",
+    "Inhibition of prostaglandin biosynthesis",
+    "Blockade of leukotriene receptors"
+   ],
+   "answer": 2,
+   "explanation": "The available therapeutic options for management of allergic conjunctivitis include ocular administration of antihistamines, decongestants, nonsteroidal antiinflammatory drugs (NSAIDs), and mast cell stabilizers. Chromone derivatives such as cromolyn sodium are drugs that can stabilize mast cells (but not basophils), thus inhibiting the release of chemical mediators from these cells. A This is the mechanism of action of antihistamines. | C This is the mechanism of action of NSAIDs. D This is the mechanism of action of zafirlukast. E This is the mechanism of action of decongestants.",
+   "source": "Pharmacology VII-1 Q31",
+   "topic": "Easy",
+   "topic_n": 17
+  }
+ ]
+}

@@ -1,0 +1,815 @@
+{
+ "questions": [
+  {
+   "question": "A glycylcycline antibiotic active against vancomycin-resistant staphylococci",
+   "choices": [
+    "Streptomycin",
+    "Gentamicin",
+    "Clindamycin",
+    "Neomycin",
+    "Demeclocycline",
+    "Azithromycin",
+    "Amikacin",
+    "Tigecycline",
+    "Linezolid",
+    "Doxycycline",
+    "Erythromycin",
+    "Chloramphenicol",
+    "Tetracycline",
+    "Paromomycin",
+    "Spectinomycin"
+   ],
+   "answer": 7,
+   "explanation": "Tigecycline is a glycylcycline antibiotic active against vancomycin-resistant staphylococci. (Matching key, Questions 1-5: 1. O)",
+   "source": "Pharmacology VIII-2 Q1",
+   "topic": "Easy",
+   "topic_n": 1
+  },
+  {
+   "question": "An aminoglycoside antibiotic active against amebiasis and giardiasis",
+   "choices": [
+    "Doxycycline",
+    "Erythromycin",
+    "Tigecycline",
+    "Azithromycin",
+    "Chloramphenicol",
+    "Linezolid",
+    "Spectinomycin",
+    "Amikacin",
+    "Demeclocycline",
+    "Paromomycin",
+    "Gentamicin",
+    "Clindamycin",
+    "Tetracycline",
+    "Neomycin",
+    "Streptomycin"
+   ],
+   "answer": 14,
+   "explanation": "The Answers key for Questions 1-5 gives 2. L, which in the printed option list is streptomycin. (Note: the description fits paromomycin, option M; the printed key is followed here as published.)",
+   "source": "Pharmacology VIII-2 Q2",
+   "topic": "Easy",
+   "topic_n": 2
+  },
+  {
+   "question": "A macrolide antibiotic with a very long half-life (about 40 hours)",
+   "choices": [
+    "Paromomycin",
+    "Azithromycin",
+    "Tetracycline",
+    "Neomycin",
+    "Clindamycin",
+    "Streptomycin",
+    "Tigecycline",
+    "Amikacin",
+    "Erythromycin",
+    "Spectinomycin",
+    "Chloramphenicol",
+    "Doxycycline",
+    "Demeclocycline",
+    "Linezolid",
+    "Gentamicin"
+   ],
+   "answer": 1,
+   "explanation": "Azithromycin is a macrolide antibiotic with a very long half-life (about 40 hours). (Matching key, Questions 1-5: 3. B)",
+   "source": "Pharmacology VIII-2 Q3",
+   "topic": "Easy",
+   "topic_n": 3
+  },
+  {
+   "question": "A tetracycline antibiotic sometimes used in syndrome of inappropriate antidiuretic hormone secretion (SIADH)",
+   "choices": [
+    "Amikacin",
+    "Paromomycin",
+    "Neomycin",
+    "Demeclocycline",
+    "Linezolid",
+    "Azithromycin",
+    "Gentamicin",
+    "Tigecycline",
+    "Clindamycin",
+    "Streptomycin",
+    "Doxycycline",
+    "Chloramphenicol",
+    "Erythromycin",
+    "Spectinomycin",
+    "Tetracycline"
+   ],
+   "answer": 3,
+   "explanation": "Demeclocycline is a tetracycline antibiotic sometimes used in syndrome of inappropriate antidiuretic hormone secretion (SIADH). (Matching key, Questions 1-5: 4. E)",
+   "source": "Pharmacology VIII-2 Q4",
+   "topic": "Easy",
+   "topic_n": 4
+  },
+  {
+   "question": "An aminoglycoside antibiotic sometimes used in hepatic encephalopathy",
+   "choices": [
+    "Linezolid",
+    "Gentamicin",
+    "Tetracycline",
+    "Amikacin",
+    "Doxycycline",
+    "Streptomycin",
+    "Demeclocycline",
+    "Chloramphenicol",
+    "Paromomycin",
+    "Tigecycline",
+    "Spectinomycin",
+    "Erythromycin",
+    "Azithromycin",
+    "Neomycin",
+    "Clindamycin"
+   ],
+   "answer": 13,
+   "explanation": "Neomycin is an aminoglycoside antibiotic sometimes used in hepatic encephalopathy. (Matching key, Questions 1-5: 5. J)",
+   "source": "Pharmacology VIII-2 Q5",
+   "topic": "Easy",
+   "topic_n": 5
+  },
+  {
+   "question": "A 45-year-old diabetic woman complained to her physician of pain in her right ear for the past 5 hours. Further exams led to the diagnosis of external otitis, and later the culture of ear exudate showed Pseudomonas aeruginosa as the main offending pathogen. The patient was given an antibiotic that causes misreading of the bacterial messenger RNA template leading to the production of aberrant bacterial proteins. Which of the following drugs was most likely administered?",
+   "choices": [
+    "Ceftazidime",
+    "Aztreonam",
+    "Imipenem",
+    "Gentamicin",
+    "Piperacillin"
+   ],
+   "answer": 3,
+   "explanation": "Gentamicin is an aminoglycoside antibiotic. These drugs bind irreversibly to specific 30S ribosomal subunits and inhibit bacterial protein synthesis in at least three ways: blockade of the “initiation complex,” the complex formed for initiation of translation that consists of the 30S ribosomal subunit, messenger RNA (mRNA), transfer RNA (tRNA), and some initiation factors (this blockade leads to an mRNA chain with only a single ribosome on it, the so-called monosome); misreading of mRNA templates, which leads to the production of aberrant proteins (these proteins may be inserted into cell membranes, altering permeability and further stimulating aminoglycoside transport); and blockade of translocation (i.e., the ribosome advancement of three nucleotides is blocked). For external otitis, the drug would be given topically as ear drops. Gentamicin can be ototoxic, especially if given systemically. A-D All of these antibiotics are active against Pseudomonas aeruginosa, but they do not cause misreading of the bacterial mRNA template.",
+   "source": "Pharmacology VIII-2 Q6",
+   "topic": "Easy",
+   "topic_n": 6
+  },
+  {
+   "question": "A 69-year-old man recently diagnosed with a Proteus mirabilis infection started treatment with a daily intramuscular injection of gentamicin. Which of the following pairs of properties best explains why the drug is usually administered once daily despite the short half-life of gentamicin (about 2 hours)?",
+   "choices": [
+    "Extensive plasma protein binding and bactericidal effect",
+    "Time-dependent killing and long postantibiotic effect",
+    "Concentration-dependent killing and bacteriostatic effect",
+    "Time-dependent killing and bactericidal effect",
+    "Concentration-dependent killing and long postantibiotic effect"
+   ],
+   "answer": 4,
+   "explanation": "The aminoglycoside bactericidal effect is concentration-dependent; that is, increasing concentrations kill an increasing proportion of bacteria and at a more rapid rate. They also have a long postantibiotic effect, that is, persistent suppression of bacterial growth for several hours beyond the time that measurable drug is present. Most antibiotics exhibit this effect against gram-positive cocci. Antibiotics that possess this effect against gram-negative bacilli are aminoglycosides, fluoroquinolones, and tetracyclines. Because of these two properties, a given total amount of aminoglycoside may have better efficacy and lower toxicity when administered as a higher single daily dose than when given as a lower dose two or three times daily. A, E The bactericidal effect of aminoglycosides is not time-dependent. B Protein binding is totally unrelated to the duration of the antibiotic effect. C Aminoglycosides are bactericidal, not bacteriostatic.",
+   "source": "Pharmacology VIII-2 Q7",
+   "topic": "Easy",
+   "topic_n": 7
+  },
+  {
+   "question": "A 3-year-old girl developed whooping cough. Parents and other close contacts of the patient should receive a 10-day course of which of the following drugs?",
+   "choices": [
+    "Ceftriaxone",
+    "Chloramphenicol",
+    "Ampicillin",
+    "Erythromycin",
+    "Tetracycline",
+    "Ciprofloxacin"
+   ],
+   "answer": 3,
+   "explanation": "Erythromycin and azithromycin are agents of choice for whooping cough. If they are given during the catarrhal stage, they can ameliorate the disease. After paroxysms are established, these drugs have no clinical effect, but they decrease the duration of infectiousness, thus preventing spread. Contacts of all ages, whether vaccinated or not, should receive a 10-day course of erythromycin. A, B, D These drugs are active against Bordetella pertussis but are contraindicated in children. E, F These drugs are not active against B. pertussis.",
+   "source": "Pharmacology VIII-2 Q8",
+   "topic": "Easy",
+   "topic_n": 8
+  },
+  {
+   "question": "A 60-year-old man recently diagnosed with carcinoma of the colon was admitted to the hospital for colectomy. Which of the following drugs would be appropriate to be included in the oral prophylactic treatment of this patient to prevent surgical infection?",
+   "choices": [
+    "Penicillin G",
+    "Neomycin",
+    "Vancomycin",
+    "Trimethoprim",
+    "Streptomycin",
+    "Cephalothin"
+   ],
+   "answer": 1,
+   "explanation": "Antibiotic prophylaxis is widely used for surgical procedures to decrease the degree of bacterial contamination during surgery. Prophylaxis is especially advisable for colorectal surgery, owing to the large number of bacteria comprising the intestinal flora. Oral nonabsorbable antibiotics function effectively as intestinal decontaminants because high intraluminal drug concentrations can be easily achieved. An oral antimicrobial regimen used for colorectal surgical prophylaxis is neomycin (for aerobic enterobacteriaceae) plus erythromycin (for anaerobes). Neomycin is preferred over other aminoglycosides because of its wider spectrum of antibacterial activity. A See correct answer explanation. B Penicillin G given orally is rapidly destroyed by gastric juices. C, E, F These antibiotics are not active against enterobacteriaceae or anaerobes.",
+   "source": "Pharmacology VIII-2 Q9",
+   "topic": "Easy",
+   "topic_n": 9
+  },
+  {
+   "question": "A 45-year-old farmer presented to the clinic with fever (103.2°F, 39.5°C), chills, headache, and a dry cough. Chest x-ray showed extensive nodular infiltrates radiating from the hilum. History revealed that the man raised chickens and that approximately 2 weeks ago he had lost a large number of them to an undiagnosed disease. The presumptive diagnosis of pneumonia was made, and an appropriate drug was prescribed. Which of the following correctly pairs the most likely offending pathogen with the appropriate treatment?",
+   "choices": [
+    "Chlamydia psittaci: doxycycline",
+    "Chlamydia trachomatis: gentamicin",
+    "Chlamydia pneumoniae: metronidazole",
+    "Mycoplasma pneumoniae: piperacillin",
+    "Mycobacterium tuberculosis: ceftazidime"
+   ],
+   "answer": 0,
+   "explanation": "The patient's history suggests that he was affected by psittacosis, a pneumonia caused by Chlamydia psittaci. The organism is found mainly in psittacine birds, but other birds can also be affected. Human infection usually occurs by inhalation of dust from feathers of infected birds. Chlamydiae are sensitive to tetracyclines, macrolides, and quinolones. Doxycycline is often the preferred drug. A-D All of the listed bacteria can cause pneumonia, but none of them are sensitive to the paired drug.",
+   "source": "Pharmacology VIII-2 Q10",
+   "topic": "Medium",
+   "topic_n": 1
+  },
+  {
+   "question": "A 54-year-old man suffering from chronic renal insufficiency was about to receive gentamicin and piperacillin for sepsis, apparently due to gram-negative bacteria. The patient's creatinine clearance was about one half the normal value. The physician chose to change the dosage of gentamicin and maintain the normal dosing interval. Assuming that the usual gentamicin dose for sepsis is 100 mg every 8 hours, which of the following (in milligrams) would be an appropriate initial dose of gentamicin for this patient?",
+   "choices": [
+    "200",
+    "110",
+    "50",
+    "33",
+    "75",
+    "150"
+   ],
+   "answer": 2,
+   "explanation": "Aminoglycosides are excreted almost entirely by the kidney, and their clearance is essentially equal to the glomerular filtration rate. Because these drugs have a narrow therapeutic index, dosing must be reduced in patients with impaired renal function. In general, the dose in a patient with renal impairment may be corrected by multiplying the average dose for a normally healthy person by the ratio of the patient's altered to normal creatinine clearance (about 100 mL/min). In other words, the dose must be reduced proportionally to the reduction of creatinine clearance. In this case, as the patient's creatinine clearance is about one half the normal value, the dose should be one half the normal dose. A-C, E, F See correct answer explanation.",
+   "source": "Pharmacology VIII-2 Q11",
+   "topic": "Easy",
+   "topic_n": 10
+  },
+  {
+   "question": "A 51-year-old woman was admitted to the hospital with fever (102.7°F, 39.3°C), shaking chills, nausea and vomiting, flank pain, and hematuria. She had been suffering from chronic urinary tract infections for 1 year and from type II diabetes for 10 years. Further tests led to the diagnosis of acute pyelonephritis due to Pseudomonas aeruginosa. Which of the following pairs of drugs would be appropriate for this patient?",
+   "choices": [
+    "Ampicillin and gentamicin",
+    "Ampicillin and doxycycline",
+    "Piperacillin and tobramycin",
+    "Cephalothin and amikacin",
+    "Imipenem and erythromycin"
+   ],
+   "answer": 2,
+   "explanation": "Acute pyelonephritis is a well-known complication of chronic lower urinary tract infections. Among patients ages 20 to 50 years, urinary tract infection is about 50-fold greater in women, and pyelonephritis occurs by the ascending route despite the dynamics of urine flow. In this patient, diabetes could predispose to renal infections, possibly because diabetics have altered antibacterial defense mechanisms. Because the patient is acutely ill, and P. aeruginosa is the causative agent of her disease, she should be treated with an anti-Pseudomonas penicillin (or cephalosporin) plus an aminoglycoside. Both drugs are bactericidal against P. aeruginosa, and penicillins are synergistic with aminoglycosides by increasing the uptake of these drugs by many gram-positive and -negative bacteria. B-D Only one of the two listed antibiotics is effective against P. aeruginosa. E Ampicillin and tetracyclines are not effective against P. aeruginosa.",
+   "source": "Pharmacology VIII-2 Q12",
+   "topic": "Medium",
+   "topic_n": 2
+  },
+  {
+   "question": "A 66-year-old woman complained to her physician of urinary urgency and burning pain during urination. A urine culture revealed that Escherichia coli was the offending organism, and a susceptibility test showed that the bacterium was resistant to aminoglycoside antibiotics. Which of the following mechanisms can account for the bacterial resistance to aminoglycosides?",
+   "choices": [
+    "Mutation-induced change of bacterial topoisomerases",
+    "Decreased affinity of the drug for the 50S ribosomal subunit",
+    "Plasmid-mediated production of bacterial transferases",
+    "Mutation-induced change of bacterial peroxidase",
+    "Development of an active efflux pump"
+   ],
+   "answer": 2,
+   "explanation": "Resistance to aminoglycosides is primarily due to plasmid-mediated production of bacterial transferases that phosphorylate, acetylate, and adenylate the drug. Less common mechanisms of resistance are decreased permeability of the bacterium to the drug and decreased affinity of the drug for the 30S ribosomal subunit. Resistance appears most frequently to gentamicin and least frequently to amikacin. B Resistance can be due to decrease in the affinity of the drug for the 30S (not for the 50S) ribosomal subunit. C This is a mechanism of resistance to penicillins. D This is the mechanism of resistance to isoniazid. E This is the mechanism of resistance to quinolones.",
+   "source": "Pharmacology VIII-2 Q13",
+   "topic": "Easy",
+   "topic_n": 11
+  },
+  {
+   "question": "A 60-year-old man presented with fever (102°F, 38.9°C), general malaise, and tachypnea. The man had been hospitalized for the past 4 days for evaluation of stage C cardiac failure. Medical therapy on admission included furosemide, losartan, aspirin, and atenolol. Further tests led to the diagnosis of nosocomial pneumonia due to Pseudomonas aeruginosa, and a therapy with ceftazidime and amikacin was started. Because of his current cardiac therapy, the patient was at increased risk of which of the following adverse effects of amikacin?",
+   "choices": [
+    "Ototoxicity",
+    "Optic nerve dysfunction",
+    "Superinfections",
+    "Peripheral neuritis",
+    "Neuromuscular blockade",
+    "Nephrotoxicity"
+   ],
+   "answer": 0,
+   "explanation": "Aminoglycosides can cause ototoxicity, which is more likely in patients receiving other ototoxic drugs, including loop diuretics such as furosemide. A, C-F All of these are potential adverse effects of aminoglycosides, but their risk is not increased by the concomitant administration of the drugs used by the patient.",
+   "source": "Pharmacology VIII-2 Q14",
+   "topic": "Medium",
+   "topic_n": 3
+  },
+  {
+   "question": "A 72-year-old female resident of a nursing facility was admitted to the hospital because of steadily declining urine output over the past 3 days. The woman had been receiving an antibiotic for 2 weeks to treat a urinary tract infection apparently due to Pseudomonas aeruginosa. A urinalysis showed albuminuria, hematuria, and hyaline casts. Which of the following drugs most likely caused the patient's disorder?",
+   "choices": [
+    "Vancomycin",
+    "Aztreonam",
+    "Tobramycin",
+    "Rifampin",
+    "Piperacillin"
+   ],
+   "answer": 2,
+   "explanation": "The patient's urinalysis indicates nephrotoxicity. Aminoglycoside antibiotics are active against Pseudomonas aeruginosa and can cause nephrotoxicity in 8 to 26% of patients receiving these drugs for more than 1 week. Risk factors include old age, as in this case. A, C Piperacillin and aztreonam are active against P. aeruginosa, but they do not cause nephrotoxicity. D, E Vancomycin and rifampin can cause nephrotoxicity, but they are not active against P. aeruginosa.",
+   "source": "Pharmacology VIII-2 Q16",
+   "topic": "Medium",
+   "topic_n": 4
+  },
+  {
+   "question": "A 35-year-old man presented with fever (101°F, 38.3°C), cough, and dyspnea. The man was hospitalized 1 week ago because he was found to be HIV positive, but no antiviral therapy had been initiated yet. Further exams led to the diagnosis of pneumonia, and 10 days of gentamicin therapy was able to cure the disease. Which of the following microorganisms was most likely the cause of the patient's acute illness?",
+   "choices": [
+    "Bacteroides fragilis",
+    "Borrelia recurrentis",
+    "Legionella pneumophila",
+    "Clostridium difficile",
+    "Mycoplasma pneumoniae",
+    "Enterobacter aerogenes"
+   ],
+   "answer": 5,
+   "explanation": "The efficacy of gentamicin therapy indicated that an aerobic gram-negative rod was the most likely offending organism. Aminoglycosides are mainly active against aerobic gram-negative rods, including Klebsiella pneumoniae, Pseudomonas aeruginosa, Haemophilus influenzae, Escherichia coli, Proteus mirabilis, Proteus vulgaris, Enterobacter aerogenes, and Serratia marcescens, as well as against some mycobacteria (Mycobacterium tuberculosis and Mycobacterium avium-intracellulare). Enterobacter pneumonia is usually hospital-acquired and occurs mainly in immunocompromised patients, as in this case. A-D, F Aminoglycosides are not active against Clostridia, mycoplasma, bacteroides, Borrelia, and Legionella species.",
+   "source": "Pharmacology VIII-2 Q17",
+   "topic": "Hard",
+   "topic_n": 1
+  },
+  {
+   "question": "A 45-year-old woman was diagnosed with a urinary tract infection due to gram-negative rods. The woman had been suffering from myasthenia gravis for 5 years. Which of the following antibiotics would be relatively contraindicated in this patient?",
+   "choices": [
+    "Erythromycin",
+    "Cefepime",
+    "Ceftriaxone",
+    "Aztreonam",
+    "Tobramycin",
+    "Ciprofloxacin"
+   ],
+   "answer": 4,
+   "explanation": "Tobramycin is an aminoglycoside antibiotic. These drugs are associated with neuromuscular blockade and may cause neuromuscular weakness lasting hours to days. Therefore, they are relatively contraindicated in patients receiving anesthetics or neuromuscular-blocking agents and in patients with neuromuscular diseases such as myasthenia gravis and parkinsonism. The U.S. Food and Drug Administration has a black box warning for use of tobramycin in patients with these diseases. A-D These drugs are effective in urinary tract infections and do not enhance the neuromuscular blockade caused by diseases or drugs.",
+   "source": "Pharmacology VIII-2 Q18",
+   "topic": "Easy",
+   "topic_n": 12
+  },
+  {
+   "question": "A 15-year-old girl was admitted to the hospital because of fever (103.2°F, 39.5°C) and severe pain in her left leg. A bone scan showed inflammation in her left distal femur. Two blood cultures were positive for Staphylococcus aureus, and susceptibility testing showed that the bacterium was methicillin- and vancomycin-resistant. Therapy was started with an antibiotic that binds to the 23S portion of the 50S ribosomal subunit and inhibits the formation of the initiation complex. Which of the following drugs was most likely given?",
+   "choices": [
+    "Gentamicin",
+    "Imipenem",
+    "Linezolid",
+    "Erythromycin",
+    "Tetracycline",
+    "Tigecycline"
+   ],
+   "answer": 2,
+   "explanation": "The patient's signs and symptoms indicate that she was most likely suffering from acute hematogenous osteomyelitis, which classically has been a disease of children. Linezolid is a relatively new antibiotic that inhibits protein synthesis by binding to the 23S portion of the 50S ribosomal subunit and preventing formation of the initiation complex. The ultimate effect is mainly bacteriostatic. The drug is active against methicillin-resistant (MR) and vancomycin-resistant (VR) staphylococci. A-D All of these antibiotics have a different mechanism of action, and they are not active against MR and VR staphylococci. F Tigecycline is active against MR and VR staphylococci but has a different mechanism of action; it binds instead to the 30S ribosomal subunit and prevents binding of the aminoacyl-transfer RNA (tRNA) to the acceptor site.",
+   "source": "Pharmacology VIII-2 Q19",
+   "topic": "Medium",
+   "topic_n": 5
+  },
+  {
+   "question": "A 70-year-old woman complained to her physician of headache, nausea and vomiting, vertigo, tinnitus, and progressive loss of hearing. The woman had been receiving an antibiotic for 2 weeks to treat a urinary tract infection apparently due to Serratia marcescens. The drug used was most likely a member of which of the following antibiotic classes?",
+   "choices": [
+    "Aminoglycosides",
+    "Cephalosporins",
+    "Sulfonamides",
+    "Tetracyclines",
+    "Macrolides"
+   ],
+   "answer": 0,
+   "explanation": "Aminoglycosides cause dose-dependent ototoxicity that involves both cochlear and vestibular function. Nausea, vomiting, and vertigo indicate impairment of vestibular function, and tinnitus and decreased hearing capacity point out that cochlear function is affected. A Macrolides can rarely cause ototoxicity, but they are not active against Serratia marcescens. B Some tetracyclines (minocycline) can cause vestibular disturbances, but they are not active against S. marcescens. C, D Cephalosporins and sulfonamides do not cause ototoxicity.",
+   "source": "Pharmacology VIII-2 Q20",
+   "topic": "Easy",
+   "topic_n": 13
+  },
+  {
+   "question": "A 14-year-old girl diagnosed with a respiratory tract infection started treatment with erythromycin. Which of the following molecular actions on bacterial cells most likely mediated the therapeutic effect of the drug in the patient's disease?",
+   "choices": [
+    "Blockade of translocation reaction",
+    "Blockade of transfer RNA (tRNA) binding to the ribosome",
+    "Inhibition of DNA-dependent RNA polymerase",
+    "Production of aberrant bacterial proteins",
+    "Inhibition of DNA gyrase"
+   ],
+   "answer": 0,
+   "explanation": "Macrolide antibiotics inhibit bacterial protein synthesis mainly by blocking translocation of the newly synthesized peptidyl-transfer RNA (tRNA) from the acceptor site to the donor site of the ribosome. They are mainly bacteriostatic, but they may be bactericidal at higher doses. A This is the mechanism of action of rifampin. B This is the mechanism of action of quinolones. C This is the mechanism of action of aminoglycosides. E This is the mechanism of action of tetracyclines.",
+   "source": "Pharmacology VIII-2 Q21",
+   "topic": "Easy",
+   "topic_n": 14
+  },
+  {
+   "question": "A 48-year-old woman complained to her physician of fever (103.5°F, 39.7°C), nausea, vomiting, and bloody diarrhea for the past 3 days. Further exams identified the most likely offending pathogen, and a therapy with azithromycin was able to eliminate the diarrhea. Which of the following bacteria most likely caused the patient's disease?",
+   "choices": [
+    "Shigella dysenteriae",
+    "Clostridium difficile",
+    "Salmonella enteritidis",
+    "Escherichia coli",
+    "Campylobacter jejuni",
+    "Entamoeba histolytica"
+   ],
+   "answer": 4,
+   "explanation": "Campylobacter jejuni accounts for most cases of diarrhea in the United States. The diarrhea is usually bloody, especially when fever is present, as in this case. Macrolides such as azithromycin are effective against Campylobacter species. A, C, D, F These bacteria can cause diarrhea, but they are resistant to macrolides. E Some Clostridia species are sensitive to macrolides, but Clostridium difficile is not.",
+   "source": "Pharmacology VIII-2 Q22",
+   "topic": "Easy",
+   "topic_n": 15
+  },
+  {
+   "question": "A 17-year-old girl complained to her physician of watery diarrhea. Three days ago, she was diagnosed with streptococcal pharyngitis, and treatment with erythromycin was started. Which of the following best explains the most likely reason for this adverse effect of erythromycin?",
+   "choices": [
+    "Killing most bacteria of intestinal flora",
+    "Antibiotic-induced acute cholestatic hepatitis",
+    "Allergic reaction to erythromycin",
+    "Inhibition of water reabsorption by colonic mucosa",
+    "Activation of motilin receptors in the gut"
+   ],
+   "answer": 4,
+   "explanation": "Nausea, vomiting, diarrhea, and abdominal pain may accompany the administration of macrolides. These effects are dose-related and occur more commonly in children and young adults. The mechanism that underlies these adverse reactions is still uncertain but is most likely related to macrolide-mediated activation of motilin receptors in the gut. A Erythromycin is not active against most enterobacteriaceae. In fact, superinfections are exceedingly rare. C Erythromycin does not affect water reabsorption by colonic mucosa. D Macrolides (mainly erythromycin estolate) can rarely cause cholestatic hepatitis, but diarrhea is not a symptom of that disease. E Allergic reactions to macrolide antibiotics are very rare and include mainly fever and skin eruptions.",
+   "source": "Pharmacology VIII-2 Q23",
+   "topic": "Easy",
+   "topic_n": 16
+  },
+  {
+   "question": "A 23-year-old woman complained to her physician of pain during urination and a mucoid-like vaginal discharge that started about 14 days after her last intercourse. A Gram stain of the exudate revealed gram-negative cocci. Treatment with ceftriaxone was prescribed. Which of the following drugs would be appropriate to add to the patient's regimen?",
+   "choices": [
+    "Azithromycin",
+    "Imipenem",
+    "Ceftriaxone",
+    "Vancomycin",
+    "Aztreonam",
+    "Amikacin"
+   ],
+   "answer": 0,
+   "explanation": "The patient's symptoms and lab results suggest the diagnosis of gonococcal urethritis. Because up to 50% of women with gonorrhea have coinfection with Chlamydia trachomatis, azithromycin is usually added to ceftriaxone treatment. Other offending pathogens sometimes responsible for coinfection are Ureaplasma urealyticum and Mycoplasma genitalium; both are also sensitive to macrolides. Azithromycin is often preferred because a single dose is usually effective. A, B, D-F None of these antibiotics are effective against chlamydiae, mycoplasmas, or ureaplasmas.",
+   "source": "Pharmacology VIII-2 Q24",
+   "topic": "Medium",
+   "topic_n": 6
+  },
+  {
+   "question": "A 68-year-old man hospitalized because of advanced renal insufficiency was found to have pneumonia due to Pseudomonas aeruginosa. An appropriate antibiotic treatment was planned, but the dose of the drug was reduced because its half-life can be 20 to 40 times longer in patients with kidney failure. Which of the following drugs was most likely prescribed?",
+   "choices": [
+    "Cefoperazone",
+    "Vancomycin",
+    "Erythromycin",
+    "Metronidazole",
+    "Clindamycin",
+    "Amikacin"
+   ],
+   "answer": 5,
+   "explanation": "Amikacin is an aminoglycoside antibiotic. Because aminoglycosides are very polar drugs, they are water soluble, undergo little hepatic metabolism, and are excreted almost entirely by glomerular filtration. As a result, their half-lives can increase enormously in patients with kidney failure. Aminoglycosides have a narrow therapeutic window, so two dosing schedules are currently used to avoid toxicity: reduction of the dose or extension of dosing intervals. Both methods have advantages and disadvantages. A Cefoperazone is an anti-Pseudomonas cephalosporin but is excreted mainly in the bile, so its dosage does not need to be changed in the presence of kidney failure. C-F These antibiotics are not effective against P. aeruginosa.",
+   "source": "Pharmacology VIII-2 Q25",
+   "topic": "Medium",
+   "topic_n": 7
+  },
+  {
+   "question": "A 15-day-old baby boy was admitted to the pediatric ward with mucopurulent ocular discharge, edema of the eyelids, and pseudomembrane formation. A Gram stain of the exudate revealed no microorganisms, but a Giemsa stain showed cells with cytoplasmic inclusions. Both topical and systemic treatments were prescribed. Which of the following drugs was most likely administered?",
+   "choices": [
+    "Ampicillin",
+    "Ciprofloxacin",
+    "Erythromycin",
+    "Tobramycin",
+    "Tetracycline",
+    "Trimethoprim-sulfamethoxazole"
+   ],
+   "answer": 2,
+   "explanation": "The patient's symptoms and the lab results indicate that the baby most likely has inclusion conjunctivitis, an infection due to Chlamydia trachomatis that the newborn acquired during passage through an infected birth canal. Macrolides, tetracyclines, quinolones, and trimethoprim-sulfamethoxazole are effective against chlamydiae, but tetracyclines, quinolones, and sulfonamides are relatively contraindicated in children. Erythromycin remains the first-line agent for inclusion conjunctivitis in the newborn. A, C, D See correct answer explanation. B, F Beta-lactam antibiotics and aminoglycosides are not effective against chlamydiae.",
+   "source": "Pharmacology VIII-2 Q26",
+   "topic": "Medium",
+   "topic_n": 8
+  },
+  {
+   "question": "A 65-year-old man complained to his physician of nervousness, insomnia, and palpitations. The man had been suffering from chronic obstructive pulmonary disease for several years and had been receiving therapy that included theophylline. A few days earlier, he had been diagnosed with streptococcal pharyngitis and started an appropriate treatment. The physician thought that the patient's symptoms were most likely due to an antibiotic-theophylline interaction. Which of the following antibiotics was most likely responsible for this interaction?",
+   "choices": [
+    "Streptomycin",
+    "Rifampin",
+    "Erythromycin",
+    "Penicillin G",
+    "Doxycycline",
+    "Ceftriaxone"
+   ],
+   "answer": 2,
+   "explanation": "The patient's symptoms were most likely due to an increased plasma concentration of theophylline. Erythromycin metabolites inhibit the P-450 system, thus increasing plasma concentration of several drugs given concomitantly, including theophylline, carbamazepine, valproic acid, corticosteroids, digoxin, and warfarin. A-D, F These drugs do not interact with theophylline.",
+   "source": "Pharmacology VIII-2 Q27",
+   "topic": "Easy",
+   "topic_n": 17
+  },
+  {
+   "question": "A 63-year-old alcoholic man presented to the emergency department with fever (102.2°F, 39°C), chest pain, and a cough producing mucoid sputum. Physical examination revealed a man in obvious distress with the following vital signs: blood pressure 140/85 mm Hg, pulse 55 bpm, respirations 22/min. Sputum culture showed gram-negative rods able to grow only on charcoal yeast extract agar. Which of the following antibiotics would be most appropriate for this patient?",
+   "choices": [
+    "Azithromycin",
+    "Vancomycin",
+    "Streptomycin",
+    "Penicillin G",
+    "Gentamicin",
+    "Metronidazole"
+   ],
+   "answer": 0,
+   "explanation": "The patient's symptoms (high fever with bradycardia) and lab results indicate that he was most likely suffering from Legionnaires' disease, a pneumonia caused by Legionella species (mainly Legionella pneumophila). More than 60% of patients with Legionnaires' disease exhibit bradycardia, and positive cultures in charcoal yeast extract agar are diagnostic. L. pneumophila is sensitive to macrolides, fluoroquinolones, tetracyclines, trimethoprim-sulfamethoxazole, and rifampin. Azithromycin, alone or with rifampin, is a first-line agent. A, B, D-F None of these antibiotics are effective against L. pneumophila.",
+   "source": "Pharmacology VIII-2 Q28",
+   "topic": "Medium",
+   "topic_n": 9
+  },
+  {
+   "question": "A 53-year-old man was admitted to the hospital with the admitting diagnosis of pneumonia. Further exams indicated that the pneumonia was due to Mycoplasma pneumonia, and treatment with an appropriate bacteriostatic antibiotic was started. The given drug most likely belonged to which of the following classes?",
+   "choices": [
+    "Penicillins",
+    "Carbapenems",
+    "Fluoroquinolones",
+    "Macrolides",
+    "Aminoglycosides",
+    "Cephalosporins"
+   ],
+   "answer": 3,
+   "explanation": "Macrolides are mainly bacteriostatic antibiotics with excellent activity against mycoplasmas. A, B, D, E All of these antibiotics have bactericidal activity. Moreover, they are not active against mycoplasmas. F Fluoroquinolones are active against mycoplasmas, but they are bactericidal, not bacteriostatic.",
+   "source": "Pharmacology VIII-2 Q29",
+   "topic": "Easy",
+   "topic_n": 18
+  },
+  {
+   "question": "A 48-year-old woman was hospitalized with the admitting diagnosis of polymorphic ventricular tachycardia. The woman had been suffering from depression and had been on amitriptyline for 3 months. Three days earlier, she complained of fever and sore throat and was started on antibiotics. Which of the following antibiotics most likely triggered the patient's tachycardia?",
+   "choices": [
+    "Sulfamethoxazole",
+    "Ampicillin",
+    "Ceftriaxone",
+    "Erythromycin",
+    "Gentamicin",
+    "Vancomycin"
+   ],
+   "answer": 3,
+   "explanation": "Macrolide antibiotics can cause prolongation of the electrocardiogram QT interval, a condition that increases the risk of polymorphic ventricular tachycardia. This primarily occurs when macrolides are given in high doses or are given together with other drugs that can prolong the QT interval. These include several antiarrhythmic drugs, H1 antagonists, neuroleptics, tricyclic antidepressants, antimalarials, and quinolones. In this case, the patient was taking amitriptyline, a tricyclic antidepressant, so she was at increased risk of developing ventricular tachycardia when erythromycin was taken. A, C-F These drugs do not appear to prolong the QT interval.",
+   "source": "Pharmacology VIII-2 Q30",
+   "topic": "Medium",
+   "topic_n": 10
+  },
+  {
+   "question": "A 3-year-old boy was brought to the pediatrician's office by his mother because of a low-grade fever and a painful, enlarged inguinal lymph node. On questioning, the mother stated that the boy was scratched on his right leg by his pet cat 1 week earlier. A Gram stain of pus aspirated from the lymph node revealed many small, gram-negative rods. Which of the following correctly pairs the most likely offending pathogen with the appropriate treatment?",
+   "choices": [
+    "Enterococcus faecalis: vancomycin",
+    "Actinomyces israelii: penicillin G",
+    "Bartonella enselae: erythromycin",
+    "Bacteroides fragilis: tobramycin",
+    "Clostridium difficile: metronidazole"
+   ],
+   "answer": 2,
+   "explanation": "The boy most likely suffered from cat scratch disease, a benign illness caused by Bartonella enselae, a gram-negative rod that infects at least 30% of domestic cats. Cat scratch disease is usually self-limited and does not require treatment in normal adults. In very young children or in immunocompromised patients, a macrolide is the drug of choice. A, B, E Enterococcus faecalis, Clostridium difficile, and Actinomyces israelii are gram-positive bacteria. D Bacteroides fragilis is an anaerobic gram-negative rod that causes mainly intra-abdominal infections and is not sensitive to aminoglycosides.",
+   "source": "Pharmacology VIII-2 Q31",
+   "topic": "Medium",
+   "topic_n": 11
+  },
+  {
+   "question": "A 73-year-old man presented with fever (101.9°F, 38.8°C) and pain in the perineum and left buttock. Four days earlier, the man had undergone bowel surgery for colon cancer, which was complicated by escape of bowel contents into the peritoneal cavity. Medical history of the patient was significant for allergic reactions to several antibiotics, including penicillins and metronidazole. Further exams led to the diagnosis of acute peritonitis. The patient's illness responded to an empiric emergency treatment that included parenteral administration of clindamycin. Which of the following microorganisms was most likely the main cause of the patient's infection?",
+   "choices": [
+    "Enterobacter aerogenes",
+    "Legionella pneumophila",
+    "Enterococcus faecalis",
+    "Proteus mirabilis",
+    "Bacteroides fragilis",
+    "Klebsiella pneumoniae"
+   ],
+   "answer": 4,
+   "explanation": "The fact that the patient's infection started after surgery with contamination of the peritoneum and that clindamycin was chosen for therapy points out that the main offending pathogen was most likely Bacteroides fragilis. Clindamycin is a lincosamide antibiotic with very good activity against Bacteroides (including B. fragilis). The drug is not first choice in bacteroides infections because β-lactam antibiotics and metronidazole are usually preferred, but the patient was allergic to both. A, B, D, E All of these microorganisms are resistant to clindamycin.",
+   "source": "Pharmacology VIII-2 Q32",
+   "topic": "Medium",
+   "topic_n": 12
+  },
+  {
+   "question": "A 34-year-old pregnant woman developed severe pharyngitis that turned out to be due to Streptococcus pyogenes. Past history of the patient was significant for an anaphylactic reaction to ampicillin. Which of the following antibiotics would be most appropriate for this patient?",
+   "choices": [
+    "Ceftazidime",
+    "Imipenem",
+    "Doxycycline",
+    "Erythromycin",
+    "Aztreonam",
+    "Ceftriaxone"
+   ],
+   "answer": 3,
+   "explanation": "Erythromycin is the drug of choice for streptococcal infections in a patient allergic to penicillins. A-C A serious allergic reaction to penicillins contraindicates the use of all β-lactam antibiotics except aztreonam. E Many streptococcal strains are now resistant to tetracyclines, and these antibiotics are contraindicated in pregnant women. F Aztreonam is active only against gram-negative bacteria.",
+   "source": "Pharmacology VIII-2 Q33",
+   "topic": "Medium",
+   "topic_n": 13
+  },
+  {
+   "question": "A 58-year-old woman complained to her physician of bruising and nose bleeds. The woman, diagnosed with atrial fibrillation, had been taking warfarin for 1 year. One week earlier, she was diagnosed with mycoplasmal pneumonia and was started on antibiotic therapy. Which of the following drugs most likely mediated the patient's bleeding?",
+   "choices": [
+    "Vancomycin",
+    "Amoxicillin",
+    "Piperacillin",
+    "Ceftriaxone",
+    "Erythromycin",
+    "Amikacin"
+   ],
+   "answer": 4,
+   "explanation": "Macrolides are first-line agents for infection due to Mycoplasma pneumoniae. Erythromycin metabolites inhibit the P-450 system, so they can increase the plasma concentration of several drugs given concomitantly, including warfarin. Therefore, the patient's bleeding was most likely due to an increased plasma concentration of warfarin. A, C-F These drugs do not affect plasma concentration of warfarin and are not active against mycoplasma species.",
+   "source": "Pharmacology VIII-2 Q34",
+   "topic": "Medium",
+   "topic_n": 14
+  },
+  {
+   "question": "A 23-year-old man complained to his physician of a severe sore throat and fever. Because the man was allergic to penicillin, erythromycin was prescribed, but 3 days later, the clinical picture was not improved. The physician changed the antibiotic because he suspected bacterial resistance to erythromycin. Which of the following mechanisms can account for resistance to macrolides?",
+   "choices": [
+    "Production of drug-inactivating RNA polymerases",
+    "Alteration of the ribosomal binding site that prevents drug binding",
+    "Inhibition of methylase enzymes that activate the drug",
+    "Production of drug-inactivating glucuronosyl transferases",
+    "Inhibition of the multidrug efflux pump"
+   ],
+   "answer": 1,
+   "explanation": "Resistance to macrolides is mainly plasmid-mediated. The two main mechanisms of this resistance are: modification of the binding site on the 50S ribosomal subunit (this modification is due to the production of a methylase enzyme that adds a methyl group to the ribosomal binding site, “protecting” the site from binding by macrolides), and increased activity of the multidrug efflux pump. A, E See correct answer explanation. B, D RNA polymerases and glucuronosyl transferases are not drug-inactivating enzymes.",
+   "source": "Pharmacology VIII-2 Q35",
+   "topic": "Easy",
+   "topic_n": 19
+  },
+  {
+   "question": "A 49-year-old woman on vacation in the south of Italy presented with fever, headache, and a small, buttonlike skin ulcer, 5 mm (about 0.2 inch) in diameter, with a black center. The diagnosis of Mediterranean spotted fever was made, and the woman was prescribed doxycycline. Which of the following molecular actions most likely mediated the therapeutic effect of the drug in the patient's disease?",
+   "choices": [
+    "Blockade of binding of aminoacyl-transfer RNA (tRNA) to bacterial ribosomes",
+    "Inhibition of DNA-dependent RNA polymerase",
+    "Blockade of the formation of ribosomal initiation complex",
+    "Blockade of transpeptidation reaction",
+    "Inhibition of transpeptidase enzymes"
+   ],
+   "answer": 0,
+   "explanation": "Mediterranean spotted fever is a disease caused by Rickettsia conorii. Doxycycline is a tetracycline antibiotic that has become the drug of choice for most rickettsial diseases because of its efficacy, long half-life, and very good oral bioavailability. Tetracyclines bind reversibly to the 30S ribosomal subunit and block the access of aminoacyl-transfer RNA (tRNA) to the acceptor side of the messenger RNA (mRNA) ribosome complex. This prevents the addition of amino acids to the growing peptide chain and therefore inhibits bacterial protein synthesis. A This is the mechanism of action of rifampin. B This is one of the mechanisms of action of aminoglycosides. C This is the mechanism of action of chloramphenicol. E This is the mechanism of action of β-lactam antibiotics.",
+   "source": "Pharmacology VIII-2 Q36",
+   "topic": "Easy",
+   "topic_n": 20
+  },
+  {
+   "question": "A 34-year-old woman presented to the clinic with mild fever (99.5°F, 37.5°C), fatigue, muscle and joint pain, and multiple red rashes with a clear center. She reported that 10 days ago she was bitten on the arm by a tiny tick. A circular skin lesion started at the bite site, expanded to 15 cm (about 6 inches) or so, and was followed by multiple, painless rashes. Physical examination confirmed the diagnosis of erythema migrans. Which of the following drugs would be appropriate for the patient at this stage?",
+   "choices": [
+    "Linezolid",
+    "Doxycycline",
+    "Vancomycin",
+    "Gentamicin",
+    "Metronidazole"
+   ],
+   "answer": 1,
+   "explanation": "The history and the symptoms of the patient indicate that she was most likely suffering from Lyme disease, a tick-borne borreliosis caused by Borrelia burgdorferi. The first stage of the disease begins as a red macule that expands (hence the name erythema migrans), often with a central clearing, to a diameter as large as 50 cm (about 20 inches). The second stage occurs within weeks to months of the onset of erythema and is characterized by arthritis (about 50% of patients) and/or neurologic and cardiac abnormalities (less than 20% of patients). B. burgdorferi is susceptible to the action of tetracyclines, macrolides, penicillins, and some second- and third-generation cephalosporins. Tetracyclines are still the drug of choice for the erythema migrans, whereas ceftriaxone is the preferred drug for the second stage of the disease. A-C, E These antibiotics are not effective against Borrelia.",
+   "source": "Pharmacology VIII-2 Q37",
+   "topic": "Medium",
+   "topic_n": 15
+  },
+  {
+   "question": "A 30-year-old man was admitted to the hospital with fever (103°F, 39.4°C), chills, tachycardia, vomiting, and muscle pain. He had the same symptoms 10 days earlier, just after a camping trip near the United States-Mexico border. The fever remained high for 3 days, then cleared abruptly. A thick blood smear with Giemsa stain revealed many threadlike bacteria with large, irregular coils. Which of the following correctly pairs the most likely disease with the appropriate treatment?",
+   "choices": [
+    "Syphilis: streptomycin",
+    "Relapsing fever: doxycycline",
+    "Brucellosis: streptomycin",
+    "Rocky Mountain spotted fever: doxycycline",
+    "Psittacosis: piperacillin",
+    "Histoplasmosis: ampicillin"
+   ],
+   "answer": 1,
+   "explanation": "The lab results indicate that spirochetes are the offending pathogens, and the patient's symptoms are consistent with the diagnosis of relapsing fever. The disease is caused by several Borrelia species and transmitted by lice or ticks. In the United States, the disease is endemic in areas where there are ticks that harbor Borrelia (usually remote settings in the western mountains and semiarid plains). The disease is characterized by recurrent febrile paroxysms lasting 3 to 5 days and separated by intervals of apparent recovery, as in this case. Borrelia species are sensitive to tetracyclines, macrolides, penicillins, and some second- and third-generation cephalosporins. Doxycycline is often the preferred drug. A Syphilis is caused by a spirochete, but the symptoms are quite different, and the disease cannot be cured by streptomycin. B Brucellosis can be cured by streptomycin but is not caused by a spirochete. C Rocky Mountain spotted fever can be cured by tetracyclines but is not caused by a spirochete. E, F These diseases are not caused by spirochetes and cannot be cured by β-lactam antibiotics.",
+   "source": "Pharmacology VIII-2 Q38",
+   "topic": "Medium",
+   "topic_n": 16
+  },
+  {
+   "question": "A 32-year-old woman on a vacation trip in East Asia was diagnosed with acute conjunctivitis. A topical treatment with chloramphenicol was able to completely heal the disease. Which of the following molecular actions most likely mediated the therapeutic efficacy of the drug in the patient's disease?",
+   "choices": [
+    "Misreading of the messenger RNA (mRNA) template in the ribosomal subunit",
+    "Inhibition of relaxation of supercoiled bacterial DNA",
+    "Blockade of the transpeptidation reaction of protein synthesis",
+    "Inhibition of ergosterol synthesis in the bacterial cell membrane",
+    "Inhibition of cross-linking of linear peptidoglycan chains"
+   ],
+   "answer": 2,
+   "explanation": "Chloramphenicol enters the cell by facilitated diffusion and binds reversibly with the 50S ribosomal subunit. At this site, it prevents binding of the amino acid-containing end of the aminoacyl transfer RNA (tRNA) to the acceptor site of the 50S ribosomal subunit. Thus, the peptide at the donor site cannot be transferred to its amino acid acceptor, and the transpeptidation reaction cannot occur. The drug is used very rarely for systemic treatment because of its toxicity but is frequently used topically, as in this case, as it has a very broad activity spectrum. A This is the mechanism of action of β-lactam drugs. C This is the mechanism of action of fluoroquinolones. D This is the mechanism of action of antifungal azoles. E This is the mechanism of action of aminoglycosides.",
+   "source": "Pharmacology VIII-2 Q39",
+   "topic": "Easy",
+   "topic_n": 21
+  },
+  {
+   "question": "An 1168-g (2.57-lb) preterm male born to a febrile mother presented with respiratory distress a few hours after the delivery. Physical examination and lab results suggested neonatal sepsis, and an empirical antibiotic therapy was instituted. Later, blood cultures indicated Listeria monocytogenes as the offending organism. Which of the following drugs would be most appropriate to administer in combination with ampicillin for the treatment of his infection?",
+   "choices": [
+    "Metronidazole",
+    "Aztreonam",
+    "Ceftriaxone",
+    "Doxycycline",
+    "Gentamicin",
+    "Erythromycin"
+   ],
+   "answer": 4,
+   "explanation": "Neonatal sepsis occurs in about 1 in 1000 live births. Preterm newborns are especially at risk. Mortality ranges from 10 to 50% and is higher in those with early-onset disease. The most common pathogens found in neonatal sepsis are streptococci and staphylococci, but another important and often overlooked pathogen is Listeria monocytogenes. A penicillin (ampicillin or penicillin G) with an aminoglycoside (mainly gentamicin) is the standard therapy against neonatal listeriosis. Ampicillin is very effective against Listeria, and the aminoglycoside may provide synergy. A, D Tetracyclines and macrolides are both active against Listeria, but bacteriostatic antibiotics are rarely first-choice agents in case of severe, life-threatening infections. C, E, F Cephalosporins, aztreonam, and metronidazole are not active against Listeria.",
+   "source": "Pharmacology VIII-2 Q40",
+   "topic": "Medium",
+   "topic_n": 17
+  },
+  {
+   "question": "A 31-year-old pregnant woman who recently arrived from Uganda was diagnosed with lymphogranuloma venereum. The physician prescribed a treatment with erythromycin, as tetracyclines are contraindicated during pregnancy. Which of the following drug-induced adverse effects best describes the reason for this contraindication?",
+   "choices": [
+    "Kernicterus in the newborn",
+    "Superinfections in the newborn",
+    "Impairment of fetal growth",
+    "Multiple fetal malformations",
+    "Severe myelosuppression in the newborn",
+    "Early fetal death"
+   ],
+   "answer": 2,
+   "explanation": "Lymphogranuloma venereum is a chlamydial disease endemic in parts of Africa, characterized by a transitory primary skin lesion followed by suppurative lymphadenitis and lymphangitis. Doxycycline and erythromycin rapidly heal the disease. Tetracyclines are bound to calcium deposited in newly formed bone and teeth of young children and in fetal bones. Therefore, they may cause inhibition of fetal growth if given during pregnancy. B-E Tetracyclines have a negligible risk of these adverse effects.",
+   "source": "Pharmacology VIII-2 Q41",
+   "topic": "Easy",
+   "topic_n": 22
+  },
+  {
+   "question": "A 31-year-old man was hospitalized because of severe watery diarrhea, vomiting, and altered mental status. The man returned 1 day earlier from Latin America, where he visited with relatives, several of whom were recovering from an intestinal infection. Physical examination showed a critically ill patient with marked loss of tissue turgor, sunken eyes, and wrinkled skin. Lab tests on admission revealed hemoconcentration and severe metabolic acidosis. A diagnosis was made, and an emergency treatment was initiated that included the parenteral administration of doxycycline. Which of the following bacteria most likely caused the patient's disease?",
+   "choices": [
+    "Clostridium difficile",
+    "Bacteroides fragilis",
+    "Pseudomonas aeruginosa",
+    "Enterobacter aerogenes",
+    "Vibrio cholerae"
+   ],
+   "answer": 4,
+   "explanation": "The patient's signs and symptoms and the fact that doxycycline was chosen for therapy indicate that the offending pathogen was most likely Vibrio cholerae. Cholera is endemic in portions of Asia, Africa, and South and Central America. The disease can be subclinical, mild, or fulminant and potentially lethal. Early treatment with an effective antibiotic can stop diarrhea in 48 hours (thus decreasing fluid loss) and shorten the duration of the carrier state. V. cholerae is sensitive to macrolides, tetracyclines, and fluoroquinolones. Doxycycline is often the preferred agent. B-E All of these bacteria are resistant to tetracyclines.",
+   "source": "Pharmacology VIII-2 Q42",
+   "topic": "Medium",
+   "topic_n": 18
+  },
+  {
+   "question": "A 24-year-old man was admitted to the hospital because of severe erythema that occurred a few minutes after exposure to sunlight. He reported that past and more prolonged exposures to sun had caused only a mild erythema. A few days earlier, the man had started on antibiotic treatment for nongonococcal urethritis. Which of the following antibiotics most likely caused the patient's erythema?",
+   "choices": [
+    "Amoxicillin",
+    "Gentamicin",
+    "Metronidazole",
+    "Linezolid",
+    "Doxycycline",
+    "Cefotetan"
+   ],
+   "answer": 4,
+   "explanation": "The patient's history and symptoms indicate that he was most likely suffering from a phototoxic reaction due to doxycycline. Tetracyclines can cause phototoxicity that usually has the clinical appearance of an exaggerated sunburn reaction. Other antibiotics that can cause phototoxicity are fluoroquinolones and sulfonamides. A-C, E, F The risk of a phototoxic reaction with these drugs is negligible. Moreover, these antibiotics are not active against nongonococcal urethritis, which is usually caused by Chlamydia trachomatis or Ureaplasma urealyticum.",
+   "source": "Pharmacology VIII-2 Q43",
+   "topic": "Easy",
+   "topic_n": 23
+  },
+  {
+   "question": "A 33-year-old woman was hospitalized with fever (103.5°F, 39.7°C), chills, mental confusion, vomiting, and diarrhea. One week earlier, the woman had returned from a vacation in central Africa. A Giemsa stain confirmed the diagnosis of Plasmodium falciparum malaria. Because the patient came from a region with multidrug-resistant strains of P. falciparum, parenteral quinidine therapy was started. Which of the following would be a useful agent to add to her therapeutic regimen?",
+   "choices": [
+    "Gentamicin",
+    "Piperacillin",
+    "Azithromycin",
+    "Imipenem",
+    "Doxycycline",
+    "Cefepime"
+   ],
+   "answer": 4,
+   "explanation": "Tetracyclines are effective against some protozoa, including P. falciparum. They are mainly used, together with quinine or quinidine, in cases of severe malarial attack, as in this case. Doxycycline is the preferred drug and should overlap quinidine for 2 or 3 days before the latter is discontinued. A, B, D-F These drugs are not effective against Plasmodia.",
+   "source": "Pharmacology VIII-2 Q44",
+   "topic": "Easy",
+   "topic_n": 24
+  },
+  {
+   "question": "A 76-year-old woman was admitted to the hospital because of fever (102.6°F, 39.2°C), shortness of breath, and cough productive of purulent sputum. X-ray of the chest showed several areas of infiltration with possible abscess formation. A blood culture indicated the infection was due to staphylococci, and a susceptibility test showed that they were resistant to methicillin and vancomycin. Which of the following antibiotic therapies would be most appropriate for this patient?",
+   "choices": [
+    "Tetracycline",
+    "Quinupristin/dalfopristin",
+    "Cefoperazone",
+    "Amikacin",
+    "Erythromycin",
+    "Nafcillin"
+   ],
+   "answer": 1,
+   "explanation": "In recent years, methicillin-resistant (MR) staphylococci have been associated with the emergence of resistance to vancomycin, too. Because vancomycin was considered the last-line therapy for MR staphylococci, these findings are worrisome. The combination of quinupristin plus dalfopristin, two antibiotics of the streptogramin family, has been shown to be effective against vancomycin-resistant (VR) staphylococci, as well as VR Enterococcus faecium, and currently represents a first-line treatment against these bacteria. A-E VR staphylococci are usually resistant to all the listed antibiotics.",
+   "source": "Pharmacology VIII-2 Q45",
+   "topic": "Medium",
+   "topic_n": 19
+  },
+  {
+   "question": "A 42-year-old farmer presented to his physician because he had fever that usually rose in the afternoon, subsided during the night, and was followed by drenching sweats. Further exams led to the diagnosis of brucellosis, and a suitable pharmacotherapy was prescribed. Which of the following pairs of drugs would be appropriate for the patient at this time?",
+   "choices": [
+    "Vancomycin and ampicillin",
+    "Penicillin G and tobramycin",
+    "Streptomycin and doxycycline",
+    "Rifampin and metronidazole",
+    "Erythromycin and cephalothin"
+   ],
+   "answer": 2,
+   "explanation": "Brucellosis is a zoonotic infectious disease characterized by an acute febrile stage and a chronic stage with relapses of fever, sweats, and vague pains. Brucellae are sensitive to several antibacterial drugs, including aminoglycosides, tetracyclines, chloramphenicol, imipenem, rifampin, fluoroquinolones, and trimethoprim-sulfamethoxazole. Because treatment with a single agent has been associated with a high incidence of relapse, combination therapy is used whenever possible. The combination of doxycycline and an aminoglycoside (streptomycin, gentamicin, or amikacin) for 4 weeks followed by the combination of doxycycline and rifampin for 4 to 8 weeks seems to be the most effective regimen. A Rifampin is effective against brucellae, but metronidazole is not. C-E Brucellae are not sensitive to vancomycin, macrolides, penicillins, and cephalosporins.",
+   "source": "Pharmacology VIII-2 Q46",
+   "topic": "Easy",
+   "topic_n": 25
+  },
+  {
+   "question": "A 38-year-old man presented to the hospital with fever (102.7°F, 39.2°C), severe retrobulbar headache, chills, photophobia, muscular pains, and prostration. He reported he found a tick attached to his scalp 7 days earlier while camping in the mountains of Colorado. Physical examination revealed a rash of pink macules 2 to 5 mm (0.08-0.2 inch) spread all over his body. A presumptive diagnosis was made, and an empiric therapy was started. Which of the following antibiotics would be appropriate for this patient?",
+   "choices": [
+    "Piperacillin",
+    "Ceftazidime",
+    "Gentamicin",
+    "Trimethoprim-sulfamethoxazole",
+    "Doxycycline",
+    "Imipenem"
+   ],
+   "answer": 4,
+   "explanation": "The classic triad of fever, rash, and history of tick exposure strongly suggests the diagnosis of Rocky Mountain spotted fever. The disease is caused by Rickettsia rickettsii and can be serious, with a mortality rate of about 5%, largely due to delay in initiating specific treatment. Rickettsiae are sensitive to tetracyclines, chloramphenicol, macrolides, and fluoroquinolones, but tetracyclines such as doxycycline remain the drugs of choice. A, C-F These drugs are not effective against rickettsiae.",
+   "source": "Pharmacology VIII-2 Q47",
+   "topic": "Easy",
+   "topic_n": 26
+  },
+  {
+   "question": "A 50-year-old woman recently diagnosed with gastric ulcer started a triple treatment for Helicobacter pylori infection that included tetracycline. Two weeks later, the H. pylori test was still positive, and the physician suspected the development of resistance to tetracycline. Which of the following mechanisms could account for the bacterial resistance to tetracyclines?",
+   "choices": [
+    "Production of acetyltransferase enzymes",
+    "Increased permeability of the outer bacterial membrane",
+    "Production of RNA polymerase enzymes",
+    "Increased access to the ribosomal binding site",
+    "Increased activity of the multidrug efflux pump"
+   ],
+   "answer": 4,
+   "explanation": "Resistance to tetracyclines is mainly plasmid mediated. The major mechanisms are: increased activity of the multidrug efflux pump; decreased uptake of the drug; and production of ribosome protection proteins that prevent the access of tetracyclines to the ribosome. Plasmids that include genes involved in the production of the tetracycline efflux pump commonly include resistance genes for several antibiotics. A-D See correct answer explanation.",
+   "source": "Pharmacology VIII-2 Q48",
+   "topic": "Easy",
+   "topic_n": 27
+  },
+  {
+   "question": "A 25-year-old woman presented to the clinic because of vulvar itching and burning and a thick, cheesy vaginal discharge for the past 5 days. The woman had been taking an oral antibiotic for 2 months to treat moderate acne. Gram stain of a vaginal smear indicated Candida albicans as the offending pathogen. Which of the following drugs most likely contributed to the appearance of the patient's infection?",
+   "choices": [
+    "Amikacin",
+    "Tetracycline",
+    "Cefazolin",
+    "Aztreonam",
+    "Metronidazole",
+    "Fluconazole"
+   ],
+   "answer": 1,
+   "explanation": "The patient's genital candidiasis was most likely a superinfection caused by antibiotic-mediated alteration of the normal genital microflora. Because the woman had acne, she most likely received tetracycline, the most common antibiotic used in moderate to severe acne. Propionibacterium acnes is an anaerobic corynebacterium that resides in normal skin and participates in the pathogenesis of acne. The bacterium is very sensitive to tetracyclines and macrolides. The risk of superinfection is higher with broad-spectrum antibiotics such as tetracyclines. Long-term treatment with these drugs, as in this case, further increases the risk. A-D, F None of these drugs are used to treat acne, and they rarely cause superinfections.",
+   "source": "Pharmacology VIII-2 Q49",
+   "topic": "Easy",
+   "topic_n": 28
+  },
+  {
+   "question": "A 25-year-old man recently diagnosed with severe acne involving the face, back, and chest started a treatment that included tetracycline. The physician instructed the patient to avoid milk or dairy products within 2 hours of taking the medication, because dairy products can interact with tetracycline. Which of the following best explains the outcome of the interaction between tetracycline and dairy products?",
+   "choices": [
+    "Decreased drug oral bioavailability",
+    "Increased drug toxicity",
+    "Decreased bacterial permeability to the drug",
+    "Increased drug elimination",
+    "Decreased drug binding to bacterial ribosome"
+   ],
+   "answer": 0,
+   "explanation": "Tetracycline absorption (except that of doxycycline and minocycline) is impaired by some cations (Ca2+, Mg2+, Fe3+, Al3+) because tetracyclines can chelate these cations, forming a complex that cannot permeate the intestinal wall. Therefore, products that contain a large amount of these cations (e.g., milk and dairy products, antacids, and iron and zinc supplements) must not be administered with tetracyclines. The decrease in drug oral bioavailability is pronounced (50-90%). A-D See correct answer explanation.",
+   "source": "Pharmacology VIII-2 Q50",
+   "topic": "Medium",
+   "topic_n": 20
+  }
+ ]
+}

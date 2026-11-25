@@ -1,0 +1,633 @@
+{
+ "questions": [
+  {
+   "question": "Directions for questions 1–5: Match each adrenergic drug with the appropriate description (each lettered option can be selected once, more than once, or not at all). An α2 selective adrenoceptor agonist",
+   "choices": [
+    "Epinephrine",
+    "Cocaine",
+    "Dopamine",
+    "Phenylephrine",
+    "Apraclonidine",
+    "Dobutamine",
+    "Methyldopa",
+    "Albuterol",
+    "Dextroamphetamine",
+    "Salmeterol",
+    "Norepinephrine",
+    "Isoproterenol"
+   ],
+   "answer": 4,
+   "explanation": "Matching key (Answers part gives a key list for questions 1–5, with no separate explanation): 1. B, 2. L, 3. I, 4. H, 5. K.",
+   "source": "Pharmacology II-2 Q1",
+   "topic": "Easy",
+   "topic_n": 1
+  },
+  {
+   "question": "Directions for questions 1–5: Match each adrenergic drug with the appropriate description (each lettered option can be selected once, more than once, or not at all). A long-acting β2 selective adrenoceptor agonist",
+   "choices": [
+    "Salmeterol",
+    "Methyldopa",
+    "Apraclonidine",
+    "Isoproterenol",
+    "Norepinephrine",
+    "Albuterol",
+    "Dextroamphetamine",
+    "Cocaine",
+    "Dopamine",
+    "Dobutamine",
+    "Epinephrine",
+    "Phenylephrine"
+   ],
+   "answer": 0,
+   "explanation": "Matching key (Answers part gives a key list for questions 1–5, with no separate explanation): 1. B, 2. L, 3. I, 4. H, 5. K.",
+   "source": "Pharmacology II-2 Q2",
+   "topic": "Easy",
+   "topic_n": 2
+  },
+  {
+   "question": "Directions for questions 1–5: Match each adrenergic drug with the appropriate description (each lettered option can be selected once, more than once, or not at all). An indirect-acting adrenergic agent sometimes used as an antihypertensive",
+   "choices": [
+    "Albuterol",
+    "Isoproterenol",
+    "Epinephrine",
+    "Dopamine",
+    "Salmeterol",
+    "Dobutamine",
+    "Phenylephrine",
+    "Cocaine",
+    "Apraclonidine",
+    "Dextroamphetamine",
+    "Norepinephrine",
+    "Methyldopa"
+   ],
+   "answer": 11,
+   "explanation": "Matching key (Answers part gives a key list for questions 1–5, with no separate explanation): 1. B, 2. L, 3. I, 4. H, 5. K.",
+   "source": "Pharmacology II-2 Q3",
+   "topic": "Easy",
+   "topic_n": 3
+  },
+  {
+   "question": "Directions for questions 1–5: Match each adrenergic drug with the appropriate description (each lettered option can be selected once, more than once, or not at all). A nonselective β1 adrenoceptor agonist",
+   "choices": [
+    "Salmeterol",
+    "Isoproterenol",
+    "Epinephrine",
+    "Albuterol",
+    "Apraclonidine",
+    "Cocaine",
+    "Dopamine",
+    "Dobutamine",
+    "Norepinephrine",
+    "Dextroamphetamine",
+    "Methyldopa",
+    "Phenylephrine"
+   ],
+   "answer": 1,
+   "explanation": "Matching key (Answers part gives a key list for questions 1–5, with no separate explanation): 1. B, 2. L, 3. I, 4. H, 5. K.",
+   "source": "Pharmacology II-2 Q4",
+   "topic": "Easy",
+   "topic_n": 4
+  },
+  {
+   "question": "Directions for questions 1–5: Match each adrenergic drug with the appropriate description (each lettered option can be selected once, more than once, or not at all). A selective α1 adrenoceptor agonist",
+   "choices": [
+    "Isoproterenol",
+    "Phenylephrine",
+    "Cocaine",
+    "Salmeterol",
+    "Albuterol",
+    "Dextroamphetamine",
+    "Methyldopa",
+    "Apraclonidine",
+    "Epinephrine",
+    "Norepinephrine",
+    "Dobutamine",
+    "Dopamine"
+   ],
+   "answer": 1,
+   "explanation": "Matching key (Answers part gives a key list for questions 1–5, with no separate explanation): 1. B, 2. L, 3. I, 4. H, 5. K.",
+   "source": "Pharmacology II-2 Q5",
+   "topic": "Easy",
+   "topic_n": 5
+  },
+  {
+   "question": "A 75-year-old woman, hospitalized for breast cancer, was found unconscious in her bed by a nurse. A diagnosis of cardiac arrest was made, and cardiopulmonary resuscitation was started without success. The electrocardiogram showed that the patient was in asystole. An intracardiac injection of epinephrine was given. Which of the following postreceptor mechanisms most likely mediated the effect of epinephrine on cardiac contractility in this patient?",
+   "choices": [
+    "Activation of adenylyl cyclase",
+    "Opening of ligand-gated Na+ channels",
+    "Opening of ligand-gated K+ channels",
+    "Activation of phospholipase A2",
+    "Activation of phospholipase C"
+   ],
+   "answer": 0,
+   "explanation": "Epinephrine effects on the heart are due to the activation of β1 and β2 receptors. The postreceptor mechanism common to all β receptor activation is the stimulation of adenylyl cyclase, which in turn increases the amount of cyclic adenosine monophosphate (cAMP) in target tissues. A This postreceptor mechanism is triggered by the activation of M2 receptors. B This postreceptor mechanism is triggered by the activation of nicotinic receptors. C This postreceptor mechanism is triggered by the activation α1 and M3 receptors. D This postreceptor mechanism is triggered by the activation of α1 receptors.",
+   "source": "Pharmacology II-2 Q6",
+   "topic": "Medium",
+   "topic_n": 1
+  },
+  {
+   "question": "A 35-year-old man was admitted to the hospital following a car accident, and a blood transfusion was started. A few minutes later, he complained of nausea and pruritus and developed dyspnea with audible wheezing. His skin was mottled and cold, heart rate was 120 bpm, and blood pressure fell to 80/40 mm Hg. An intramuscular injection of epinephrine was given. Which of the following actions of the drug most likely contributed to its therapeutic efficacy in this patient?",
+   "choices": [
+    "Stimulation of platelet aggregation",
+    "Inhibition of mast cell degranulation",
+    "Increased glycogenolysis",
+    "β2 receptor-mediated vasodilation",
+    "Inhibition of insulin secretion",
+    "Stimulation of eicosanoid biosynthesis"
+   ],
+   "answer": 1,
+   "explanation": "The symptoms and signs of the patient suggest that he had an acute anaphylactic reaction, which sometimes occurs following a blood transfusion. One of the useful actions of epinephrine in this disorder is the β2 receptor-mediated inhibition of degranulation of mast cells, which prevents the release of histamine and other inflammatory mediators. A–D, F All these actions of epinephrine contribute little, if any, to the therapeutic efficacy of the drug in anaphylaxis.",
+   "source": "Pharmacology II-2 Q7",
+   "topic": "Medium",
+   "topic_n": 2
+  },
+  {
+   "question": "A 34-year-old woman was at the dentist for an endodontic procedure. Before starting the procedure, the dentist injected a solution of lidocaine plus epinephrine near the tooth in order to provide local anesthesia. The epinephrine-induced increased duration of the lidocaine effect was most likely mediated by the activation of which of the following adrenoceptors?",
+   "choices": [
+    "α2",
+    "β1",
+    "α1",
+    "β3",
+    "β2"
+   ],
+   "answer": 2,
+   "explanation": "Epinephrine is often used together with local anesthetics to prolong the action of the anesthetic. This increased duration is due to the epinephrine-induced vasoconstriction (mediated by α1 receptor activation), which localizes the anesthetic at the desired site, thus slowing down its systemic distribution. A–C, E See correct answer explanation.",
+   "source": "Pharmacology II-2 Q8",
+   "topic": "Medium",
+   "topic_n": 3
+  },
+  {
+   "question": "A 51-year-old man was admitted to the coronary care unit with a diagnosis of myocardial infarction. Two hours later, he developed ventricular fibrillation and was defibrillated immediately, but without success. Cardiopulmonary resuscitation (CPR) was started, and two additional shocks were given at a higher energy, but the patient remained unresponsive. At this time a bolus of intravenous epinephrine was given, while continuing the CPR. Which of the following receptor actions of the drug best describes the rationale for adding epinephrine in this setting?",
+   "choices": [
+    "β1 receptor-mediated increase in renin secretion",
+    "β2 receptor-mediated increase in cardiac contractility",
+    "α1 receptor-mediated vasoconstriction",
+    "β2 receptor-mediated bronchodilation",
+    "β2 receptor-mediated vasodilation"
+   ],
+   "answer": 2,
+   "explanation": "The most appropriate management of cardiac arrest induced by ventricular fibrillation is a 200-joule defibrillation. Additional shocks at higher energy should be given in case of initial failure. If ventricular fibrillation persists, the American Heart Association indicates that epinephrine should be administered. Most likely the two major mechanisms through which epinephrine increases blood flow to the brain and heart during CPR are the following: It prevents carotid arterial collapse at the thoracic inlet. Collapse results from high extravascular intrathoracic pressure coupled with low intravascular pressure and loss of arteriolar tone. By constricting arterial vessels (an α1 action) and by increasing venous return, epinephrine increases the aortic diastolic pressure during closed chest compression. Preferential reduction of blood flow to the renal and splanchnic beds, due to α1 receptor action, facilitates the distribution of the limited cardiac output to the cerebral and coronary circulation during external cardiac massage. Because cerebral blood vessels are relatively insensitive to the vasoconstricting effect of α agonists, perfusion of the brain is increased. It seems, therefore, that the main beneficial effects of epinephrine in cardiac arrest are related to its α1 receptor activation. It is worthwhile to note that, unlike what happens under normal conditions, epinephrine increases total peripheral resistance in people with cardiac arrest. During cardiac arrest, there is a complete loss of arteriolar tone; therefore, β2-mediated vasodilation cannot occur, whereas the α1-mediated vasoconstriction is still operative. Additional beneficial effects of epinephrine that are primarily related to β1 receptor activation are changing a fine ventricular fibrillation into a coarse one, which is more susceptible to electrical defibrillation, and stimulating spontaneous ventricular contraction in case of asystole. Because the benefits of epinephrine are mainly due to α1-mediated vasoconstriction, norepinephrine could also be used. In fact a large preclinical trial failed to identify any difference in survival following treatment with norepinephrine or standard doses of epinephrine. Other vasoconstricting agents have been evaluated. Recently, vasopressin has been tested, with promising results. The fact that epinephrine is still the agent of choice in cardiac arrest is likely related to the long experience achieved with this drug, as well as to the additional benefits listed above. For example, epinephrine activates both β1 and β2 receptors; therefore, it is likely more effective than norepinephrine in stimulating spontaneous contraction of the heart during asystole. B The β2 receptor-mediated vasodilation would be counterproductive, but it does not occur in cardiac arrest (see correct answer explanation). C This action of the drug could add a benefit (see correct answer explanation), but it is mainly related to β1 receptor activation (the increase in cardiac contractility due to β2 receptor activation is minor). In any case, the main epinephrine mechanism is most likely the α1 receptor-mediated vasoconstriction. D, E The beneficial effects of epinephrine-induced increase in renin secretion and of epinephrine-induced bronchodilation are, at the most, only marginal.",
+   "source": "Pharmacology II-2 Q9",
+   "topic": "Hard",
+   "topic_n": 1
+  },
+  {
+   "question": "A 60-year-old man hospitalized following a myocardial infarction showed a pronounced decrease in blood pressure and urine output 2 hours after the admission. A diagnosis of cardiogenic shock was made, and an emergency therapy was started. An adrenergic drug with both direct and indirect actions was given by intravenous infusion. Which of the following drugs fitting this profile would be appropriate for the patient?",
+   "choices": [
+    "Dobutamine",
+    "Dopamine",
+    "Norepinephrine",
+    "Isoproterenol",
+    "Phenylephrine"
+   ],
+   "answer": 1,
+   "explanation": "Dopamine is a mixed-acting adrenergic drug that can directly activate α, β, and dopamine receptors. It can also increase the release of norepinephrine from adrenergic terminals. B–E All of these drugs are adrenergic agonists (i.e., direct-acting adrenergic agents).",
+   "source": "Pharmacology II-2 Q10",
+   "topic": "Medium",
+   "topic_n": 4
+  },
+  {
+   "question": "A new autonomic drug that does not enter the brain was given intravenously to healthy volunteers in a phase 1 clinical trial. The results are presented below: Systolic BP (mm Hg): Control 125, Peak Drug Effect 145; Diastolic BP (mm Hg): Control 75, Peak Drug Effect 95; Heart rate (bpm): Control 70, Peak Drug Effect 51; Cardiac output (L/min): Control 5.5, Peak Drug Effect 5.1; Ejection fraction (%): Control 60, Peak Drug Effect 75. Which of the following drugs does the new agent most resemble?",
+   "choices": [
+    "Isoproterenol",
+    "Dobutamine",
+    "Epinephrine",
+    "Propranolol",
+    "Phenylephrine",
+    "Norepinephrine"
+   ],
+   "answer": 5,
+   "explanation": "The investigational drug causes a parallel increase in both systolic and diastolic pressure and a concomitant decrease in heart rate. This pattern suggests that the decrease in heart rate is due to a reflex vagal discharge. Drugs that cause this effect must be vasoconstricting agents (e.g., norepinephrine and phenylephrine) devoid of vasodilating activity. In this case, however, stroke volume is substantially increased (stroke volume = cardiac output/heart rate, 78.6–100 mL). Phenylephrine would increase the stroke volume only slightly (if venous constriction causes an increase in venous return) or not at all, as it has no β-adrenergic activity. Moreover the ejection fraction is increased, which confirms that the drug does increase cardiac contractility. (The ejection fraction is the ratio of the stroke volume to the end diastolic volume. Remember that the only way to increase the ejection fraction is to increase cardiac contractility.) A–C Dobutamine, epinephrine, and isoproterenol would increase, not decrease, the cardiac output of the heart. E See correct answer explanation. F Propranolol would decrease, not increase, the ejection fraction of the heart.",
+   "source": "Pharmacology II-2 Q11",
+   "topic": "Hard",
+   "topic_n": 2
+  },
+  {
+   "question": "A 54-year-old man was about to receive local anesthesia before a tooth extraction. One year ago the patient underwent an episode of ventricular fibrillation that was successfully treated with electrical cardioversion. The dentist decided to avoid a local anesthesia with epinephrine because the patient was especially at risk of which of the following drug-induced adverse effects?",
+   "choices": [
+    "Cerebral hemorrhage",
+    "Nausea and vomiting",
+    "Hyperglycemia",
+    "Ventricular tachycardia",
+    "Pulmonary edema"
+   ],
+   "answer": 3,
+   "explanation": "Epinephrine can cause several cardiovascular adverse effects, including angina, hypertension, and cardiac arrhythmias, and is therefore contraindicated in patients at risk. Because the patient had an episode of ventricular fibrillation, he was at high risk of ventricular arrhythmias. A–C, E These are adverse effects of epinephrine but are less likely in this patient because he did not have specific risk factors for these effects.",
+   "source": "Pharmacology II-2 Q12",
+   "topic": "Easy",
+   "topic_n": 6
+  },
+  {
+   "question": "A 43-year-old man was brought to the emergency room following a car accident. He received an infiltration of a local anesthetic around a skin wound in preparation for suturing. A few minutes later, the man appeared flushed and complained of difficulty breathing. Blood pressure was 90/50 mm Hg, heart rate 92 bpm. Chest auscultation revealed restrictive air flow and stridor. An injection of epinephrine was given. Which of the following actions most likely contributed to the therapeutic efficacy of the drug in the patient's disorder?",
+   "choices": [
+    "Activation of α1 receptors on bronchial muscles",
+    "Activation of α2 receptors on platelets",
+    "Antagonism of leukotriene effects on the respiratory system",
+    "Activation of β2 receptors on lung vessels",
+    "Antagonism of bradykinin effects on skeletal muscle vessels",
+    "Antagonism of histamine effects on the heart"
+   ],
+   "answer": 2,
+   "explanation": "The symptoms and signs of the patient indicate that he was most likely suffering from an acute anaphylactic reaction to the injected local anesthetic. The strong bronchoconstriction of an anaphylactic reaction is known to be caused by both histamine and leukotrienes, but today leukotrienes (once known as the slow-reacting substance of anaphylaxis) are thought to be the main bronchoconstricting agents. Epinephrine, a first-line agent for anaphylaxis, works as a functional antagonist of the mediators of the disorder. It counteracts the histamine-mediated vasodilation by activating α1 receptors and counteracts the leukotriene-mediated bronchoconstriction by activating β2 receptors. Epinephrine also inhibits the release of mediators from basophils and mast cells by activating β2 receptors. A Histamine effects on the heart are weak and are mainly excitatory. Epinephrine would enhance, not antagonize, histamine effects on the heart. B Bradykinin has generalized vasodilating activity. Epinephrine would enhance, not antagonize, bradykinin's effect on skeletal muscle vessels by activating β2 receptors. D Alpha-1 receptors are not located in bronchial smooth muscles. E Activation of β2 receptors in bronchial vessels would cause vasodilation, which would be detrimental by diminishing the ventilation/perfusion ratio. F Epinephrine activation of α2 receptors on platelets promotes platelet aggregation, but this effect has negligible relevance in the therapy of anaphylaxis.",
+   "source": "Pharmacology II-2 Q13",
+   "topic": "Hard",
+   "topic_n": 3
+  },
+  {
+   "question": "A 16-year-old girl was treated topically with eye drops during a routine ophthalmoscopic examination. After 15 minutes, the ophthalmologist measured an increase in pupillary diameter with negligible changes in lens curvature and intraocular pressure. Which of the following drugs was most likely administered to the patient?",
+   "choices": [
+    "Phenylephrine",
+    "Apraclonidine",
+    "Epinephrine",
+    "Timolol",
+    "Acetylcholine"
+   ],
+   "answer": 0,
+   "explanation": "Phenylephrine is a selective α1 agonist frequently used to facilitate the examination of the retina. The drug causes mydriasis by contracting the radial muscle of the iris, which receives only sympathetic innervation. Because M3, α2, and β2 receptors are not activated, lens curvature and intraocular pressure are not affected. B–E Each of these drugs, given locally, would affect the intraocular pressure.",
+   "source": "Pharmacology II-2 Q14",
+   "topic": "Medium",
+   "topic_n": 5
+  },
+  {
+   "question": "A 15-year-old boy suffering from asthma routinely self-administered albuterol through a metered-dose inhaler. Which of the following actions most likely contributed to the therapeutic efficacy of the drug in the patient's disorder?",
+   "choices": [
+    "Increased microvascular permeability",
+    "Decreased bronchial secretions",
+    "Increased mucociliary clearance",
+    "Increased residual respiratory volume",
+    "Release of histamine from mast cells"
+   ],
+   "answer": 2,
+   "explanation": "Albuterol is a β2-selective agonist. Activation of β2 receptors in the respiratory tract increases mucociliary clearance, thus improving the flow of the coat of mucus toward the pharynx. A–C Beta-2 receptor agonists actually decrease microvascular permeability, increase bronchial secretion, and prevent the release of histamine from mast cells. All these actions are useful in treating bronchospastic disorders. D Residual respiratory volume is not significantly affected in normal individuals but is actually decreased in asthmatic patients.",
+   "source": "Pharmacology II-2 Q15",
+   "topic": "Easy",
+   "topic_n": 7
+  },
+  {
+   "question": "A new autonomic drug that does not enter the brain was given intravenously to healthy volunteers in a phase 1 clinical trial. The cardiovascular effects are presented below: Systolic BP (mm Hg): Control 125, Peak Drug Effect 145; Diastolic BP (mm Hg): Control 75, Peak Drug Effect 95; Heart rate (bpm): Control 70, Peak Drug Effect 58; Cardiac output (L/min): Control 5, Peak Drug Effect 4.5; Ejection fraction (%): Control 60, Peak Drug Effect 60. Which of the following drugs does the new agent most resemble?",
+   "choices": [
+    "Dobutamine",
+    "Phenylephrine",
+    "Norepinephrine",
+    "Epinephrine",
+    "Isoproterenol"
+   ],
+   "answer": 1,
+   "explanation": "The drug causes a parallel increase in both systolic and diastolic pressure and a concomitant decrease in heart rate. This pattern suggests that the decrease in heart rate is due to a reflex vagal discharge. Drugs that cause this effect must be vasoconstricting agents (e.g., norepinephrine and phenylephrine) devoid of vasodilating activity. In this case, however, the stroke volume has increased only slightly (stroke volume [SV] = cardiac output/heart rate; therefore, control SV = 5/70 = 71.4 mL; SV after drug = 4.5/58 = 77.6 mL), and the ejection fraction has not changed. Norepinephrine would substantially increase the stroke volume and the ejection fraction, as it has β-adrenergic activity (remember that the only way to increase the ejection fraction is to increase the contractility of the heart). A–D See correct answer explanation.",
+   "source": "Pharmacology II-2 Q16",
+   "topic": "Hard",
+   "topic_n": 4
+  },
+  {
+   "question": "A 72-year-old man suffering from prostatic hyperplasia complained to his physician that he had increased difficulty and pain in voiding his bladder. The patient had had been taking an over-the-counter oral nasal decongestant for 3 days because of an annoying common cold. Which of the following drugs most likely contributed to his dysuria?",
+   "choices": [
+    "Phenylephrine",
+    "Dopamine",
+    "Albuterol",
+    "Salmeterol",
+    "Clonidine",
+    "Norepinephrine"
+   ],
+   "answer": 0,
+   "explanation": "Phenylephrine is used as a nasal decongestant both topically and orally even though its effectiveness is controversial. When taken orally, it can reach the general circulation and activate α1 receptors of the internal sphincter of the bladder. This in turn leads to sphincter constriction, thus causing difficulty in voiding, especially in men suffering from prostatic hyperplasia, as in this case. A, C–F These drug are not used as nasal decongestants.",
+   "source": "Pharmacology II-2 Q17",
+   "topic": "Medium",
+   "topic_n": 6
+  },
+  {
+   "question": "A 65-year-old woman suffering from open-angle glaucoma was prescribed a treatment regimen that included apraclonidine eye drops. Which of the following actions on aqueous humor most likely mediated the therapeutic effect of the drug in the patient's disease?",
+   "choices": [
+    "Increased outflow through the uveoscleral route",
+    "Decreased production by the ciliary epithelium",
+    "Decreased production by eye vessel constriction",
+    "Increased outflow through the Schlemm canal",
+    "Decreased production by the trabecular meshwork"
+   ],
+   "answer": 1,
+   "explanation": "Apraclonidine is a selective α2 agonist that can decrease the production of aqueous humor by the ciliary epithelium. The aqueous humor of the eye is produced by the epithelial cells of the ciliary body and is under the control of α2 and β receptors (mainly β2) located on these cells. Activation of α2 receptors decreases the production, whereas activation of β receptors increases the production. A–D See correct answer explanation.",
+   "source": "Pharmacology II-2 Q18",
+   "topic": "Easy",
+   "topic_n": 8
+  },
+  {
+   "question": "A 57-year-old homeless alcoholic man was brought to the hospital by the police, who had found him lying on a sidewalk. Physical examination showed clear signs of alcohol withdrawal. Therapy was started that included clonidine. Which of the following best explains the most likely mechanism of action of clonidine in this patient?",
+   "choices": [
+    "Activation of peripheral α2 receptors",
+    "Activation of peripheral α1 receptors",
+    "Blockade of α receptors on the locus ceruleus",
+    "Blockade of α receptors on the tractus solitarius",
+    "Decreased central sympathetic outflow",
+    "Decreased central parasympathetic outflow"
+   ],
+   "answer": 4,
+   "explanation": "Clonidine is often used to decrease the symptoms of sympathetic activation, which are prominent during withdrawal from many sedative drugs, including alcohol and opioids. Many of those symptoms are due to an increased firing from the locus ceruleus, a brain nucleus with a very high concentration of α receptors. By activating α2 presynaptic receptors, clonidine decreases the central sympathetic outflow, antagonizing the increased firing of the locus ceruleus. B, D Clonidine activates peripheral adrenoceptors only when very high doses are given. C Clonidine increases, not decreases, central parasympathetic outflow. E, F Clonidine activates, not blocks, these receptors.",
+   "source": "Pharmacology II-2 Q19",
+   "topic": "Hard",
+   "topic_n": 5
+  },
+  {
+   "question": "A 7-year-old girl recently diagnosed with persistent asthma started treatment with inhaled albuterol \"as needed.\" Which of the following adverse effects was most likely to occur during the therapy?",
+   "choices": [
+    "Sleepiness",
+    "Atrioventricular block",
+    "Ventricular tachycardia",
+    "Postural hypotension",
+    "Restlessness"
+   ],
+   "answer": 4,
+   "explanation": "Restlessness and anxiety are common adverse effects of β2 adrenoceptor agonists. They occur in 10 to 20% of children receiving inhalatory therapy. This points out that β agonists are mainly excitatory drugs in the central nervous system. In fact, toxic doses usually cause convulsions. A Beta-2 receptor activation increases atrioventricular (AV) conduction, so AV block is unlikely. C Beta-2 receptor activation actually causes insomnia. D Hypotension can rarely occur with β2 agonists, but postural hypotension is unlikely, as the baroreceptor reflex is not affected. E Arrhythmias can occur with β2 agonists, but ventricular tachycardia is rare.",
+   "source": "Pharmacology II-2 Q20",
+   "topic": "Medium",
+   "topic_n": 7
+  },
+  {
+   "question": "A 52-year-old woman suffering from severe bronchial asthma was recently diagnosed with open-angle glaucoma. An appropriate local therapy was prescribed. Which of the following drugs most likely would be included in the glaucoma treatment of this patient?",
+   "choices": [
+    "Propranolol",
+    "Pilocarpine",
+    "Carbachol",
+    "Epinephrine",
+    "Timolol"
+   ],
+   "answer": 3,
+   "explanation": "Epinephrine is sometimes used in open-angle glaucoma because it decreases aqueous humor production by activating α2 receptors in the ciliary epithelium, and it also increases aqueous humor outflow through the uveoscleral route. A, C–E All of these drugs are effective in open-angle glaucoma but are contraindicated in this case because of severe asthma. In fact, even when given topically, β-blockers and cholinergic agonists can increase the risk of bronchospastic disorders from systemic absorption via the nasolacrimal system.",
+   "source": "Pharmacology II-2 Q21",
+   "topic": "Medium",
+   "topic_n": 8
+  },
+  {
+   "question": "A 33-year-old man was brought to the emergency room after a car accident. Upon admission, the patient was lucid but completely paralyzed, with loss of all sensation and reflex activity below the thorax. Vital signs were blood pressure 80/40 mm Hg, heart rate 42 bpm, respirations 36/min. A preliminary diagnosis of spinal shock, due to spinal cord injury, was made, and an intravenous infusion of an appropriate drug was started. Which of the following drugs was most likely administered?",
+   "choices": [
+    "Isoproterenol",
+    "Albuterol",
+    "Clonidine",
+    "Salmeterol",
+    "Norepinephrine"
+   ],
+   "answer": 4,
+   "explanation": "The shock due to the spinal cord injury is vasodilatory (also called neurogenic or distributive shock), which occurs because the injured sympathetic nervous system fails to maintain the arteriolar tone. Drugs with α1-adrenergic activity such as norepinephrine, phenylephrine, and dopamine are used to restore the arteriolar tone, thus counteracting the decreased blood pressure. A, B, D These drugs are devoid of α1-adrenergic activity. E Salmeterol is an antiadrenergic drug.",
+   "source": "Pharmacology II-2 Q22",
+   "topic": "Medium",
+   "topic_n": 9
+  },
+  {
+   "question": "The cardiovascular effects of a new autonomic drug that does not cross the blood-brain barrier were evaluated in a healthy male volunteer. The drug was administered intravenously, and the results are presented below: Mean BP (mm Hg): Control 90, Peak Drug Effect 80; Heart rate (bpm): Control 70, Peak Drug Effect 110; Cardiac output (L/min): Control 5.5, Peak Drug Effect 6.5; Ejection fraction (%): Control 60, Peak Drug Effect 80. Which of the following drugs does the new agent most resemble?",
+   "choices": [
+    "Cocaine",
+    "Albuterol",
+    "Isoproterenol",
+    "Phenylephrine",
+    "Norepinephrine"
+   ],
+   "answer": 2,
+   "explanation": "The drug causes a substantial increase in heart rate, cardiac output, and ejection fraction and a concomitant decrease in mean blood pressure. An increase in ejection fraction indicates that the contractility of the heart is increased. The fact that mean blood pressure is decreased despite the increased cardiac output indicates that the drug must decrease total peripheral resistance (TPR). The two listed drugs that can decrease TPR are isoproterenol and albuterol. However, because albuterol is a selective β2 agonist, it would have caused a decrease in TPR and a reflex increase in the heart rate, but the ejection fraction would have been minimally affected. A, B, D, E See correct answer explanation.",
+   "source": "Pharmacology II-2 Q23",
+   "topic": "Hard",
+   "topic_n": 6
+  },
+  {
+   "question": "A 51-year-old man received an intravenous infusion of isoproterenol at the conclusion of heart transplant surgery. Which of the following actions most likely occurred a few minutes after the start of the infusion?",
+   "choices": [
+    "Inhibition of insulin release",
+    "Stimulation of renin secretion",
+    "Reflex tachycardia",
+    "Increased total peripheral resistance.",
+    "Stimulation of platelet aggregation"
+   ],
+   "answer": 1,
+   "explanation": "Isoproterenol is often used in the operating room after heart transplant, because contractility and sinus node function of the new heart are temporarily impaired to varying degrees, based on the condition of the donor heart, quality of preservation, and so on. Isoproterenol is a nonselective β agonist (i.e., it activates all β receptors). Activation of β1 receptors in the juxtaglomerular cells of the macula densa stimulates renin secretion. B Activation of β2 receptors in the pancreas actually increases insulin release. C Activation of β2 receptors in vessels causes vasodilation, which in turn decreases, not increases, total peripheral resistance. D Isoproterenol causes tachycardia, which is, in a normal person, both direct (due to activation of cardiac β receptors) and reflex (due to drug-induced peripheral vasodilation). In this patient, however, the new heart is denervated, so reflex tachycardia cannot occur. E This effect is mediated by the activation of α2 receptors. Isoproterenol has no activity on α receptors.",
+   "source": "Pharmacology II-2 Q24",
+   "topic": "Medium",
+   "topic_n": 10
+  },
+  {
+   "question": "A 34-year-old man was brought to the emergency room with a gunshot wound to the abdomen. External blood loss and internal hemorrhage were significant, and he was anxious and disoriented. On examination, his skin was pale and cool, pulse was thready at 130 bpm, blood pressure was 80/70 mm Hg, and respiration was shallow with a rate of 30 breaths/min. The first appropriate therapeutic intervention in this patient would have been an intravenous infusion of which of the following agents?",
+   "choices": [
+    "Isoproterenol",
+    "Norepinephrine",
+    "Dobutamine",
+    "Epinephrine",
+    "Dopamine",
+    "Isotonic saline"
+   ],
+   "answer": 5,
+   "explanation": "The symptoms and signs of the patient indicate that he was most likely suffering from hypovolemic shock due to the extensive hemorrhage. The most important therapeutic intervention in hypovolemic shock is the infusion of intravenous fluids. Crystalloids (isotonic solutions that contain either normal saline or saline equivalents) or colloid solutions (which contain large oncotically active molecules, e.g., albumin and carbohydrates) can be given. The choice between the two remains controversial, but normal isotonic saline is extensively used. A Norepinephrine is used in neurogenic shock. B Epinephrine is the first-line agent in anaphylactic shock. C Dobutamine is used in cardiogenic shock. E Dopamine is used in neurogenic and cardiogenic shock. F Isoproterenol is contraindicated in any type of shock.",
+   "source": "Pharmacology II-2 Q25",
+   "topic": "Medium",
+   "topic_n": 11
+  },
+  {
+   "question": "A 53-year-old man was brought to the emergency department after suffering crushing substernal pain for the past hour. Vital signs on admission were blood pressure 88/50, pulse 115 bpm, respirations 30/min. Further exams led to the diagnosis of cardiogenic shock due to myocardial infarction, and therapy was started that included an intravenous infusion of an appropriate drug. Which of the following molecular actions most likely mediated the therapeutic effectiveness of the drug in this patient?",
+   "choices": [
+    "Increased synthesis of cyclic guanosine monophosphate (cGMP)",
+    "Increased synthesis of cyclic adenosine monophosphate (cAMP)",
+    "Activation of phospholipase A2",
+    "Opening of ligand-gated Na+ channels",
+    "Opening of ligand-gated K+ channels",
+    "Increased synthesis of inositol triphosphate (IP3) and diacylglycerol (DAG)"
+   ],
+   "answer": 1,
+   "explanation": "The therapy of cardiogenic shock requires a rapid-acting inotropic drug to increase myocardial contractility and cardiac output. Dobutamine and dopamine are the two drugs most frequently used. In both cases, the therapeutic efficacy is mediated mainly by the direct (dobutamine) or indirect and direct (dopamine) activation of β1 receptors, which in turn increase the synthesis of cAMP. A, B, D–F See correct answer explanation.",
+   "source": "Pharmacology II-2 Q26",
+   "topic": "Hard",
+   "topic_n": 7
+  },
+  {
+   "question": "A 25-year-old healthy male volunteer received an intravenous infusion of a new drug in a phase 1 clinical trial. It was found that the drug causes an increase in cardiac contractility, a slight increase in heart rate, and no major changes or a decrease in systemic vascular resistance. Which of the following drugs does the new agent most resemble?",
+   "choices": [
+    "Epinephrine",
+    "Norepinephrine",
+    "Dobutamine",
+    "Isoproterenol",
+    "Phenylephrine"
+   ],
+   "answer": 2,
+   "explanation": "Dobutamine is a selective β agonist that activates mainly β1 receptors. This should cause an increase of all the parameters of heart activity, but for unknown reasons, frequency and automaticity are increased only slightly. Affinity of dobutamine for α1 and β2 receptors is slight (high doses are needed); moreover, the consequences of this activation on the vessel caliber can balance each other. This can explain why there are no major changes or a decrease (when the β2-mediated vasodilation overrides the α1-mediated vasoconstriction) in total peripheral resistance. A–D All of these drugs cause substantial changes in heart rate and systemic vascular resistance.",
+   "source": "Pharmacology II-2 Q27",
+   "topic": "Medium",
+   "topic_n": 12
+  },
+  {
+   "question": "A 58-year-old man became confused and disoriented 5 days after he underwent surgery to remove necrotic bowel tissue. Physical findings were high fever (103°F, 39.4°C), blood pressure 90/50 mm Hg, pulse 130 bpm, respirations 30/min. Pertinent lab values were partial pressure of arterial carbon dioxide (PaCO2) 30 mm Hg (normal 33–45 mm Hg), bicarbonate (HCO3-) 18 mEq/L (normal 22–28 mEq/L), serum pH 7.31, white blood cell count (WBC) 22,000 cells/mm3. Arterial and pulmonary artery catheters were inserted, revealing a cardiac output of 6 L/min and a pronounced decrease of systemic vascular resistance. Fluid therapy was initiated, but 1 hour later mean blood pressure was still 60 mm Hg. An intravenous infusion of an appropriate drug was started. Which of the following drugs was most likely administered?",
+   "choices": [
+    "Epinephrine",
+    "Clonidine",
+    "Isoproterenol",
+    "Norepinephrine",
+    "Albuterol"
+   ],
+   "answer": 3,
+   "explanation": "The signs and symptoms of the patient strongly suggest the diagnosis of septic shock. Signs consistent with this diagnosis are the high fever, high WBC, hypotension, tachycardia, elevated cardiac output, and low systemic vascular resistance. Septic shock is a vasodilatory shock (vasodilation may be partly due to the vasodilatory effects of endotoxins or other chemical mediators). In this kind of shock, even if cardiac output is increased, it is inadequate to maintain a blood pressure that will perfuse the essential organs in the face of a decreased systemic peripheral resistance. In fact, the patient has metabolic acidosis, indicating anaerobic metabolism and lactic acidosis. Even if fluid administration is still the mainstay therapy in septic shock, recent evidence suggests that early aggressive vasopressor support may be the key to a positive outcome. Dopamine is frequently the initial pharmacological agent chosen for the treatment, but when the systemic vascular resistance is very low, as in this case, norepinephrine was found to be superior to dopamine. A, B, D, E All of these drugs tend to decrease the systemic vascular resistance and are therefore not indicated in this case.",
+   "source": "Pharmacology II-2 Q28",
+   "topic": "Hard",
+   "topic_n": 8
+  },
+  {
+   "question": "A 13-year-old girl with mild persistent allergic asthma started a treatment that included an inhaled bronchodilator \"as needed.\" A drug with which of the following mechanisms of action would be most appropriate for this patient's inhaler?",
+   "choices": [
+    "Blockade of M2 cholinergic receptors",
+    "Activation of H1 histamine receptors",
+    "Blockade of Nm cholinergic receptors",
+    "Blockade of α1 adrenoreceptors",
+    "Activation of β2 adrenoreceptors",
+    "Activation of leukotriene receptors"
+   ],
+   "answer": 4,
+   "explanation": "According to the Expert Panel Report of the National Institutes of Health, all patients with asthma should receive a short-acting β2 agonist on an \"as needed\" basis. Therefore, the most appropriate drug for this patient's inhaler would be a drug like albuterol. B Activation of M2 receptors in nonvascular smooth muscle can cause smooth muscle contraction. Therefore, blockade of M2 receptors (with an anticholinergic drug, e.g., ipratropium) could cause a bronchodilating effect. However, anticholinergics are less effective than β2 agonists in asthma, and the bronchoconstricting action of M2 receptors is less effective than that of M3 receptors. A, D–F See correct answer explanation.",
+   "source": "Pharmacology II-2 Q29",
+   "topic": "Easy",
+   "topic_n": 9
+  },
+  {
+   "question": "A 42-year-old woman complained to her physician of tremors, muscle cramping, palpitations, and anxiety. The woman, who was recently diagnosed with severe bronchial asthma, had started an appropriate therapy 2 weeks earlier. Which of the following drugs most likely caused the patient's symptoms?",
+   "choices": [
+    "Dobutamine",
+    "Isoproterenol",
+    "Propranolol",
+    "Salmeterol",
+    "Prazosin"
+   ],
+   "answer": 3,
+   "explanation": "Beta-2 agonists administered by inhalation are first-line drugs for asthma. Tremor is the most frequent adverse effect of β2 agonists (in up to 40% of patients). It likely occurs because β2-receptor activation accelerates the sequestration of cytosolic Ca2+ (by opening Ca2+ channels in the sarcoplasmic reticulum of skeletal muscle) and increases discharge in muscle spindles. Anxiety is the second most frequent adverse effect of these drugs (in up to 20% of patients). Palpitations can occur in up to 10% of patients and are related to the cardiac effects of these drugs (β2 specificity is never absolute; moreover, β2-receptor activation also increases heart contractility and rate). Muscle cramping is likely a consequence of hypokalemia (β2 agonists stimulate Na/K+ ATPase, thus facilitating K+ entry into cells), as K+ is needed for vasodilation in the skeletal muscle. A Isoproterenol can cause the pattern of adverse effects reported by the patient but is very rarely used today in asthmatic patients. C–E These drugs are not used to treat asthmatic patients.",
+   "source": "Pharmacology II-2 Q30",
+   "topic": "Medium",
+   "topic_n": 13
+  },
+  {
+   "question": "A 16-year-old male snorted cocaine for the first time at a party. A few minutes later he felt euphoric, and friends noted that his pupils were dilated. Which of the following molecular actions most likely mediated the mydriasis?",
+   "choices": [
+    "Blockade of α2 receptors in sympathetic terminals",
+    "Inhibition of norepinephrine reuptake into sympathetic terminals",
+    "Stimulation of norepinephrine release from sympathetic terminals",
+    "Inhibition of monoamine oxidase A",
+    "Stimulation of epinephrine release from adrenal medulla"
+   ],
+   "answer": 1,
+   "explanation": "Cocaine is an indirect-acting adrenergic drug that blocks catecholamine uptake in both the central and peripheral nervous systems. Therefore, the adrenergic actions of cocaine are due to the increased availability of norepinephrine in the synaptic cleft. A, B, D, E All of these listed mechanisms can increase the availability of norepinephrine or epinephrine, but these are not mechanisms of action of cocaine.",
+   "source": "Pharmacology II-2 Q31",
+   "topic": "Easy",
+   "topic_n": 10
+  },
+  {
+   "question": "A 41-year-old man presented to the clinic complaining of an impairment in his ability to voluntarily raise his left eyelid. Physical examination showed miosis, ptosis, flushed facial skin, and loss of sweating over the left side of the face. Further exams led to the diagnosis of Horner syndrome. To determine the site of the autonomic lesion, a hydroxyamphetamine solution was instilled into the conjunctival sac of the left eye. A few minutes later, mydriasis was observed. The physician correctly concluded that there was a localized lesion in which of the following nervous structures?",
+   "choices": [
+    "Postganglionic sympathetic nerves innervating the face",
+    "Postganglionic parasympathetic nerves innervating the face",
+    "Preganglionic parasympathetic nerves innervating the face",
+    "Preganglionic sympathetic nerves innervating the face"
+   ],
+   "answer": 3,
+   "explanation": "Horner syndrome results when the cervical sympathetic pathway running from the hypothalamus to the eye is disrupted. The lesion causes vasodilation (loss of α1 receptor-mediated vascular tone), ptosis (loss of α1 receptor-mediated contraction of the superior tarsal muscle), miosis (loss of the α1 receptor-mediated dilation of the pupil), and anhidrosis (loss of sympathetic cholinergic firing to the sweat glands). The use of adrenergic drugs can help to determine if the lesion is pre- or postganglionic. Hydroxyamphetamine is an indirect-acting adrenergic drug that stimulates the release of norepinephrine from adrenergic nerve endings. Because mydriasis was observed, the postganglionic neuron is intact and therefore able to release norepinephrine. Damage to the postganglionic neuron would result in less or no norepinephrine being released, and mydriasis would be incomplete or absent. The conclusion is that the lesion must be on the preganglionic neuron. B See correct answer explanation. C, D A lesion of either pre- or postganglionic parasympathetic nerves would cause a completely different clinical picture (mydriasis, no ptosis, etc.).",
+   "source": "Pharmacology II-2 Q32",
+   "topic": "Hard",
+   "topic_n": 9
+  },
+  {
+   "question": "A 37-year-old man was admitted to the hospital after a work accident. An admitting diagnosis of spinal cord injury was made, and emergency therapy was initiated, which included the intravenous infusion of a low dose of dopamine. Which of the following effects of the drug were most likely mediated by the activation of dopamine D1 receptors?",
+   "choices": [
+    "Increased diuresis",
+    "Constriction of skin vessels",
+    "Increased stroke volume",
+    "Nausea and vomiting",
+    "Increased heart rate"
+   ],
+   "answer": 0,
+   "explanation": "Activation of D1 receptors in the kidney causes vasodilation and inhibition of Na+ reabsorption by the proximal tubule. Both actions contribute to the increased diuresis that can occur with low doses of dopamine. B This effect occurs with high dose of dopamine, which activates D2 receptors in the area postrema. C–E These effects occur with an intermediate dose of dopamine, which still activates D1 receptors, but also activates β1 receptors and release of norepinephrine from nerve terminals.",
+   "source": "Pharmacology II-2 Q33",
+   "topic": "Medium",
+   "topic_n": 14
+  },
+  {
+   "question": "A 46-year-old woman admitted to the hospital with the presumptive diagnosis of septic shock was given emergency therapy. The treatment included an adrenergic drug that can decrease total peripheral resistance at lower doses and can increase it at higher doses. Which of the following drugs was most likely administered?",
+   "choices": [
+    "Albuterol",
+    "Isoproterenol",
+    "Dopamine",
+    "Dobutamine",
+    "Norepinephrine",
+    "Phenylephrine"
+   ],
+   "answer": 2,
+   "explanation": "Dopamine decreases total peripheral resistance (TPR) at low doses by selectively activating D1 receptors (mainly in mesenteric and renal beds). At higher doses, dopamine can also activate α receptors and increase norepinephrine release from adrenergic terminals. The α-mediated vasoconstriction overrides the vasodilating effects on the kidney, and TPR increases. A, E Norepinephrine and phenylephrine have only vasoconstricting effects mediated by activation of α1 receptors. B, C Albuterol and isoproterenol have only vasodilating effects mediated by the activation of β2 receptors. D Dobutamine has negligible effects on TPR.",
+   "source": "Pharmacology II-2 Q34",
+   "topic": "Medium",
+   "topic_n": 15
+  },
+  {
+   "question": "A 51-year-old patient suffering from postural hypotension was admitted to the hospital for evaluation. A tyramine infusion did not raise the blood pressure, whereas a very small dose of norepinephrine caused a large, transient elevation of blood pressure. These results would suggest a degeneration of which of the following nervous structures?",
+   "choices": [
+    "Postganglionic sympathetic neurons",
+    "Preganglionic parasympathetic nerves neurons",
+    "Preganglionic sympathetic neurons",
+    "Postganglionic parasympathetic neurons",
+    "Medulla oblongata"
+   ],
+   "answer": 0,
+   "explanation": "Tyramine is a normal by-product of tyrosine metabolism in the body and is also found in high concentration in fermented food. It is normally inactive when ingested, because of a very large first-pass effect (metabolism by hepatic monoamine oxidase [MAO]). If administered parenterally, it has an indirect sympathomimetic action due to the release of stored catecholamines. This is the basis of the tyramine test, sometimes used clinically for the diagnosis of some autonomic nervous system (ANS) diseases. In this case, the patient is most likely affected by pure autonomic failure, a rare degenerative disorder of the ANS presenting in middle to late life. In this disease, there is a degeneration of postganglionic sympathetic neurons, which can explain the postural hypotension. An intravenous injection of tyramine normally causes an elevation of blood pressure due to the release of stored catecholamines. In this case, however, the elevation did not occur because catecholamines had been lost from the nerve endings. On the contrary, an intravenous injection of epinephrine caused a big elevation in blood pressure, as epinephrine directly activates adrenoceptors. Moreover, these receptors were upregulated, due to a decreased availability of the neurotransmitter (denervation supersensitivity). B A lesion of the preganglionic sympathetic nerve would have caused orthostatic hypotension, but tyramine would have caused hypertension, as the postganglionic adrenergic neurons were intact. C, D In case of a lesion of either pre- or postganglionic parasympathetic nerves, tyramine would have been effective. E Lesions of the sympathetic pathways in the medulla oblongata would have caused symptoms similar to those due to lesions of the preganglionic sympathetic nerves. In this case, tyramine would have been effective.",
+   "source": "Pharmacology II-2 Q35",
+   "topic": "Hard",
+   "topic_n": 10
+  },
+  {
+   "question": "A 47-year-old woman suffering from postmenopausal hot flashes tried different drugs with little success. Her physician decided to try another drug that decreases the release of norepinephrine from adrenergic nerve terminals. Which of the following drugs was most likely prescribed?",
+   "choices": [
+    "Prazosin",
+    "Clonidine",
+    "Isoproterenol",
+    "Labetalol",
+    "Albuterol"
+   ],
+   "answer": 1,
+   "explanation": "Hot flashes are symptomatic of a disorder in thermoregulation due to the complex hormonal changes that accompany estrogen withdrawal. Several chemical mediators are thought to be involved, including norepinephrine, epinephrine, serotonin, and prostaglandins. Clonidine is sometimes used to treat hot flashes, even if it is not a first-line agent for that disorder. In fact, it is less effective compared to other nonhormonal therapies (gabapentin, venlafaxine, and fluoxetine). By activating presynaptic α2 receptors, clonidine causes a decrease of norepinephrine release from adrenergic terminals. However, how this mechanism decreases hot flashes is still unknown. A, C–E These drugs do not activate α2 receptors.",
+   "source": "Pharmacology II-2 Q36",
+   "topic": "Easy",
+   "topic_n": 11
+  },
+  {
+   "question": "A 48-year-old woman suffering from lupus erythematosus was admitted to the hospital because of severe muscle weakness. Pertinent laboratory data on admission were K+ 7.9 mEq/L, creatinine 5 mg/dL, blood urea nitrogen (BUN) 60 mg/dL. An electrocardiogram (ECG) revealed increased PR intervals and widened QRS complexes. Insulin with dextrose was given intravenously to reduce the high potassium level. Another drug was also given because it has an additive effect with insulin in decreasing serum potassium. Which of the following drugs was most likely administered?",
+   "choices": [
+    "Phenylephrine",
+    "Clonidine",
+    "Epinephrine",
+    "Albuterol",
+    "Isoproterenol",
+    "Dobutamine"
+   ],
+   "answer": 3,
+   "explanation": "This patient's lab data indicate that she is suffering from renal failure, which frequently leads to hyperkalemia. Hyperkalemia with ECG changes requires emergency treatment. The therapy includes agents that antagonize the cardiac effects of hyperkalemia (e.g., calcium, which counteracts the depolarizing effect of hyperkalemia); drugs that shift K+ from the extracellular to the intracellular space (e.g., insulin and β2 agonists); and drugs that enhance K+ elimination (e.g., ion-exchange resins that bind K+ in the bowel lumen). Albuterol is the only drug in the list that has one of these effects (β2 agonist) without other actions that would be deleterious in this patient. A, C, F Phenylephrine, clonidine, and dobutamine do not affect K+ concentration. D, E Isoproterenol and epinephrine can cause hypokalemia, but they are not used therapeutically for this purpose because of many other unwanted effects.",
+   "source": "Pharmacology II-2 Q37",
+   "topic": "Hard",
+   "topic_n": 11
+  },
+  {
+   "question": "A 35-year-old woman was admitted to the emergency department because of dyspnea, generalized itching, and swelling of the lips, eyelids, and tongue. The symptoms started a few minutes after an intramuscular (IM) injection of a vaccine. An appropriate therapy was started, which included an IM injection of epinephrine. Which of the following expected effects of the drug were most likely mediated by activation of β2 adrenoceptors?",
+   "choices": [
+    "Contraction of the bladder sphincter",
+    "Skin vasoconstriction",
+    "Mydriasis",
+    "Inhibition of insulin release",
+    "Increased glycogenolysis"
+   ],
+   "answer": 4,
+   "explanation": "Activation of β2 receptors by epinephrine increases cyclic adenosine monophosphate (cAMP), which in turn activates the cAMP-dependent protein kinase A. This enzyme activates a cascade of enzymes that promote glycogen degradation. A This action is mediated by activation of α2 receptors. B–D These actions are mediated by activation of α1 receptors.",
+   "source": "Pharmacology II-2 Q38",
+   "topic": "Medium",
+   "topic_n": 16
+  },
+  {
+   "question": "A 43-year-old woman was in the emergency department for the treatment of shock due to spinal trauma. Despite fluid therapy, she was still hypotensive (80/50 mm Hg) and tachycardic (125 bpm). An intravenous infusion of norepinephrine was started, and a few minutes later the blood pressure was 120/85 mm Hg, and the heart rate decreased to 85 bpm. Which of the following actions best explains the drug-induced decrease of heart rate in this patient?",
+   "choices": [
+    "Decreased firing rate of carotid chemoreceptors",
+    "Increased firing rate of aortic baroreceptors",
+    "Decreased firing rate of vagal neurons",
+    "Activation of cardiac β2 receptors",
+    "Activation of cardiac α2 autoreceptors"
+   ],
+   "answer": 1,
+   "explanation": "Norepinephrine usually causes a reflex bradycardia in patients with intact innervation of the heart for the following reason: the increase in blood pressure due to activation of α1 receptors activates baroreceptors located in the carotid sinus and aortic arch (baroreceptors are stretch receptors). This increases the firing rate to the nucleus of the tractus solitarius in the medulla, which in turn increases its firing to the vagal motor neurons (dorsal motor neuron and nucleus ambiguus). When this vagal excitation is strong enough, it can overcome the norepinephrine-induced tachycardia due to activation of cardiac β receptors; therefore, bradycardia ensues. A, B These actions would cause an increase, not a decrease, in heart rate. D Activation of α2 autoreceptors causes a decrease of norepinephrine release, but this is not the main mechanism of norepinephrine-induced bradycardia. E Decreased firing rate of carotid chemoreceptors occurs only in severe pathologic conditions and would cause an increase, not a decrease, in heart rate.",
+   "source": "Pharmacology II-2 Q40",
+   "topic": "Medium",
+   "topic_n": 17
+  }
+ ]
+}

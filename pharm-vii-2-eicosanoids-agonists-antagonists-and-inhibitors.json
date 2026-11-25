@@ -1,0 +1,313 @@
+{
+ "questions": [
+  {
+   "question": "This drug can inhibit the biosynthesis of all eicosanoids.",
+   "choices": [
+    "Latanoprost",
+    "Dinoprostone",
+    "Prednisone",
+    "Misoprostol",
+    "Epoprostenol",
+    "Alprostadil"
+   ],
+   "answer": 2,
+   "explanation": "Matching item. Correct match: Prednisone.",
+   "source": "Pharmacology VII-2 Q1",
+   "topic": "Easy",
+   "topic_n": 1
+  },
+  {
+   "question": "This drug is a synthetic prostaglandin I2.",
+   "choices": [
+    "Epoprostenol",
+    "Alprostadil",
+    "Dinoprostone",
+    "Misoprostol",
+    "Prednisone",
+    "Latanoprost"
+   ],
+   "answer": 0,
+   "explanation": "Matching item. Correct match: Epoprostenol.",
+   "source": "Pharmacology VII-2 Q2",
+   "topic": "Easy",
+   "topic_n": 2
+  },
+  {
+   "question": "This drug is a prostaglandin E1 analogue.",
+   "choices": [
+    "Alprostadil",
+    "Latanoprost",
+    "Epoprostenol",
+    "Misoprostol",
+    "Prednisone",
+    "Dinoprostone"
+   ],
+   "answer": 3,
+   "explanation": "Matching item. Correct match: Misoprostol.",
+   "source": "Pharmacology VII-2 Q3",
+   "topic": "Easy",
+   "topic_n": 3
+  },
+  {
+   "question": "This drug is a prostaglandin F2α analogue.",
+   "choices": [
+    "Epoprostenol",
+    "Alprostadil",
+    "Dinoprostone",
+    "Latanoprost",
+    "Prednisone",
+    "Misoprostol"
+   ],
+   "answer": 3,
+   "explanation": "Matching item. Correct match: Latanoprost.",
+   "source": "Pharmacology VII-2 Q4",
+   "topic": "Easy",
+   "topic_n": 4
+  },
+  {
+   "question": "This drug is a synthetic prostaglandin E2.",
+   "choices": [
+    "Misoprostol",
+    "Latanoprost",
+    "Prednisone",
+    "Epoprostenol",
+    "Dinoprostone",
+    "Alprostadil"
+   ],
+   "answer": 4,
+   "explanation": "Matching item. Correct match: Dinoprostone.",
+   "source": "Pharmacology VII-2 Q5",
+   "topic": "Easy",
+   "topic_n": 5
+  },
+  {
+   "question": "A 48-year-old man with open-angle glaucoma still had elevated intraocular pressure despite 1 month of treatment with timolol and dorzolamide. The ophthalmologist decided to add latanoprost to the therapeutic regimen. Which of the following effects on aqueous humor most likely mediated the therapeutic effect of the drug in the patient’s disease?",
+   "choices": [
+    "Decreased production by eye vessel constriction",
+    "Increased outflow through Schlemm canal",
+    "Decreased production by ciliary epithelium",
+    "Increased outflow through trabecular meshwork",
+    "Increased outflow through uveoscleral route"
+   ],
+   "answer": 4,
+   "explanation": "Latanoprost is a prostaglandin F2α analogue that lowers the intraocular pressure by increasing the outflow of aqueous humor through the uveoscleral route. The effectiveness of the drug is similar to that of timolol. Moreover, latanoprost has additive effects when administered with fB-blockers or a,adrenergic agonists. A, E These are mechanisms of action of cholinergic drugs. B This is the mechanism of action of B-blockers or a, agonists. D This is the mechanism of action of a agonists such as epinephrine and phenylephrine.",
+   "source": "Pharmacology VII-2 Q6",
+   "topic": "Medium",
+   "topic_n": 1
+  },
+  {
+   "question": "A 47-year-old man complained to his physician of an inability to maintain an erection. After a complete medical workup, he was prescribed intraurethral administration of alprostadil to be used before intercourse. Which of the following molecular mechanism of action most likely mediated the efficacy of the drug in the patient’s erection disorder?",
+   "choices": [
+    "Release of nitric oxide",
+    "Blockade of thromboxane A2 receptors",
+    "Blockade of α1 adrenoceptors",
+    "Activation of β2 adrenoceptors",
+    "Activation of muscarinic M3 acetylcholine receptors",
+    "Activation of prostaglandin E receptors"
+   ],
+   "answer": 5,
+   "explanation": "Alprostadil is synthetic prostaglandin E,. When given by intraurethral administration, alprostadil acts by activating prostaglandin E G protein-coupled receptors in penile vessels. This activation stimulates adenylyl cyclase, thus increasing the production of cyclic adenosine monophosphate (cAMP). An increased cAMP level increases Ca2+ efflux and decreases phosphorylation of myosin light chain both in vascular and nonvascular smooth muscle, thus leading to muscle relaxation. This relaxation allows increased inflow of blood into | corpora cavernosa, thus causing penile erection. B-F See correct answer explanation.",
+   "source": "Pharmacology VII-2 Q7",
+   "topic": "Easy",
+   "topic_n": 6
+  },
+  {
+   "question": "A 22-year-old primipara woman was admitted to the obstetrical unit for labor induction because of a postdated pregnancy. Her obstetrical examination was normal, but her cervix was unfavorable for induction of labor with oxytocin. Which of the following drugs given intravaginally would be appropriately administered at this time?",
+   "choices": [
+    "Albuterol",
+    "Thromboxane A2",
+    "Ibuprofen",
+    "Dinoprostone",
+    "Ergonovine",
+    "Diclofenac"
+   ],
+   "answer": 3,
+   "explanation": "Prostaglandins E and F are able to terminate pregnancy at any Stage by promoting uterine contractions. They are also able to ripen the cervix to make it softer) by increasing proteoglycan content and changing the biophysical properties of collagen. Dinoprostone, a synthetic prostaglandin E., is administered intravaginally for ripening of the cervix in pregnant women at or near term whose cervix is not yet soft enough for oxytocin induction of labor. A Thromboxanes are not used as drugs. C Ergonovine can cause uterine contractions but has no cervical ripening properties. D-F Beta-2 agonists and nonsteroidal antiinflammatory drugs have uterine relaxant properties, and they are devoid of cervical ripening properties.",
+   "source": "Pharmacology VII-2 Q8",
+   "topic": "Easy",
+   "topic_n": 7
+  },
+  {
+   "question": "A 35-year-old woman at 24 weeks gestation was admitted to the obstetrical unit because of signs of severe fetal distress. Fetal death was diagnosed on admission, and induction of labor was planned. An oxytocin drip was initiated, and a vaginal suppository was inserted. Which of the following drugs was most likely given intravaginally?",
+   "choices": [
+    "Metoprolol",
+    "Dinoprostone",
+    "Albuterol",
+    "Ergonovine",
+    "Bethanechol"
+   ],
+   "answer": 1,
+   "explanation": "In case of intrauterine fetal death, prostaglandins alone or with oxytocin can cause delivery effectively. Dinoprostone (prostaglandin E,) is the prostaglandin currently used for this purpose. A-C These drugs do not have oxytocic properties. D Ergot alkaloids such as ergonovine can evoke rhythmic contraction and relaxation of the uterus when given in very small doses. At higher concentrations, however, these drugs elicit potentially dangerous powerful and prolonged contracture and therefore are not used to cause delivery.",
+   "source": "Pharmacology VII-2 Q9",
+   "topic": "Easy",
+   "topic_n": 8
+  },
+  {
+   "question": "A 22-year-old woman recently diagnosed with mild persistent asthma started treatment with albuterol as needed and oral zileuton daily. Which of the following molecular mechanisms of action most likely mediated the therapeutic effect of zileuton in the patient’s disease?",
+   "choices": [
+    "Inhibition of 5-lipoxygenase",
+    "Competitive blockade of leukotriene receptors",
+    "Inhibition of cyclooxygenase-2",
+    "Competitive blockade of muscarinic M3 receptors",
+    "Activation of β2 receptors"
+   ],
+   "answer": 0,
+   "explanation": "Zileuton is an inhibitor of 5-lipoxygenase, preventing leukotriene synthesis. It improves asthma control and reduces the frequency of asthma exacerbation, although its effects are less marked than those of inhaled glucocorticoids. The main advantage of the drug is that it can be taken orally. A, C-E See correct answer explanation.",
+   "source": "Pharmacology VII-2 Q10",
+   "topic": "Easy",
+   "topic_n": 9
+  },
+  {
+   "question": "A 35-year-old woman presented to her physician complaining of recent onset of nausea and vomiting in the mornings. A pregnancy test confirmed she was pregnant. Past medical history was significant for chronic heart failure, necessitating a medical abortion. A drug treatment for abortion induction was prescribed. Which of the following drugs was most likely included in that treatment?",
+   "choices": [
+    "Misoprostol",
+    "Quinidine",
+    "Ergonovine",
+    "Norgestrel",
+    "Clomiphene"
+   ],
+   "answer": 0,
+   "explanation": "The prescribed treatment most likely included mifepristone and misoprostol, the most common first-trimester medical abortion regimen. In the presence of progesterone, mifepristone acts as an antagonist at progesterone receptors. The inhibition of progesterone actions on the uterus in the early stage of pregnancy causes decidual breakdown, which leads to detachment of the blastocyst. Misoprostol, taken 24 to 48 hours later causes uterine contractions that expel the uterine contents. This medical abortion regimen terminates pregnancy in over 95% of women treated during the first 7 weeks after conception. A, B Large doses of these drugs can cause abortion and were used in the past to induce street abortions, but they are not used for medically induced abortion. C, D These drugs do not cause abortion.",
+   "source": "Pharmacology VII-2 Q11",
+   "topic": "Easy",
+   "topic_n": 10
+  },
+  {
+   "question": "A 2-day-old premature male baby, born by normal delivery, presented with severe cyanosis. Chest x-rays ang echocardiography confirmed the diagnosis of congenital transposition of the great arteries, and the baby was scheduled for surgery. Which of the following drugs was most likely administered by intravenous infusion to the baby until surgery?",
+   "choices": [
+    "Misoprostol",
+    "Indomethacin",
+    "Dinoprostone",
+    "Alprostadil",
+    "Latanoprost"
+   ],
+   "answer": 3,
+   "explanation": "When a baby is born with a congenital heart disease (transposition of the great arteries, pulmonary artery stenosis, etc.), it is important to maintain the patency of the ductus arteriosus before corrective surgery. Patency of the fetal ductus arteriosus depends primarily on prostaglandin E2 and to a lesser extent on prostaglandin E1. At birth, prostaglandin E2 and E1 levels are reduced because the increased blood oxygen speeds up prostaglandin metabolism, so the ductus arteriosus closes in 1 or 2 days. Alprostadil is a synthetic prostaglandin E1 that can maintain the patency of the ductus arteriosus when given after birth. Because it is metabolized quickly (the half-life is about 10 minutes), it must be given by continuous infusion. A Cyclooxygenase inhibitors such as indomethacin inhibit the synthesis of prostaglandin E2 and therefore are used to speed up the closure of the ductus arteriosus in case of delayed closure, which is common in premature infants. C, E Dinoprostone, a synthetic prostaglandin E2, and misoprostol, a prostaglandin E1 analogue, have activity on the ductus arteriosus, but they are not available for parenteral use. D Latanoprost is devoid of actions on the ductus arteriosus.",
+   "source": "Pharmacology VII-2 Q12",
+   "topic": "Easy",
+   "topic_n": 11
+  },
+  {
+   "question": "A 35-year-old woman was seen at the clinic because of progressive exertional dyspnea and arthralgias. Further exams led to the diagnosis of primary pulmonary hypertension, and an intravenous infusion of epoprostenol was started. Which of the following molecular actions most likely mediated the therapeutic efficacy of the drug in the patient’s disease?",
+   "choices": [
+    "Activation of prostaglandin I2 receptors",
+    "Blockade of Ca2+ channels",
+    "Opening of K+ channels",
+    "Activation of β2 adrenoceptors",
+    "Blockade of α1 adrenoceptors"
+   ],
+   "answer": 0,
+   "explanation": "Epoprostenol is a synthetic prostacyclin (prostaglandin I2) that has powerful vasodilating activity. The drug has been approved for the treatment of primary pulmonary hypertension, a disease of unknown cause involving obliteration of medium and small pulmonary arteries and resulting in right ventricular failure or fatal syncope 2 to 5 years after detection. Epoprostenol activates specific prostaglandin I2 receptors, causing relaxation of pulmonary arteries. Long-term therapy with this drug has been found to be highly effective in improving symptoms and prolonging survival. A-D See correct answer explanation.",
+   "source": "Pharmacology VII-2 Q13",
+   "topic": "Easy",
+   "topic_n": 12
+  },
+  {
+   "question": "A 26-year-old man was brought to the emergency department because of a gunshot wound in his right leg. Physical examination showed a distressed patient with abundant hemorrhage from the wound. The synthesis and release of which of the following endogenous compounds was most likely increased in this patient?",
+   "choices": [
+    "Adenosine",
+    "Prostaglandin E2",
+    "Thromboxane A2",
+    "Bradykinin",
+    "Histamine",
+    "Prostacyclin"
+   ],
+   "answer": 2,
+   "explanation": "Activation of the thromboxane pathway is one of the body’s defenses against bleeding. When bleeding occurs, thromboxanes (mainly A,) are synthesized and released from cells in the bleeding area. Thromboxanes are powerful vasoconstricting agents that promote platelet aggregation and amplify the effect of other platelet-aggregating substances, such as thrombin. Both vasoconstriction and platelet aggregation help to block bleeding. A-E All of these endogenous substances are vasodilators, so their release following bleeding is unlikely.",
+   "source": "Pharmacology VII-2 Q14",
+   "topic": "Easy",
+   "topic_n": 13
+  },
+  {
+   "question": "A 64-year-old man recently diagnosed with open-angle glaucoma started a treatment with latanoprost. Which of the following sets of ocular effects (from A to E) most likely occurred after the administration of the drug? (Note: +, increased; -, decreased; 0, negligible effect.)",
+   "choices": [
+    "Pupillary diameter increased; lens curvature negligible effect; ocular pressure decreased",
+    "Pupillary diameter negligible effect; lens curvature negligible effect; ocular pressure decreased",
+    "Pupillary diameter increased; lens curvature negligible effect; ocular pressure negligible effect",
+    "Pupillary diameter decreased; lens curvature increased; ocular pressure decreased",
+    "Pupillary diameter increased; lens curvature decreased; ocular pressure increased"
+   ],
+   "answer": 1,
+   "explanation": "Latanoprost is a synthetic prostaglandin F2α that lowers the intraocular pressure without affecting the lens curvature or pupillary diameter. This is because it increases the outflow of the aqueous humor through the uveoscleral route, which is different from the Schlemm canal route. Drugs that increase outflow of the aqueous humor through the Schlemm canal cause increased lens curvature and miosis. A-C, E See correct answer explanation.",
+   "source": "Pharmacology VII-2 Q15",
+   "topic": "Medium",
+   "topic_n": 2
+  },
+  {
+   "question": "A 42-year-old man was seen in the clinic with general malaise, fever (102.5°F, 39.2°C), cough, and dyspnea. Further exams led to the diagnosis of acute bronchitis. Which of the following enzymes was primarily involved in the patient's inflammatory disease?",
+   "choices": [
+    "Creatinine kinase",
+    "Lactic dehydrogenase",
+    "12-lipoxygenase",
+    "Cyclooxygenase-1",
+    "Cyclooxygenase-2",
+    "5-lipoxygenase"
+   ],
+   "answer": 4,
+   "explanation": "Cyclooxygenases are the enzymes that catalyze prostaglandin and thromboxane biosynthesis. Two different isoforms of cyclooxygenase have been found: cyclooxygenase-1 (COX-1) and cyclooxygenase-2 (COX-2). Whereas COX-1 is expressed in most tissues of the body and tends to be homeostatic in function, inflammatory mediators such as cytokines upregulate COX-2 expression, leading to high levels of COX-2 in inflamed tissues. COX-2, in turn, catalyzes the synthesis of prostaglandin E2 and prostaglandin I2 the predominant prostaglandins associated with inflammation. Both markedly enhance edema formation and leukocyte infiltration in the inflamed area. Answers and A This enzyme is involved in tissue necrosis. D This enzyme is involved in liver disease. C, E, F See correct answer explanation.",
+   "source": "Pharmacology VII-2 Q16",
+   "topic": "Easy",
+   "topic_n": 14
+  },
+  {
+   "question": "A 13-year-old girl complained to her physician of painful menstruation accompanied by headache and nausea. She underwent menarche 6 months earlier, and dysmenorrhea had occurred since then. The physician prescribed ibuprofen to be started on the day prior to the expected start of menstruation. Inhibition of synthesis of which of the following endogenous compounds most likely mediated the therapeutic effect of ibuprofen in the patient’s disorder?",
+   "choices": [
+    "Epinephrine",
+    "Prostaglandin E2",
+    "Nitric oxide",
+    "Magnesium",
+    "Prostaglandin I2"
+   ],
+   "answer": 1,
+   "explanation": "Dysmenorrhea is a common disorder that usually starts during adolescence and tends to decrease with age and after pregnancy. Prostaglandin E2 produced by the secretory endometrium, has a powerful contracting effect on uterine smooth muscle and is most likely the primary factor responsible for dysmenorrhea. Ibuprofen is a nonsteroidal antiinflammatory drug from the propionic acid class. By blocking prostaglandin biosynthesis, these drugs can relieve dysmenorrhea. A, B, D, E All of these compounds are uterine relaxants, not stimulators of contraction.",
+   "source": "Pharmacology VII-2 Q17",
+   "topic": "Easy",
+   "topic_n": 15
+  },
+  {
+   "question": "A 64-year-old woman recently diagnosed with osteoarthritis started treatment with ibuprofen and misoprostol. Which of the following adverse effects is most likely expected from misoprostol treatment?",
+   "choices": [
+    "Increased intraocular pressure",
+    "Diarrhea",
+    "Hypertension",
+    "Peptic ulcer",
+    "Drowsiness"
+   ],
+   "answer": 1,
+   "explanation": "Misoprostol is a prostaglandin E1 analogue approved for prevention of nonsteroidal antiinflammatory drug-induced peptic ulcers. Diarrhea is the most common adverse effect of the drug (up to 30% of patients) and is the main reason for its infrequent clinical use. A-C, E See correct answer explanation.",
+   "source": "Pharmacology VII-2 Q18",
+   "topic": "Easy",
+   "topic_n": 16
+  },
+  {
+   "question": "A 54-year-old man complained to his physician that the alprostadil he was using before intercourse was able to improve his erectile dysfunction but caused penile pain. Which of the following actions most likely mediated the adverse effect of the drug?",
+   "choices": [
+    "Increased sensitivity of the brain periaqueductal area",
+    "Lowering threshold of nociceptive afferent neurons",
+    "Increased sensitivity of the frontal cortex",
+    "Sensitization of substantia gelatinosa in the spinal cord",
+    "Decreased firing of corticospinal projection to the dorsal horn"
+   ],
+   "answer": 1,
+   "explanation": "When alprostadil, a synthetic prostaglandin E1, is used intraurethrally to improve erectile dysfunction, penile pain is the most frequent adverse effect. The mechanism of this effect is most likely related to the algesic action of prostaglandins. These agents can lower the threshold of nociceptive afferent neurons, facilitating pain transmission to the spinal cord. A-C, E All of these are actions in the central nervous system (CNS). Prostaglandins have very short half-lives and do not reach the CNS when administered peripherally.",
+   "source": "Pharmacology VII-2 Q19",
+   "topic": "Easy",
+   "topic_n": 17
+  },
+  {
+   "question": "A 59-year-old woman complained to her physician of persistent heartburn. She had been taking ibuprofen for osteoarthritis of the right hip for the past 2 months. She refused to stop the medication, which she said was very good for her pain. The physician prescribed another drug, to be taken together with ibuprofen, to prevent peptic ulcer formation. Which of the following actions most likely contributed to the preventive effect of the prescribed drug?",
+   "choices": [
+    "Binding to necrotic ulcer tissue, acting as a barrier for acid and pepsin",
+    "Bactericidal effect against Helicobacter pylori",
+    "Blockade of gastrin receptors on gastric parietal cells",
+    "Blockade of muscarinic M3 receptors on gastric parietal cells",
+    "Stimulation of bicarbonate and mucus secretion by superficial epithelial cells"
+   ],
+   "answer": 4,
+   "explanation": "The patient’s history and symptoms suggest that she was at risk of nonsteroidal antiinflammatory drug (NSAID)-induced ulcer. The prevalence of endoscopically confirmed peptic ulcer in NSAID users is 15 to 30% in the United States. When peptic ulcers develop in patients taking NSAIDs, the preferred approach is to stop the NSAID and to give an antiulcer drug, usually a proton pump inhibitor or a histamine H2 antagonist. Prophylactic therapy should be considered for patients who are unable to discontinue NSAID therapy, as in this case. Misoprostol, a synthetic analogue of prostaglandin E1, is the drug most often prescribed, as it is able to prevent (but not to treat) NSAID-induced ulcers. This preventive effect is most likely due to the following mechanisms: At low doses, misoprostol activates prostaglandin receptors on superficial epithelial cells of the stomach, increasing bicarbonate and mucus secretion (the so-called cytoprotective effect). At higher doses, it activates prostaglandin receptors on parietal cells of the stomach, decreasing gastric acid secretion (most likely the main mechanism). A These are the mechanisms of action of sucralfate or of bismuth compounds. These drugs are much less effective than misoprostol when the ulcer is secondary to chronic ingestion of NSAIDs. B This is the mechanism of action of antimuscarinic drugs. These drugs are no longer used as antiulcer agents. C Gastrin receptor blockers are not yet available. E Antibiotic drugs are not used in NSAID-induced peptic ulcer unless there is evidence of Helicobacter pylori infection.",
+   "source": "Pharmacology VII-2 Q20",
+   "topic": "Medium",
+   "topic_n": 3
+  }
+ ]
+}

@@ -1,0 +1,499 @@
+{
+ "questions": [
+  {
+   "question": "This drug can induce osteoclast apoptosis.",
+   "choices": [
+    "Alendronate",
+    "Paricalcitol",
+    "Calcium",
+    "Calcipotriene",
+    "Calcitonin",
+    "Cinacalcet",
+    "Teriparatide",
+    "Fluoride",
+    "Sevelamer",
+    "Denosumab",
+    "Calcitriol",
+    "Cholecalciferol"
+   ],
+   "answer": 0,
+   "explanation": "Matching item. The printed answer key gives A — Alendronate.",
+   "source": "Pharmacology V-5 Q1",
+   "topic": "Easy",
+   "topic_n": 1
+  },
+  {
+   "question": "This drug is a recombinant human parathyroid hormone (1-34).",
+   "choices": [
+    "Alendronate",
+    "Calcium",
+    "Cholecalciferol",
+    "Calcipotriene",
+    "Calcitriol",
+    "Fluoride",
+    "Cinacalcet",
+    "Teriparatide",
+    "Sevelamer",
+    "Denosumab",
+    "Calcitonin",
+    "Paricalcitol"
+   ],
+   "answer": 7,
+   "explanation": "Matching item. The printed answer key gives K — Teriparatide.",
+   "source": "Pharmacology V-5 Q2",
+   "topic": "Easy",
+   "topic_n": 2
+  },
+  {
+   "question": "This drug activates a calcium-sensing receptor on the parathyroid glands.",
+   "choices": [
+    "Denosumab",
+    "Calcium",
+    "Fluoride",
+    "Teriparatide",
+    "Paricalcitol",
+    "Sevelamer",
+    "Alendronate",
+    "Cholecalciferol",
+    "Calcipotriene",
+    "Calcitriol",
+    "Cinacalcet",
+    "Calcitonin"
+   ],
+   "answer": 10,
+   "explanation": "Matching item. The printed answer key gives G — Cinacalcet.",
+   "source": "Pharmacology V-5 Q3",
+   "topic": "Easy",
+   "topic_n": 3
+  },
+  {
+   "question": "This drug can inhibit the gene expression of parathyroid hormone.",
+   "choices": [
+    "Sevelamer",
+    "Calcitonin",
+    "Denosumab",
+    "Paricalcitol",
+    "Cinacalcet",
+    "Calcium",
+    "Teriparatide",
+    "Alendronate",
+    "Fluoride",
+    "Calcitriol",
+    "Cholecalciferol",
+    "Calcipotriene"
+   ],
+   "answer": 9,
+   "explanation": "Matching item. The printed answer key gives D — Calcitriol.",
+   "source": "Pharmacology V-5 Q4",
+   "topic": "Easy",
+   "topic_n": 4
+  },
+  {
+   "question": "This hormone is secreted by the parafollicular cells of the thyroid gland.",
+   "choices": [
+    "Paricalcitol",
+    "Teriparatide",
+    "Cinacalcet",
+    "Calcium",
+    "Alendronate",
+    "Calcipotriene",
+    "Calcitonin",
+    "Calcitriol",
+    "Fluoride",
+    "Denosumab",
+    "Cholecalciferol",
+    "Sevelamer"
+   ],
+   "answer": 6,
+   "explanation": "Matching item. The printed answer key gives C — Calcitonin.",
+   "source": "Pharmacology V-5 Q5",
+   "topic": "Easy",
+   "topic_n": 5
+  },
+  {
+   "question": "A 61-year-old woman, suffering from severe osteoporosis, sustained a tibial fracture, and her physician decided to add teriparatide to the current therapy. Which of the following actions most likely mediated the therapeutic effect of teriparatide in this patient?",
+   "choices": [
+    "Inhibition of renal phosphate excretion",
+    "Stimulation of bone collagen synthesis",
+    "Stimulation of osteoblast activity",
+    "Inhibition of renal synthesis of calcitriol",
+    "Inhibition of osteoclast activity"
+   ],
+   "answer": 2,
+   "explanation": "Teriparatide is a recombinant analogue of parathyroid hormone (PTH) with physiological actions equal to those of the natural hormone. PTH targets osteoblasts, with the net effect on bone being dose-dependent. The effect of excess of PTH is a net increase in bone resorption (removal of bone mineral and matrix). However, intermittent low doses of PTH increase bone formation by increasing osteoblast number and activity without stimulating bone resorption. This has led to the approval of teriparatide for the treatment of osteoporosis. It is currently recommended that teriparatide be reserved for those who have proven refractory to other therapies and/or patients with a high risk of fractures, as in this case. B, C, E PTH induces effects opposite to those listed. D Collagen synthesis is not involved in bone turnover of mature bone.",
+   "source": "Pharmacology V-5 Q6",
+   "topic": "Easy",
+   "topic_n": 6
+  },
+  {
+   "question": "A 76-year-old man complained to his physician of muscle aches. Further exams led to the diagnosis of vitamin D deficiency due to inadequate intake. A vitamin D supplementation was prescribed. Which of the following would be the most appropriate pharmacotherapy for this patient?",
+   "choices": [
+    "Calcitonin",
+    "Teriparatide",
+    "Calcitriol",
+    "Cholecalciferol",
+    "Cinacalcet"
+   ],
+   "answer": 3,
+   "explanation": "Cholecalciferol (vitamin D3), which is a prodrug, is the most appropriate therapy for vitamin D deficiency in anyone with normal renal function. Cholecalciferol is metabolized to 25(OH)D by the liver and circulates bound to vitamin D-binding protein, making it available for conversion to calcitriol. For the regulation of calcium homeostasis, the renal conversion of calcitriol plays a major role in stimulating intestinal calcium absorption, thus adding calcium to the system. Conversion in other tissues contributes to noncalcemic effects of calcitriol, such as muscle strength and support of the innate immune system. B Administration of calcitriol as a drug is reserved for cases where the body is unable to make calcitriol, as in renal failure, because of the risk of hypercalcemia. C-E None of these drugs would address vitamin D deficiency.",
+   "source": "Pharmacology V-5 Q7",
+   "topic": "Easy",
+   "topic_n": 7
+  },
+  {
+   "question": "A 49-year-old man suffering from chronic renal failure was admitted to the hospital because of a hip fracture. Further exams revealed a diffuse demineralization of bone. An appropriate therapy was started that included calcitriol. Which of the following actions most likely mediated the therapeutic efficacy of the drug in this patient?",
+   "choices": [
+    "Decreased renal phosphate reabsorption",
+    "Stimulation of renal α-hydroxylase",
+    "Stimulation of liver hydroxylation of cholecalciferol",
+    "Decreased intestinal phosphate absorption",
+    "Increased intestinal calcium absorption"
+   ],
+   "answer": 4,
+   "explanation": "Intestinal calcium absorption is potently augmented by calcitriol, and this is most likely the main action that mediates the therapeutic efficacy of calciferols in osteomalacia. There is little evidence that calcitriol directly promotes bone mineralization. Rather, it is the increased serum calcium level that indirectly promotes bone mineralization by decreasing parathyroid hormone-mediated bone resorption. A-C, E See correct answer explanation.",
+   "source": "Pharmacology V-5 Q8",
+   "topic": "Easy",
+   "topic_n": 8
+  },
+  {
+   "question": "A 66-year-old woman suffering from osteoporosis and hypertension has been treated for the past year with raloxifene and calcium carbonate for osteoporosis and with hydrochlorothiazide for hypertension. Despite the therapy, a recent bone mineral density test showed a significant decrease in bone mass. Which of the following would be an appropriate change in the treatment plan of this patient?",
+   "choices": [
+    "Add calcitonin to the current regimen.",
+    "Substitute raloxifene with ethinyl estradiol.",
+    "Substitute hydrochlorothiazide with propranolol.",
+    "Add alendronate to the current regimen.",
+    "Add prednisone to the current regimen.",
+    "Increase the daily dose of calcium carbonate."
+   ],
+   "answer": 3,
+   "explanation": "Bisphosphonates are first-line therapy for osteoporosis, and adding alendronate to the current regimen is a rational choice, as the ongoing therapy failed to prevent the decrease in bone mass. A This option is irrational. Hydrochlorothiazide is useful in osteoporosis because it decreases the renal excretion of calcium. B Selective estrogen receptor modulators are today preferred over estrogens for the therapy of osteoporosis because they do not increase the risk of breast and endometrial cancer. C Calcitonin is much less effective than bisphosphonates in the therapy of osteoporosis. D The dose of calcium taken by the patient is the standard for calcium supplementation in postmenopausal women. It is unlikely that a larger dose would add benefit. E Glucocorticoids are contraindicated in osteoporosis because they counteract the effects of vitamin D to stimulate intestinal calcium absorption.",
+   "source": "Pharmacology V-5 Q9",
+   "topic": "Easy",
+   "topic_n": 9
+  },
+  {
+   "question": "A 50-year-old woman recently hospitalized because of worsening of her disease started a treatment that included sevelamer. Which of the following was most likely the clinical condition for which the drug was prescribed?",
+   "choices": [
+    "Chronic heart failure",
+    "Crohn disease",
+    "Liver cirrhosis",
+    "End-stage renal disease",
+    "Lupus erythematosus"
+   ],
+   "answer": 3,
+   "explanation": "The patient was most likely suffering from end-stage renal disease, a condition commonly associated with hyperphosphatemia. Sevelamer is a nonabsorbable, calcium- and aluminum-free, polymeric amine that binds dietary phosphate within the gastrointestinal tract, thereby preventing phosphate absorption. It has been approved for the management of hyperphosphatemia in patients with end-stage renal disease. A-D These diseases are not associated with hyperphosphatemia.",
+   "source": "Pharmacology V-5 Q10",
+   "topic": "Easy",
+   "topic_n": 10
+  },
+  {
+   "question": "A 7-year-old Black boy was brought to the emergency department after he fell while playing in the yard. Physical examination revealed only minor skin scratches, but an x-ray showed two rib fractures, clearly demineralized bone, and widening and cupping of metaphyses with exaggerated normal concavity and irregular calcification. Pertinent serum values on admission were calcium 8.3 mg/dL (normal 8.5- 10.5 mg/dL), phosphate 2.2 mg/dL (normal 3.0-4.5 mg/dL), and a two-fold increase in alkaline phosphatase. Which of the following drugs would be most appropriate for this boy?",
+   "choices": [
+    "Cinacalcet",
+    "Calcitonin",
+    "Teriparatide",
+    "Calcitriol",
+    "Alendronate",
+    "Cholecalciferol"
+   ],
+   "answer": 5,
+   "explanation": "The patient's signs and symptoms, together with the lab results, suggest that he was suffering from rickets, a disease that can affect children. Dark-skinned are at greater risk, because skin pigmentation blocks ultraviolet irradiation needed for synthesis of vitamin D. Rickets is due to vitamin D deficiency, which in turn causes deficient mineralization of epiphyseal cartilage and osteoid matrix. Vitamin D deficiency tends to cause hypocalcemia. When this occurs, parathyroid hormone (PTH) production is increased. Thus, the serum level of calcium is restored to nearly normal, but hypophosphatemia persists (due to PTH-mediated increase in renal secretion of phosphate), and mineralization of bone is impaired. The elevated alkaline phosphatase reflects the increased osteoblast activity. Cholecalciferol (vitamin D3) supplementation with adequate calcium and phosphate intake is the standard therapy for rickets. C Although calcitriol is the active form of vitamin D3, it is not used for rickets, as its action is short, and it can cause hypercalcemia in about 30% of patients. With adequate cholecalciferol, the body can regulate the production of appropriate levels of calcitriol. B, D-F See correct answer explanation.",
+   "source": "Pharmacology V-5 Q11",
+   "topic": "Easy",
+   "topic_n": 11
+  },
+  {
+   "question": "A 4-year-old boy recently diagnosed with rickets started a treatment with cholecalciferol. Which of the following molecular actions most likely mediated the therapeutic effect of the drug in the patient's disease?",
+   "choices": [
+    "Calcitriol-activated vitamin D receptor complex binds to RNA.",
+    "Cholecalciferol-activated vitamin D receptor complex binds to RNA.",
+    "Calcitriol-activated vitamin D receptor complex binds to DNA.",
+    "Ergocalciferol-activated vitamin D receptor complex binds to RNA.",
+    "Cholecalciferol-activated vitamin D receptor complex binds to DNA.",
+    "Ergocalciferol-activated vitamin D receptor complex binds to DNA."
+   ],
+   "answer": 2,
+   "explanation": "Both cholecalciferol (vitamin D3) and ergocalciferol (vitamin D2) are prodrugs and need to be transformed in the body into active metabolites. The primary active metabolite of these vitamins is calcitriol, which binds to vitamin D receptors within target cells. The calcitriol-vitamin D receptor complex binds to specific recognition sites on DNA to modify gene transcription. A-C, E, F See correct answer explanation.",
+   "source": "Pharmacology V-5 Q12",
+   "topic": "Easy",
+   "topic_n": 12
+  },
+  {
+   "question": "A 52-year-old woman complained to her physician of a persistent gastric pain every time she took a prescribed drug. The woman, recently diagnosed with severe osteoporosis, had started a therapy with oral alendronate 1 week earlier. The physician suspended alendronate and prescribed intravenous administration of zoledronate, explaining to the patient that a single injection would be effective for at least 5 to 6 months. Zoledronate has a half-life of about 7 days. Which of the following best explains the reason for the exceptionally long efficacy of the drug?",
+   "choices": [
+    "Alteration of gene expression of bone osteoblasts",
+    "Irreversible binding to plasma proteins",
+    "Incorporation into bone hydroxyapatite crystals",
+    "Very slow biotransformation to active intermediates",
+    "Repeated enterohepatic cycling of the drug"
+   ],
+   "answer": 2,
+   "explanation": "Bisphosphonates in bones are often retained for months or years, and a single injection of zoledronate can be effective for up to 1 year in the treatment of osteoporosis. The reason for this exceptionally long duration of action is because these drugs are incorporated into the hydroxyapatite crystals of bone in place of pyrophosphate, thus altering the structure of the crystal. When bisphosphonates are released from resorbed bone mineral, they cause apoptosis of the osteoclasts, thus reducing the rate of bone resorption and decreasing the net bone loss that characterizes osteoporosis. A, C-E See correct answer explanation.",
+   "source": "Pharmacology V-5 Q13",
+   "topic": "Easy",
+   "topic_n": 13
+  },
+  {
+   "question": "A 63-year-old man was admitted to the hospital because of altered mental status and dehydration. Six months earlier, the patient had undergone radical prostatectomy for prostate cancer. Physical examination showed a dehydrated man with fluctuating consciousness level and disoriented to time and place. Pertinent serum values on admission were calcium 16.5 mg/L (normal 8.5-10.5 mg/L), alkaline phosphatase 304 U/L (normal 20-90 U/L). Which of the following drugs should be included in the therapeutic management of this patient?",
+   "choices": [
+    "Hydrochlorothiazide",
+    "Fludrocortisone",
+    "Mannitol",
+    "Cinacalcet",
+    "Sodium phosphate",
+    "Pamidronate"
+   ],
+   "answer": 5,
+   "explanation": "The patient's signs and symptoms, along with the elevated alkaline phosphatase, indicated that he was most likely suffering from hypercalcemia due to metastatic prostate cancer. In fact, hyperparathyroidism and cancer, with or without metastases, are the two major causes of hypercalcemia, accounting for over 90% of cases. The disorder occurs in 10 to 20% of all adults with cancer. Rehydration with saline and diuresis with furosemide are the first step in the treatment of severe hypercalcemia. Bisphosphonates such as pamidronate have been approved for the acute treatment of hypercalcemia of malignancy. Because they have a slow onset of activity, calcitonin is frequently given concomitantly. A Intravenous (IV) sodium phosphate is probably the fastest way to lower serum calcium level, but it is a hazardous procedure because of the risk involved (sudden hypocalcemia, ectopic calcification, hypotension, and acute renal failure). In light of satisfactory responses to other agents, IV sodium phosphate is used only after other methods of treatment have failed to control hypercalcemia. B Hydrochlorothiazide increases, not decreases, serum calcium level. D Osmotic diuretics such as mannitol are absolutely contraindicated in dehydrated patients. E Fludrocortisone is used only when dehydration is caused by adrenal insufficiency. F Cinacalcet decreases parathyroid hormone (PTH) secretion by activating calcium-sensing receptors in the parathyroid gland. It can decrease PTH-mediated hypercalcemia but not cancer-mediated hypercalcemia. The reason is that the main humoral factor associated with cancer-related hypercalcemia is PTH-related peptide, whose production is not under the control of calcium-sensing receptors.",
+   "source": "Pharmacology V-5 Q14",
+   "topic": "Medium",
+   "topic_n": 1
+  },
+  {
+   "question": "A 46-year-old man complained to his physician of muscle weakness, fatigue, constipation, nausea, and polyuria. Past medical history was unremarkable. Subsequent lab exams showed the following serum values: calcium 14.5 mg/dL (normal 8.5-10.5 mg/dL), phosphate 2.1 mg/dL (normal 3.0-4.5 mg/dL), and immunoreactive parathyroid hormone 142 pg/mL (normal 11-54 pg/mL). Which of the following drugs would be appropriate to include in the therapeutic management of this patient?",
+   "choices": [
+    "Teriparatide",
+    "Calcitriol",
+    "Calcitonin",
+    "Hydrochlorothiazide",
+    "Sodium fluoride",
+    "Triamterene"
+   ],
+   "answer": 2,
+   "explanation": "The patient's symptoms, together with the high calcium, low phosphorus, and high parathyroid hormone (PTH) levels, are consistent with the diagnosis of primary hyperparathyroidism. In fact, PTH values are elevated in more than 90% of parathyroid-related causes of hypercalcemia, undetectable or low in malignancy-related hypercalcemia, and undetectable or normal in high bone turnover causes of hypercalcemia. The approach to medical treatment of hypercalcemia varies with its severity. Mild hypercalcemia (< 12 mg/dL) can be managed by hydration. More severe hypercalcemia (> 13-14 mg/dL) must be managed aggressively because, above those levels, it can be life-threatening. Therefore, the more severe the hypercalcemia, the greater the number of combined therapies that should be used. The mainstay of treatment in patients with normal renal function is to increase renal calcium excretion with intravenous saline and furosemide, which inhibits calcium reabsorption in the thick ascending limb of Henle. Bisphosphonates, which are long-lasting inhibitors of bone resorption, have become first-line agents for the antiresorptive treatment of hypercalcemia. However, they have a slow onset of action (1 or 2 days). Calcitonin has a rapid, albeit short-lived, blockade of bone resorption. An effect on serum calcium is observed within 4 to 6 hours and lasts 6 to 10 hours. Therefore, an addition of both calcitonin and pamidronate is the standard treatment. A Calcitriol is contraindicated in this case because it tends to increase serum calcium level; also, calcitriol levels may be elevated in this patient secondary to the hyperparathyroidism. B Thiazides are contraindicated because they enhance calcium reabsorption in the distal convolute tubule. C Fluoride stimulates bone formation, but the doses that cause hypocalcemia are toxic, and the drug is not used for this purpose. D Potassium-sparing diuretics have low efficacy and are contraindicated in this case, as they tend to enhance calcium reabsorption in the distal convolute tubule. E Teriparatide is an analogue of parathyroid hormone and therefore is contraindicated in a patient with hyperparathyroidism.",
+   "source": "Pharmacology V-5 Q15",
+   "topic": "Medium",
+   "topic_n": 2
+  },
+  {
+   "question": "A 51-year-old woman, recently diagnosed with Paget disease of bone, had been receiving alendronate for 1 week, but the drug had to be suspended because of a persistent abdominal pain. The physician decided to replace the alendronate with calcitonin. Which of the following actions most likely mediated the therapeutic effect of calcitonin in the patient's disease?",
+   "choices": [
+    "Stimulation of renal phosphate reabsorption",
+    "Inhibition of osteoclast activity",
+    "Stimulation of osteoblast activity",
+    "Stimulation of renal calcium reabsorption",
+    "Inhibition of intestinal calcium absorption"
+   ],
+   "answer": 1,
+   "explanation": "Calcitonin is a hormone secreted by the parafollicular cells of the thyroid. The principal action of the hormone is a direct inhibition of osteoclastic bone resorption. This action is mediated by the activation of calcitonin receptors located on osteoclasts, which in turn causes a profound decrease in the ruffled border of these cells, thereby inhibiting bone resorption. Calcitonin is not a first-line agent in the treatment of Paget disease of bone, but it can be used as an alternative drug when bisphosphonates are not tolerated, as in this case. B Although calcitonin may decrease apoptosis of osteoblasts, Paget disease is mainly characterized by uncontrolled osteoclastic bone resorption. Therefore, inhibition of osteoclast activity, not stimulation of osteoblast activity, is the main action that mediates the therapeutic effect of the drug in Paget disease. C, D Calcitonin causes actions opposite to those listed. E Calcitonin does not directly affect intestinal calcium absorption.",
+   "source": "Pharmacology V-5 Q16",
+   "topic": "Easy",
+   "topic_n": 14
+  },
+  {
+   "question": "A 43-year-old man with a 25-year history of type 1 diabetes was evaluated at a regular clinic visit. Pertinent serum values determined were glucose 190 mg/dL, calcium 7.3 mg/dL (normal 8.5-10.5 mg/dL), phosphate 5.1 mg/dL (normal 3.0- 4.5 mg/dL), creatinine 3.9 mg/dL. An x-ray exam revealed density changes in the bones that were consistent with renal osteodystrophy. Which of the following drugs should be included in the treatment plan for this patient?",
+   "choices": [
+    "Cinacalcet",
+    "Calcitonin",
+    "Alendronate",
+    "Teriparatide",
+    "Calcitriol"
+   ],
+   "answer": 4,
+   "explanation": "The patient's high creatinine level points out that he was most likely suffering from chronic renal failure, presumably due to diabetic nephropathy (the most common cause of renal failure in the United States). Chronic renal failure can cause renal osteodystrophy, a term used to describe collectively all the skeletal changes in chronic renal disease. Renal osteodystrophy is due to several factors, including loss of calcitriol production because the damaged kidney no longer contains sufficient renal α-hydroxylase to convert 25(OH)D into calcitriol. This contributes to secondary hyperparathyroidism due to the resulting hypocalcemia (also, calcitriol suppresses parathyroid hormone gene expression). The combination of hyperparathyroidism and calcitriol deficiency leads to the development of renal osteodystrophy, which has features of both osteomalacia and osteoporosis. In chronic renal failure, calcitriol can help alleviate both the hypocalcemia and the bone disease. A, B, D, E See correct answer explanation.",
+   "source": "Pharmacology V-5 Q17",
+   "topic": "Medium",
+   "topic_n": 3
+  },
+  {
+   "question": "A 59-year-old woman with a long history of chronic kidney disease was recently diagnosed with secondary hyperparathyroidism and started a treatment that included cinacalcet. Which of the following molecular actions most likely mediated the therapeutic effect of the drug in the patient's disease?",
+   "choices": [
+    "Activation of parathyroid hormone (PTH) receptors",
+    "Blockade of PTH receptors",
+    "Activation of calcium-sensing receptors",
+    "Blockade of calcium-sensing receptors",
+    "Activation of calcitriol receptors",
+    "Blockade of calcitriol receptors"
+   ],
+   "answer": 2,
+   "explanation": "Cinacalcet is the first representative of a new class of drugs that activate the calcium-sensing receptor. This receptor is widely distributed but has its greatest concentration in the parathyroid gland. By activating this receptor cinacalcet inhibits parathyroid hormone (PTH) secretion. Cinacalcet lowers serum PTH levels in patients with normal or reduced renal function. The drug is approved for the treatment of secondary hyperparathyroidism due to chronic kidney disease and for patients with hypercalcemia associated with parathyroid carcinoma. A, B, D, E See correct answer explanation.",
+   "source": "Pharmacology V-5 Q18",
+   "topic": "Easy",
+   "topic_n": 15
+  },
+  {
+   "question": "A 54-year-old homeless man with a 15-year history of alcoholism was brought to the hospital by the police, who had found him lying on the street. Physical examination showed a disheveled, confused, and cachectic man with prominent veins on a very tense abdomen. Pertinent serum values on admission were calcium 5.5 mg/L (normal 8.5-10.5) and alanine aminotransferase 300 U/L (normal 8-35). An x-ray disclosed diffuse demineralization of bones. An appropriate therapy was ordered. Which of the following drugs should be included in the therapeutic management of this patient?",
+   "choices": [
+    "Calcipotriene",
+    "Alendronate",
+    "Calcitriol",
+    "Teriparatide",
+    "Cholecalciferol"
+   ],
+   "answer": 2,
+   "explanation": "The symptoms, the lab results, and the history of the patient indicate that he was most likely suffering from alcoholic cirrhosis. The bone demineralization and low calcium levels suggest that liver disease caused an impaired synthesis of 25(OH)D with the final outcome of osteomalacia. Calcitriol is the most effective agent for hypocalcemia in a patient with impaired liver function because it bypasses the impaired synthesis of the precursor essential for production of calcitriol. Clinically, severe calcitriol deficiency as a consequence of liver disease is rare because the degree of hepatic destruction necessary to impair 25-hydroxylation is incompatible with long-term survival. However, it is not rare when the patient also has vitamin D deficiency, which frequently occurs in homeless people because of a poor diet. A Patients with hypocalcemia already have an increased production of parathyroid hormone (PTH). Teriparatide, a PTH analogue, can add very little to the therapy. B Vitamin D3 would be only marginally effective because of the impairment of liver 25-hydroxylation. C Bisphosphonates are absolutely contraindicated in patients with hypocalcemia. E Calcipotriene, a vitamin D analogue, is used only locally.",
+   "source": "Pharmacology V-5 Q19",
+   "topic": "Medium",
+   "topic_n": 4
+  },
+  {
+   "question": "A 64-year-old woman complained to her physician of persistent back pain for the past 3 days. Dual-energy x-ray absorptiometry showed diffuse osteoporosis of the spine and hips. The physician prescribed calcium and vitamin D supplementation and alendronate, one tablet daily. Which of the following actions most likely mediated the therapeutic effect of alendronate in the patient's disease?",
+   "choices": [
+    "Stimulation of intestinal calcium absorption",
+    "Stimulation of osteoblast activity",
+    "Inhibition of renal calcium excretion",
+    "Inhibition of renal synthesis of calcitriol",
+    "Inhibition of osteoclast activity"
+   ],
+   "answer": 4,
+   "explanation": "Bisphosphonates are drugs of choice in osteoporosis. They are incorporated into the bone mineral and inhibit the activity of osteoclasts in a dose-dependent manner. The mechanism of this inhibition is still incompletely understood and likely multifactorial. Amino bisphosphonates such as alendronate inhibit an enzyme, farnesyl pyrophosphate synthase, in the mevalonate pathway that appears to be critical for osteoclast survival. Therefore, promotion of osteoclast apoptosis or death seems an important mechanism of the inhibition of osteoclast activity. A-C, E See correct answer explanation.",
+   "source": "Pharmacology V-5 Q20",
+   "topic": "Easy",
+   "topic_n": 16
+  },
+  {
+   "question": "A 61-year-old woman suffering from osteoporosis had been receiving alendronate and vitamin D supplementation for 2 years. Recent dual-energy x-ray absorptiometry showed a big decrease in bone density. The patient's history was significant for a femur fracture 2 months earlier and a rib fracture 1 month earlier. Which of the following drugs is most likely to increase bone density in this patient?",
+   "choices": [
+    "Paricalcitol",
+    "Pamidronate",
+    "Teriparatide",
+    "Ethinyl estradiol",
+    "Calcitonin"
+   ],
+   "answer": 2,
+   "explanation": "Teriparatide is a recombinant analogue of parathyroid hormone (PTH) with physiological actions equal to those of the natural hormone. PTH exerts both catabolic and anabolic effects on bone. Catabolic effects prevail with chronically elevated PTH; there is a net increase in bone resorption. Anabolic effects prevail with intermittent low doses of PTH: there is a net increase in bone formation (by increasing osteoblast number and activity) without stimulating bone resorption. This has led to the approval of teriparatide for the treatment of osteoporosis. The drug is reserved for advanced osteoporosis when bisphosphonate therapy has failed, extreme bone loss has already occurred, and/or fracture has already occurred, as in this case. Teriparatide is the only currently available therapy that results in net bone deposition. B Estrogens are used for prevention, not for treatment, of osteoporosis only in postmenopausal women who need estrogen treatment for the management of menopausal symptoms. C Because alendronate was not effective, the use of another bisphosphonate would be irrational. Bisphosphonates are considered antiresorptive agents as opposed to bone anabolic agents. D Calcitonin does not consistently decrease hip fracture risk and does not increase bone density. E Paricalcitol is an analogue of calcitriol, used for the treatment of secondary hyperparathyroidism in specific stages of chronic kidney disease.",
+   "source": "Pharmacology V-5 Q21",
+   "topic": "Medium",
+   "topic_n": 5
+  },
+  {
+   "question": "A 56-year-old woman complained to her physician of frequent heartburn and pain in the substernal region. The woman had started an appropriate therapy for osteoporosis 2 weeks earlier. Which of the following drugs most likely caused the patient's symptoms?",
+   "choices": [
+    "Raloxifene",
+    "Alendronate",
+    "Prednisone",
+    "Cholecalciferol",
+    "Teriparatide",
+    "Calcitonin"
+   ],
+   "answer": 1,
+   "explanation": "When administered orally, bisphosphonates (mainly alendronate) frequently cause esophageal and gastric irritation. Because of this, patients are instructed to take the medication early in the morning on an empty stomach with a large glass of water and then to stay quiet and upright for 30 minutes to reduce the chance of esophageal irritation. A Glucocorticoids can cause gastric irritation, but they are contraindicated in osteoporosis. B-E These drugs are used for osteoporosis, but their risk of esophageal and gastric irritation is very low.",
+   "source": "Pharmacology V-5 Q22",
+   "topic": "Easy",
+   "topic_n": 17
+  },
+  {
+   "question": "A 57-year-old man complained to his physician of occasional bone pain, which was accentuated at night, and decreasing auditory acuity. The patient had a long history of gastroesophageal reflux disease currently treated with omeprazole. Physical examination revealed skull enlargement, a hobbling gait, and anterolateral bowing of the legs with warmth and periosteal tenderness. Plain x-rays showed increased bone density, cortical thickening, and bony enlargement. Laboratory results showed alkaline phosphatase of 230 IU/L (normal 20-90 IU/L). Which of the following drugs would be appropriate for this patient?",
+   "choices": [
+    "Oral raloxifene",
+    "Oral cinacalcet",
+    "Oral alendronate",
+    "Parenteral calcitriol",
+    "Parenteral calcitonin",
+    "Parenteral teriparatide"
+   ],
+   "answer": 4,
+   "explanation": "The patient's signs and symptoms indicate that he was most likely affected by Paget disease of bone, a chronic disorder of the adult skeleton characterized by uncontrolled osteoclastic bone resorption with secondary increase in poorly organized bone formation. The disease is fairly common, affecting about 3% of adults over age 40. It is often asymptomatic and usually progresses slowly. Pharmacological therapy is indicated (even in the absence of symptoms) when alkaline phosphatase is more than 2 to 3 times the normal levels, as in this case. Bisphosphonates are first-line agents for this disease. Calcitonin is an alternative to bisphosphonates when these drugs are contraindicated, as in this case (see answer explanation B). B Oral bisphosphonates are relatively contraindicated in patients with gastrointestinal reflux disease, esophagitis, gastritis, and peptic ulcer, as they can cause esophageal and gastric irritation. C-F These drugs are useless in Paget disease.",
+   "source": "Pharmacology V-5 Q23",
+   "topic": "Hard",
+   "topic_n": 1
+  },
+  {
+   "question": "A 49-year-old woman was admitted to the hospital because of tetanic muscle spasms and paresthesias following a recent thyroidectomy. Which of the following drugs given intravenously could rapidly reverse the patient's symptoms?",
+   "choices": [
+    "Alendronate",
+    "Hydrocortisone",
+    "Vitamin D",
+    "Sodium phosphate",
+    "Calcium gluconate",
+    "Calcitonin"
+   ],
+   "answer": 4,
+   "explanation": "The symptoms and history of the patient indicate that she was suffering from severe hypocalcemia secondary to hypoparathyroidism, likely due to accidental damage of parathyroid glands or their circulation during thyroidectomy. The treatment of severe hypocalcemia can be best accomplished with slow infusion of calcium gluconate (the preferred calcium salt for intravenous therapy because it is less irritating to the vein). A Vitamin D can increase calcium levels, but its onset of action is too slow for an emergency therapy. B, C, E, F All of these drugs are actually contraindicated because they decrease serum calcium levels.",
+   "source": "Pharmacology V-5 Q24",
+   "topic": "Easy",
+   "topic_n": 18
+  },
+  {
+   "question": "A 69-year-old woman was admitted to the emergency department with prominent skeletal muscle weakness, drowsiness, emotional lability, confusion, dizziness, nausea, and constipation. The patient's medications on admission included losartan and furosemide for chronic heart failure, teriparatide for osteoporosis, and timolol and dorzolamide for glaucoma. Lab tests revealed a serum calcium level of 14 mg/dL (normal 8.5-10.5 mg/dL). Which of the drugs taken by the patients most likely caused her hypercalcemia?",
+   "choices": [
+    "Timolol",
+    "Teriparatide",
+    "Losartan",
+    "Furosemide",
+    "Dorzolamide"
+   ],
+   "answer": 1,
+   "explanation": "Teriparatide is a recombinant analogue of parathyroid hormone (PTH) with physiological actions equal to those of the natural hormone. It is used in patients with advanced osteoporosis and previous bone fractures. Although hypercalcemia is not a common adverse effect, the hormone acts like the natural PTH; it increases renal reabsorption of calcium and the efflux of calcium from bone into the serum. Several cases of teriparatide-induced hypercalcemia have been reported in the literature. B Furosemide actually decreases serum calcium levels. A, C, E These drugs do not affect serum calcium levels.",
+   "source": "Pharmacology V-5 Q25",
+   "topic": "Easy",
+   "topic_n": 19
+  },
+  {
+   "question": "A 62-year-old woman suffering from severe osteoporosis started a therapy with teriparatide, a subcutaneous injection daily. Which of the following actions most likely occurred after the administration of this drug?",
+   "choices": [
+    "Increased bone resorption",
+    "Increased renal phosphate reabsorption",
+    "Increased renal calcium reabsorption",
+    "Increased parathyroid hormone secretion",
+    "Decreased renal calcitriol production"
+   ],
+   "answer": 2,
+   "explanation": "Teriparatide is a recombinant analogue of parathyroid hormone (PTH) with physiological actions equal to those of the natural hormone. The drug has been approved for the treatment of osteoporosis. The primary function of PTH is to maintain a constant concentration of Ca2+ and phosphate in the extracellular fluid. The principal processes regulated by the hormone are renal Ca2+ (elevated) and phosphate (decreased) reabsorption and mobilization of bone Ca2+. Administration of teriparatide will transiently increase the renal reabsorption of Ca2+ after each dose. A, C The drug causes actions opposite to those listed. D PTH exerts both catabolic and anabolic effects on bone. Chronically elevated PTH enhances bone resorption by increasing osteoclast activity, but intermittent exposure to low levels of the hormone (as occurs with daily injection of low doses of teriparatide) increases bone formation without causing net bone resorption. E The transient increase in serum Ca2+ after each dose would decrease, not increase, PTH secretion.",
+   "source": "Pharmacology V-5 Q26",
+   "topic": "Medium",
+   "topic_n": 6
+  },
+  {
+   "question": "A 58-year-old woman suffering from increasingly worsening osteoporosis recently had denosumab added to her pharmacotherapeutic regimen. Which of the following actions most likely mediated the therapeutic effect of the drug in the patient's disease?",
+   "choices": [
+    "Inhibition of osteoclast formation",
+    "Enhancement of osteoblast apoptosis",
+    "Enhancement of calcitonin biosynthesis",
+    "Enhancement of intestinal absorption of vitamin D",
+    "Inhibition of parathyroid hormone biosynthesis"
+   ],
+   "answer": 0,
+   "explanation": "Denosumab is a monoclonal antibody with affinity for receptor activator of nuclear factor κB ligand (RANKL). In bone, osteoclast formation is regulated by an osteoclast receptor protein called RANK (receptor activator of nuclear factor κB). The natural ligand of RANK, called RANKL, is a soluble protein produced by osteoblasts. On binding to RANK, RANKL induces osteoclast formation. Denosumab binds and neutralizes RANKL. In this way, osteoclast formation and bone turnover are decreased. The drug is at least as effective as bisphosphonates in inhibiting bone resorption. A, B, D, E None of these processes is affected by denosumab.",
+   "source": "Pharmacology V-5 Q27",
+   "topic": "Easy",
+   "topic_n": 20
+  },
+  {
+   "question": "A 42-year-old man suffering from advanced renal insufficiency was scheduled for kidney transplant. A recent laboratory test showed the following serum values: calcium 6.9 mg/dL (normal 8.5-10.5 mg/dL), phosphate 6.1 mg/dL (normal 3.0-4.5 mg/dL). Which of the following drugs would be appropriate to include in the current pharmacotherapy of this patient?",
+   "choices": [
+    "Sevelamer",
+    "Furosemide",
+    "Alendronate",
+    "Calcitonin",
+    "Cholecalciferol"
+   ],
+   "answer": 0,
+   "explanation": "The laboratory results show a pronounced hyperphosphatemia, most likely due to advanced renal insufficiency. Sevelamer is a nonabsorbable, calcium- and aluminum-free, polymeric amine. The drug binds dietary phosphate within the gastrointestinal tract, thereby preventing phosphate absorption. It has been approved for use as an oral agent for the management of hyperphosphatemia in patients with endstage renal disease, as in this case. A, C, D These drugs tend to reduce serum calcium levels and are therefore contraindicated in hypocalcemia. E Vitamin D is useless in this case because the kidney has lost the ability to transform the drug into the active metabolite.",
+   "source": "Pharmacology V-5 Q28",
+   "topic": "Easy",
+   "topic_n": 21
+  },
+  {
+   "question": "A 49-year-old man presented to his physician complaining of recurring skin lesions most prominent over the scalp, extensor surfaces of the elbows and knees, buttocks, and penis. The man also complained of increasing pain in his left hand and left hip. Physical examination showed oval erythematous plaques covered with thick, silvery, shiny scales. The distal interphalangeal joints of digits 2 and 3 of the left hand were swollen and tender. A diagnosis was made, and a topical drug treatment was prescribed. Which of the following drugs would be appropriate for this patient?",
+   "choices": [
+    "Cinacalcet",
+    "Calcitonin",
+    "Calcipotriene",
+    "Erythromycin",
+    "Fludrocortisone",
+    "Alendronate"
+   ],
+   "answer": 2,
+   "explanation": "The patient's signs and symptoms indicate that he was most likely affected by plaque psoriasis, a common skin disorder that affects 1 to 5% of the population worldwide. The disease is diagnosed most often by clinical appearance and distribution of lesions. Arthritis develops in up to 30% of patients, as in this case (see the swollen and tender joints). Calcitriol analogues were discovered to be effective in the treatment of psoriasis. However, oral calcitriol has limited usefulness due to hypercalcemia associated with the large doses often needed for therapy. Topical calcipotriene, a calcitriol analogue, provides a safe and effective alternative to",
+   "source": "Pharmacology V-5 Q29",
+   "topic": "Medium",
+   "topic_n": 7
+  },
+  {
+   "question": "A 63-year-old man with a long history of chronic kidney disease was admitted to the hospital because of increasing anorexia, nausea and vomiting, and weight loss. Pertinent serum values on admission were creatinine 3.4 mg/dL, calcium 8.6 mg/dL (normal 8.5-10.5 mg/dL), phosphate 4.9 mg/ dL (normal 3.0-4.5 mg/dL). A diagnosis of severe renal insufficiency was made, and an appropriate therapy was started that included cinacalcet. Which of the following was most likely the main site of action of this drug for treating the patient's condition?",
+   "choices": [
+    "Bone",
+    "Kidney",
+    "Small intestine",
+    "Parathyroid glands",
+    "Lung"
+   ],
+   "answer": 3,
+   "explanation": "The patient was diagnosed with severe renal insufficiency. Virtually all patients with renal failure have secondary hyperparathyroidism to some degree. These patients usually have a low-normal calcium level and high phosphate level, as in this case. Alternatively, phosphate levels are usually low when secondary hyperparathyroidism is due to vitamin D deficiency. Cinacalcet is the first representative of a new class of drugs that activate the calcium-sensing receptor. This receptor is widely distributed but has its greatest concentration in the parathyroid gland and in the kidney. By activating the calcium-sensing receptor, cinacalcet inhibits parathyroid hormone secretion. Cinacalcet is approved for the treatment of secondary hyperparathyroidism due to chronic kidney disease. Because the drug can rapidly cause hypocalcemia, it should not be used for patients with a serum calcium level below 8.4 mg/dL. A, B, D, E See correct answer explanation.",
+   "source": "Pharmacology V-5 Q30",
+   "topic": "Easy",
+   "topic_n": 22
+  }
+ ]
+}

@@ -1,0 +1,308 @@
+{
+ "questions": [
+  {
+   "question": "An ester-type local anesthetic with a short duration of action",
+   "choices": [
+    "Tetracaine",
+    "Prilocaine",
+    "Bupivacaine",
+    "Benzocaine",
+    "Lidocaine",
+    "Cocaine",
+    "Procaine"
+   ],
+   "answer": 6,
+   "explanation": "Matching question; the book prints only the answer key for matching sets (key: F).",
+   "source": "Pharmacology III-4 Q1",
+   "topic": "Easy",
+   "topic_n": 1
+  },
+  {
+   "question": "The most cardiotoxic local anesthetic",
+   "choices": [
+    "Cocaine",
+    "Lidocaine",
+    "Tetracaine",
+    "Bupivacaine",
+    "Prilocaine",
+    "Procaine",
+    "Benzocaine"
+   ],
+   "answer": 3,
+   "explanation": "Matching question; the book prints only the answer key for matching sets (key: B).",
+   "source": "Pharmacology III-4 Q2",
+   "topic": "Easy",
+   "topic_n": 2
+  },
+  {
+   "question": "An amide-type local anesthetic with a long duration of action",
+   "choices": [
+    "Procaine",
+    "Tetracaine",
+    "Cocaine",
+    "Bupivacaine",
+    "Benzocaine",
+    "Lidocaine",
+    "Prilocaine"
+   ],
+   "answer": 3,
+   "explanation": "Matching question; the book prints only the answer key for matching sets (key: B).",
+   "source": "Pharmacology III-4 Q3",
+   "topic": "Easy",
+   "topic_n": 3
+  },
+  {
+   "question": "A 27-year-old woman underwent a minor suture procedure for a skin cut on her right leg. A local anesthetic was injected around the wound to provide regional anesthesia. Blockade of which of the following ion channels most likely mediated the pharmacological effect of the drug in the patient?",
+   "choices": [
+    "Activated, ligand-gated Ca* channels",
+    "Inactivated, ligand-gated K* channels",
+    "Inactivated, voltage-gated Na+ channels",
+    "Resting, ligand-gated Na+ channels",
+    "Activated, voltage-gated Ca2+ channels",
+    "Resting, voltage-gated K* channels"
+   ],
+   "answer": 2,
+   "explanation": "Local anesthetics block voltage-gated Na+ channels, preventing depolarization of the membrane and blocking conduction of the action potential. The blockade of Na+ channel is voltage dependent; that is, the affinity of the channel for the local anesthetics is high when the channel is inactivated or activated (i.e., when the membrane potential is less negative) and is low when the channel is in the resting state (i.e., when the membrane potential is more negative). The same rule holds for antiarrhythmic drugs, which act by blocking ion channels. B-F See correct answer explanation.",
+   "source": "Pharmacology III-4 Q4",
+   "topic": "Easy",
+   "topic_n": 4
+  },
+  {
+   "question": "A 43-year-old man underwent an emergency minor arm repair procedure after a car accident. A standard dose of lidocaine was administered near the brachial plexus for peripheral nerve block. Fifteen minutes later, the anesthesia was still incomplete, and another dose of lidocaine was administered. Which of the following adverse effects would most likely occur after the administration?",
+   "choices": [
+    "Convulsions",
+    "Ventricular tachycardia",
+    "Hypertensive crisis",
+    "Drowsiness",
+    "Abdominal colic"
+   ],
+   "answer": 3,
+   "explanation": "Drowsiness is the most frequent complaint that results from central nervous system (CNS) actions of local anesthetics and is usually an early sign of a high plasma level of the drug. CNS effects of lidocaine are common when the drug is administered systemically as an antiarrhythmic or when a sufficient concentration of the drug can reach the general circulation after being given locally for local anesthesia, as was most likely in this case. A, E Lidocaine tends to cause adverse effects opposite to those listed. B This adverse effect is not caused by lidocaine. D This adverse effect can occur only after huge plasma levels of lidocaine.",
+   "source": "Pharmacology III-4 Q5",
+   "topic": "Easy",
+   "topic_n": 5
+  },
+  {
+   "question": "A 53-year-old man was brought to the emergency department after suffering a hand injury that required immediate surgery. Local anesthesia was performed by brachial plexus block. The surgeon estimated that the procedure should last about 3 hours. Which of the following local anesthetics would be most appropriate for this patient?",
+   "choices": [
+    "Tetracaine",
+    "Prilocaine",
+    "Procaine",
+    "Benzocaine",
+    "Cocaine"
+   ],
+   "answer": 0,
+   "explanation": "The duration of local anesthesia after a standard dose of tetracaine injected near the brachial plexus is about 210 to 240 minutes. The drug is therefore preferred for more lengthy surgical procedures. A, B The duration of action of these local anesthetics is less than 2 hours. D, E These drugs are not used for nerve block anesthesia.",
+   "source": "Pharmacology III-4 Q6",
+   "topic": "Medium",
+   "topic_n": 1
+  },
+  {
+   "question": "A 62-year-old m y an was undergoing surgery to remove a i hyperplastic prostate. Spinal anesthesia was performed with lidocaine. The pK, of lidocaine is about 7.8. What fraction of the drug was most likely lipid soluble in the patient’s cerebrospinal fluid (pH = 7.3)?",
+   "choices": [
+    "10% A. : ¥",
+    "90%",
+    "24%",
+    "76%"
+   ],
+   "answer": 2,
+   "explanation": "Because local anesthetics except benzocaine are weak bases, they are mainly ionized when their pK, is higher than the pH of the body fluids, as in this case. The ratio between the nonionized and the ionized form can be determined using the Henderson-Hasselbalch equation. When the difference between the pK, and the pH is +0.5, the percentage of the ionized form is 76%; therefore, the percentage of the nonionized, lipid-soluble form will be 24%. A, C-E See correct answer explanation.",
+   "source": "Pharmacology III-4 Q7",
+   "topic": "Medium",
+   "topic_n": 2
+  },
+  {
+   "question": "Anew potential local anesthetic drug was studied in the laboratory using an isolated nerve fiber preparation. Which of the following nerve properties most likely increased when the drug was applied to the nerve fiber?",
+   "choices": [
+    "Amplitude of the action potential",
+    "Conduction velocity of the nerve",
+    "Rate of rise of the action potential",
+    "Refractory period of the nerve",
+    "Resting potential of the nerve membrane"
+   ],
+   "answer": 3,
+   "explanation": "Local anesthetics primarily block inactivated Na+ channels, making them take longer to return to the resting state. As long as the channel is blocked, the fiber is refractory to stimulation, so the refractory period of the nerve will increase. A, B, D These nerve properties are in fact decreased, not increased, by local anesthetics. E Local anesthetics have very low affinity for channels in the resting state, so they have negligible effects on the resting membrane potential of the nerve.",
+   "source": "Pharmacology III-4 Q8",
+   "topic": "Easy",
+   "topic_n": 6
+  },
+  {
+   "question": "A 2-year-old girl was brought to the emergency department after cutting herself with a kitchen knife a few minutes earlier. The fingers were bleeding. Examination revealed two clean wounds on the middle and ring fingers of the right hand. The doctor decided to suture the wounds under local anesthesia using lidocaine without epinephrine. Epinephrine was avoided to prevent which of the following possible complications?",
+   "choices": [
+    "Delayed wound repair ES ad Systemic toxicity",
+    "Wound infection",
+    "Ischemic gangrene",
+    "Excessive bleeding"
+   ],
+   "answer": 2,
+   "explanation": "Epinephrine-containing solutions should not be injected into organs supplied by end arteries (fingers, ears, nose, and penis) because the resulting vasoconstriction can produce ischemia and even gangrene. A, D Epinephrine does not affect the risk of wound infection and does not cause delayed wound repair. C, E Excessive bleeding and systemic toxicity are in fact prevented by administration of epinephrine.",
+   "source": "Pharmacology III-4 Q9",
+   "topic": "Easy",
+   "topic_n": 7
+  },
+  {
+   "question": "A 46-year-old man was in the dentist’s office for a dental extraction. A local anesthetic was injected near the mandibular nerve. Which of the following physiological functions was most likely the last to be blocked in that patient?",
+   "choices": [
+    "Touch sensation",
+    "Muscle tone",
+    "Motor function",
+    "Pain sensation"
+   ],
+   "answer": 2,
+   "explanation": "Fiber sensitivity to blockade by local anesthetics depends on different factors; for example, sensitivity is inversely related to diameter and conduction velocity. Fibers with smaller diameter and slower conduction velocity are blocked before fibers that have larger diameter and faster conduction velocity. Therefore, type A-alpha fibers, which convey motor function (diameter 12-20 p, conduction velocity 70-120 m/sec) are blocked last, when a local anesthetic is applied to a nerve. B-E See correct answer explanation.",
+   "source": "Pharmacology III-4 Q11",
+   "topic": "Easy",
+   "topic_n": 8
+  },
+  {
+   "question": "A55-year-old diabetic man was admitted to the emergency department with fever (101.5°F, 38.6°C) and abdominal pain. Physical examination disclosed a superficial abscess on the right side of the abdomen. A local anesthetic was injected around the abscess in preparation for surgery. Which of the following tissue properties most likely account for the slower onset of local anesthetic action in infected tissues?",
+   "choices": [
+    "Low vessel density",
+    "High levels of drug-metabolizing enzymes",
+    "High levels of para-aminobenzoic acid",
+    "Higher extracellular K*",
+    "Lower extracelluar pH"
+   ],
+   "answer": 4,
+   "explanation": "Local anesthetics are weak bases; all but benzocaine have a pK, in the range of about 7.7 to 9.4. Therefore, they are mainly water-soluble at the physiological pH of the extracellular fluid. However, only the small, lipid soluble portion of the drug can cross the nerve membrane. The extracellular fluid of the infected tissues has a lower pH due to the increased concentration of lactic acid. The lipid solubility of the drug will be even lower, and less drug will be available for diffusion into the nerve fibers. A-D See correct answer explanation.",
+   "source": "Pharmacology III-4 Q12",
+   "topic": "Easy",
+   "topic_n": 9
+  },
+  {
+   "question": "A 4-day-old boy was brought to the emergency department with bluish discoloration of the lips and extremities. He was born full term, had no perinatal problems, and weighed 3.5 kg (7.7 Ib). Medical history of the baby disclosed that he had undergone a circumcision procedure with local anesthesia the previous day, and cyanosis had begun 1.5 hours after the procedure. Lab results showed methemoglobinemia. Which of the following drugs was most likely used for local anesthesia?",
+   "choices": [
+    "Benzocaine",
+    "Lidocaine",
+    "Prilocaine",
+    "Tetracaine",
+    "Bupivacaine"
+   ],
+   "answer": 2,
+   "explanation": "Prilocaine is the only local anesthetic that can cause methemoglobinemia. This effect is not a problem in healthy persons, but theneonateis more sensitive tomethemoglobinemia due to decreased resistance of fetal hemoglobin to oxidant stress and immaturity of the enzymes that convert methemoglobin back to the ferrous state. A-C, E See correct answer explanation.",
+   "source": "Pharmacology III-4 Q13",
+   "topic": "Medium",
+   "topic_n": 3
+  },
+  {
+   "question": "A 59-year-old man was admitted to the emergency department with extensive burns on his arms and thorax. Pertinent plasma levels on admission were K* 6.3 mEq/L, Ca 13.0 mg/dL, creatinine 2.8 mg/dL, blood urea nitrogen (BUN) 35 mg/dL. An emergency treatment was started that included the administration of a topical local anesthetic on the burned area. Which of the following molecular events most likely made the nerve membrane more sensitive to the action of the local anesthetic in this patient?",
+   "choices": [
+    "Increased extracellular concentration of Ca2+",
+    "Decreased extracellular concentration of Cl-",
+    "Increased extracellular concentration of Mg?*",
+    "Increased extracellular concentration Na+",
+    "Increased extracellular concentration of K*"
+   ],
+   "answer": 4,
+   "explanation": "According to the Nernst equation, an increase in extracellular K* concentration makes the membrane potential less negative (depolarization) and favors the inactivated state of Na+ channels. Because local anesthetics mainly block inactivated Na+ channels, increased extracellular concentration of K* makes the nerve membrane more sensitive to the action of local anesthetics. Local increase in extracellular concentration of K*is common in burned tissues because the damaged cells spill their cytosol into the extracellular fluid. Although patients with burns are known to develop hypocalcemia, hypercalcemia has been reported in about 20% of patients with extensive burns. A-C, E All of these events cause hyperpolarization of the membrane, which favors the resting state.",
+   "source": "Pharmacology III-4 Q14",
+   "topic": "Easy",
+   "topic_n": 10
+  },
+  {
+   "question": "A 45-year-old woman was undergoing surgery to remove an extensive lipoma in her right arm. Her medical history was significant for long-term, severe chronic obstructive pulmonary disease (COPD) due to heavy smoking. Local anesthesia with a peripheral nerve block was planned. Which of the following local anesthetics would be contraindicated in this patient?",
+   "choices": [
+    "Prilocaine",
+    "Procaine",
+    "Lidocaine",
+    "Tetracaine",
+    "Bupivacaine"
+   ],
+   "answer": 4,
+   "explanation": "Most local anesthetics can block Na+ channels in cardiac muscle, thereby depressing automaticity and conduction. At very high doses they can also depress contractility, most likely by blocking Ca2* channels. Bupivacaine is more cardiotoxic than most other local anesthetics, apparently because the drug dissociates much more slowly than other local anesthetics during diastole, so a significant fraction of Na+ channels at physiological heart rates remains blocked with bupivacaine at the end of the diastole. Bupivacaine-induced cardiac toxicity is very difficult to treat and is enhanced by coexisting acidosis and hypoxemia, which are most likely in this case because of COPD. A-D See correct answer explanation.",
+   "source": "Pharmacology III-4 Q15",
+   "topic": "Medium",
+   "topic_n": 4
+  },
+  {
+   "question": "A 60-year-old man was scheduled for a lithotripsy to shatter a bladder stone. Lumbar epidural anesthesia was selected for the procedure. The anticipated duration of the procedure was",
+   "choices": [
+    "Bupivacaine",
+    "Lidocaine E.",
+    "about 20 minutes. Which of the following local anesthetics | | would be most appropriate for this patient? A. Cocaine",
+    "Tetracaine",
+    "Benzocaine"
+   ],
+   "answer": 1,
+   "explanation": "Epidural anesthesia is administered by injecting local anesthetic into the epidural space and can be performed in the sacral hiatus or in the lumbar, thoracic, or cervical region of the spine. The anesthesia affects only those nerves leaving the spinal cord at the level of injection. Lidocaine is the most frequently used epidural local anesthetic, especially when the surgical procedure is short, as in this case. A, B Cocaine and benzocaine are not suitable for spinal or epidural anesthesia. C, D Bupivacaine and tetracaine are used for spinal and epidural anesthesia when the surgical procedure is long. They are not needed in this case because the anticipated duration of the procedure is only about 20 minutes.",
+   "source": "Pharmacology III-4 Q16",
+   "topic": "Easy",
+   "topic_n": 11
+  },
+  {
+   "question": "A 28-year-old pregnant woman who was near term decided to have the delivery under spinal anesthesia. The patient’s past history included an anaphylactic reaction 3 years earlier, apparently due to a sun screen containing para-aminobenzoic acid (PABA). Which of the following local anesthetics would be appropriate for this patient?",
+   "choices": [
+    "Cocaine",
+    "Lidocaine",
+    "Procaine",
+    "Tetracaine",
+    "Benzocaine"
+   ],
+   "answer": 1,
+   "explanation": "Lidocaine is an amide-type local anesthetic that can be employed in almost any application when a local anesthetic of intermediate duration is needed. It is widely used in spinal anesthesia. A, B, D, E A serious allergic reaction to PABA contraindicates the administration of all ester-type local anesthetics (procaine, tetracaine, benzocaine, and cocaine), as they are esters of PABA. In addition, procaine and benzocaine are not suitable for spinal anesthesia.",
+   "source": "Pharmacology III-4 Q17",
+   "topic": "Medium",
+   "topic_n": 5
+  },
+  {
+   "question": "A 56-year-old woman, who had been suffering from atrial fibrillation for 3 years, was in the dentist’s office for the application of an implant. The dentist was about to initiate local anesthesia by injecting a local anesthetic close to the mandibular nerve. Which of the following local anesthetic preparations would be most appropriate for this patient? Aalidocainealone B. Lidocaine plus epinephrine C. Bupivacaine plus epinephrine D. Benzocaine plus epinephrine E Benrocaineuione",
+   "choices": [
+    "Benzocaine alone",
+    "Benzocaine plus epinephrine",
+    "Lidocaine alone",
+    "Lidocaine plus epinephrine",
+    "Bupivacaine plus epinephrine"
+   ],
+   "answer": 2,
+   "explanation": "Epinephrine is used in local anesthetic preparations to localize the anesthetic at the desired site and to reduce systemic toxicity. However, epinephrine is contraindicated in patients with cardiac arrhythmias. In this patient, a preparation containing the local anesthetic alone is the most rational choice. B, C See correct answer explanation. D, EThere are no injectable preparations of benzocaine, as this drug is used only for surface anesthesia.",
+   "source": "Pharmacology III-4 Q18",
+   "topic": "Medium",
+   "topic_n": 6
+  },
+  {
+   "question": "A 16-year-old boy complained of burning pain due to multiple superficial skin abrasions after a motorcycle accident. A local anesthetic was applied topically to the abraded areas. Which of the following local anesthetics would be most appropriate for this patient?",
+   "choices": [
+    "Cocaine",
+    "Benzocaine",
+    "Procaine",
+    "Prilocaine",
+    "Bupivacaine"
+   ],
+   "answer": 1,
+   "explanation": "Unlike other local anesthetics, benzocaine has a pK, of about 2.5; consequently, it is practically insoluble in water. Therefore, the drug cannot be injected, but it can be applied directly to wounded surfaces, where it remains localized for a long time, producing sustained anesthetic action. Because of this, benzocaine is incorporated into a large number of topical preparations. Other drugs used for topical anesthesia are lidocaine and tetracaine. B Procaine is used only for infiltration anesthesia because of its slow onset and short duration of action. C Cocaine is very rarely used today as a local anesthetic, due to its addictive potential. Moreover, cocaine absorption from abraded skin can be significant. D, E Prilocaine and bupivacaine are not used for topical anesthesia.",
+   "source": "Pharmacology III-4 Q19",
+   "topic": "Easy",
+   "topic_n": 12
+  },
+  {
+   "question": "A 44-year-old woman got a scratch on her arm while working at home. She put a cream containing a local anesthetic on the wounded area. It is known that on the body, local anesthetics can exist either as the uncharged base (nonionized form) or as a cation (ionized form). The ionized form most likely mediated which of the following properties of the drug?",
+   "choices": [
+    "Blood-brain crossing",
+    "Liver biotransformation",
+    "Receptor binding",
+    "Half-life",
+    "Tissue redistribution"
+   ],
+   "answer": 2,
+   "explanation": "Local anesthetics are weak bases, and in the body they exist either as the uncharged base (nonionized form) or as a cation (ionized form). Because the nonionized form is lipid soluble, it is important for diffusion through the cell membranes. However, the cationic form is thought to be the one that binds to the receptor site, located on the Na+ channel near the inner surface of the membrane. A-CAIl of these properties are more related to the nonionized form of the drug. In fact, tissue redistribution usually occurs in lipid-rich tissues; liver biotransforms mainly lipid-soluble drugs, and only the lipid-soluble form of the drug can easily cross the blood-brain barrier. E The half-life of a drug is related to its volume of distribution and its clearance, which in turn depend on many factors, not only on the ionized form of the drug.",
+   "source": "Pharmacology III-4 Q20",
+   "topic": "Medium",
+   "topic_n": 7
+  },
+  {
+   "question": "A 56-year-old woman was about to undergo emergency minor skin suturing after an accidental self-injury with a knife. The woman was agitated and firmly refused any injection procedure. Examination of the wound showed a long superficial cut of the skin with extensive bleeding. The anesthesiologist chose to apply a solution of a topical anesthetic that could also cause local vasoconstriction. Which of the following drugs was most likely administered?",
+   "choices": [
+    "Lidocaine",
+    "Cocaine",
+    "Bupivacaine",
+    "Tetracaine",
+    "Prilocaine"
+   ],
+   "answer": 1,
+   "explanation": "The drug used was most likely cocaine, the only local anesthetic that also has a vasoconstricting action, due to its inhibitory effect on norepinephrine reuptake into adrenergic terminals. Cocaine can provide better tolerance of suturing in patients who are unable to tolerate injections, as in this case. However, the drug is very rarely used today as a topical anesthetic because of its toxicity, expense, and federal regulatory issues. Serious toxic effects (e.g., seizures and cardiac arrhythmias) have been described following topical cocaine application, particularly in children. B-E See correct answer explanation.",
+   "source": "Pharmacology III-4 Q21",
+   "topic": "Easy",
+   "topic_n": 13
+  }
+ ]
+}

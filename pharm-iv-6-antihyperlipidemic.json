@@ -1,0 +1,461 @@
+{
+ "questions": [
+  {
+   "question": "Directions for questions 1–4: Match each antihyperlipidemic drug with the appropriate description (each lettered option can be selected once, more than once, or not at all). This drug can sometimes cause hypertriglyceridemia.",
+   "choices": [
+    "Cholestyramine",
+    "Lovastatin",
+    "Ezetimibe",
+    "Niacin",
+    "Gemfibrozil"
+   ],
+   "answer": 0,
+   "explanation": "Matching item. Correct match: Cholestyramine.",
+   "source": "Pharmacology IV-6 Q1",
+   "topic": "Easy",
+   "topic_n": 1
+  },
+  {
+   "question": "Directions for questions 1–4: Match each antihyperlipidemic drug with the appropriate description (each lettered option can be selected once, more than once, or not at all). Facial flushing is the most common adverse effect of this drug.",
+   "choices": [
+    "Ezetimibe",
+    "Cholestyramine",
+    "Gemfibrozil",
+    "Lovastatin",
+    "Niacin"
+   ],
+   "answer": 4,
+   "explanation": "Matching item. Correct match: Niacin.",
+   "source": "Pharmacology IV-6 Q2",
+   "topic": "Easy",
+   "topic_n": 2
+  },
+  {
+   "question": "Directions for questions 1–4: Match each antihyperlipidemic drug with the appropriate description (each lettered option can be selected once, more than once, or not at all). High doses of this drug can cause metabolic acidosis.",
+   "choices": [
+    "Lovastatin",
+    "Gemfibrozil",
+    "Ezetimibe",
+    "Niacin",
+    "Cholestyramine"
+   ],
+   "answer": 4,
+   "explanation": "Matching item. Correct match: Cholestyramine.",
+   "source": "Pharmacology IV-6 Q3",
+   "topic": "Easy",
+   "topic_n": 3
+  },
+  {
+   "question": "Directions for questions 1–4: Match each antihyperlipidemic drug with the appropriate description (each lettered option can be selected once, more than once, or not at all). This drug activates a nuclear transcription receptor.",
+   "choices": [
+    "Niacin",
+    "Gemfibrozil",
+    "Lovastatin",
+    "Cholestyramine",
+    "Ezetimibe"
+   ],
+   "answer": 1,
+   "explanation": "Matching item. Correct match: Gemfibrozil.",
+   "source": "Pharmacology IV-6 Q4",
+   "topic": "Easy",
+   "topic_n": 4
+  },
+  {
+   "question": "A 21-year-old woman recently diagnosed with familial combined hyperlipidemia started a treatment with lovastatin. Which of the following molecular actions most likely mediated the therapeutic efficacy of the drug in the patient's disease?",
+   "choices": [
+    "Decreased synthesis of mevalonic acid",
+    "Decreased storage of LDL in hepatic endosomes",
+    "Downregulation of hepatic low-density lipoprotein (LDL) receptors",
+    "Increased plasma levels of hepatic aminotransferases",
+    "Increased synthesis of lipoprotein lipase",
+    "Increased plasma levels of creatine phosphokinase"
+   ],
+   "answer": 0,
+   "explanation": "HMG-CoA reductase inhibitors inhibit 3-hydroxy-3-methylglutaryl-CoA reductase, which is the enzyme that catalyzes the synthesis of mevalonic acid from 3-hydroxy-3-methylglutaryl-CoA. The formation of mevalonic acid is the rate-limiting step in cholesterol biosynthesis.",
+   "source": "Pharmacology IV-6 Q5",
+   "topic": "Easy",
+   "topic_n": 5
+  },
+  {
+   "question": "A 28-year-old woman recently diagnosed with familial combined hyperlipidemia started a treatment with a low-fat diet and cholestyramine. This therapy most likely caused the greatest reduction in plasma levels of which of the following compounds?",
+   "choices": [
+    "Triglycerides",
+    "Chylomicrons oS",
+    "Very-low-density lipoprotein (VLDL)",
+    "High-density lipoprotein (HDL)",
+    "Low-density lipoprotein (LDL)"
+   ],
+   "answer": 4,
+   "explanation": "Type II hyperlipoproteinemia is characterized by an elevation of low-density lipoprotein (LDL), which may be primary or secondary. Statins are currently used in this disease, but the physician avoided them in this case because the patient is a woman of reproductive age. Bile acid-binding resins increase the intestinal elimination of bile acids. This increased elimination causes an upregulation of hepatic LDL receptors, which in turn reduces the plasma level of LDL. A, B, D, EThese compounds are not consistently affected by bile acid-binding resins.",
+   "source": "Pharmacology IV-6 Q6",
+   "topic": "Easy",
+   "topic_n": 6
+  },
+  {
+   "question": "A 54-year-old obese man had plasma low-density lipoprotein (LDL) cholesterol of 270 mg/dL despite 4 months of therapy with lovastatin. The physician decided to add cholestyramine to the patient's regimen. Recently, the patient had been found to have stage 1 hypertension for which he was currently taking propranolol and hydrochlorothiazide. Which of the following changes in the pharmacokinetics of these two drugs was most likely to occur when the patient began to take cholestyramine?",
+   "choices": [
+    "Oral bioavailability of hydrochlorothiazide decreased.",
+    "Clearance of propranolol increased.",
+    "Clearance of hydrochlorothiazide decreased.",
+    "Volume of distribution of hydrochlorothiazide decreased.",
+    "Oral bioavailability of propranolol increased.",
+    "Volume of distribution of propranolol increased. wD"
+   ],
+   "answer": 0,
+   "explanation": "Cholestyramine is an anion exchange resin that binds bile acids in the intestinal lumen, thus preventing their reabsorption. In fact, the excretion of bile acid is increased up to 10-fold when the resin is given. This in turn causes an enhanced conversion of cholesterol to bile acids in the liver, an increased uptake of low-density lipoprotein (LDL) and intermediate-density lipoprotein from plasma, and an upregulation of high-affinity LDL receptors on cell membranes. Resins can bind many drugs (including B-blockers and thiazides), reducing their intestinal absorption.",
+   "source": "Pharmacology IV-6 Q7",
+   "topic": "Medium",
+   "topic_n": 1
+  },
+  {
+   "question": "A 52-year-old man was found to have total cholesterol of 380 mg/dL and triglycerides of 230 mg/dL despite 3 months of a diet low in saturated fat. The man had been suffering from hemophilia since birth and from external hemorrhoids for 2 years. An antihyperlipidemic therapy was prescribed. Which of the following drugs would be contraindicated in this patient?",
+   "choices": [
+    "Gemfibrozil",
+    "Ezetimibe",
+    "Niacin",
+    "Cholestyramine",
+    "Lovastatin"
+   ],
+   "answer": 3,
+   "explanation": "Cholestyramine can cause severe constipation and is therefore contraindicated in patients with hemorrhoids. In addition, the drug is contraindicated in patients with any coagulation defect because it decreases the intestinal absorption of vitamin K. A, CE See correct answer explanation.",
+   "source": "Pharmacology IV-6 Q8",
+   "topic": "Hard",
+   "topic_n": 1
+  },
+  {
+   "question": "A 24-year-old woman suffering from familial hypertriglyceridemia was screened with a blood lipid profile during a routine visit. Relevant laboratory test results were uric acid 15 mg/dL (normal 4.0-8.5 mg/dL), total cholesterol 170 mg/dL (normal < 200 mg/dL), triglycerides 1230 mg/dL (normal < 200 mg/dL). A lipid-lowering drug was prescribed. Which of the following was most likely the mechanism of action of that drug?",
+   "choices": [
+    "Increase of lipid synthesis by adipose tissue",
+    "Decreased absorption of exogenous cholesterol",
+    "Downregulation of low-density lipoprotein (LDL) receptors in the liver",
+    "Stimulation of lipoprotein lipase synthesis",
+    "Inhibition HMG-CoA (3-hydroxy-3-methylglutaryl-coenzyme A) reductase activity in the liver"
+   ],
+   "answer": 3,
+   "explanation": "The prescribed drug was most likely a fibrate. In fact, fibrates are the drugs of first choice when there is a big, isolated increase in triglyceride level. Moreover, in this patient, niacin is contraindicated because of hyperuricemia, resins can cause an increase in triglyceride level, and statins should be avoided in a woman of reproductive age. The mechanism of action of fibrates is still uncertain but most likely involves a gene-mediated increase in lipoprotein lipase synthesis.",
+   "source": "Pharmacology IV-6 Q9",
+   "topic": "Medium",
+   "topic_n": 2
+  },
+  {
+   "question": "A 55-year-old obese woman was found to have a total cholesterol level of 360 mg/dL (normal < 200 mg/dL), despite many months of lovastatin treatment. The physician decided to add ezetimibe to the therapeutic regimen. Which of the following cells represents the main site of action of the added drug?",
+   "choices": [
+    "Hepatocytes",
+    "Capillary endothelial cells",
+    "Adipocytes",
+    "Platelets",
+    "Intestinal epithelial cells"
+   ],
+   "answer": 4,
+   "explanation": "Ezetimibe inhibits the absorption of cholesterol by the small intestine, apparently by blocking a specific sterol transporter, Niemann-Pick C1-like 1 (NPC1L1), located in the epithelial cells of intestinal mucosa.",
+   "source": "Pharmacology IV-6 Q10",
+   "topic": "Easy",
+   "topic_n": 7
+  },
+  {
+   "question": "A 57-year-old man was found to have low-density lipoprotein (LDL) cholesterol of 360 mg/dL (normal < 130 mg/dL) despite 5 months of treatment with lovastatin. The physician decided to add ezetimibe to the therapeutic regimen. Which of the following statements best explains the rationale of adding ezetimibe to lovastatin therapy?",
+   "choices": [
+    "Ezetimibe slows down the metabolism of lovastatin.",
+    "The combination strongly increases high-density lipoprotein (HDL) plasma levels.",
+    "Ezetimibe increases the intestinal absorption of lovastatin.",
+    "The combination results in synergistic cholesterollowering effects.",
+    "The combination decreases the risk of lovastatin-induced myopathy."
+   ],
+   "answer": 3,
+   "explanation": "Ezetimibe lowers the serum cholesterol concentration by selectively inhibiting the absorption of cholesterol from the small intestine. It has a modest cholesterol-lowering effect when used alone, but the combination with HMG (3-hydroxy-3-methylglutaryl) reductase inhibitors can reduce low-density lipoprotein (LDL) cholesterol levels up to 70%.",
+   "source": "Pharmacology IV-6 Q11",
+   "topic": "Easy",
+   "topic_n": 8
+  },
+  {
+   "question": "A 46-year-old man suffering from familial hypercholesterolemia was found to have total cholesterol of 430 mg/dL despite many months of treatment with lovastatin. Triglyceride levels were normal. His physician decided to add niacin to the therapeutic regimen. Which of the following molecular actions most likely mediated the therapeutic efficacy of niacin in the patient's disease?",
+   "choices": [
+    "Inhibition of high-density lipoprotein (HDL) synthesis by the liver",
+    "Decreased absorption of exogenous cholesterol",
+    "Increase of circulating fibrinogen",
+    "Inhibition of very-low-density lipoprotein (VLDL) production by the hepatocyte",
+    "Stimulation of lipolysis in adipose tissue"
+   ],
+   "answer": 3,
+   "explanation": "Niacin inhibits very-low-density lipoprotein (VLDL) production by hepatocytes, which in turn decreases production of low-density lipoprotein (LDL). The mechanism of this action is still uncertain but seems to involve * A decreased synthesis of triglycerides by the liver * An inhibition of lipolysis in adipose tissue, which in turn causes a decreased delivery of free fatty acids to the liver * A stimulation of lipoprotein lipase activity, which enhances hydrolysis of VLDL and delivery of triglycerides to adipose tissue",
+   "source": "Pharmacology IV-6 Q12",
+   "topic": "Easy",
+   "topic_n": 9
+  },
+  {
+   "question": "A 49-year-old man was brought by ambulance to the emergency department with the admitting diagnosis of myocardial infarction. Emergency therapy was started, which included alteplase, aspirin, heparin, and metoprolol. The next day lovastatin and ezetimibe were added to the therapeutic regimen. Which of the drugs received by the patient acts primarily in the cytoplasmic compartment of liver cells?",
+   "choices": [
+    "Lovastatin",
+    "Ezetimibe",
+    "Aspirin",
+    "Alteplase",
+    "Heparin",
+    "Metoprolol"
+   ],
+   "answer": 0,
+   "explanation": "HMG-CoA reductase is located in the liver endoplasmic reticulum, so all HMG-CoA reductase inhibitors such as lovastatin act in the cytoplasmic compartment of liver cells, where the endoplasmic reticulum is located",
+   "source": "Pharmacology IV-6 Q13",
+   "topic": "Easy",
+   "topic_n": 10
+  },
+  {
+   "question": "A 52-year-old obese man suffering from gout and hypertension was found to have low-density lipoprotein (LDL) cholesterol of 360 mg/dL (normal < 130 mg/dL) and a serum uric acid of 15.5 mg/dL (normal 4.0-8.5 mg/dL). Other laboratory values were within normal limits. A lipid-lowering therapy was prescribed. Which of the following antihyperlipidemic drugs would be relatively contraindicated in this patient?",
+   "choices": [
+    "Ezetimibe",
+    "Cholestyramine",
+    "Niacin",
+    "Gemfibrozil",
+    "Lovastatin"
+   ],
+   "answer": 2,
+   "explanation": "Niacin is relatively contraindicated in patients suffering from gout and hyperuricemia because it tends to increase uric acid levels.",
+   "source": "Pharmacology IV-6 Q14",
+   "topic": "Medium",
+   "topic_n": 3
+  },
+  {
+   "question": "A 56-year-old woman suffering from familial hypercholesterolemia was found to have total cholesterol of 470 mg/dL (normal < 200 mg/dL) despite many months of treatment with lovastatin. Triglyceride levels were normal. The physician decided to add niacin to the therapeutic regimen. Which of the following drugs should be given during the first days of therapy to avoid niacin-induced flushes?",
+   "choices": [
+    "Aspirin",
+    "Atropine",
+    "Warfarin",
+    "Prazosin",
+    "Gemfibrozil"
+   ],
+   "answer": 0,
+   "explanation": "The cutaneous vasodilation and uncomfortable flushes are adverse effects that most people experience after each dose of niacin. They seem to be primarily prostaglandin-mediated, and therefore an aspirin (or another nonsteroidal antiinflammatory drug) can alleviate the flushing in many patients. Because these effects undergo rapid tolerance, aspirin is needed only during the first days of therapy.",
+   "source": "Pharmacology IV-6 Q15",
+   "topic": "Medium",
+   "topic_n": 4
+  },
+  {
+   "question": "A 40-year-old obese man suffering from type | diabetes mellitus and hyperlipidemia was admitted to the hospital because of vomiting and circulatory collapse. The patient had started an antihyperlipidemic therapy 1 month ago. Pertinent plasma data on admission were pH 7.32, HCO? 12 mEq/L (normal 22-26 mEq/L), partial pressure of arterial carbon dioxide (P,CO,) 16 mm Hg (normal 25-45 mm Hg), Cl 125 mEq/L (normal 90-105 mEq/L). Which of the following drugs could have contributed to the syndrome the patient was suffering from?",
+   "choices": [
+    "Insulin",
+    "Niacin",
+    "Cholestyramine",
+    "Lovastatin",
+    "Gemfibrozil"
+   ],
+   "answer": 2,
+   "explanation": "The signs and symptoms of the patient indicate that he is suffering from metabolic acidosis most likely due to cholestyramine overdose. A very high dose of cholestyramine can cause metabolic acidosis mainly in patients at risk, as in this patient, who is prone to metabolic acidosis because of diabetes. Cholestyramine is an anion exchange resin that binds negatively charged bile acids. Chloride is released from binding sites in exchange for bile acids, so chloride anions can be absorbed. When an anion other than bicarbonate is increased in plasma, HCO must decrease in order to maintain electroneutrality. A reduced plasma bicarbonate concentration is defined as acidosis. Because in this case the acidosis is due to an increase in chloride anion, it is called hyperchloremic.",
+   "source": "Pharmacology IV-6 Q16",
+   "topic": "Hard",
+   "topic_n": 2
+  },
+  {
+   "question": "A57-year-old woman was found to have triglyceride levels of 630 mg/dL (normal < 200 mg/dL). Therapy with gemfibrozil was prescribed. Which of the following cellular structures most likely represents the site of action of this drug?",
+   "choices": [
+    "Cell membrane",
+    "Nucleus",
+    "Cytoplasm",
+    "Rough endoplasmic reticulum",
+    "2",
+    "Mitochondria",
+    "Smooth endoplasmic reticulum"
+   ],
+   "answer": 1,
+   "explanation": "Fibrates bind to and activate a nuclear receptor (the peroxisome proliferator-activated receptor alpha) in hepatocytes, skeletal muscle, and the heart. Activation of this receptor in turn activates transcription of genes that modulate protein expression. The main consequence is the increased expression of lipoprotein lipase.",
+   "source": "Pharmacology IV-6 Q17",
+   "topic": "Easy",
+   "topic_n": 11
+  },
+  {
+   "question": "A 45-year-old man complained to his physician of muscle aches, soreness, and weakness. The patient had been suffering from duodenal ulcer for 2 years, from familial hypercholesterolemia for 5 years, and from open-angle glaucoma for 1 year. Current therapy included famotidine and sucralfate for ulcer, lovastatin for hyperlipidemia, and timolol and latanoprost for glaucoma. A urinalysis showed myoglobinuria. Which of the following drugs most likely caused this finding?",
+   "choices": [
+    "Timolol",
+    "Sucralfate",
+    "Latanoprost",
+    "Lovastatin",
+    "Famotidine"
+   ],
+   "answer": 3,
+   "explanation": "The patient was most likely affected by myopathy, a rare but serious adverse effect of statins. The disorder occurs in less than 0.1% of patients when statins are given alone, but it can occur more often when they are given together with niacin or fibrates (up to 5% when given with gemfibrozil). Myopathy can cause rhabdomyolysis with myoglobinuria, as in this case.",
+   "source": "Pharmacology IV-6 Q18",
+   "topic": "Medium",
+   "topic_n": 5
+  },
+  {
+   "question": "A 49-year-old man at a routine checkup was found to have the following lipid profile: low-density lipoprotein (LDL) cholesterol 180 mg/dL (normal < 200 mg/dL), high-density lipoprotein (HDL) cholesterol 14 mg/dL (normal > 35 mg/dL), triglycerides 150 mg/dL (normal < 200 mg/dL). The man weighed 295 Ib (134 kg) and was a heavy cigarette smoker. Which of the following antihyperlipidemic drugs would be most appropriate for this patient?",
+   "choices": [
+    "Lovastatin",
+    "Niacin",
+    "Cc. Cholestyramine",
+    "Ezetimibe",
+    "Gemfibrozil"
+   ],
+   "answer": 1,
+   "explanation": "Low high-density lipoprotein (HDL) level is a predictor of increased coronary artery disease (CAD), independent of all other risk factors. Therefore, it is important to raise HDL, even if the other lipid fractions are normal, especially if the patient has other risk factors for CAD, as in this case. The main factors that are correlated with low HDL are cigarette smoking, obesity, androgenic or related steroids, hypertriglyceridemia, and genetic factors. Some lipid-lowering drugs can raise HDL even if other lipid parameters are in the normal range, as in this case. Niacin (by an unknown mechanism) has the greatest ability to raise HDL, up to 30%, and is therefore the drug of choice in disorders associated with extremely low serum levels of HDL (these patients tend to have premature atherosclerosis, and the low HDL level may be the only identified risk factor).",
+   "source": "Pharmacology IV-6 Q19",
+   "topic": "Medium",
+   "topic_n": 6
+  },
+  {
+   "question": "A 26-year-old obese woman who was found to have a lowdensity lipoprotein (LDL) cholesterol level of 270 mg/mL (normal <130 mg/mL) despite 4 months of diet, started a lipid-lowering therapy with cholestyramine. Which of the following is the primary site of action of this drug?",
+   "choices": [
+    "Small intestine",
+    "Adipose tissue wD",
+    "Plasma",
+    "Liver",
+    "Colon",
+    "Gall bladder"
+   ],
+   "answer": 0,
+   "explanation": "Cholestyramine is an acid-binding resin. These drugs act by binding bile acids and similar steroids in the small intestine, thus preventing reabsorption of bile acids secreted by the liver. In this way, they increase the need of cholesterol by the liver, which in turn induces an upregulation of liver low-density lipoprotein (LDL) receptors.",
+   "source": "Pharmacology IV-6 Q20",
+   "topic": "Easy",
+   "topic_n": 12
+  },
+  {
+   "question": "Anew antihyperlipidemic drug was tested on patients with high cholesterol levels during a phase 3 clinical trial. Which of the following populations would be best suited to show the potential protective effect of the drug against coronary artery disease?",
+   "choices": [
+    "Obese children",
+    "Women ages 40 to 50",
+    "Men over age 75",
+    "Men ages 50 to 60",
+    "Women over age 75"
+   ],
+   "answer": 3,
+   "explanation": "It is well known that there is a direct relationship between the total and low-density lipoprotein (LDL) cholesterol in blood and the risk of coronary heart disease (CHD). It is also well known that the risk of CHD increases with age and that women have a very low risk of CHD during premenopausal years, but that after menopause, the rate of developing CHD parallels that of men. Therefore, men tend to develop CHD in their 50s and 60s, whereas women tend develop it in their 60s and 70s. This explains why the antihyperlipidemic drugs are mostly beneficial for middle-aged men and least beneficial for women during premenopausal years.",
+   "source": "Pharmacology IV-6 Q21",
+   "topic": "Medium",
+   "topic_n": 7
+  },
+  {
+   "question": "A 53-year-old woman was brought to the hospital because of sudden unilateral blindness and inability to move the extremities of the contralateral body side. All symptoms disappeared a half hour later. An angiogram revealed a 55% stenosis of the right carotid artery. An appropriate therapy was prescribed. Which of the following drugs given chronically would be most likely to contribute to a decreased risk of further stroke in this patient?",
+   "choices": [
+    "Isosorbide mononitrate",
+    "Furosemide",
+    "Esmolol",
+    "Lovastatin",
+    "Alteplase",
+    "Gemfibrozil"
+   ],
+   "answer": 3,
+   "explanation": "The signs and symptoms of the patient indicate that she was most likely suffering from a transient ischemic attack, a brief episode of neurologic disturbance caused by a reduced blood supply to an area of the brain. Aspirin is the drug most frequently used to decrease the risk of stroke in these patients, but it has been consistently shown that statins can also reduce this risk.",
+   "source": "Pharmacology IV-6 Q22",
+   "topic": "Medium",
+   "topic_n": 8
+  },
+  {
+   "question": "A 35-year-old man with familial combined hyperlipidemia was found to have a total cholesterol level of 380 mg/mL (normal < 200 mg/mL) and a triglyceride level of 720 mg/mL (normal < 150 mg/mL). His family doctor decided to start therapy with lovastatin and gemfibrozil. The physician was aware that with this therapy the patient was at increased risk of myopathy. To prevent this disorder, which of the following enzymes should be measured every 2 weeks?",
+   "choices": [
+    "Aminotransferase",
+    "Creatine kinase",
+    "HMG-CoA (3-hydroxy-3-methylglutaryl-coenzyme A) reductase",
+    "Cyclooxygenase",
+    "Alkaline phosphatase"
+   ],
+   "answer": 1,
+   "explanation": "Creatine kinase is an enzyme found in high concentration in heart and skeletal muscle. Because this enzyme exists in relatively few organs, its serum concentration is used as a specific index of injury of myocardium or skeletal muscle. In fact, creatine kinase levels can prove helpful in recognizing muscular dystrophy before clinical signs appear.",
+   "source": "Pharmacology IV-6 Q23",
+   "topic": "Medium",
+   "topic_n": 9
+  },
+  {
+   "question": "A 57-year-old obese woman had low-density lipoprotein (LDL) cholesterol of 350 mg/dL (normal < 130 mg/dL) despite 3 months of therapy with lovastatin. The physician decided to add to the patient's regimen a drug that acts by increasing the elimination of bile acids. Which of the following drugs was most likely prescribed?",
+   "choices": [
+    "Gemfibrozil",
+    "Atorvastatin",
+    "Cholestyramine",
+    "Ezetimibe",
+    "Niacin"
+   ],
+   "answer": 2,
+   "explanation": "Cholestyramine is a bile acid-binding resin. Drugs of this class are highly positively charged (cholestyramine is a quaternary amine) and bind negatively charged bile acids in exchange with Cl. Because of their large size, resins are not absorbed, and the bound bile acids are excreted in the stool. In this way, enterohepatic circulation of bile acids is prevented (normally, more than 95% of bile acids are reabsorbed: their excretion is increased up to 10-fold when the resins are given).",
+   "source": "Pharmacology IV-6 Q24",
+   "topic": "Easy",
+   "topic_n": 13
+  },
+  {
+   "question": "A53-year-old man continued to have a low-density lipoprotein (LDL) cholesterol level of 270 mg/dL (normal < 130 mg/ dL) after a 6-month trial of diet therapy. His triglyceride levels were in the normal range. The patient had been suffering from type II diabetes mellitus for 2 years and peptic ulcer for 4 months. Current therapy included glyburide and metformin for diabetes and omeprazole for peptic ulcer. Which of the following drugs would be most appropriate to treat this patient's hyperlipidemia?",
+   "choices": [
+    "Gemfibrozil",
+    "Niacin",
+    "Cholestyramine",
+    "Nicotinamide",
+    "Lovastatin"
+   ],
+   "answer": 4,
+   "explanation": "Currently, statins represent the most effective and best tolerated agents for treating dyslipidemia. They are effective in all types of dyslipidemia, and when given as a single agent, they may decrease low-density lipoprotein (LDL) cholesterol up to 60% and total cholesterol up to 45%. Therefore, they are the drugs of first choice for treatment of elevated LDL cholesterol. Higher doses can also reduce triglyceride levels up to 35%. Moreover, in this patient A Niacin should be avoided because of diabetes and peptic ulcer. B Cholestyramine is relatively contraindicated because it could impair the absorption of the other currently used drugs. D Unlike niacin, nicotinamide is devoid of antihyperlipidemic properties. E Fibrates such as gemfibrozil are the drugs of choice for treating type III hyperlipidemia (familial dysbetalipoproteinemia), as well as high triglyceride levels. They do not significantly decrease LDL.",
+   "source": "Pharmacology IV-6 Q25",
+   "topic": "Medium",
+   "topic_n": 10
+  },
+  {
+   "question": "During a routine follow-up visit, a 52-year-old man was found to have the following lab results: alanine aminotransferase 120 U/L (normal 8-20 U/L), aspartate aminotransferase 108 U/L(normal 8-20 U/L). The man had been discharged from the hospital after an acute myocardial infarction 2 months earlier and was on an appropriate postdischarge therapy. Which of the following drugs most likely caused the lab results?",
+   "choices": [
+    "Atenolol",
+    "Warfarin",
+    "Captopril",
+    "Clopidogrel",
+    "Lovastatin"
+   ],
+   "answer": 4,
+   "explanation": "Statins are often prescribed after a myocardial infarction to prevent reinfarction. Statins cause an increase in liver enzymes in about 2% of patients. Abnormal enzyme values usually resolve with cessation of treatment, but the drug should be discontinued when the aminotransferase activity is persistently elevated to more than 3 times the normal limits because of the risk of hepatotoxicity.",
+   "source": "Pharmacology IV-6 Q26",
+   "topic": "Medium",
+   "topic_n": 11
+  },
+  {
+   "question": "A 51-year-old man suffering from hyperlipidemia was screened with a lipoprotein profile during a follow-up medical evaluation. He was found to have a low-density lipoprotein (LDL) cholesterol level of 440 mg/dL (normal <130 mg/ dL) despite many months of lovastatin therapy. Triglyceride levels were 120 mg/dL. The patient had been suffering from type I diabetes for 15 years. Because a substantial reduction of LDL cholesterol was needed, a combination of two antihyperlipidemic drugs was considered. Which of the following would be the most appropriate drug combination for this patient?",
+   "choices": [
+    "Gemfibrozil and cholestyramine",
+    "Lovastatin and cholestyramine",
+    "Cholestyramine and niacin",
+    "Gemfibrozil and ezetimibe",
+    "Lovastatin and niacin"
+   ],
+   "answer": 1,
+   "explanation": "The five major classes of antihyperlipidemic drugs can be given in combination when * Low-density lipoprotein (LDL) and very-low-density lipoprotein (VLDL) are both elevated. * LDL or VLDL is not normalized with a single agent. * Pronounced high-density lipoprotein (HDL) deficiency coexists with other hyperlipidemias. Answers and Explanations: IlV-7 Drugs Affecting Hemostasis Statins work with resins in a highly synergistic manner, decreasing total cholesterol by up to 65%. Moreover, in this patient B, C Niacin should be avoided because it can cause hyperglycemia in diabetics by increasing insulin resistance. D, E Fibrates cause only a modest reduction in total cholesterol, and the combinations with other antihyperlipidemic drugs are used only in patients with combined hyperlipidemia.",
+   "source": "Pharmacology IV-6 Q27",
+   "topic": "Hard",
+   "topic_n": 3
+  },
+  {
+   "question": "Each of the following patients (1 to 5) was found to have an abnormal lipid profile and was placed on a lipid-lowering diet for 4 months. None had any history of ischemic heart disease. The results of the patients' fasting lipid profile after 4 months of diet are given in the following table. Triglycerides LDL HDL values Abbreviations: HDL, high-density lipoprotein; LDL, low-density lipoprotein. For which one of the following patients would it be most important to recommend an antihyperlipidemic drug at this time?",
+   "choices": [
+    "Patient 2",
+    "Patient 4",
+    "Patient 3",
+    "Patient 1",
+    "Patient 5"
+   ],
+   "answer": 2,
+   "explanation": "All of the patients except patient 5 should start a lipidlowering drug therapy, as they still have an abnormal lipid profile after 4 months of diet. Patient 3, however, is the one who needs the drug therapy the most, because he has three risk factors: high triglycerides, high low-density lipoprotein (LDL), and low high-density lipoprotein (HDL) levels.",
+   "source": "Pharmacology IV-6 Q28",
+   "topic": "Hard",
+   "topic_n": 4
+  },
+  {
+   "question": "A 63-year-old obese man presented to the hospital with the admitting diagnosis of acute renal failure. He reported that 2 days earlier, he realized his urine was clear and red. One month earlier, the man was found to have plasma cholesterol of 310 mg/dL (normal < 200 mg/dL) and triglycerides of 950 mg/dL (normal < 150 mg/dL). He started an appropriate lipid-lowering therapy at that time. Which of the following pharmacotherapies most likely caused the patient's renal failure?",
+   "choices": [
+    "Cholestyramine and niacin",
+    "Cholestyramine alone",
+    "Lovastatin alone",
+    "Niacin alone",
+    "Lovastatin and gemfibrozil"
+   ],
+   "answer": 4,
+   "explanation": "The patient's acute renal failure was most likely due to rhabdomyolysis, which is a consequence of myopathy, a rare but serious adverse effect of statins. The excessive release of myoglobin from the damaged muscle can explain the red and clear urine and the acute renal failure, most likely due to precipitation of myoglobin into renal tubules with secondary tubular obstruction. The incidence of myopathy is low (< 0.1%) when a statin is given alone but is much increased (up to 5%) in patients who concomitantly receive fibrates. In this case, the patient most likely received a combined therapy with lovastatin and gemfibrozil, as both cholesterol and triglycerides were elevated.",
+   "source": "Pharmacology IV-6 Q29",
+   "topic": "Medium",
+   "topic_n": 12
+  },
+  {
+   "question": "A 54-year-old man suffering from familial hypercholesterolemia started treatment with lovastatin and cholestyramine. Which of the following actions most likely mediated the therapeutic effect of both drugs in the patient's disease?",
+   "choices": [
+    "Decreased synthesis of cholesterol by the liver",
+    "Upregulation of hepatic low-density lipoprotein (LDL) receptors",
+    "Decreased intestinal reabsorption of bile acids",
+    "Decreased synthesis of triglycerides by the liver",
+    "Decreased conversion of cholesterol to bile acids"
+   ],
+   "answer": 1,
+   "explanation": "The increased bile acid excretion caused by anion exchange resins leads to an upregulation of hepatic low-density lipoprotein (LDL) receptors, which in turn increases the extraction of cholesterol from plasma. In the same way, the inhibition of cholesterol synthesis by statins causes an upregulation of hepatic LDL receptors.",
+   "source": "Pharmacology IV-6 Q30",
+   "topic": "Medium",
+   "topic_n": 13
+  }
+ ]
+}

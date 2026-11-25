@@ -1,0 +1,287 @@
+{
+ "questions": [
+  {
+   "question": "A 3-year-old boy was brought to the emergency department after eating some black berries from a plant in the woods. Physical examination showed a disoriented and hallucinating patient with dilated pupils, dry mouth, red and dry skin, and body temperature of 103.4°F (39.7°C). Vital signs were blood pressure 90/50 mm Hg, pulse 122 bpm, respirations 24/min. The central and peripheral symptoms of this patient were most likely mediated by the blockade of which of the following receptors?",
+   "choices": [
+    "Noradrenergic",
+    "Glutamatergic",
+    "GABAergic",
+    "Dopaminergic",
+    "Serotonergic",
+    "Muscarinic",
+    "Nicotinic"
+   ],
+   "answer": 5,
+   "explanation": "Ingestion of plants and berries by children is one of the top reasons for calls to poison control centers. The child most likely ate some black berries from Atropa belladonna, a plant common in the woods. The berries contain atropine, an antimuscarinic drug. The boy’s symptoms are classic for atropine poisoning. A, B, D-G See correct answer explanation.",
+   "source": "Pharmacology III-1 Q1",
+   "topic": "Easy",
+   "topic_n": 1
+  },
+  {
+   "question": "A 33-year-old man who was a heavy smoker started a medically assisted program to quit smoking. Therapy included the administration of an agonist at «, presynaptic receptors that acts mainly on noradrenergic neurons in the brain. Which of the following brain regions was most likely involved in the therapeutic effect of the drug in this patient?",
+   "choices": [
+    "Amygdala",
+    "Central raphe nucleus",
+    "Nucleus tractus solitarius",
+    "Locus ceruleus",
+    "Nucleus basalis of Meynert",
+    "Substantia nigra"
+   ],
+   "answer": 3,
+   "explanation": "Most noradrenergic neurons in the brain are found in the locus ceruleus, a bluish area on each side of the median eminence of the brainstem. The locus ceruleus sends a large number of projections to the amygdala and hippocampus, where norepinephrine release is thought to mediate emotion and memory formation. Another brain region that is rich in noradrenergic neurons is the lateral tegmental area of the reticular formation. The drug taken by the patient was most likely clonidine. The drug activates presynaptic «, receptors located on noradrenergic terminals, which in turn decreases norepinephrine release from those terminals. It seems that this reduction of central adrenergic activity is the basis of the therapeutic effect of the drugs for treatment of withdrawal from addicting drugs, including nicotine and opioids. A, B, D-F See correct answer explanation.",
+   "source": "Pharmacology III-1 Q2",
+   "topic": "Hard",
+   "topic_n": 1
+  },
+  {
+   "question": "A 46-year-old woman complained to her physician of daytime sleepiness. One day earlier, she had started taking an antihistamine for allergic rhinitis. The physician explained that drowsiness was most likely due to inhibition of the action of histaminergic neurons in the brain. Which of the following brain regions was most likely involved in the adverse effect of this drug?",
+   "choices": [
+    "Nucleus basalis of Meynert",
+    "Hippocampus",
+    "Amygdala",
+    "Caudatum",
+    "Ventral posterior hypothalamus",
+    "Nucleus tractus solitarius"
+   ],
+   "answer": 4,
+   "explanation": "Histamine and antihistamines have long been known to produce significant effects on animal behavior. Biochemical detection of histamine synthesis by neurons and direct cytochemical localization of these neurons have defined the histaminergic system in the central nervous system. Most of these neurons are located in the ventral posterior hypothalamus. They give rise to long ascending and descending tracts that are typical of the patterns characteristic of other aminergic systems. The central histaminergic system is thought to affect arousal (H, antagonists cause drowsiness), attention, feeding, thermoregulation, and vascular dynamics. A-E See correct answer explanation.",
+   "source": "Pharmacology III-1 Q3",
+   "topic": "Medium",
+   "topic_n": 1
+  },
+  {
+   "question": "A51-year-old man suffering from episodic leg cramps started a treatment with a drug that activates GABA, receptors both in the brain and in the spinal cord. This activation most likely opened which of the following ion channels?",
+   "choices": [
+    "Na+",
+    "Cl CGieCat*",
+    "Kt",
+    "Ca2+"
+   ],
+   "answer": 2,
+   "explanation": "The patient was most likely receiving baclofen, a spasmolytic drug that likely acts by activating GABA, receptors. This activation most likely opens K* channels, thus increasing cell membrane stabilization. B-E See correct answer explanation.",
+   "source": "Pharmacology III-1 Q4",
+   "topic": "Medium",
+   "topic_n": 2
+  },
+  {
+   "question": "A 54-year-old woman suffering from initial insomnia was prescribed a hypnotic drug that increases the activity of a major neurotransmitter system in the brain. Which of the following neurotransmitter systems was most likely involved in the therapeutic action of that drug?",
+   "choices": [
+    "GABAergic",
+    "Glutamatergic",
+    "Cholinergic",
+    "Noradrenergic",
+    "Endorphinergic",
+    "Dopaminergic"
+   ],
+   "answer": 0,
+   "explanation": "Most drugs used to relieve insomnia (z-hypnotics, benzodiazepines, etc.) are GABAergic drugs; that is, they increase the activity of GABA, the most abundant inhibitory neurotransmitter in the brain. A-C, E, F Currently, drugs acting on these neurotransmitter systems are not used to treat insomnia.",
+   "source": "Pharmacology III-1 Q5",
+   "topic": "Easy",
+   "topic_n": 2
+  },
+  {
+   "question": "A54-year-old woman was admitted unconscious to the emergency department after a car accident. After physical and lab exams, a diagnosis of brain injury was made, It is known that in brain injury, a rapid and large increase of Ca2+ influx into damaged neurons can contribute significantly to neuronal death (a process called excitotoxicity). Activation of which of the following brain receptors most likely caused this metabolic derangement in the patient?",
+   "choices": [
+    "Presynaptic GABA receptors",
+    "Postsynaptic GABA receptors",
+    "Postsynaptic NMDA receptors",
+    "Presynaptic NMDA receptors",
+    "Presynaptic a, adrenoceptors",
+    "Postsynaptic a, adrenoceptors"
+   ],
+   "answer": 2,
+   "explanation": "Excitotoxicity is the pathologic process by which nerve cells are damaged and killed by excessive stimulation by neurotransmitters such as glutamate and similar substances. This occurs when receptors for glutamate, such as the N-methyld-aspartate (NMDA) receptors and a-amino-3-hydroxy-5methylisoxazole-4-propionic acid (AMPA) receptors, are overactivated. This activation allows high levels of calcium ions to enter the cell. Ca2+ influx into cells activates a number of enzymes, including phospholipases, endonucleases, and proteases, which go on to damage cell structures. A, B, E, F These receptors do not cause excitotoxicity. C Like most presynaptic receptors, presynaptic NMDA receptors regulate the release of neurotransmitters and do not alter Ca** influx into the target neurons.",
+   "source": "Pharmacology III-1 Q6",
+   "topic": "Medium",
+   "topic_n": 3
+  },
+  {
+   "question": "A 35-year-old woman was admitted to a psychiatric hospital for evaluation. She reported episodic feelings of sadness since adolescence, but she had noticed a gradual worsening in her mood over the past 3 weeks. She had depressed mood most of the day, had lost interest in any leisure activity, and had difficulty sleeping, poor appetite, low energy, feelings of guilt, and recurrent thoughts of death. Which of the following pairs of neurotransmitters were most likely involved in the patient’s disorder?",
+   "choices": [
+    "Serotonin and norepinephrine",
+    "Serotonin and acetylcholine",
+    "Acetylcholine and norepinephrine",
+    "Norepinephrine and glutamate",
+    "Glutamate and serotonin",
+    "Glutamate and acetylcholine"
+   ],
+   "answer": 0,
+   "explanation": "The patient’s symptoms indicate that she was most likely suffering from a major depressive disorder. Both the serotonergic and noradrenergic systems are most likely involved in the pathogenesis of major depressive disorder. This conclusion derives mainly from the fact that most currently available antidepressants have their primary action on the central adrenergic and/or the central serotonergic system. A-D, F See correct answer explanation.",
+   "source": "Pharmacology III-1 Q7",
+   "topic": "Easy",
+   "topic_n": 3
+  },
+  {
+   "question": "A 63-year-old woman recently diagnosed with generalized anxiety disorder started a treatment with a drug that increases serotonin availability in the synaptic cleft. Which of the following enzymes is the rate-limiting step in serotonin biosynthesis?",
+   "choices": [
+    "Tyrosine hydroxylase",
+    "Tryptophan hydroxylase",
+    "Choline acetyl transferase",
+    "L-amino acid decarboxylase",
+    "Dopamine-ß-hydroxylase"
+   ],
+   "answer": 1,
+   "explanation": "Serotonin is synthesized by a two-step pathway from the essential amino acid tryptophan. Tryptophan hydroxylase, a mixed function oxidase enzyme, is the rate-limiting step in serotonin biosynthesis. It converts tryptophan into 5-hydroxytryptophan, which is then converted into serotonin by the aromatic L-amino acid decarboxylase, an enzyme widely distributed and with low substrate specificity. A, B, D, E See correct answer explanation.",
+   "source": "Pharmacology III-1 Q8",
+   "topic": "Easy",
+   "topic_n": 4
+  },
+  {
+   "question": "A 26-year-old man with a long history of polydrug abuse stated that he felt an intense euphoric sensation every time he self-administered any illicit drug. Which of the following items correctly pairs the neurotransmitter and the central nervous system site most likely involved in the rewarding effect of abused drugs?",
+   "choices": [
+    "Serotonin-amygdala",
+    "Serotonin-raphe nuclei",
+    "Acetylcholine-nucleus basalis of Meynert",
+    "Dopamine-basal ganglia",
+    "Dopamine-nucleus accumbens",
+    "Histamine-nucleus accumbens",
+    "GABA-amygdala"
+   ],
+   "answer": 4,
+   "explanation": "Acute rewarding effects of most abused drugs are thought to be mediated by an increase in synaptic levels of dopamine in the nucleus accumbens. This nucleus, located within the striatum, seems to play an important role in reward, pleasure, and addiction. Therefore, dopamine is thought to be substantially involved in drug abuse and addiction. A-E, G See correct answer explanation.",
+   "source": "Pharmacology III-1 Q9",
+   "topic": "Easy",
+   "topic_n": 5
+  },
+  {
+   "question": "A 32-year-old woman was brought to the emergency department because of a generalized tonic-clonic seizure. Her husband stated that his wife had been suffering from epilepsy since childhood, but the seizures were only partially controlled by medication. Which of the following pairs of neurotransmitters are thought to be most involved in seizure disorders?",
+   "choices": [
+    "Serotonin and acetylcholine",
+    "GABA and glutamate",
+    "Acetylcholine and glutamate",
+    "GABA and serotonin",
+    "GABA and acetylcholine",
+    "Serotonin and glutamate"
+   ],
+   "answer": 1,
+   "explanation": "Epilepsy is a chronic recurrent disorder of cerebral function that is characterized by repeated seizures. The essence of epilepsy is probably a chronic low seizure threshold that can be due to several mechanisms. A leading proposed mechanism is that the cause of seizures is either the attenuation of pre- and/or postsynaptic inhibition (mainly due to a genetic or postpathologic hypofunction of GABA neurons) or an increased effectiveness of excitatory synapses (mainly due to a genetic or postpathologic hyperfunction of glutamate neurons). A, C-F See correct answer explanation.",
+   "source": "Pharmacology III-1 Q11",
+   "topic": "Easy",
+   "topic_n": 6
+  },
+  {
+   "question": "A 34-year-old female patient in a psychiatric hospital had been standing immobile for several hours with one of her arms stretched upward. The patient was mute, unresponsive, and did not appear aware of her surroundings. When placed in another awkward posture, the patient maintained that posture for a long time without apparent distress. Which of the following neurotransmitters has been consistently implicated in the patient’s syndrome?",
+   "choices": [
+    "Acetylcholine",
+    "Dopamine",
+    "Histamine",
+    "Norepinephrine",
+    "GABA"
+   ],
+   "answer": 1,
+   "explanation": "The patient is most likely suffering from the catatonic subtype of schizophrenia, which is characterized by motor immobility and abnormal posture maintained for a long time (so-called waxy flexibility). A number of theories related to major neurotransmitter systems have been proposed to explain the symptoms of schizophrenia. Of these, the dopamine hypothesis states that the illness results from an excessive dopaminergic activity in mesolimbic and mesocortical pathways. The dopamine hypothesis is the most fully developed and is supported by several lines of evidence, including the fact that most antipsychotic drugs block dopamine D, receptors, and there is a very good correlation between clinical potency of these drugs and their in vitro affinity for these receptors. Two other major hypotheses of schizophrenia are the serotonin hypothesis (it is known that alteration in serotonergic functioning affects multiple neurotransmitter systems) and the glutamate hypothesis, which proposes a hypofunctional glutamate system in schizophrenia. A-C, E See correct answer explanation.",
+   "source": "Pharmacology III-1 Q12",
+   "topic": "Medium",
+   "topic_n": 4
+  },
+  {
+   "question": "A 71-year-old man recently diagnosed with Alzheimer disease started a therapy with a drug that acts mainly on the central cholinergic system. Which of the following brain regions was most likely involved in the therapeutic effect of the drug in this patient? B. Central raphe nucleus C. Locus ceruleus",
+   "choices": [
+    "Central raphe nucleus",
+    "Locus ceruleus",
+    "Nucleus basalis of Meynert",
+    "Nucleus tractus solitarius",
+    "Substantia nigra",
+    "Amygdala"
+   ],
+   "answer": 2,
+   "explanation": "The primary concentration of cholinergic neuron cell bodies is in the basal nucleus of Meynert, a group of neurons in the substantia innominata of the basal forebrain that have wide projections to the neocortex. These cholinergic neurons have a number of important functions, in particular with respect to memory. A severe neuronal loss in the nucleus of Meynert has been found in Alzheimer disease, in vascular dementia, and in the dementia accompanying Parkinson disease. Occasional involvement is present in other dementing illnesses. B-F See correct answer explanation.",
+   "source": "Pharmacology III-1 Q14",
+   "topic": "Easy",
+   "topic_n": 7
+  },
+  {
+   "question": "A 41-year-old woman was admitted to the psychiatric hospital because of a 1-year history of apprehension and worry. She had been feeling tense most of the time, was often irritable, and found it hard to concentrate because of her constant distress. After psychiatric examination, a diagnosis of generalized anxiety disorder was made, and a therapy was prescribed that included a drug with pronounced anxiolytic activity. Which of the following neurophysiological actions most likely mediated the therapeutic effect of that drug?",
+   "choices": [
+    "Decreased glutamatergic transmission",
+    "Increased dopaminergic transmission",
+    "Decreased dopaminergic transmission",
+    "Decreased serotonergic transmission",
+    "Increased serotonergic transmission",
+    "Increased glutamatergic transmission FE. Decreased glutamatergic transmission"
+   ],
+   "answer": 4,
+   "explanation": "The prescribed drug was most likely a selective serotonin reuptake inhibitor. Drugs of this class are first-line agents for anxiety disorders. Their therapeutic effect is most likely related to their inhibition of the serotonin transporter that mediates the reuptake of serotonin into serotonergic terminals. As a consequence, serotonergic transmission is increased. B-F See correct answer explanation.",
+   "source": "Pharmacology III-1 Q15",
+   "topic": "Easy",
+   "topic_n": 8
+  },
+  {
+   "question": "A 32-year-old man who had been injured in a car accident 1 month earlier presented to the hospital for a follow-up visit. Neurologic examination disclosed slowness of intentional movements and spasticity. A diagnosis of upper motor neuron syndrome due to damage of pyramidal motor neurons was made. Which of the following neurotransmitters was most likely involved in the patient’s syndrome?",
+   "choices": [
+    "Norepinephrine",
+    "Dopamine",
+    "Acetylcholine",
+    "GABA",
+    "Glutamate"
+   ],
+   "answer": 4,
+   "explanation": "Pyramidal neurons are excitatory projection neurons that use glutamate as the main neurotransmitter. A lesion of these neurons affects glutamatergic transmission to the lower motor neurons. A, C-E See correct answer explanation.",
+   "source": "Pharmacology III-1 Q16",
+   "topic": "Easy",
+   "topic_n": 9
+  },
+  {
+   "question": "A 24-year-old woman presented to a psychiatrist complaining of a distressing behavior. For the past several months she experienced an irresistible urge to check that everything was in a certain order at home and found it hard to get out of the house because she needed, again and again, to verify that the door was locked. She admitted her urge was irrational, but she was unable to control it. After psychiatric examination, a diagnosis was made, and a drug was prescribed. Which of the following neurotransmitters has been most consistently implicated in the patient’s disorder?",
+   "choices": [
+    ": ‘",
+    "peetyiele line",
+    "Norepinephrine",
+    "Histamine"
+   ],
+   "answer": 3,
+   "explanation": "The patient’s symptoms indicate that she was most likely suffering from an obsessive-compulsive disorder (OCD) and was prescribed a selective serotonin reuptake inhibitor. A wealth of research has attempted to identify a specific biological explanation for OCD. One leading hypothesis has focused on the role of serotonin (5-hydroxytryptamine, 5-HT) dysfunction, which is supported by the fact that the only effective drug treatments for OCD primarily influence 5-HT transmission. However, the exact role of 5-HT underlying OCD has not been determined. A-C, E, F See correct answer explanation.",
+   "source": "Pharmacology III-1 Q17",
+   "topic": "Medium",
+   "topic_n": 5
+  },
+  {
+   "question": "A 44-year-old man was admitted unconscious to the emergency department. Shortly after admission, he had a tonicclonic seizure. Further exams led to the diagnosis of status epilepticus, and he was treated with a drug that increased the activity of a central neurotransmitter able to generate only inhibitory postsynaptic potentials (IPSPs) by increasing Cl- or K* conductance. Which of the following neurotransmitters was most likely affected by the drug treatment?",
+   "choices": [
+    "Glutamate",
+    "GABA",
+    "Norepinephrine",
+    "Dopamine",
+    "Acetylcholine"
+   ],
+   "answer": 1,
+   "explanation": "GABA is a neurotransmitter that can generate only IPSPs by activating GABA receptors. GABA, receptors are ionotropic; their activation opens ligand-activated Cl channels, increasing inward Cl conductance. GABA, receptors are metabotropic; their activation opens voltage-gated K* channels, increasing outward K* conductance. In both cases, the intracellular environment becomes more negative, thus inducing cell membrane stabilization. A-C, E All of these neurotransmitters can activate both excitatory and inhibitory receptors.",
+   "source": "Pharmacology III-1 Q18",
+   "topic": "Easy",
+   "topic_n": 10
+  },
+  {
+   "question": "A 37-year-old man recently diagnosed with partial seizures started a treatment with a drug that is thought to act by blocking N-methyl-p-aspartate (NMDA) receptors in the brain. Which of the following central systems was most likely affected by that drug?",
+   "choices": [
+    "Histaminergic",
+    "Glutamatergic",
+    "GABAergic",
+    "Noradrenergic",
+    "Dopaminergic",
+    "Serotonergic",
+    "Cholinergic"
+   ],
+   "answer": 1,
+   "explanation": "Glutamate is an important excitatory neurotransmitter in the brain. Glutamate receptors include NMDA and a-amino- 3-hydroxy-5-methylisoxazole-4-propionic acid (AMPA) receptors. Drugs such as felbamate that seem to act by blocking these receptors can be used effectively as anticonvulsants. A-E These systems are not exclusively excitatory; therefore, drugs affecting these systems are not used as anticonvulsants. F The GABAergic system is central inhibitory. Drugs that increase the activity of this system, such as benzodiazepines and barbiturates, are currently used as anticonvulsants. 137",
+   "source": "Pharmacology III-1 Q19",
+   "topic": "Easy",
+   "topic_n": 11
+  },
+  {
+   "question": "A 36-year-old man was brought to the emergency department after a serious car accident. He began to experience severe pain throughout his body. Which of the following triplets of neurotransmitters most likely acted in the central nervous system to decrease pain signaling in this patient?",
+   "choices": [
+    "Glutamate, GABA, serotonin",
+    "Histamine, acetylcholine, GABA",
+    "Glutamate, norepinephrine, opioid peptides",
+    "Norepinephrine, GABA, glutamate",
+    "Opioid peptides, norepinephrine, serotonin",
+    "Histamine, acetylcholine, opioid peptides"
+   ],
+   "answer": 4,
+   "explanation": "Opioid peptides, norepinephrine, and serotonin are the three major neurotransmitters that act in the central nervous system (CNS) to decrease pain signaling, thus producing analgesia. Endogenous opioids are released at several CNS sites in response to noxious stimuli, including the spinal cord, the thalamus, and the cortex. Endogenous opioids can also modulate pain transmission indirectly by activating the following pathways that descend from the brainstem to the dorsal horn: ¢ A noradrenergic pathway from the locus ceruleus. Norepinephrine released from these projections in the spinal cord activates a, receptors (the primary receptors for norepinephrine in the CNS) located on nociceptive neurons of the dorsal horn. This activation causes hyperpolarization of the neuron, inhibiting nociceptive transmission. e A serotonergic pathway from the raphe nuclei. Serotonin, released from these projections in the spinal cord, activates serotonergic receptors located on nociceptive neurons of the dorsal horn. This activation causes hyperpolarization of neurons, inhibiting nociceptive transmission. A-E See correct answer explanation.",
+   "source": "Pharmacology III-1 Q20",
+   "topic": "Medium",
+   "topic_n": 6
+  }
+ ]
+}

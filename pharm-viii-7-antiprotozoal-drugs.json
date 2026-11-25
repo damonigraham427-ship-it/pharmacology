@@ -1,0 +1,383 @@
+{
+ "questions": [
+  {
+   "question": "An effective blood schizonticide also used in the treatment of rheumatoid arthritis",
+   "choices": [
+    "Iodoquinol",
+    "Primaquine",
+    "Chloroquine",
+    "Doxycycline",
+    "Quinine",
+    "Clindamycin",
+    "Mefloquine",
+    "Paromomycin",
+    "Sodium stibogluconate",
+    "Sulfadoxine",
+    "Pyrimethamine",
+    "Metronidazole",
+    "Nifurtimox"
+   ],
+   "answer": 2,
+   "explanation": "Chloroquine is an effective blood schizonticide also used in the treatment of rheumatoid arthritis. (Matching key, Questions 1-5: 1. A)",
+   "source": "Pharmacology VIII-7 Q1",
+   "topic": "Easy",
+   "topic_n": 1
+  },
+  {
+   "question": "This drug can kill most anaerobic bacteria and anaerobic protozoa.",
+   "choices": [
+    "Quinine",
+    "Clindamycin",
+    "Metronidazole",
+    "Mefloquine",
+    "Sulfadoxine",
+    "Doxycycline",
+    "Sodium stibogluconate",
+    "Pyrimethamine",
+    "Chloroquine",
+    "Iodoquinol",
+    "Paromomycin",
+    "Primaquine",
+    "Nifurtimox"
+   ],
+   "answer": 2,
+   "explanation": "Metronidazole can kill most anaerobic bacteria and anaerobic protozoa. (Matching key, Questions 1-5: 2. F)",
+   "source": "Pharmacology VIII-7 Q2",
+   "topic": "Easy",
+   "topic_n": 2
+  },
+  {
+   "question": "An antimalarial drug with a very long half-life (about 20 days)",
+   "choices": [
+    "Chloroquine",
+    "Clindamycin",
+    "Pyrimethamine",
+    "Paromomycin",
+    "Doxycycline",
+    "Iodoquinol",
+    "Sodium stibogluconate",
+    "Primaquine",
+    "Nifurtimox",
+    "Metronidazole",
+    "Sulfadoxine",
+    "Mefloquine",
+    "Quinine"
+   ],
+   "answer": 11,
+   "explanation": "Mefloquine is an antimalarial drug with a very long half-life (about 20 days). (Matching key, Questions 1-5: 3. E)",
+   "source": "Pharmacology VIII-7 Q3",
+   "topic": "Easy",
+   "topic_n": 3
+  },
+  {
+   "question": "This antimalarial drug can kill the late tissue schizonts of Plasmodium vivax and Plasmodium ovale.",
+   "choices": [
+    "Clindamycin",
+    "Primaquine",
+    "Doxycycline",
+    "Chloroquine",
+    "Iodoquinol",
+    "Nifurtimox",
+    "Mefloquine",
+    "Quinine",
+    "Paromomycin",
+    "Sodium stibogluconate",
+    "Metronidazole",
+    "Pyrimethamine",
+    "Sulfadoxine"
+   ],
+   "answer": 1,
+   "explanation": "Primaquine can kill the late tissue schizonts (hypnozoites) of Plasmodium vivax and Plasmodium ovale. (Matching key, Questions 1-5: 4. H)",
+   "source": "Pharmacology VIII-7 Q4",
+   "topic": "Easy",
+   "topic_n": 4
+  },
+  {
+   "question": "The first-line agent to treat acute American trypanosomiasis (Chagas disease)",
+   "choices": [
+    "Iodoquinol",
+    "Sulfadoxine",
+    "Clindamycin",
+    "Quinine",
+    "Metronidazole",
+    "Primaquine",
+    "Chloroquine",
+    "Sodium stibogluconate",
+    "Mefloquine",
+    "Nifurtimox",
+    "Pyrimethamine",
+    "Doxycycline",
+    "Paromomycin"
+   ],
+   "answer": 9,
+   "explanation": "Nifurtimox is the first-line agent to treat acute American trypanosomiasis (Chagas disease). (Matching key, Questions 1-5: 5. M)",
+   "source": "Pharmacology VIII-7 Q5",
+   "topic": "Easy",
+   "topic_n": 5
+  },
+  {
+   "question": "A 45-year-old male reporter who was about to leave for Honduras started a prophylactic antimalarial treatment with chloroquine. Which of the following molecular actions most likely mediated the prophylactic effect of the drug in this man?",
+   "choices": [
+    "Inhibition of dihydropteroate synthase",
+    "Inhibition of DNA-dependent RNA polymerase",
+    "Blockade of translocation of peptidyl transfer RNA (tRNA)",
+    "Prevention of polymerization of free heme into hemozoin",
+    "Incorrect amino acid incorporation into the polypeptide chain"
+   ],
+   "answer": 3,
+   "explanation": "Malarial parasites grow in host erythrocytes by ingesting hemoglobin, a process that generates free radicals and heme as highly reactive by-products. Heme polymerizes into an unreactive malarial pigment called hemozoin. Chloroquine inhibits plasmodial heme polymerase, the enzyme that polymerizes heme into hemozoin, and the buildup of free heme causes the death of parasites. A-D See correct answer explanation.",
+   "source": "Pharmacology VIII-7 Q6",
+   "topic": "Easy",
+   "topic_n": 6
+  },
+  {
+   "question": "A 55-year-old man who was about to leave for a vacation trip to Central Africa started a prophylactic treatment with mefloquine. Which of the following plasmodia can be effectively killed by the drug?",
+   "choices": [
+    "Plasmodium vivax hypnozoites",
+    "P. vivax tissue schizonts",
+    "P. malariae tissue schizonts",
+    "P. falciparum gametocytes",
+    "P. falciparum tissue schizonts",
+    "P. malariae blood schizonts"
+   ],
+   "answer": 5,
+   "explanation": "Mefloquine is a blood schizonticide that is moderately effective against gametocytes, except those of Plasmodium falciparum. It has no effect on primary tissue schizonts or hypnozoites. Mefloquine is especially useful as a chemoprophylactic agent for travelers in areas that are chloroquine-resistant, as in this case. A-D, F See correct answer explanation.",
+   "source": "Pharmacology VIII-7 Q7",
+   "topic": "Easy",
+   "topic_n": 7
+  },
+  {
+   "question": "A 43-year-old man who was about to leave for a vacation in the Amazon basin was advised by his physician to take malarone (atovaquone and proguanil) as a prophylactic measure, as chloroquine resistance was widespread in those regions. Which of the following reasons best explains the likely mechanism of plasmodial resistance to chloroquine?",
+   "choices": [
+    "Decreased conversion of free heme into hemozoin",
+    "Increased inactivation of the drug",
+    "Decreased chloroquine-binding sites on plasmodia cells",
+    "Increased activity of the DNA repair mechanism",
+    "Increased drug transport out of plasmodia cells"
+   ],
+   "answer": 4,
+   "explanation": "Chloroquine acts by being accumulated in the food vacuole, where it inhibits heme polymerase. Resistant strains are able to efflux the drug by an active pump mechanism and release the drug at least 40 times faster than sensitive strains, thereby rendering the drug ineffective. Chloroquine resistance is maintained throughout the whole life cycle and is transferred to the progeny. Cross-resistance has been demonstrated with other 4-amino quinolines but not to quinine, mefloquine, or antifolates. A, B, D, E See correct answer explanation.",
+   "source": "Pharmacology VIII-7 Q8",
+   "topic": "Easy",
+   "topic_n": 8
+  },
+  {
+   "question": "A 45-year-old Black man reported to his physician that a few days earlier he had noticed a persistent yellow color in his eyes. One week ago, coming back from a trip to Central America, the man had started a treatment that included primaquine. Blood tests disclosed the following: Red blood cell count: 3.8 x 10^6/mm3 (normal, male 4.3-5.9 x 10^6/mm3); Hemoglobin: 9 g/dL (normal, male 13.5-17.5 g/dL); Reticulocytes: 3.7% of red cells (normal 0.5-1.5%); White blood cell count: 15,000/mm3 (normal 4500-11,000/mm3). The physician told the patient that he probably had a genetically induced enzyme defect that could explain his blood test results. Which of the following enzymes was most likely abnormal in this patient?",
+   "choices": [
+    "Pyruvate kinase",
+    "Uroporphyrinogen decarboxylase",
+    "Thymidylate synthase",
+    "Glucose-6-phosphate-dehydrogenase",
+    "Dihydrofolate reductase"
+   ],
+   "answer": 3,
+   "explanation": "The patient's history and lab tests indicate that he was suffering from hemolytic anemia. The disorder was most likely triggered by primaquine in a person with a genetically induced glucose-6-phosphate dehydrogenase deficiency (G6PD), an X-linked disorder. Over 100 mutant forms of the enzyme have been identified, but the most common one is the drug-sensitive variety. The enzyme defect occurs in about 10% of American Black males. Hemolysis affects the older red blood cells (RBCs) after exposure to drugs that produce peroxide and causes oxidation of RBC membranes. A vast array of drugs can induce hemolysis in people with G6PD deficiency, including primaquine and other antimalarial drugs (chloroquine, quinine). The degree of hemolytic anemia varies greatly. Jaundice, reticulocytosis, and leukocytosis are common, as in this case. A-D See correct answer explanation.",
+   "source": "Pharmacology VIII-7 Q9",
+   "topic": "Easy",
+   "topic_n": 9
+  },
+  {
+   "question": "A 41-year-old woman who had recently returned from a trip to Kenya was admitted to the hospital because of malaise, myalgia, abdominal pain, and fever (104°F, 40°C). Recent history was significant for two paroxysmal attacks of chills, fever, and vomiting. The first attack lasted a day and was followed by a second, 36 hours later. Physical examination revealed an acutely ill patient complaining of severe abdominal pain. Palpation showed a tender, soft, and enlarged spleen. Examination of a stained blood specimen revealed ringlike and crescentlike forms within the red blood cells. Which of the following pairs of drugs would be appropriate for this patient?",
+   "choices": [
+    "Primaquine and clindamycin",
+    "Chloroquine and paromomycin",
+    "Pyrimethamine and metronidazole",
+    "Mefloquine and ciprofloxacin",
+    "Artesunate and doxycycline"
+   ],
+   "answer": 4,
+   "explanation": "The history and the signs of the patient, together with the lab results, indicate that she was most likely affected by falciparum malaria. Because infections with Plasmodium falciparum in nonimmune patients can progress rapidly to a fatal outcome, therapy should be initiated promptly. Artemisin-based combination therapy is currently the standard treatment for severe falciparum malaria. Artesunate is given for 3 days, followed by a 7-day oral course of doxycycline or clindamycin. Artemisin derivatives are very rapidly acting blood schizonticides against all human malaria parasites. The mechanism of antimalarial activity of artemisins is still uncertain but likely results from the production of toxic free radicals. B-E See correct answer explanation.",
+   "source": "Pharmacology VIII-7 Q10",
+   "topic": "Medium",
+   "topic_n": 1
+  },
+  {
+   "question": "A 38-year-old man was planning a vacation to sub-Saharan Africa, where chloroquine-resistant strains of Plasmodium falciparum are present. Which of the following drug combinations would be appropriate to prevent malaria infection in this man?",
+   "choices": [
+    "Primaquine-quinine",
+    "Doxycycline-iodoquinol",
+    "Atovaquone-proguanil",
+    "Chloroquine-paromomycin",
+    "Mefloquine-metronidazole"
+   ],
+   "answer": 2,
+   "explanation": "Atovaquone-proguanil combination (Malarone) is a standard prophylactic regimen for chloroquine-resistant P. falciparum. Resistance to atovaquone alone develops easily in P. falciparum, but the addition of proguanil markedly reduces this resistance. A, B, D, E In these drug combinations, at least one drug is not active against P. falciparum.",
+   "source": "Pharmacology VIII-7 Q11",
+   "topic": "Easy",
+   "topic_n": 10
+  },
+  {
+   "question": "A 30-year-old epileptic woman presented to the clinic with a 5-day history of loose stools containing bloody mucus. Upon physical examination, her abdomen was soft but nontender. Laboratory examination of fresh stool showed Entamoeba histolytica trophozoites. A computed tomography scan was negative for gut wall or liver amebiasis. Which of the following drugs would be appropriate for this patient?",
+   "choices": [
+    "Paromomycin",
+    "Sulfadoxine",
+    "Pyrimethamine",
+    "Clindamycin",
+    "Metronidazole",
+    "Chloroquine"
+   ],
+   "answer": 0,
+   "explanation": "The patient's symptoms and lab tests indicate that she was suffering from amebic dysentery. Because the patient apparently had no extraintestinal amebiasis (see the negative computed tomography scan), a luminal amebicide is appropriate. Paromomycin is a second-line luminal amebicide. In this patient, however, metronidazole is relatively contraindicated because of epilepsy (the drug is relatively contraindicated in patients with any neurologic disorder). A See correct answer explanation. B Chloroquine is effective only against liver amebiasis. C, E, F These drugs are not effective against Entamoeba histolytica.",
+   "source": "Pharmacology VIII-7 Q12",
+   "topic": "Medium",
+   "topic_n": 2
+  },
+  {
+   "question": "A 30-year-old man with AIDS was admitted to the hospital with the preliminary diagnosis of pneumonia. Further tests led to the diagnosis of toxoplasmosis, and an appropriate combination therapy was started. Inhibition of which of the following protozoal enzymes most likely mediated the therapeutic effect of the therapy in this patient?",
+   "choices": [
+    "Dihydrofolate reductase",
+    "Glucose-6-phosphate dehydrogenase",
+    "Ornithine decarboxylase",
+    "Ferredoxin oxidoreductase",
+    "Purine phosphoribosyl transferase"
+   ],
+   "answer": 0,
+   "explanation": "The patient most likely received a sulfadiazine-pyrimethamine combination that represents the standard therapy for toxoplasmosis. Pyrimethamine selectively inhibits protozoal dihydrofolate reductase, a key enzyme for folate biosynthesis in the parasite. This in turn leads to failure in DNA synthesis and nuclear division. A-D See correct answer explanation.",
+   "source": "Pharmacology VIII-7 Q13",
+   "topic": "Medium",
+   "topic_n": 3
+  },
+  {
+   "question": "A 31-year-old man returning from a trip to Malaysia was admitted to the hospital with a 2-day history of fever, chills, and bouts of diarrhea. A Giemsa blood smear demonstrated Plasmodium vivax trophozoites. The patient was placed on chloroquine for 5 days and was then instructed to take another drug for 14 days. Which of the following drugs would be appropriate for the 14 days of therapy?",
+   "choices": [
+    "Quinidine",
+    "Mefloquine",
+    "Primaquine",
+    "Pyrimethamine",
+    "Sulfadoxine",
+    "Doxycycline"
+   ],
+   "answer": 2,
+   "explanation": "Primaquine is the only agent able to prevent relapse of infection due to the late exoerythrocytic stage of P. vivax and P. ovale. It is therefore commonly given to achieve a radical cure of vivax or ovale malaria. B-F See correct answer explanation.",
+   "source": "Pharmacology VIII-7 Q14",
+   "topic": "Easy",
+   "topic_n": 11
+  },
+  {
+   "question": "A 29-year-old married woman complained to her physician of soreness of her vulva and pain during intercourse. Further tests led to a definitive diagnosis, and an appropriate therapy was started. The prescribed antibiotic acts by damaging microbial DNA through a highly reactive nitro radical anion. Which of the following drugs was most likely administered to the patient and to her husband?",
+   "choices": [
+    "Ampicillin",
+    "Erythromycin",
+    "Cefoperazone",
+    "Gentamicin",
+    "Metronidazole"
+   ],
+   "answer": 4,
+   "explanation": "The woman was most likely suffering from trichomoniasis, a protozoal infection of the vagina that may be asymptomatic or may cause inflammatory disorders in the genital tract. Metronidazole is a first-line agent for trichomoniasis. Its mechanism of action most likely involves damage of protozoal DNA through the formation of a highly reactive nitro radical anion. Therapy must include sex partners in order to avoid reinfection. A-C, E These antibiotics are not effective against Trichomonas vaginalis.",
+   "source": "Pharmacology VIII-7 Q15",
+   "topic": "Medium",
+   "topic_n": 4
+  },
+  {
+   "question": "A 38-year-old woman who had recently returned from a vacation in Greece developed a red papule on her right arm that enlarged slowly and began to ulcerate but caused no pain. A few days later, multiple skin lesions developed. A smear taken from the skin lesions demonstrated the presence of amastigotes. Which of the following drugs would be most appropriate for this patient?",
+   "choices": [
+    "Ceftriaxone",
+    "Clindamycin",
+    "Chloroquine",
+    "Metronidazole",
+    "Sodium stibogluconate",
+    "Doxycycline"
+   ],
+   "answer": 4,
+   "explanation": "The patient's history, signs, and lab tests indicate that she was most likely suffering from cutaneous leishmaniasis. Leishmania tropica is the causative agent in southern Europe. Drugs of choice for leishmaniasis include antimony compounds (e.g., sodium stibogluconate), pentamidine, amphotericin B, and certain azoles (itraconazole). Sodium stibogluconate is the classic therapy for all species of Leishmania. Resistance to the drug has led to failure of this therapy in India but not in other parts of the world. A, C-F These drugs are not effective against leishmaniasis.",
+   "source": "Pharmacology VIII-7 Q16",
+   "topic": "Medium",
+   "topic_n": 5
+  },
+  {
+   "question": "A 31-year-old homosexual man presented to the clinic with a 10-day history of abdominal pain and multiple brown, watery stools. Physical examination revealed a tall man with abdominal distress. Vital signs were blood pressure 125/75 mm Hg, pulse 78 bpm, temperature 103.5°F (39.7°C). His abdomen was slightly distended with a tender mass palpable in the lower right quadrant, which an ultrasound examination revealed to be an abdominal abscess. A serologic test was positive for Entamoeba histolytica. Which of the following pairs of drugs would be appropriate for this patient?",
+   "choices": [
+    "Doxycycline and iodoquinol",
+    "Chloroquine and clindamycin",
+    "Metronidazole and pyrimethamine",
+    "Pyrimethamine and ciprofloxacin",
+    "Metronidazole and iodoquinol",
+    "Chloroquine and ciprofloxacin"
+   ],
+   "answer": 4,
+   "explanation": "The patient's symptoms and lab tests indicate that he was most likely suffering from an amebic abscess presumably located on the gut wall (ameboma). For extraintestinal amebiasis, metronidazole is the drug of choice. A luminal amebicide such as iodoquinol or paromomycin must be given concomitantly to eradicate the infection. B-F In these drug combinations, at least one of the drugs is not active against Entamoeba histolytica.",
+   "source": "Pharmacology VIII-7 Q17",
+   "topic": "Medium",
+   "topic_n": 6
+  },
+  {
+   "question": "A 1700-g (3.8-lb) preterm female newborn presented with hydrocephalus and seizures. Further tests led to the diagnosis of congenital toxoplasmosis, and an appropriate therapy was started. Which of the following drug combinations would be most appropriate for this baby?",
+   "choices": [
+    "Sulfadiazine and pyrimethamine",
+    "Isoniazid and rifampin",
+    "Gentamicin and piperacillin",
+    "Vancomycin and ceftazidime",
+    "Streptomycin and tetracycline"
+   ],
+   "answer": 0,
+   "explanation": "Toxoplasma gondii is a small intracellular protozoan that can infect people worldwide. Asymptomatic infections are common in immunocompetent individuals, but the disease can be life-threatening in newborns. A combination of sulfadiazine and pyrimethamine represents the treatment of choice for toxoplasma infection. The treatment must be continued for 1 year. Treatment of infants without apparent neurologic disease at birth using pyrimethamine and sulfadiazine has resulted in normal cognitive, neurologic, and auditory outcomes for all patients. Treatment of infants who had moderate or severe neurologic disease at birth has resulted in normal neurologic and/or cognitive outcomes for more than 72% of patients. The best alternative therapy for patients intolerant to sulfonamides is clindamycin and pyrimethamine. Alternative therapies are trimethoprim-sulfamethoxazole, azithromycin, and doxycycline. A, C-E These drug combinations are not effective against T. gondii.",
+   "source": "Pharmacology VIII-7 Q18",
+   "topic": "Medium",
+   "topic_n": 7
+  },
+  {
+   "question": "A 51-year-old alcoholic woman complained to her physician of abdominal discomfort and occasional foul-smelling diarrhea alternating with constipation for the past 3 weeks. The symptoms started after her return from a vacation trip to Guatemala. Heart-shaped trophozoites with four pairs of flagella and round cysts were observed in her stool specimen. Which of the following drugs would be most appropriate to prescribe to this patient?",
+   "choices": [
+    "Ciprofloxacin",
+    "Pyrimethamine",
+    "Primaquine",
+    "Metronidazole",
+    "Paromomycin",
+    "Fluconazole"
+   ],
+   "answer": 4,
+   "explanation": "The patient's symptoms and lab test results (heart-shaped trophozoites with four pairs of flagella) indicate that she was suffering from giardiasis. Metronidazole would be the drug of choice for this disease but is contraindicated in this patient because she is an alcoholic. Concurrent alcohol consumption with metronidazole causes a disulfiram-like effect that can be dangerous (psychotic reactions have been reported in alcoholics receiving metronidazole). Paromomycin is active against Giardia lamblia and can be a useful option when metronidazole is contraindicated, as in this case. B See correct answer explanation. C-F These drugs are not effective against giardiasis.",
+   "source": "Pharmacology VIII-7 Q19",
+   "topic": "Medium",
+   "topic_n": 8
+  },
+  {
+   "question": "A 34-year-old black man living in the United States was planning to visit his seriously ill father who lives in Uganda. He was going to be accompanied by his wife and son. Knowing that chloroquine-resistant strains of malaria are present in Uganda, which of the following drugs used alone would be the most appropriate prophylaxis for the man, his wife, and their son before entering Uganda?",
+   "choices": [
+    "Primaquine",
+    "Chloroquine",
+    "Mefloquine",
+    "Quinine",
+    "Pyrimethamine",
+    "Metronidazole"
+   ],
+   "answer": 2,
+   "explanation": "Resistance to chloroquine is now very common in many areas of Africa. Mefloquine has strong schizonticidal activity and is effective against many chloroquine-resistant strains of P. falciparum and other malaria species. Other regimens for malaria chemoprophylaxis in regions with multidrug-resistant strains of P. falciparum are doxycycline and atovaquone-proguanil (Malarone). A Primaquine is the only antimalarial drug active against the hypnozoite stages of P. vivax and P. ovale. Because of this, some experts advocate the use of the drug after travel to an endemic area to markedly diminish the risk of relapse. B Metronidazole is not active against plasmodia. C, E Chemoprophylaxis with these drugs is not recommended because of frequent resistance. F Although most chloroquine-resistant strains of P. falciparum are sensitive to quinine, the drug is not used for prophylaxis because of its toxicity.",
+   "source": "Pharmacology VIII-7 Q20",
+   "topic": "Easy",
+   "topic_n": 12
+  },
+  {
+   "question": "A 32-year-old woman complained to the nurse of a sudden increase in her heart rate. Four days earlier, the woman, who had recently returned from a trip to Uganda, was hospitalized with the presumptive diagnosis of malaria. The woman had been suffering from anorexia nervosa for 1 year. The Plasmodium vivax infection was confirmed, and the patient started an appropriate therapy. An electrocardiogram led to the diagnosis of torsades de pointes. Which of the following drugs most likely caused the patient's arrhythmia?",
+   "choices": [
+    "Artesunate",
+    "Pyrimethamine",
+    "Iodoquinol",
+    "Quinine",
+    "Chloroquine",
+    "Metronidazole"
+   ],
+   "answer": 4,
+   "explanation": "The patient was most likely treated with chloroquine, a quinoline derivative that is a first-line agent for Plasmodium vivax and P. ovale infections. All quinolines can prolong the QT interval on an electrocardiogram, increasing the risk of torsades de pointes. The arrhythmia is rare, but its occurrence may be increased in patients already at risk because of a concomitant disease, as in this case (see the patient's anorexia). A Quinine can cause torsades de pointes but is not used to treat P. vivax infection because chloroquine is more effective and less toxic. E, F These antimalarial drugs have a negligible risk of torsades de pointes. C, D These drugs are not effective against malaria.",
+   "source": "Pharmacology VIII-7 Q21",
+   "topic": "Medium",
+   "topic_n": 9
+  },
+  {
+   "question": "A 44-year-old woman complained to her physician that the drug she was taking caused an oral thrush. One week earlier, the woman was diagnosed with amebiasis and started an appropriate treatment. Examination of the oral cavity showed white patches of a cheesy substance on a friable oral mucosa. Which of the following drugs most likely caused the adverse effect in this patient?",
+   "choices": [
+    "Tobramycin",
+    "Paromomycin",
+    "Metronidazole",
+    "Iodoquinol",
+    "Mebendazole",
+    "Fluconazole"
+   ],
+   "answer": 2,
+   "explanation": "The patient's history and symptoms indicate that she was most likely suffering from oral candidiasis due to metronidazole, a first-line agent for amebiasis. The drug can cause a disruption of the normal biologic flora, favoring the appearance of opportunistic infections. A, B These antiamebic drugs have a very low risk of candidiasis. C, E, F These drugs are not effective against Entamoeba species.",
+   "source": "Pharmacology VIII-7 Q22",
+   "topic": "Easy",
+   "topic_n": 13
+  }
+ ]
+}

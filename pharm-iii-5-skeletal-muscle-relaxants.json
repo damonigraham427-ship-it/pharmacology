@@ -1,0 +1,502 @@
+{
+ "questions": [
+  {
+   "question": "An antagonist at Nn acetylcholine receptors in autonomic ganglia",
+   "choices": [
+    "Mivacurium",
+    "Baclofen",
+    "Tubocurarine",
+    "Gabapentin",
+    "Tizanidine",
+    "Succinylcholine",
+    "Cisatracurium",
+    "Diazepam",
+    "Dantrolene"
+   ],
+   "answer": 2,
+   "explanation": "Matching question; the book prints only the answer key for matching sets (key: A).",
+   "source": "Pharmacology III-5 Q1",
+   "topic": "Easy",
+   "topic_n": 1
+  },
+  {
+   "question": "An agonist at Nm acetylcholine receptors",
+   "choices": [
+    "Mivacurium",
+    "Tizanidine",
+    "Dantrolene",
+    "Cisatracurium",
+    "Tubocurarine",
+    "Baclofen",
+    "Diazepam",
+    "Gabapentin",
+    "Succinylcholine"
+   ],
+   "answer": 8,
+   "explanation": "Matching question; the book prints only the answer key for matching sets (key: D).",
+   "source": "Pharmacology III-5 Q2",
+   "topic": "Easy",
+   "topic_n": 2
+  },
+  {
+   "question": "Primarily an agonist at «, receptors located in the spinal cord.",
+   "choices": [
+    "Gabapentin",
+    "Baclofen",
+    "Succinylcholine",
+    "Dantrolene",
+    "Tubocurarine",
+    "Cisatracurium",
+    "Diazepam",
+    "Tizanidine",
+    "Mivacurium"
+   ],
+   "answer": 7,
+   "explanation": "Matching question; the book prints only the answer key for matching sets (key: H).",
+   "source": "Pharmacology III-5 Q3",
+   "topic": "Easy",
+   "topic_n": 3
+  },
+  {
+   "question": "Ananticonvulsant agent that can reduce spasticity in patients with multiple sclerosis",
+   "choices": [
+    "Dantrolene",
+    "Baclofen",
+    "Tubocurarine",
+    "Gabapentin",
+    "Succinylcholine",
+    "Diazepam",
+    "Mivacurium",
+    "Tizanidine",
+    "Cisatracurium"
+   ],
+   "answer": 3,
+   "explanation": "Matching question; the book prints only the answer key for matching sets (key: F).",
+   "source": "Pharmacology III-5 Q4",
+   "topic": "Easy",
+   "topic_n": 4
+  },
+  {
+   "question": "A 63-year-old man underwent abdominal surgery for prostate cancer. General anesthesia was supplemented with tubocurarine. Which of the following anatomical structures most likely represents the main site of action of the drug for this clinical application?",
+   "choices": [
+    "Skeletal muscle cell membranes",
+    "Adrenal medulla",
+    "Postjunctional folds of motor end plates",
+    "Ganglionic neuron membranes",
+    "Spinal motor neuron membranes",
+    "Autonomic cholinergic nerve terminals"
+   ],
+   "answer": 2,
+   "explanation": "All neuromuscular blocking agents bind to Nm receptors located on the postjunctional folds of motor end plates, acting there as competitive antagonists (nondepolarizing blockers) or as partial agonists (depolarizing blockers). The blockade of these receptors mediates the clinical effects of these drugs, that is, skeletal muscle paralysis. A, B, D Tubocurarine can block Nn receptors located on autonomic ganglia, on the adrenal medulla, and on somatic nerve terminals, but these sites do not represent the main site of action of the drug. In fact, the affinity of the drug for these receptors is much lower than the affinity for Nm receptors. E Spinal motor neurons are located on the anterior horn of the spinal cord, that is, inside the central nervous system (CNS). Curare-like drugs cannot enter the CNS because they do not cross the blood-brain barrier. F Nm receptors are on motor end plates only. When activated, they open ligand-gated ion channels, causing depolarization of the motor end plate (miniature end-plate potential). Skeletal muscle cell membranes have voltage-gated ion channels that open when the depolarization of the motor end plate reaches the threshold for the propagation of the potential.",
+   "source": "Pharmacology III-5 Q5",
+   "topic": "Easy",
+   "topic_n": 5
+  },
+  {
+   "question": "A 38-year-old patient was admitted to the emergency department with extensive soft tissue burns. He was semiconscious and was artificially ventilated. His uncoordinated respiratory movements were interfering with the mechanical ventilation. Which of the following drugs would most likely be effective to decrease the patient’s spontaneous breathing?",
+   "choices": [
+    "Botulinum toxin",
+    "Vecuronium",
+    "Tizanidine",
+    "Diazepam",
+    "Baclofen",
+    "Dantrolene"
+   ],
+   "answer": 1,
+   "explanation": "The patient most likely received vecuronium, a nondepolarizing neuromuscular blocker. These drugs are often used in patients who need mechanical ventilation. They can facilitate intubation and can block voluntary movements that could interfere with mechanical ventilation. Neuromuscular blockers with an intermediate duration of action such as vecuronium (about 30 minutes after a standard therapeutic dose) are often preferred. A, C-F All of these drugs have skeletal muscle relaxant properties, but they act with different mechanisms of action and are not used to facilitate intubation and decrease spontaneous breathing.",
+   "source": "Pharmacology III-5 Q6",
+   "topic": "Easy",
+   "topic_n": 6
+  },
+  {
+   "question": "A 57-year-old woman was admitted semiconscious to the emergency department after an accident at home. Artificial ventilation was needed, and a drug was given to facilitate intubation. This drug has the shortest duration of action among skeletal muscle relaxants. Which of the following drugs was most likely administered?",
+   "choices": [
+    "Vecuronium",
+    "Tizanidine",
+    "Dantrolene",
+    "Succinylcholine",
+    "Cisatracurium",
+    "Tubocurarine"
+   ],
+   "answer": 3,
+   "explanation": "The duration of action of succinylcholine is about 8 minutes after a standard therapeutic dose. The reason is that the drug is rapidly hydrolyzed by pseudocholinesterase in plasma and liver. This duration of action is enough to facilitate intubation. When a longer duration of action is needed, the drug is given by intravenous infusion. B-F See correct answer explanation.",
+   "source": "Pharmacology III-5 Q7",
+   "topic": "Easy",
+   "topic_n": 7
+  },
+  {
+   "question": "A 49-year-old man diagnosed with inguinal hernia was prepared for surgery. Shortly after the initiation of general anesthesia with halothane and succinylcholine, the patient developed muscle rigidity, tachycardia, labile blood pressure, profuse diaphoresis, and high fever (104.2°F, 40.1°C). The anesthesia was discontinued at once, and a drug was administered by rapid intravenous push. Which of the follow-",
+   "choices": [
+    "Blockade of Ca2* channels in the skeletal muscle membrane",
+    "Increased K* conductance in the skeletal muscle membrane",
+    "Blockade of Ca2* channels in the sarcoplasmic reticulum",
+    "likely the mechanism of action of the ing was most administered drug? A. Activation of GABA, receptors in the spinal cord",
+    "Blockade of excitatory neurotransmitter release in the brain"
+   ],
+   "answer": 2,
+   "explanation": "The clinical picture of the patient suggests the diagnosis of malignant hyperthermia, a rare but potentially life-threatening disorder that can be triggered by a variety of stimuli, including the administration of certain anesthetics (mainly halothane) and neuromuscular blocking agents (mainly succinylcholine). The disorder is related to a hereditary impairment in the ability of the sarcoplasmic reticulum to sequester calcium; therefore, a prolonged release of calcium occurs after the triggering event through sarcoplasmic calcium channels (sometimes called ryanodine receptors). This causes massive muscle contraction, hyperthermia, and lactic acidosis. Dantrolene is a drug of choice in this disorder because it blocks Ca2+ channels in the skeletal muscle sarcoplasmic reticulum, thus preventing the massive release of calcium. Cardiac and smooth muscle are minimally affected by dantrolene because they have a different type of Ca2* channel in their sarcoplasmic reticulum. A-C, E See correct answer explanation.",
+   "source": "Pharmacology III-5 Q8",
+   "topic": "Hard",
+   "topic_n": 1
+  },
+  {
+   "question": "A 22-year-old man suffering from strabismus started treatment with local injections of botulinum toxin into the extrinsic ocular muscles. Which of the following structures was most likely the site of the therapeutic action of the drug?",
+   "choices": [
+    "Nicotinic neuronal receptors",
+    "Somatic nerve terminals",
+    "Nicotinic muscular receptors",
+    "Muscarinic receptors",
+    "Autonomic nerve terminals"
+   ],
+   "answer": 1,
+   "explanation": "Via endocytosis, botulinum toxin enters cholinergic nerve terminals, where it prevents the exocytotic release of acetylcholine, causing paralysis of the skeletal muscles surrounding the site of injection. A, C, E Botulinum toxin does not bind to cholinergic receptors. D Botulinum toxin also prevents acetylcholine release from autonomic cholinergic nerve terminals, but this is not the site of the therapeutic action of the drug.",
+   "source": "Pharmacology III-5 Q9",
+   "topic": "Easy",
+   "topic_n": 8
+  },
+  {
+   "question": "A 73-year-old man underwent thoracic surgery to remove a lung cancer. General anesthesia was supplemented with vecuronium. Which of the following molecular actions most likely mediated the muscle relaxant effect of this drug?",
+   "choices": [
+    "Stimulation of plasma cholinesterase",
+    "Long-lasting activation of postsynaptic Nm receptors",
+    "Competitive blockade of Nn receptors in the brain",
+    "Blockade of Ca2+ release from the sarcoplasmic reticulum",
+    "Blockade of action potential of the motor nerves",
+    "Competitive blockade of postsynaptic Nm receptors"
+   ],
+   "answer": 5,
+   "explanation": "Vecuronium is a nondepolarizing neuromuscular blocker. These drugs act as competitive antagonists at Nm receptors, preventing the activation of the receptors by acetylcholine. In this way, they prevent depolarization of skeletal muscle cell membranes and inhibit muscular contraction. Their action can be overcome by increasing the concentration of acetylcholine in the synaptic cleft. A, B, D-F Nondepolarizing neuromuscular blockers are devoid of these effects.",
+   "source": "Pharmacology III-5 Q10",
+   "topic": "Easy",
+   "topic_n": 9
+  },
+  {
+   "question": "A 61-year-old man underwent surgery for prostate cancer. The anesthesia was induced by thiopental and maintained ensure adequate muscle relaxation. Which of the following was most likely the sequence of the paralysis of skeletal muscles induced by vecuronium in this patient?",
+   "choices": [
+    "Limb muscles, eye extrinsic muscles, diaphragm",
+    "Eye extrinsic muscles, limb muscles, diaphragm",
+    "Diaphragm, eye extrinsic muscles, limb muscles",
+    "Limb muscles, diaphragm, eye extrinsic muscles",
+    "Diaphragm, limb muscles, eye extrinsic muscles"
+   ],
+   "answer": 1,
+   "explanation": "The skeletal muscle paralysis induced by nondepolarizing neuromuscular blocking drugs follows a sequence that is related to the innervation of the skeletal muscles. Muscles that are small, rapidly moving, and richly innervated, such as extrinsic eye muscles, small muscles of the face, and pharynx, are affected first. The paralysis of the extrinsic eye muscles causes a lack of parallelism of the visual axes of the eyes that leads to double vision. As a rule, large muscles (e.g., limb muscles) are paralyzed after small muscles. Ultimately, the intercostal muscles and, finally, the diaphragm are paralyzed. B-E See correct answer explanation.",
+   "source": "Pharmacology III-5 Q11",
+   "topic": "Medium",
+   "topic_n": 1
+  },
+  {
+   "question": "A 59-year-old woman was undergoing surgery for breast cancer. General anesthesia was supplemented with a nondepolarizing neuromuscular blocker that has a short duration of action and is metabolized by plasma pseudocholinesterase. Which of the following drugs was most likely administered?",
+   "choices": [
+    "Vecuronium",
+    "Cisatracurium",
+    "Succinylcholine",
+    "Tubocurarine",
+    "Mivacurium"
+   ],
+   "answer": 4,
+   "explanation": "Mivacurium is the only nondepolarizing neuromuscular blocker that is metabolized by plasma pseudocholinesterase. Because of this rapid metabolism, the action of the drug is short. A Succinylcholine is metabolized by plasma cholinesterase, but it is a depolarizing, not a nondepolarizing, neuromuscular blocker. B, C, E See correct answer explanation.",
+   "source": "Pharmacology III-5 Q12",
+   "topic": "Easy",
+   "topic_n": 10
+  },
+  {
+   "question": "A74-year-old man underwent abdominal surgery to remove a colon carcinoma. The patient had severely impaired hepatic and renal function, and the anesthesiologist decided to supplement general anesthesia with a muscle relaxant that is inactivated primarily by a form of spontaneous breakdown (also known as Hoffmann elimination). Which of the following drugs was most likely given?",
+   "choices": [
+    "Tubocurarine",
+    "Cisatracurium",
+    "Succinylcholine",
+    "Mivacurium",
+    "Dantrolene"
+   ],
+   "answer": 1,
+   "explanation": "Cisatracurium is a neuromuscular blocking drug that has the unique property of being inactivated primarily by a form of spontaneous breakdown also known as Hoffmann elimination. Because of this, it does not exhibit an increase in half-life in patients with compromised hepatic or renal function, and it is therefore the agent of choice under these conditions, as in the present case. A, C, E Succinylcholine, dantrolene, and mivacurium are not metabolized by Hoffmann elimination. B Dantrolene cannot cause skeletal muscle paralysis (unless huge doses are given) and therefore is not used as a skeletal muscle relaxant during surgery.",
+   "source": "Pharmacology III-5 Q13",
+   "topic": "Easy",
+   "topic_n": 11
+  },
+  {
+   "question": "A 65-year-old woman underwent hysterectomy for endometrial carcinoma. The general anesthesia protocol included sodium thiopental, isoflurane, nitrous oxide, and tubocurarine. The anesthesiologist also administered another drug to counteract tubocurarine-induced hypotension. To which of the following classes did this drug most likely belong?",
+   "choices": [
+    "H1 antagonists",
+    "B, agonists",
+    "D, antagonists",
+    "Cholinesterase inhibitors",
+    "Muscarinic agonists"
+   ],
+   "answer": 0,
+   "explanation": "Tubocurarine-induced hypotension is primarily due to histamine release, and premedication with an antihistamine drug is often used to attenuate this adverse effect. A-D Drugs from these classes would increase, not decrease, tubocurarine-induced hypotension.",
+   "source": "Pharmacology III-5 Q14",
+   "topic": "Medium",
+   "topic_n": 2
+  },
+  {
+   "question": "A 66-year-old woman was brought to the emergency department following a car accident. Surgery was needed to repair a badly damaged leg. Medications of the patient on admission were gentamicin and darifenacin for urinary tract infection, timolol and latanoprost for glaucoma, and lovastatin for hypercholesterolemia. General anesthesia was induced by thiopental sodium, maintained by isoflurane and nitrous oxide, and supplemented by vecuronium. Which of the following of the patient’s medications most likely enhanced the action of vecuronium?",
+   "choices": [
+    "Gentamicin",
+    "Darifenacin",
+    "Lovastatin",
+    "Timolol",
+    "Latanoprost"
+   ],
+   "answer": 0,
+   "explanation": "Aminoglycoside antibiotics inhibit acetylcholine release from cholinergic nerves by blocking a specific type of Ca2+ channel. Therefore, they enhance the blockade induced by nondepolarizing neuromuscular blockers. B-E See correct answer explanation.",
+   "source": "Pharmacology III-5 Q15",
+   "topic": "Easy",
+   "topic_n": 12
+  },
+  {
+   "question": "A 44-year-old man brought to the emergency department after a car accident required intubation and mechanical ventilation. The patient’s history was significant for a genetic deficiency of plasma cholinesterase. A muscle relaxant was administered intravenously. Which of the following muscle relaxants would be contraindicated in this patient?",
+   "choices": [
+    "Tubocurarine",
+    "Cisatracurium",
+    "Baclofen",
+    "Vecuronium 77m Ww p> OM Tizanidine",
+    "Mivacurium"
+   ],
+   "answer": 4,
+   "explanation": "Mivacurium and succinylcholine are two neuromuscular blockers metabolized by plasma cholinesterase. In patients with a genetic deficiency of normal plasma cholinesterase, these drugs can cause apnea for several hours and are therefore contraindicated. A-C, E, F See correct answer explanation.",
+   "source": "Pharmacology III-5 Q16",
+   "topic": "Easy",
+   "topic_n": 13
+  },
+  {
+   "question": "A 56-year-old woman was undergoing major surgery to remove a breast carcinoma. The woman, who was a heavy smoker, had been suffering from chronic obstructive pulmonary disease for 15 years. A drug was administered preoperatively, and the anesthesia was supplemented with a skeletal muscle relaxant. Which of the following drugs would be contraindicated for this patient?",
+   "choices": [
+    "Glycopyrrolate",
+    "Cisatracurium",
+    "Tubocurarine",
+    "Vecuronium",
+    "Clonidine"
+   ],
+   "answer": 2,
+   "explanation": "Tubocurarine can cause histamine release from mast cells. A prominent effect of histamine is bronchoconstriction. Because of this, tubocurarine should not be used in patients with asthma or chronic obstructive pulmonary disease. B Glycopyrrolate is often given as a preoperative medication to prevent effects related to vagal activation (sialorrhea and bradycardia) C Clonidine is sometimes given as a preoperative medication because it has sedative properties and potentiates the action of anesthetic agents. D, E Vecuronium and cisatracurium, which are nondepolarizing neuromuscular blocking drugs, could be used, as these agents do not release histamine.",
+   "source": "Pharmacology III-5 Q17",
+   "topic": "Medium",
+   "topic_n": 3
+  },
+  {
+   "question": "A 49-year-old woman required intubation and mechanical ventilation for management of respiratory failure due to severe emphysema. The patient was agitated, attempting to sit up in bed and reach for the endotracheal tube. Lorazepam was given intravenously (IV) for sedation, and the patient got drowsy, but motor restlessness was only marginally improved. An IV muscle relaxant was given. The patient relaxed as paralysis developed, but 5 minutes later her heart rate was 160 bpm. Which of the following drugs most likely caused this adverse effect?",
+   "choices": [
+    "Dantrolene",
+    "Tubocurarine",
+    "Succinylcholine",
+    "Botulinum toxin"
+   ],
+   "answer": 1,
+   "explanation": "bated and artificially ventilated. Benzodiazepines are useful agents for controlling anxiety and agitation. They also cause anterograde amnesia (a useful property in this setting) but have no analgesic properties. When sedating drugs are not fully effective, a muscle relaxant is added. Tubocurarine is a neuromuscular blocking drug whose action lasts more than 50 minutes after a standard therapeutic dose. It is still sometimes used because of effectiveness and low cost. The tachycardia that can appear after the administration of tubocurarine can be due either to histamine release or to blockade of nicotinic receptors of autonomic ganglia or, most likely, to both. A Botulinum toxin is not used to limit movements in an intubated patient. Its actions would last for months. B Dantrolene is a spasmolytic drug. It can reduce spasticity but is unable to cause neuromuscular paralysis when given at therapeutic doses. Therefore, it is not used to limit movements in an intubated patient. C Succinylcholine can cause stimulation of both nicotinic receptors in autonomic ganglia and cardiac muscarinic receptors. Therefore, it would tend to cause bradycardia, which is only partially counteracted by its slight tendency to cause histamine release. E Cisatracurium has no effect on nicotinic receptors of autonomic ganglia and has negligible histamine-releasing properties.",
+   "source": "Pharmacology III-5 Q18",
+   "topic": "Hard",
+   "topic_n": 2
+  },
+  {
+   "question": "A 57-year-old woman underwent surgery for breast cancer. General anesthesia was induced by thiopental, maintained by sevoflurane and nitrous oxide, and supplemented with a muscle relaxant that causes a long lasting activation of Nm receptors. Which of the following drugs was most likely administered?",
+   "choices": [
+    "Cisatracurium",
+    "Mivacurium",
+    "Tubocurarine",
+    "Succinylcholine",
+    "Vecuronium mw > Baclofen"
+   ],
+   "answer": 3,
+   "explanation": "Succinylcholine acts as a cholinergic agonist at Nm receptors. The Na+ channels open and cause depolarization of the motor end plate, but because the drug is not metabolized as fast as acetylcholine, the activation of Nm receptors is long lasting. This activation causes a brief period of excitation that may elicit transient and repetitive muscle excitation (fasciculations), followed by block of neuromuscular transmission, as the long-lasting depolarization makes the motor end plate unresponsive to subsequent stimuli (depolarization blockade). B-F See correct answer explanation.",
+   "source": "Pharmacology III-5 Q19",
+   "topic": "Easy",
+   "topic_n": 14
+  },
+  {
+   "question": "A 48-year-old woman underwent heart surgery for placement of an artificial valve. Anesthesia was induced by thiopental, and a muscle relaxant was then given intravenously to facilitate intubation. Soon after the administration of the drug, the patient exhibited transient muscle fasciculations that progressed to generalized paralysis within 1 minute. Which of the following muscle relaxants was most likely given?",
+   "choices": [
+    "Vecuronium",
+    "Tubocurarine 7\" wp Tizanidine",
+    "Succinylcholine",
+    "Dantrolene",
+    "Cisatracurium"
+   ],
+   "answer": 2,
+   "explanation": "Succinylcholine activates Nm receptors. This can account for the involuntary contraction of a group of muscle fibers, called fasciculations or twitching, that occurs before the muscle paralysis. Nondepolarizing neuromuscular blockers do not activate Nm receptors, so contractions cannot occur before paralysis. A, C-F See correct answer explanation.",
+   "source": "Pharmacology III-5 Q20",
+   "topic": "Easy",
+   "topic_n": 15
+  },
+  {
+   "question": "A 10-year-old boy diagnosed with hereditary spastic paraparesis 2 years ago was treated with several spasmolytic drugs with limited success. Recently, the neurologist prescribed another spasmolytic agent that acts as an a,-receptor agonist in the spinal cord. Which of the following drugs was most likely prescribed?",
+   "choices": [
+    "Baclofen",
+    "Tizanidine",
+    "Diazepam",
+    "Mivacurium",
+    "Dantrolene"
+   ],
+   "answer": 1,
+   "explanation": "Tizanidine is a centrally acting «,-receptor agonist, struc- Its turally and pharmacologically related to clonidine. spasmolytic activity most likely results from activation of presynaptic a, receptors in the spinal cord. This activation decreases the release of excitatory amino acids, which in turn leads to inhibition of spinal motor neurons. A-D See correct answer explanation.",
+   "source": "Pharmacology III-5 Q21",
+   "topic": "Easy",
+   "topic_n": 16
+  },
+  {
+   "question": "A 54-year-old man who had been suffering from amyotrophic lateral sclerosis for 1 year complained of generalized muscle spasms. His physician prescribed diazepam to reduce spasticity. Which of the following statements best explains the mechanism of the spasmolytic effect of diazepam in this patient?",
+   "choices": [
+    "Blockade of acetylcholine release from motor nerves",
+    "Facilitation of GABA, actions in the spinal cord",
+    "Depolarization blockade of Nm receptors",
+    "Activation of GABA, receptors in the spinal cord",
+    "Blockade of calcium release from the sarcoplasmic reticulum"
+   ],
+   "answer": 1,
+   "explanation": "Benzodiazepines facilitate the action of GABA in the central nervous system by increasing the affinity of GABA, receptors for GABA. Their action in reducing spasticity, however, seems to be at least partly mediated in the spinal cord, because they are effective also in patients with cord transection. A This is the mechanism of action of dantrolene. B This is the mechanism of action of botulinum toxin. C This is the mechanism of action of succinylcholine. E This is the mechanism of action of baclofen.",
+   "source": "Pharmacology III-5 Q22",
+   "topic": "Easy",
+   "topic_n": 17
+  },
+  {
+   "question": "A 67-year-old woman required intubation and mechanical ventilation for management of respiratory failure. Vecuronium was given intravenously to reduce chest wall resistance and ineffective spontaneous ventilation. Which of the following membrane potentials was most likely blocked by vecuronium in this patient?",
+   "choices": [
+    "Action potential of cardiac muscle wf Action potential of corticospinal tract",
+    "Miniature end-plate potential",
+    "Resting potential of smooth muscle",
+    "Action potential of motor nerve"
+   ],
+   "answer": 1,
+   "explanation": "The formation of miniature end-plate potentials is caused by the release of small quanta of acetylcholine that activate Nm receptors at the motor end plate. By blocking these receptors, vecuronium blocks the formation of this potential. A, D, E Neuromuscular blocking drugs have negligible effects on the formation of action potentials in the motor neuron, cardiac muscle, or corticospinal tract. C Smooth muscle membrane has no Nm receptors. Therefore, neuromuscular blocking drugs have no direct effects on smooth muscle.",
+   "source": "Pharmacology III-5 Q23",
+   "topic": "Easy",
+   "topic_n": 18
+  },
+  {
+   "question": "A 40-year-old woman, admitted to the emergency department after a car collision, had multiple surgeries to repair her injuries and was placed on mechanical ventilation to assist respiration. On day 13 she was scheduled for a transesophageal electrocardiogram (ECG) and was given a muscle relaxant intravenously to facilitate the procedure. Soon afterward, the patient suffered cardiac arrest, and cardiopulmonary resuscitation was performed successfully. The serum potassium levels recorded just before the arrest peaked at 7.3 mEq/L. Which of the following muscle relaxants most likely caused the cardiac arrest?",
+   "choices": [
+    "Succinylcholine",
+    "Vecuronium",
+    "Tubocurarine",
+    "Dantrolene",
+    "Cisatracurium"
+   ],
+   "answer": 0,
+   "explanation": "Succinylcholine can rapidly release potassium from intracellular sites. In a normally healthy patient, this results in a small, transient hyperkalemia. In patients with extensive soft tissue trauma or burns, cerebral vascular accident, or prolonged stays in an intensive care unit, this hyperkalemia can be much more pronounced when succinylcholine is given at least several days after the underlying condition has become established. The hyperkalemia can be life-threatening, as it can lead to cardiac arrest, as in this case. The cause of succinylcholine-induced hyperkalemia in these patients seems related to upregulation of nicotinic muscular (Nm) receptors on motor end plates. Patients with the aforementioned conditions are deprived of neural influence or activity because of prolonged immobilization. Such deprivation stimulates the synthesis of new Nm receptors across the muscle membrane. When these receptors are activated by succinylcholine, an action potential occurs, and ion channels open, allowing Na+ to flow into and K* to flow out of the cell. Because succinylcholine is metabolized more slowly than acetylcholine, the receptor activation is more prolonged, causing a larger influx of Na+ and a vigorous efflux of Kt. When Nm receptors are increased in skeletal muscle, this K* efflux can cause life-threatening hyperkalemia. A-C Nondepolarizing neuromuscular blockers cause blockade, not activation, of Nm receptors. Therefore, they do not induce hyperkalemia. D Dantrolene has no effect on Nm receptors.",
+   "source": "Pharmacology III-5 Q24",
+   "topic": "Hard",
+   "topic_n": 3
+  },
+  {
+   "question": "A 40-year-old woman underwent surgery for ovarian cancer. She received atropine, loratadine, and morphine as preanesthetic medication. The anesthesia was then performed with thiopental, sevoflurane, nitrous oxide, and succinylcholine.",
+   "choices": [
+    "i Nitrous oxide",
+    "Loratadine",
+    "A few minutes later, the patient developed muscle fasciculations, trismus, rigidity, tachycardia, and hypotension, and her body temperature rose to 103.8°F (39.8°C). Which of the following drugs most likely caused the patient’s syndrome? Atropine",
+    "Thiopental",
+    "Morphine",
+    "Succinylcholine"
+   ],
+   "answer": 5,
+   "explanation": "The clinical picture of the patient suggests the diagnosis of malignant hyperthermia, a rare but potentially lifethreatening disorder triggered by the administration of certain anesthetics and neuromuscular blocking agents. Uncontrolled release of Ca* from the sarcoplasmic reticulum of skeletal muscle is the initiating event. Although most cases of malignant hyperthermia arise from the combination of succinylcholine and halogenated hydrocarbon anesthetics (e.g., halothane, isoflurane, and sevoflurane), succinylcholine or anesthetics alone have been reported to precipitate the response. Susceptibility to malignant hyperthermia is an autosomal dominant trait. In the majority of cases, no clinical signs are visible in the absence of anesthetic intervention. A-C, E, F See correct answer explanation.",
+   "source": "Pharmacology III-5 Q25",
+   "topic": "Easy",
+   "topic_n": 19
+  },
+  {
+   "question": "A 43-year-old man complained of generalized muscle soreness upon recovering from surgery to remove prostate cancer. General anesthesia had been performed with thiopental, halothane, and a skeletal muscle relaxant. Which of the following muscle relaxants most likely caused the patient’s complaint?",
+   "choices": [
+    "Dantrolene",
+    "Tubocurarine",
+    "Diazepam",
+    "Succinylcholine",
+    "Cisatracurium"
+   ],
+   "answer": 3,
+   "explanation": "Myalgias are common postoperative complaints of patients receiving large doses of succinylcholine. The true incidence of myalgias is difficult to establish because of confounding factors, including the type of surgery and positioning during the operation, but has been reported to be up to 20%. The pain is thought to be secondary to the unsynchronized contractions (i.e., fasciculations) of adjacent muscle fibers just before the onset of paralysis. When these fasciculations are strong enough, muscle soreness can result on recovering from anesthesia. A, B Nondepolarizing muscle relaxants can sometimes cause myalgias upon recovery from muscle paralysis, but the incidence is much lower than that with succinylcholine. D, E Dantrolene and diazepam are spasmolytic agents. They do not cause muscle paralysis and are not used to induce complete muscle relaxation during general anesthesia.",
+   "source": "Pharmacology III-5 Q26",
+   "topic": "Easy",
+   "topic_n": 20
+  },
+  {
+   "question": "A 34-year-old woman suffering from hemifacial spasms started treatment with botulinum toxin injected directly into the abnormally contracting muscles. Which of the following molecular actions most likely mediated the therapeutic effect of the drug in the patient’s disorder?",
+   "choices": [
+    "Inhibition of acetylcholine storage into synaptic vesicles",
+    "Stimulation of acetylcholinesterase pa ore Opening of Ca2+ channels in cholinergic terminals",
+    "Inhibition of choline acetyltransferase",
+    "Inhibition of acetylcholine exocytosis from cholinergic terminals",
+    "Long-lasting activation of Nm acetylcholine receptors"
+   ],
+   "answer": 3,
+   "explanation": "97, p Botulinum toxin must get inside the axon terminals to cause paralysis. Following the attachment of the toxin to proteins on the surface of axon terminals, the toxin can be taken into neurons by endocytosis. There it is able to cleave endocytotic vesicles and reach the cytoplasm. The light chain of the toxin has protease activity and proteolytically degrades a specific protein that is required for vesicle fusion that releases acetylcholine from the axon endings. In this way it prevents neurosecretory vesicles from fusing with the nerve synapse plasma membrane and releasing the neurotransmitter. A-C, E, F See correct answer explanation.",
+   "source": "Pharmacology III-5 Q27",
+   "topic": "Easy",
+   "topic_n": 21
+  },
+  {
+   "question": "A 64-year-old woman complained to her physician of involuntary blinking and closing of the eyes. She noticed that the eyelid spasm was made worse by fatigue and anxiety. Further exams led to the diagnosis of benign essential blephar- Ospasm, and a treatment with local injections of botulinum toxin was prescribed. Which of the following adverse effects was most likely to occur in this patient?",
+   "choices": [
+    "Retinal detachment",
+    "Eyelid ptosis w Limb muscle paralysis",
+    "Visual hallucinations",
+    "Visual loss"
+   ],
+   "answer": 1,
+   "explanation": "Blepharospasm is spasm of muscles around the eye that causes involuntary blinking and eye closing. It affects women more than men and tends to occur within families. The cause is most often unknown. Injection of botulinum toxin into the eyelid muscle is often the preferred treatment (the effects of each treatment last about 3 months). The most common adverse effect is eyelid ptosis (up to 20% of cases), which represents an unwanted extension of the pharmacological effect. A-C, E Botulinum toxin is given locally, so the risk of systemic adverse effects is very low.",
+   "source": "Pharmacology III-5 Q28",
+   "topic": "Easy",
+   "topic_n": 22
+  },
+  {
+   "question": "A 41-year-old man suffering from amyotrophic lateral sclerosis presented to his physician with muscle fasciculations, limb spasticity, hyperactive deep tendon reflexes, and extensor plantar reflexes. Baclofen was prescribed to reduce spasticity and cramps. Which of the following actions most likely mediated the therapeutic effect of the drug in the patient’s disease?",
+   "choices": [
+    "Activation of GABA, receptors in the spinal cord",
+    "Blockade of Ca2+ channels in skeletal muscle membranes",
+    "Blockade of Nm receptors of motor end plates",
+    "Increased substance P release in the spinal cord"
+   ],
+   "answer": 0,
+   "explanation": "Baclofen is an agonist at GABA, receptors. These are metabotropic transmembrane receptors for GABA that are linked via Gi proteins to potassium channels. Activation of these receptors by baclofen results in increased K* conductance, which in turn causes hyperpolarization of presynaptic terminals. This hyperpolarization reduces the release of excitatory transmitters in both the brain and the spinal cord. Baclofen is at least as effective as diazepam in reducing spasticity and is frequently used for this purpose. B This is the action of nondepolarizing neuromuscular blockers. C Baclofen can cause blockade of substance P release from spinal cord; this seems to be one of the reasons for its analgesic activity in patients with spasticity. D, E Baclofen can indirectly block Ca2+ channels as a consequence of membrane hyperpolarization and can increase Kt conductance, but these actions occur in neuronal, not in skeletal muscle, membranes.",
+   "source": "Pharmacology III-5 Q29",
+   "topic": "Easy",
+   "topic_n": 23
+  },
+  {
+   "question": "A 48-year-old man presented to his physician complaining of intermittent limb muscle spasms. The patient was referred to the neurologic clinic, where the diagnosis of stiff man syndrome was made. A pharmacotherapy was prescribed to improve his muscle spasms. Which of the following drugs would be most appropriate for this patient?",
+   "choices": [
+    "Chlorpromazine",
+    "Phenobarbital",
+    "Tubocurarine",
+    "Mivacurium",
+    "Succinylcholine",
+    "Baclofen"
+   ],
+   "answer": 5,
+   "explanation": "Stiff man syndrome is a disorder of neuromuscular transmission characterized by the insidious onset of progressive stiffness in the trunk, abdomen, legs, and arms. The cause of the syndrome is unknown, but an autoimmune pathogenesis is suspected. Only symptomatic therapy is available, and central spasmolytic drugs (benzodiazepines and baclofen) consistently relieve the muscle stiffness. A, C-F See correct answer explanation.",
+   "source": "Pharmacology III-5 Q30",
+   "topic": "Easy",
+   "topic_n": 24
+  },
+  {
+   "question": "A 62-year-old woman underwent surgery to remove an Ovarian cancer. General anesthesia was induced by thiopental, maintained by sevoflurane and nitrous oxide, and supplemented by vecuronium, which is currently one of the most commonly used skeletal muscle relaxants during surgery. Which of the following is a primary advantage of vecuronium over tubocurarine?",
+   "choices": [
+    "Lack of effects on the central nervous system",
+    "Very short duration of action (less than 5 minutes)",
+    "Induction of complete anterograde amnesia",
+    "No fasciculations before paralysis",
+    "Negligible effects on histamine release"
+   ],
+   "answer": 4,
+   "explanation": "Vecuronium, a steroid-derivative muscle relaxant, is currently commonly used during surgery. Its main advantages over tubocurarine are negligible effects on histamine release and no action on nicotinic neuronal receptors of autonomic ganglia. Moreover, unlike tubocurarine, the drug is mainly eliminated by liver metabolism, which can allow its use in patients with kidney disease. A The duration of action of vecuronium after a standard therapeutic dose is 20 to 35 minutes. C, D These actions are absent with both vecuronium and tubocurarine. E No skeletal muscle relaxants cause anterograde amnesia, as they do not cross the blood-brain barrier.",
+   "source": "Pharmacology III-5 Q31",
+   "topic": "Medium",
+   "topic_n": 4
+  },
+  {
+   "question": "A 79-year-old man underwent surgery to remove a stomach cancer. Pertinent laboratory results before surgery were creatinine 3.5 mg/dL (normal 0.6-1.2 mg/dL), alanine aminotransferase 25 U/L (normal 8-20 U/L), urea nitrogen 65 mg/dL (normal 7-18 mg/dL). Diazepam was given the night before surgery. The general anesthesia was induced by propofol, maintained by sevoflurane and nitrous oxide, and supplemented by cisatracurium. Which of the following was most likely the primary reason for the use of cisatracurium instead of tubocurarine in this patient?",
+   "choices": [
+    "Diazepam administration",
+    "Advanced age",
+    "Propofol induction",
+    "Renal insufficiency",
+    "Liver insufficiency"
+   ],
+   "answer": 3,
+   "explanation": "The patient’s creatinine and urea nitrogen levels indicate that he was most likely suffering from renal insufficiency. Tubocurarine is mainly eliminated as such by the kidney and is therefore contraindicated in patients with impaired renal function. Cisatracurium is a neuromuscular blocking drug that is inactivated primarily by a form of spontaneous breakdown and does not exhibit an increase in half-life in patients with renal insufficiency. A The increased alanine aminotransferase levels are too small to suggest hepatic insufficiency. B Even if cisatracurium could be safer than tubocurarine in elderly patients, this is not the primary reason for the use of cisatracurium in this patient. C, E There are no adverse interactions between propofol or diazepam and tubocurarine.",
+   "source": "Pharmacology III-5 Q32",
+   "topic": "Easy",
+   "topic_n": 25
+  }
+ ]
+}

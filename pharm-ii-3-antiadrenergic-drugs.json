@@ -1,0 +1,479 @@
+{
+ "questions": [
+  {
+   "question": "Directions for questions 1–5: Match each antiadrenergic drug with the appropriate description (each lettered option can be selected once, more than once, or not at all). This drug is a partial agonist at β1 and β2 receptors.",
+   "choices": [
+    "Phenoxybenzamine",
+    "Tamsulosin",
+    "Atenolol",
+    "Propranolol",
+    "Pindolol",
+    "Esmolol",
+    "Timolol",
+    "Sotalol",
+    "Metyrosine"
+   ],
+   "answer": 4,
+   "explanation": "Matching item. Correct match: Pindolol.",
+   "source": "Pharmacology II-3 Q1",
+   "topic": "Easy",
+   "topic_n": 1
+  },
+  {
+   "question": "Directions for questions 1–5: Match each antiadrenergic drug with the appropriate description (each lettered option can be selected once, more than once, or not at all). This drug is a selective β1 antagonist frequently used for the chronic treatment of atrial fibrillation.",
+   "choices": [
+    "Atenolol",
+    "Phenoxybenzamine",
+    "Sotalol",
+    "Tamsulosin",
+    "Pindolol",
+    "Esmolol",
+    "Metyrosine",
+    "Timolol",
+    "Propranolol"
+   ],
+   "answer": 0,
+   "explanation": "Matching item. Correct match: Atenolol.",
+   "source": "Pharmacology II-3 Q2",
+   "topic": "Easy",
+   "topic_n": 2
+  },
+  {
+   "question": "Directions for questions 1–5: Match each antiadrenergic drug with the appropriate description (each lettered option can be selected once, more than once, or not at all). This drug is a β-blocker that can also block potassium channels.",
+   "choices": [
+    "Metyrosine",
+    "Pindolol",
+    "Timolol",
+    "Esmolol",
+    "Propranolol",
+    "Tamsulosin",
+    "Sotalol",
+    "Atenolol",
+    "Phenoxybenzamine"
+   ],
+   "answer": 6,
+   "explanation": "Matching item. Correct match: Sotalol.",
+   "source": "Pharmacology II-3 Q3",
+   "topic": "Easy",
+   "topic_n": 3
+  },
+  {
+   "question": "Directions for questions 1–5: Match each antiadrenergic drug with the appropriate description (each lettered option can be selected once, more than once, or not at all). This drug is frequently used in the treatment of prostatic hyperplasia.",
+   "choices": [
+    "Pindolol",
+    "Timolol",
+    "Metyrosine",
+    "Propranolol",
+    "Phenoxybenzamine",
+    "Atenolol",
+    "Tamsulosin",
+    "Esmolol",
+    "Sotalol"
+   ],
+   "answer": 6,
+   "explanation": "Matching item. Correct match: Tamsulosin.",
+   "source": "Pharmacology II-3 Q4",
+   "topic": "Easy",
+   "topic_n": 4
+  },
+  {
+   "question": "Directions for questions 1–5: Match each antiadrenergic drug with the appropriate description (each lettered option can be selected once, more than once, or not at all). This drug is sometimes given in cardiovascular emergencies by intravenous infusion because of its extremely short half-life.",
+   "choices": [
+    "Tamsulosin",
+    "Phenoxybenzamine",
+    "Propranolol",
+    "Timolol",
+    "Sotalol",
+    "Metyrosine",
+    "Pindolol",
+    "Atenolol",
+    "Esmolol"
+   ],
+   "answer": 8,
+   "explanation": "Matching item. Correct match: Esmolol.",
+   "source": "Pharmacology II-3 Q5",
+   "topic": "Easy",
+   "topic_n": 5
+  },
+  {
+   "question": "A 25-year-old man complained to his physician of painful erection and impaired ejaculation during intercourse. Three weeks earlier, he had been diagnosed with Raynaud disease and had started an appropriate therapy. A drug with which of the following mechanisms of actions most likely caused the patient's symptoms?",
+   "choices": [
+    "M3-receptor activation",
+    "β2-receptor blockade",
+    "Nm-receptor activation",
+    "α2-receptor activation",
+    "β1-receptor blockade",
+    "α1-receptor blockade"
+   ],
+   "answer": 5,
+   "explanation": "Vasospasm in the fingers, which is the most common sign of Raynaud disease, is treated by a vasodilator, usually a calcium channel blocker, such as nifedipine, or an α1 antagonist, such as prazosin. The patient most likely received prazosin because he complained of impaired ejaculation. The increased firing of the sympathetic nervous system that occurs during sex activates α1 receptors located on the vas deferens and prostate capsule. The contraction of smooth muscles of these organs puts the semen into the urethra, thus causing ejaculation. Prazosin blocks α1 adrenoceptors, so ejaculation is impaired. A–D, F See correct answer explanation.",
+   "source": "Pharmacology II-3 Q6",
+   "topic": "Hard",
+   "topic_n": 1
+  },
+  {
+   "question": "Phenoxybenzamine was given to rats during a lab experiment. Which of the following sets of effects most likely occurred after treatment? (Options are table rows giving, in order, Firing Rates of Carotid Baroreceptors, Cardiac Contractility, and Cardiac Rate; ↓ = decreased, ↑ = increased.)",
+   "choices": [
+    "Firing rates of carotid baroreceptors ↑; Cardiac contractility ↓; Cardiac rate ↑",
+    "Firing rates of carotid baroreceptors ↓; Cardiac contractility ↑; Cardiac rate ↓",
+    "Firing rates of carotid baroreceptors ↑; Cardiac contractility ↑; Cardiac rate ↓",
+    "Firing rates of carotid baroreceptors ↓; Cardiac contractility ↑; Cardiac rate ↑",
+    "Firing rates of carotid baroreceptors ↓; Cardiac contractility ↓; Cardiac rate ↓"
+   ],
+   "answer": 3,
+   "explanation": "Phenoxybenzamine is a nonselective α-adrenergic blocker. The blockade of α1 adrenoceptors causes peripheral vasodilation, which in turn decreases the blood pressure. A reduction in blood pressure decreases the firing rate of carotid baroreceptors. Because the baroreceptor discharge increases the vagal outflow to the heart, a decreased firing rate will have the opposite effect; that is, it will increase the sympathetic outflow, causing tachycardia and increased cardiac contractility. B–E See correct answer explanation.",
+   "source": "Pharmacology II-3 Q7",
+   "topic": "Medium",
+   "topic_n": 1
+  },
+  {
+   "question": "A 51-year-old man, recently diagnosed with pheochromocytoma, was scheduled for surgery to remove the tumor. One week before surgery, phenoxybenzamine was prescribed. Which of the following actions most likely mediated the therapeutic effect of the drug in the patient's disease?",
+   "choices": [
+    "Decreased firing from the vasomotor center",
+    "Decreased peripheral vascular resistance",
+    "Increased heart rate",
+    "Decreased epinephrine release from the adrenal medulla",
+    "Increased cardiac output"
+   ],
+   "answer": 1,
+   "explanation": "Phenoxybenzamine is a nonselective α antagonist frequently used in pheochromocytoma both in the preoperative management of the disease and to handle inoperable or metastatic cases. By blocking α1 receptors, the drug decreases peripheral vascular resistance, thus counteracting the hypertension that is a prominent symptom of the tumor. B, D These are actions of phenoxybenzamine, but they mediate unwanted effects, not the therapeutic effect of the drug. C By blocking α2 presynaptic receptors, phenoxybenzamine actually increases, not decreases, epinephrine release from the adrenal medulla. E Alpha-2 agonists reduce firing from the vasomotor center, so an α2 antagonist such as phenoxybenzamine would increase, not decrease, firing from the vasomotor center.",
+   "source": "Pharmacology II-3 Q8",
+   "topic": "Medium",
+   "topic_n": 2
+  },
+  {
+   "question": "A 58-year-old man complained to his physician of weakness, drowsiness, dizziness, and palpitations. He was recently diagnosed with bladder obstruction due to benign prostatic hyperplasia and had been taking a drug for 2 weeks. Which of the following drugs most likely caused the patient's symptoms?",
+   "choices": [
+    "Flutamide",
+    "Phenylephrine",
+    "Bethanechol",
+    "Albuterol",
+    "Tamsulosin",
+    "Propranolol"
+   ],
+   "answer": 4,
+   "explanation": "Tamsulosin is a selective α1 antagonist frequently used to counteract bladder obstruction due to prostatic hyperplasia. Fatigue, sleepiness, and dizziness are common adverse effects most likely related to the drug-induced hypotension. Palpitations are infrequently reported and are most likely related to the reflex tachycardia triggered by the drug-induced vasodilation. D Flutamide is an androgen receptor blocker that is used in patients with prostatic hyperplasia. However, it does not cause the symptoms reported by the patient. A, C, E, F These drugs are not used for prostatic hyperplasia.",
+   "source": "Pharmacology II-3 Q9",
+   "topic": "Medium",
+   "topic_n": 3
+  },
+  {
+   "question": "A 28-year-old woman presented to the outpatient clinic with a 5-day history of left hand and arm pain. She noted that the fingers of her left hand became cold and somewhat blue, especially when exposed to cold. Physical examination showed that the patient's extremities had appropriate sensation. When her hands were placed in cold water, several white splotches appeared, and tingling was felt in the hands. Which of the following drugs would be appropriate to treat the patient's disorder?",
+   "choices": [
+    "Phenylephrine",
+    "Prazosin",
+    "Clonidine",
+    "Neostigmine",
+    "Propranolol"
+   ],
+   "answer": 1,
+   "explanation": "The patient's signs and symptoms suggest the diagnosis of Raynaud disease. In this disease, which is idiopathic and is most common in young women, the threshold for vasospastic response is lowered by local cold or anything that activates the sympathetic outflow or the release of catecholamines. By blocking α1 receptors, prazosin is often helpful in reducing vasospastic episodes. A, B, D, E There is no rationale for the use of any of these drugs in Raynaud disease.",
+   "source": "Pharmacology II-3 Q10",
+   "topic": "Medium",
+   "topic_n": 4
+  },
+  {
+   "question": "A 64-year-old woman, recently diagnosed with open-angle glaucoma, started a topical therapy with timolol and apraclonidine. Which of the following was the most likely site of action of both drugs?",
+   "choices": [
+    "Schlemm canal",
+    "Ciliary muscle",
+    "Uveoscleral vessels",
+    "Ciliary epithelium",
+    "Retinal vessels",
+    "Conjunctival vessels"
+   ],
+   "answer": 3,
+   "explanation": "Open-angle glaucoma is characterized in most cases by increased intraocular pressure, which in turn is due to an excessive amount of aqueous humor in the anterior chamber of the eye. Pharmacological therapy for this disease aims to decrease this volume, either by lowering aqueous humor production or by increasing aqueous humor outflow. In the eye, aqueous humor is manufactured by the cells of ciliary epithelium and is under the control of both β adrenoceptors (which increase the production) and α2 adrenoceptors (which decrease the production). Production of aqueous humor can be reduced either by drugs that block β receptors (e.g., timolol) or by drugs that activate α2 receptors (e.g., apraclonidine). The site of action of both drugs is the ciliary epithelium. A–C, E, F See correct answer explanation.",
+   "source": "Pharmacology II-3 Q11",
+   "topic": "Easy",
+   "topic_n": 6
+  },
+  {
+   "question": "A 22-year-old man was admitted to the hospital for evaluation of a faint systolic murmur and an unusual electrocardiogram reading. After clinical and lab evaluation, a diagnosis of hypertrophic cardiomyopathy was made, and propranolol was prescribed. Which of the following actions most likely contributed to the therapeutic efficacy of the drug in the patient's disease?",
+   "choices": [
+    "Decreased ejection fraction",
+    "Increased duration of diastole",
+    "Decreased renin secretion",
+    "Coronary vasodilation",
+    "Blockade of an abnormal pacemaker"
+   ],
+   "answer": 1,
+   "explanation": "In hypertrophic cardiomyopathy, the stiff, noncompliant ventricle resists diastolic filling. This can cause insufficient end-diastolic volume and therefore diastolic failure. Beta-blockers slow the heart rate, which allows an increased duration of diastole and thus more complete diastolic filling. They also decrease myocardial contractility, which increases ventricle compliance. A, C, D All of these effects can be caused by propranolol, but they do not mediate the efficacy of the drug in hypertrophic cardiomyopathy. E Propranolol causes coronary vasoconstriction, not vasodilation. The effect is due primarily to the decrease in cardiac contractility and, to a lesser extent, to the blockade of β2 receptor–mediated vasodilation.",
+   "source": "Pharmacology II-3 Q12",
+   "topic": "Hard",
+   "topic_n": 2
+  },
+  {
+   "question": "A new autonomic drug was tested in a healthy volunteer. The man was treated with saline or with the drug, under resting or exercise conditions. His heart rate was measured in both conditions. The results were the following: Heart rate (bpm) — Resting: Saline 70, Drug 68; Exercise: Saline 150, Drug 80. To which of the following drug classes did the tested drug most likely belong?",
+   "choices": [
+    "Cholinergic agonists",
+    "Beta adrenoceptor blockers",
+    "Cholinergic antagonists",
+    "Alpha-1 adrenoceptor blockers",
+    "Ganglionic blockers"
+   ],
+   "answer": 1,
+   "explanation": "The actions of a β-blocker on the cardiovascular system are much more pronounced when sympathetic tone is high. Therefore, under resting conditions, the drug-induced decrease of heart rate is minimal, whereas it is pronounced during exercise, when the sympathetic tone is high. B A cholinergic agonist would cause a more pronounced decrease of the heart rate under resting conditions, because it further increases the parasympathetic activity that is already predominant under resting conditions. C–E All of these drugs tend to increase the heart rate under resting conditions.",
+   "source": "Pharmacology II-3 Q13",
+   "topic": "Medium",
+   "topic_n": 5
+  },
+  {
+   "question": "A 58-year-old man recently diagnosed with exertional angina started treatment with atenolol. Which of the following cardiovascular parameters was most likely decreased in this patient?",
+   "choices": [
+    "Venous tone",
+    "Cardiac ejection fraction",
+    "Ventricular ejection time",
+    "End-diastolic volume",
+    "End-systolic volume"
+   ],
+   "answer": 1,
+   "explanation": "Atenolol is a selective β adrenoceptor blocker. By blocking β1 receptors, atenolol decreases cardiac contractility. The best index of cardiac contractility is the ejection fraction, which is the fraction of the end-diastolic volume that is ejected during systole (remember that stroke volume is not the best index of cardiac contractility, as it also depends on preload). A, D Because contractility is decreased, these volumes are actually increased, not decreased. B Beta-blockers actually increase ventricular ejection time. E Venous tone (which is mainly dependent on α1-receptor activation) is minimally affected by β-blockers.",
+   "source": "Pharmacology II-3 Q14",
+   "topic": "Medium",
+   "topic_n": 6
+  },
+  {
+   "question": "A 57-year-old woman recently diagnosed with open-angle glaucoma started treatment with timolol eye drops. Which of the following sets of effects most likely occurred shortly after the administration of the drug? (Options are table rows giving, in order, Pupillary Diameter, Lens Curvature, and Intraocular Pressure; + = increased, − = decreased, 0 = negligible effect.)",
+   "choices": [
+    "Pupillary diameter 0 (negligible effect); Lens curvature 0 (negligible effect); Intraocular pressure − (decreased)",
+    "Pupillary diameter − (decreased); Lens curvature 0 (negligible effect); Intraocular pressure + (increased)",
+    "Pupillary diameter 0 (negligible effect); Lens curvature + (increased); Intraocular pressure 0 (negligible effect)",
+    "Pupillary diameter + (increased); Lens curvature − (decreased); Intraocular pressure 0 (negligible effect)",
+    "Pupillary diameter + (increased); Lens curvature 0 (negligible effect); Intraocular pressure − (decreased)"
+   ],
+   "answer": 0,
+   "explanation": "Beta-blockers decrease aqueous humor production by blocking β receptors in the ciliary epithelium. The consequent reduction in intraocular pressure usually can be detected within 30 minutes after a single dose. Beta-blockers have negligible effects on pupillary diameter (which is under the control of M3 receptors on the sphincter muscle of the iris and of α1 receptors on the radial muscle of the iris) and on lens curvature (which is mainly under the control of M3 receptors on the ciliary muscle). A, C–E See correct answer explanation.",
+   "source": "Pharmacology II-3 Q15",
+   "topic": "Medium",
+   "topic_n": 7
+  },
+  {
+   "question": "Propranolol was given by intramuscular injection to several dogs during a lab experiment. One hour later, each dog received a different autonomic drug, and the effects of that drug were recorded. Which of the following drug-induced effects was most likely best counteracted by propranolol pretreatment?",
+   "choices": [
+    "Isoproterenol-induced hyperglycemia",
+    "Nicotine-induced decrease in skin blood flow",
+    "Phenylephrine-induced mydriasis",
+    "Pilocarpine-induced contraction of bronchial muscle",
+    "Norepinephrine-induced reflex bradycardia"
+   ],
+   "answer": 0,
+   "explanation": "Isoproterenol-induced hyperglycemia is mainly due to β2 receptor–mediated gluconeogenesis and glycogenolysis. Because of this, it can be effectively counteracted by propranolol, which blocks β2 receptors. None of the other listed actions can be antagonized by propranolol, because they are not mediated by activation of β receptors. B Nicotine-induced activation of Nn receptors in ganglia increases the firing of postganglionic sympathetic nerves, which in turn causes skin vasoconstriction by activating α1 receptors. C Norepinephrine-induced reflex bradycardia is mediated by the activation of M2 cardiac receptors. Moreover, propranolol itself can cause bradycardia. D Phenylephrine-induced mydriasis is mediated by the activation of α1 receptors. E Pilocarpine-induced contraction of bronchial musculature is mediated by the activation of M3 receptors. Moreover, propranolol itself can cause bronchoconstriction.",
+   "source": "Pharmacology II-3 Q16",
+   "topic": "Medium",
+   "topic_n": 8
+  },
+  {
+   "question": "A new drug was studied in laboratory animals. Epinephrine was given either alone or after the administration of the new drug X. Some plasma values were then recorded, as reported in the table below: Renin (mU/L) — Epinephrine alone 250, Epinephrine after Drug X 70; Blood glucose (mg/dL) — Epinephrine alone 160, Epinephrine after Drug X 155. Which of the following drugs did the new agent most resemble?",
+   "choices": [
+    "Atropine",
+    "Albuterol",
+    "Prazosin",
+    "Propranolol",
+    "Timolol",
+    "Atenolol"
+   ],
+   "answer": 5,
+   "explanation": "The new drug completely antagonizes the epinephrine-induced increase in renin (which is mediated by β1 receptor activation) but does not antagonize the epinephrine-induced hyperglycemia (which is due to several actions, including β2 adrenoceptor–mediated glycogenolysis). Therefore, the drug must be a selective β blocker, such as atenolol. A, D, F Albuterol, atropine, and prazosin cannot antagonize either of the epinephrine-induced effects. B, E Timolol and propranolol are nonselective β-blockers, so they would antagonize both effects of epinephrine.",
+   "source": "Pharmacology II-3 Q17",
+   "topic": "Hard",
+   "topic_n": 3
+  },
+  {
+   "question": "A 44-year-old man who had been suffering from migraine for 3 months complained to his physician that his migraine attacks were effectively aborted by sumatriptan, but they were not reduced in frequency. The physician decided to start a treatment to reduce the frequency of attacks and chose propranolol as the initial agent. Which of the following pairs of adverse effects would be expected to be most likely during the first days of therapy?",
+   "choices": [
+    "Palpitations and flushing",
+    "Impairment of far vision and photophobia",
+    "Severe constipation and gastroesophageal reflux",
+    "Postural hypotension and fainting",
+    "Insomnia and nightmares"
+   ],
+   "answer": 4,
+   "explanation": "Propranolol is a first-line agent for migraine prophylaxis, and a large number of studies support its effectiveness. Adverse effects of propranolol include insomnia, vivid dreams, and nightmares (in up to 5% of patients). The mechanism underlying these central effects is still uncertain, but propranolol is a highly lipophilic drug and concentrates in the brain. A Beta-blockers do not cause postural hypotension, as the preload and the baroreceptor reflex are not affected by these drugs. B Beta-blockers decrease the heart rate and have antiarrhythmic properties, so palpitations are unlikely. Beta-blockers block β adrenoceptor–mediated vasodilation, so flushing is also unlikely. C Beta-blockers have no significant effect on eye accommodation and do not cause mydriasis, so impairment of far vision and photophobia are unlikely. E Beta-blockers commonly cause diarrhea, which is likely related to the blockade of β2 receptors in the gut and do not cause gastroesophageal reflux. Even if constipation can occur with some β-blockers, it is uncommon and never severe.",
+   "source": "Pharmacology II-3 Q18",
+   "topic": "Medium",
+   "topic_n": 9
+  },
+  {
+   "question": "A 42-year-old man came to the clinic for a follow-up visit 2 months after being diagnosed with essential hypertension. Therapy with propranolol and hydrochlorothiazide was started at the time of diagnosis. His blood pressure remained poorly controlled, and he admitted he had been taking the pills only once in a while, because of a disturbing adverse effect. Which of the following was most likely the effect mentioned by the patient?",
+   "choices": [
+    "Migraine headache",
+    "Palpitations",
+    "Sexual dysfunction",
+    "Anginal pain",
+    "Tremor"
+   ],
+   "answer": 2,
+   "explanation": "Beta-blockers can cause dose-related sexual dysfunction, which is more frequent when diuretics are given concomitantly, as in this case. The dysfunction includes erectile problems, decreased libido, and anorgasmia. The mechanism underlying these effects is still uncertain but probably related to the hypotensive effect and to central effects. A, C–E All of these disorders are generally relieved, not caused, by β-blockers.",
+   "source": "Pharmacology II-3 Q19",
+   "topic": "Medium",
+   "topic_n": 10
+  },
+  {
+   "question": "A 47-year-old man who had been suffering from diabetes for 10 years was admitted to the hospital following a myocardial infarction. He was discharged 10 days later with a postdischarge therapy that included atenolol. The patient was instructed to monitor his blood glucose level carefully for both hyper- and hypoglycemia after the drug was initiated. Which of the following statements about atenolol best explains the reason for glucose monitoring?",
+   "choices": [
+    "It can impair lipid metabolism.",
+    "It decreases renin release.",
+    "It can dangerously increase blood sugar levels.",
+    "It can blunt some symptoms of hypoglycemia.",
+    "It can increase insulin secretion."
+   ],
+   "answer": 3,
+   "explanation": "Historically, the presence of diabetes was a contraindication for β-blockade, due to the adverse effects on insulin release and blunting of hypoglycemia-associated tachycardia. However, diabetics comprise a large portion of infarct patients, and many studies have found that patients treated with β-blockers following myocardial infarction experience a 30 to 35% reduction in mortality. Therefore, β-blockers can be given to diabetic patients, but they must carefully control their sugar levels. In fact, hypoglycemia-associated tachycardia can be blunted by β-blockers, depriving the patient of an important diagnostic sign. A Beta-2 blockers occasionally can increase sugar levels by blocking β2-mediated increase in insulin secretion, but this effect is mild and is not shared by selective β1-blockers, such as atenolol. C Beta-2 blockers can decrease, not increase, insulin secretion. D, E Beta-blockers have these effects, but this is not the reason why diabetic patients receiving β-blockers must carefully control their sugar levels.",
+   "source": "Pharmacology II-3 Q20",
+   "topic": "Medium",
+   "topic_n": 11
+  },
+  {
+   "question": "A 57-year-old woman was discharged from the hospital after an acute myocardial infarction. The woman had been suffering from mild seasonal asthma for 15 years. Her postdischarge therapy included atenolol, one tablet daily. Which of the following was the most likely rationale behind prescribing atenolol to this patient?",
+   "choices": [
+    "It has an intermediate half-life (about 6 hours).",
+    "It can counteract pulmonary vasoconstriction.",
+    "It has antiinflammatory effects in asthmatics.",
+    "It can block pulmonary α adrenoceptors.",
+    "It blocks β1 adrenoceptors only."
+   ],
+   "answer": 4,
+   "explanation": "Beta-blockers are usually contraindicated in asthmatics because of their bronchoconstricting activity due to blockade of bronchial β2 receptors. However, they are first-line therapy after a myocardial infarction, as they substantially decrease morbidity and mortality. In deciding whether to attempt to use β-blockers in asthmatic patients with previous MI, weighing the risk versus benefit is imperative. In this case, asthma was mild and intermittent, so one could make a case for cautiously administering a β-blocker. A selective antagonist such as atenolol was a rational choice, as blockade of β2 receptors is negligible at therapeutic doses. However, caution must be used, because at higher doses selectivity may be lost. A By decreasing renin secretion, β-blockers can counteract pulmonary vasoconstriction, but this is not the reason for the choice of selective agents in asthmatics. C, D Atenolol does not have these effects. E Atenolol has a half-life of about 6 hours, but this is not the reason for the choice of the drug in an asthmatic patient.",
+   "source": "Pharmacology II-3 Q21",
+   "topic": "Hard",
+   "topic_n": 4
+  },
+  {
+   "question": "A 47-year-old man was diagnosed with benign prostatic hyperplasia. Surgical ablation of the prostate was contraindicated, and a drug suitable for the treatment of the patient's impaired bladder emptying was prescribed. Which of the following molecular actions most likely contributed to the therapeutic effect of that drug in the patient's disease?",
+   "choices": [
+    "Decreased blood flow in prostatic vessels",
+    "Decreased diuresis",
+    "Relaxation of prostate capsule",
+    "Decreased systemic blood pressure",
+    "Relaxation of the detrusor muscle"
+   ],
+   "answer": 2,
+   "explanation": "The patient most likely received a selective α1 antagonist. These drugs (prazosin, tamsulosin, etc.) are first-line agents for the treatment of impaired bladder emptying in prostatic hyperplasia. By blocking α1 receptors, they relax the prostate capsule and the internal sphincter of the bladder, which have plentiful α1 receptors, allowing a better urine flow. A By blocking vascular α1 receptors, α1 antagonists would increase, not decrease, blood flow. C The detrusor muscle is mainly under the control of the parasympathetic system. D Alpha-1 antagonists decrease blood pressure, but this is not the reason for their therapeutic effect in prostatic hyperplasia. E Alpha-1 antagonists have negligible effects on diuresis.",
+   "source": "Pharmacology II-3 Q22",
+   "topic": "Medium",
+   "topic_n": 12
+  },
+  {
+   "question": "A 25-year-old man complained to his physician of a fine, slow tremor of the hands elicited by performing skilled acts. The patient noticed that the tremor was getting worse, especially when he felt tense and anxious. Medical history showed that the patient's father had a similar symptom. Neurologic examination of the patient was unremarkable. A preliminary diagnosis was made, and a therapy was prescribed. Which of the following drugs would be appropriate for this patient?",
+   "choices": [
+    "Albuterol",
+    "Physostigmine",
+    "Propranolol",
+    "Clonidine",
+    "Prazosin"
+   ],
+   "answer": 2,
+   "explanation": "The patient was most likely suffering from benign essential tremor, a disorder that is often inherited (autosomal dominant in 50% of cases), as in this case. Propranolol (and other nonselective β-blockers) is effective in treating the disorder. The mechanism of this therapeutic effect is still uncertain, but it seems related to blockade of the β2 receptor–mediated increase in sequestration of cytosolic Ca2+ and enhanced discharge of muscle spindles. A–D None of these drugs are of value for the treatment of essential tremor.",
+   "source": "Pharmacology II-3 Q23",
+   "topic": "Hard",
+   "topic_n": 5
+  },
+  {
+   "question": "A 31-year-old man was brought to the emergency department after the police found him shouting and acting irrationally in the street. The man admitted that for the past few hours he had been using amphetamines that he had obtained from a new dealer. He was agitated and anxious and exhibited psychotic behavior. Vital signs were blood pressure 230/150 mm Hg, heart rate 160 bpm, respirations 20/min. An emergency therapy was started, and the patient was treated with intravenous diazepam, but 30 minutes later his blood pressure was still 210/130. Which of the following pairs of drugs would be appropriate to include in the patient's treatment at this time?",
+   "choices": [
+    "Phentolamine followed by propranolol",
+    "Bethanechol followed by phenylephrine",
+    "Clonidine followed by albuterol",
+    "Phenoxybenzamine followed by esmolol",
+    "Metyrosine followed by neostigmine"
+   ],
+   "answer": 0,
+   "explanation": "The patient's history and symptoms point out that he was most likely suffering from amphetamine poisoning. Most symptoms, including hypertension, can be managed with generous titration of benzodiazepines. If sedation fails to reduce blood pressure, a cardiovascular treatment is needed, as in this case. Amphetamines stimulate norepinephrine release from adrenergic terminals, increasing norepinephrine availability in the synaptic cleft. Therefore, both α- and β blockers can be used to effectively counteract norepinephrine-induced activation of α and β receptors. Parenteral α-blockers, such as phentolamine (or vasodilators, e.g., nitroprusside and nitroglycerin), must be given first. When the blood pressure is back to normal limits, a β-blocker is usually administered to control tachyarrhythmias that are frequent when circulating levels of catecholamines are high. B This drug combination could antagonize norepinephrine effects, but phenoxybenzamine is an irreversible antagonist with a very long duration of action and is not available for parenteral use. It is therefore not suitable for an emergency treatment. C–E These drugs cannot antagonize norepinephrine effects.",
+   "source": "Pharmacology II-3 Q24",
+   "topic": "Hard",
+   "topic_n": 6
+  },
+  {
+   "question": "A 57-year-old alcoholic man with liver cirrhosis was admitted to the intensive care unit with a 2-week history of intermittent melena. Esophagoscopy revealed three chains of large varices in the lower esophagus with signs of recent bleeding. An appropriate treatment was performed that included a drug aimed at reducing the portal pressure. Which of the following drugs was most likely given?",
+   "choices": [
+    "Methyldopa",
+    "Clonidine",
+    "Albuterol",
+    "Propranolol",
+    "Prazosin"
+   ],
+   "answer": 3,
+   "explanation": "The creation of arteriovenous anastomoses, which occurs in cirrhosis, allows the perfusion pressure of the hepatic artery to be partly transmitted into the portal vein. Therefore, arteriovenous anastomoses are a primary cause of portal hypertension in cirrhosis. Because the esophageal veins are tributaries of the portal vein, portal hypertension causes the esophageal veins to dilate and become varicose. By blocking β2 receptors (particularly abundant in the liver vascular bed), liver arterial vessels are constricted, and the pressure transmitted into the portal vein decreases. A Activation of β2 receptors by albuterol would worsen the varices by increasing the portal pressure. C–E Methyldopa, clonidine, and prazosin can reduce the systemic blood pressure, but they have unpredictable effects on the perfusion pressure of liver arterial vessels.",
+   "source": "Pharmacology II-3 Q25",
+   "topic": "Medium",
+   "topic_n": 13
+  },
+  {
+   "question": "A 51-year-old woman presented to the clinic with a 1-month history of palpitations, insomnia, nervousness, fatigue, diarrhea, and heat intolerance. The physical examination revealed hyperreflexia, lid lag, and mild tremor. Vital signs were blood pressure 160/60, heart rate 95 bpm. Which of the following drugs was most likely appropriately included in the therapeutic management of this patient?",
+   "choices": [
+    "Albuterol",
+    "Phenoxybenzamine",
+    "Labetalol",
+    "Propranolol",
+    "Prazosin"
+   ],
+   "answer": 3,
+   "explanation": "The symptoms and signs of this patient indicate that the woman was most likely suffering from hyperthyroidism. In addition to the specific therapy (antithyroid drugs and radioiodine), the treatment of this disease almost always includes the administration of β-blockers that rapidly decrease the nervousness, palpitations, heat intolerance, tremors, and hypertension, most likely because many of these signs and symptoms are due to sympathetic overactivity. Propranolol is the drug of choice. A, C–E All of these drugs are contraindicated in hyperthyroidism, as they can further decrease the diastolic blood pressure, which is abnormally low in this disease.",
+   "source": "Pharmacology II-3 Q26",
+   "topic": "Medium",
+   "topic_n": 14
+  },
+  {
+   "question": "A 32-year-old man complained to his physician that he felt anxious and tense. History revealed that he was a musician and had to give an important piano concert that evening. The physician told the patient that he was suffering from performance anxiety and prescribed a drug to be taken 2 hours before the performance. Which of the following drugs was most likely prescribed?",
+   "choices": [
+    "Buspirone",
+    "Diazepam",
+    "Propranolol",
+    "Venlafaxine",
+    "Fluoxetine"
+   ],
+   "answer": 2,
+   "explanation": "Beta-blockers are effective in treating nongeneralized social phobias involving performance-related situations, although they are not approved by the U.S. Food and Drug Administration for this purpose. They are often used by musicians and have been called “the musicians' underground drug.” The antianxiety effect of β-blockers in situational anxiety seems to be related to their blocking of norepinephrine effects, thus reducing physical symptoms of anxiety (palpitation, tremor, and blushing). In fact, even β-blockers that do not cross the blood–brain barrier are effective in performance anxiety. A Benzodiazepines such as diazepam are effective antianxiety agents but are not indicated in this situation, as they can have depressive effects on the central nervous system that could negatively affect the performance. C, D Selective serotonin reuptake inhibitors (e.g., fluoxetine) and serotonin-norepinephrine reuptake inhibitors (e.g., venlafaxine) are currently first-line agents for anxiety disorders, but they are not indicated in this situation, as effects occur gradually over several days. E Buspirone is an effective anxiolytic agent, but its initial effects are observed after 7 to 10 days of therapy.",
+   "source": "Pharmacology II-3 Q27",
+   "topic": "Hard",
+   "topic_n": 7
+  },
+  {
+   "question": "A 65-year-old man, recently diagnosed with prostatic hyperplasia, started treatment with prazosin, one tablet daily. Which of the following adverse effects would be most likely to occur during the first days of therapy?",
+   "choices": [
+    "Postural hypotension",
+    "Impaired micturition",
+    "Pale and cold skin",
+    "Bronchoconstriction",
+    "Mydriasis"
+   ],
+   "answer": 0,
+   "explanation": "Postural hypotension is a common adverse effect of α1 antagonists such as prazosin, especially during the first days of therapy. The effect is due to an impairment of baroreceptor reflex, as the α1 blockade hinders the vasoconstriction that normally occurs when the body assumes a standing position. A Blockade of α1 receptors in the radial muscle of the iris would cause miosis, not mydriasis. B Micturition is facilitated, not impaired, when an α1-blocker is administered to a man with prostatic hyperplasia. C The blockade of α1 receptors in skin vessels would cause red and hot, not pale and cold, skin. D Bronchoconstriction is caused by blockade of β2, not α1, receptors.",
+   "source": "Pharmacology II-3 Q28",
+   "topic": "Easy",
+   "topic_n": 7
+  },
+  {
+   "question": "A 44-year-old woman suffering from open-angle glaucoma had been receiving topical timolol for 3 months. The disease was well controlled, and the treatment stopped the progression of optic nerve damage. Which of the following molecular actions most likely mediated the therapeutic efficacy of the drug in the patient's disease?",
+   "choices": [
+    "Opening of ligand-gated Na+ channels",
+    "Decreased activity of adenylate cyclase",
+    "Decreased synthesis of cyclic guanosine monophosphate (cGMP)",
+    "Increased synthesis of diacylglycerol (DAG)",
+    "Increased synthesis of tyrosine kinase",
+    "Opening of ligand-gated K+ channels"
+   ],
+   "answer": 1,
+   "explanation": "Timolol is a nonselective β-receptor blocker. Activation of all β receptors increases the synthesis of cyclic adenosine monophosphate (cAMP) through increased activity of the adenylate cyclase enzyme. By blocking these receptors, all β-blockers do the opposite (i.e., the activity of adenylate cyclase is decreased). A–C, E, F See correct answer explanation.",
+   "source": "Pharmacology II-3 Q29",
+   "topic": "Easy",
+   "topic_n": 8
+  },
+  {
+   "question": "A 33-year-old man recently diagnosed with pheochromocytoma was scheduled for surgery. The week before the operation he received a treatment with a drug that acts by decreasing catecholamine biosynthesis. Which of the following drugs was most likely administered?",
+   "choices": [
+    "Phenoxybenzamine",
+    "Dexamethasone",
+    "Metyrosine",
+    "Levothyroxine",
+    "Propranolol"
+   ],
+   "answer": 2,
+   "explanation": "Metyrosine inhibits the enzyme tyrosine hydroxylase, which catalyzes the hydroxylation of tyrosine to dopa. This is the rate-limiting step in catecholamine biosynthesis, and the inhibition of the enzyme can cause up to a 70% decrease of catecholamine content in adrenergic terminals. The only therapeutic use of this drug is for the short-term management of patients with pheochromocytoma who are awaiting surgery or for long-term management of malignant pheochromocytoma when surgery is contraindicated. A, B, D, E See correct answer explanation.",
+   "source": "Pharmacology II-3 Q30",
+   "topic": "Easy",
+   "topic_n": 9
+  }
+ ]
+}

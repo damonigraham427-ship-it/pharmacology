@@ -1,0 +1,736 @@
+{
+ "questions": [
+  {
+   "question": "An antacid that also has laxative properties",
+   "choices": [
+    "Meclizine",
+    "Magnesium hydroxide",
+    "Methylcellulose",
+    "Mineral oil",
+    "Omeprazole",
+    "Calcium carbonate",
+    "Docusate",
+    "Misoprostol",
+    "Loperamide",
+    "Aprepitant",
+    "Erythromycin",
+    "Bisacodyl",
+    "Metoclopramide",
+    "Mesalamine",
+    "Sucralfate",
+    "Castor oil"
+   ],
+   "answer": 1,
+   "explanation": "Matching item. Correct match: Magnesium hydroxide.",
+   "source": "Pharmacology VI-2 Q1",
+   "topic": "Easy",
+   "topic_n": 1
+  },
+  {
+   "question": "An antiemetic drug used primarily for chemotherapy-induced vomiting",
+   "choices": [
+    "Erythromycin",
+    "Omeprazole",
+    "Magnesium hydroxide",
+    "Misoprostol",
+    "Sucralfate",
+    "Mineral oil",
+    "Castor oil",
+    "Calcium carbonate",
+    "Methylcellulose",
+    "Mesalamine",
+    "Bisacodyl",
+    "Loperamide",
+    "Aprepitant",
+    "Metoclopramide",
+    "Docusate",
+    "Meclizine"
+   ],
+   "answer": 12,
+   "explanation": "Matching item. Correct match: Aprepitant.",
+   "source": "Pharmacology VI-2 Q2",
+   "topic": "Easy",
+   "topic_n": 2
+  },
+  {
+   "question": "A prostaglandin E1 analogue that can have a cytoprotective effect on gastric mucosa",
+   "choices": [
+    "Loperamide",
+    "Misoprostol",
+    "Castor oil",
+    "Mineral oil",
+    "Sucralfate",
+    "Erythromycin",
+    "Omeprazole",
+    "Calcium carbonate",
+    "Aprepitant",
+    "Metoclopramide",
+    "Methylcellulose",
+    "Bisacodyl",
+    "Magnesium hydroxide",
+    "Docusate",
+    "Mesalamine",
+    "Meclizine"
+   ],
+   "answer": 1,
+   "explanation": "Matching item. Correct match: Misoprostol.",
+   "source": "Pharmacology VI-2 Q3",
+   "topic": "Easy",
+   "topic_n": 3
+  },
+  {
+   "question": "An antiulcer agent that binds to necrotic peptic ulcer tissue, thus acting as a barrier to gastric juice",
+   "choices": [
+    "Magnesium hydroxide",
+    "Misoprostol",
+    "Sucralfate",
+    "Bisacodyl",
+    "Meclizine",
+    "Erythromycin",
+    "Metoclopramide",
+    "Aprepitant",
+    "Calcium carbonate",
+    "Castor oil",
+    "Loperamide",
+    "Mineral oil",
+    "Methylcellulose",
+    "Omeprazole",
+    "Mesalamine",
+    "Docusate"
+   ],
+   "answer": 2,
+   "explanation": "Matching item. Correct match: Sucralfate.",
+   "source": "Pharmacology VI-2 Q4",
+   "topic": "Easy",
+   "topic_n": 4
+  },
+  {
+   "question": "An antiulcer agent that can inhibit 24-hour gastric acid secretion up to 95%",
+   "choices": [
+    "Aprepitant",
+    "Magnesium hydroxide",
+    "Docusate",
+    "Omeprazole",
+    "Loperamide",
+    "Castor oil",
+    "Misoprostol",
+    "Bisacodyl",
+    "Erythromycin",
+    "Calcium carbonate",
+    "Metoclopramide",
+    "Sucralfate",
+    "Mineral oil",
+    "Methylcellulose",
+    "Mesalamine",
+    "Meclizine"
+   ],
+   "answer": 3,
+   "explanation": "Matching item. Correct match: Omeprazole.",
+   "source": "Pharmacology VI-2 Q5",
+   "topic": "Easy",
+   "topic_n": 5
+  },
+  {
+   "question": "A drug that can increase intestinal peristalsis by activating motilin receptors",
+   "choices": [
+    "Methylcellulose",
+    "Magnesium hydroxide",
+    "Erythromycin",
+    "Calcium carbonate",
+    "Misoprostol",
+    "Bisacodyl",
+    "Metoclopramide",
+    "Aprepitant",
+    "Loperamide",
+    "Mesalamine",
+    "Mineral oil",
+    "Omeprazole",
+    "Meclizine",
+    "Docusate",
+    "Castor oil",
+    "Sucralfate"
+   ],
+   "answer": 2,
+   "explanation": "Matching item. Correct match: Erythromycin.",
+   "source": "Pharmacology VI-2 Q6",
+   "topic": "Easy",
+   "topic_n": 6
+  },
+  {
+   "question": "An opioid drug used to treat diarrhea",
+   "choices": [
+    "Mesalamine",
+    "Docusate",
+    "Calcium carbonate",
+    "Bisacodyl",
+    "Castor oil",
+    "Loperamide",
+    "Aprepitant",
+    "Meclizine",
+    "Methylcellulose",
+    "Erythromycin",
+    "Mineral oil",
+    "Magnesium hydroxide",
+    "Sucralfate",
+    "Misoprostol",
+    "Metoclopramide",
+    "Omeprazole"
+   ],
+   "answer": 5,
+   "explanation": "Matching item. Correct match: Loperamide.",
+   "source": "Pharmacology VI-2 Q7",
+   "topic": "Easy",
+   "topic_n": 7
+  },
+  {
+   "question": "A salicylate derivative used in inflammatory bowel diseases",
+   "choices": [
+    "Methylcellulose",
+    "Bisacodyl",
+    "Mineral oil",
+    "Erythromycin",
+    "Misoprostol",
+    "Meclizine",
+    "Omeprazole",
+    "Loperamide",
+    "Sucralfate",
+    "Calcium carbonate",
+    "Metoclopramide",
+    "Magnesium hydroxide",
+    "Mesalamine",
+    "Castor oil",
+    "Aprepitant",
+    "Docusate"
+   ],
+   "answer": 12,
+   "explanation": "Matching item. Correct match: Mesalamine.",
+   "source": "Pharmacology VI-2 Q8",
+   "topic": "Easy",
+   "topic_n": 8
+  },
+  {
+   "question": "A 45-year-old woman had been self-medicating for heartburn. The preparation she was using was a combination of magnesium hydroxide and aluminum hydroxide. Which of the following reasons best explains why many antacid preparations on the market contain a combination of these two antacids instead of a single product?",
+   "choices": [
+    "To avoid antacid overdose toxicity",
+    "To avoid interaction with other drugs given concomitantly",
+    "To achieve a bactericidal effect on Helicobacter pylori",
+    "To decrease the occurrence of constipation or diarrhea",
+    "To facilitate gastric emptying"
+   ],
+   "answer": 3,
+   "explanation": "Because magnesium hydroxide tends to cause diarrhea, and aluminum hydroxide tends to cause constipation, a combination of the two can have a balanced effect on intestinal motility without any loss of antacid effectiveness. A: Antacid preparations have no bactericidal effect on Helicobacter pylori. B: Overdose toxicity is extremely rare because intestinal absorption of these drugs is negligible. C: Interactions between antacids and other drugs given concomitantly is uncommon and is mainly due to the increase of the pH of intestinal contents, not to the specific salt used as an antacid. D: Because magnesium hydroxide tends to increase gastric emptying, and aluminum hydroxide tends to do the opposite, the combination actually has little effect on gastric emptying.",
+   "source": "Pharmacology VI-2 Q9",
+   "topic": "Easy",
+   "topic_n": 9
+  },
+  {
+   "question": "A 76-year-old woman who underwent surgery to remove a colon polyp complained of epigastric pain the day after the operation. Her general condition rapidly deteriorated, and she was transferred to the intensive care unit because of septic shock. Which of the following therapeutic regimens would be appropriate to prevent stress-related mucosal bleeding in this patient?",
+   "choices": [
+    "Misoprostol by nasogastric tube",
+    "Ondansetron by IV infusion",
+    "Metoclopramide by intravenous (IV) infusion",
+    "Bismuth salicylate by nasogastric tube",
+    "Famotidine by IV infusion",
+    "Sucralfate by nasogastric tube"
+   ],
+   "answer": 4,
+   "explanation": "Acute stress-related mucosal bleeding is a type of erosive gastritis that occurs in critically ill patients with severe psychological stress (surgery, trauma, sepsis, etc.). The patient was in septic shock, and her abdominal pain suggested that stress-related mucosal bleeding was impending. Therefore, she needed aggressive prophylactic treatment. H2 antagonists are the most widely used drugs for prevention of stress ulcer. They must be given intravenously, and infusion is more effective than a single bolus in maintaining the gastric pH above 4. Although proton pump inhibitors (not listed) would appear to be the preferred option because of their greater ability to inhibit gastric acid secretion, there is very little evidence to confirm the clinical superiority to H2 antagonists for stress ulcer prevention. A, B: These drugs have no antiulcer properties. C-E: These antiulcer drugs are much less effective than H2 antagonists and are not suited for emergency treatment.",
+   "source": "Pharmacology VI-2 Q10",
+   "topic": "Hard",
+   "topic_n": 1
+  },
+  {
+   "question": "A 61-year-old man with newly diagnosed lung cancer was scheduled to receive his first course of chemotherapy. A prophylactic antiemetic treatment was planned that included ondansetron. Which of the following brain regions represent a site of the antiemetic action of the drug?",
+   "choices": [
+    "Nucleus tractus solitarius",
+    "Nucleus accumbens",
+    "Medial forebrain bundle",
+    "Putamen",
+    "Locus ceruleus"
+   ],
+   "answer": 0,
+   "explanation": "Serotonergic antagonists such as ondansetron are currently considered to be first-line agents for prevention of chemotherapy-induced nausea and vomiting. Ondansetron and congeners block 5-HT3 serotonin receptors located in the nucleus tractus solitarius (likely the main site of action), chemoreceptor trigger zone, and visceral afferent nerves. In this way, it is thought that they can prevent both peripheral and central stimulation of the vomiting center. B-E: See correct answer explanation.",
+   "source": "Pharmacology VI-2 Q11",
+   "topic": "Easy",
+   "topic_n": 10
+  },
+  {
+   "question": "A 70-year-old woman complained to her physician of obstinate constipation. The physician prescribed a laxative that acts in the colon by absorbing water into the fecal contents, thus promoting peristalsis about 1 or 2 days after administration. Which of the following drugs was most likely prescribed?",
+   "choices": [
+    "Castor oil",
+    "Methylcellulose",
+    "Docusate",
+    "Magnesium sulfate",
+    "Sodium phosphate"
+   ],
+   "answer": 1,
+   "explanation": "Methylcellulose is an indigestible hydrophilic polysaccharide polymer that absorbs water, forming a bulky gel that distends the intestine, thus stimulating peristaltic activity. It acts mainly in the colon and takes 1 or 2 days to work. The laxative effect is mild. A-D: All of these laxatives act mainly in the small intestine.",
+   "source": "Pharmacology VI-2 Q12",
+   "topic": "Easy",
+   "topic_n": 11
+  },
+  {
+   "question": "A 58-year-old alcoholic man suffering from hepatic cirrhosis was admitted to the hospital because of drowsiness and disorientation in time and place. Further exams led to the diagnosis of portal-systemic encephalopathy. Which of the following drugs would be appropriate to eliminate toxic enteric products in this patient?",
+   "choices": [
+    "Aprepitant",
+    "Sucralfate",
+    "Ranitidine",
+    "Loperamide",
+    "Omeprazole",
+    "Lactulose"
+   ],
+   "answer": 5,
+   "explanation": "Eliminating toxic enteric products (mainly fecal ammonia) is a therapeutic goal in portal-systemic encephalopathy. Patients with severe liver disease have an impaired capacity to detoxify ammonia coming from the colon, where it is produced by bacterial metabolism of fecal urea. Ammonia is an important cause of brain toxicity. Lactulose, in high doses, can lower colonic pH, which results in \"trapping\" of the ammonia by its conversion to polar ammonium ion, which is poorly absorbed. A, C-F: See correct answer explanation.",
+   "source": "Pharmacology VI-2 Q13",
+   "topic": "Medium",
+   "topic_n": 1
+  },
+  {
+   "question": "A 65-year-old woman suffering from chronic heartburn was routinely taking a large amount of an antacid preparation containing aluminum hydroxide. Lab exams of this patient would most likely show which of the following results?",
+   "choices": [
+    "Hyperglycemia",
+    "Hypokalemia",
+    "Hypernatremia",
+    "Hypophosphatemia",
+    "Hypercalcemia"
+   ],
+   "answer": 3,
+   "explanation": "Aluminum salts bind phosphate in the gut, preventing phosphate absorption. Moreover, they can induce a blood-to-gut phosphorus gradient that favors the elimination of circulating phosphate. In fact, chronic use of high doses of aluminum salts is one of the common causes of hypophosphatemia. The disorder is usually asymptomatic, but severe phosphorus depletion can cause anorexia, muscle weakness, and osteomalacia. A-D: Aluminum salts usually do not cause this effect.",
+   "source": "Pharmacology VI-2 Q14",
+   "topic": "Easy",
+   "topic_n": 12
+  },
+  {
+   "question": "A 45-year-old woman presented to her physician because of a 2-week history of painless diarrhea that was urgent and usually occurred during meals. After physical examination, lab tests, and colonoscopy, a diagnosis of irritable bowel syndrome was made, and the woman was prescribed an appropriate therapy that included loperamide. Direct activation of which of the following receptors most likely mediated the therapeutic effect of the drug in this patient?",
+   "choices": [
+    "Beta-2 adrenergic",
+    "Mu opioid",
+    "M3 cholinergic",
+    "5-HT3 serotonergic",
+    "Nn cholinergic",
+    "Alpha-2 adrenergic"
+   ],
+   "answer": 1,
+   "explanation": "Loperamide is an opioid agonist that directly activates mu (μ) receptors in the enteric nervous system. This activation of enteric neurons and smooth muscle ultimately causes a decrease in contraction of intestinal longitudinal muscle and a marked increase in contraction of circular muscle. Therefore, propulsive peristaltic waves are diminished, and tone is increased, thus relieving diarrhea. A-D, F: Loperamide cannot bind these receptors.",
+   "source": "Pharmacology VI-2 Q15",
+   "topic": "Easy",
+   "topic_n": 13
+  },
+  {
+   "question": "A 74-year old man was admitted to the hospital because of persistent epigastric pain and tarry stools. The patient had been suffering from hypertension for 5 years and was being treated with hydrochlorothiazide and losartan. Past history was significant for a serious hypersensitivity reaction to omeprazole taken 1 year ago for heartburn. Pertinent laboratory results on admission were red blood cell count 3.5 x 10^6/mm3 (normal 4.5-5.5 x 10^6/mm3), hemoglobin 9 g/dL (normal 14-16 g/dL), creatinine 4.5 mg/dL (normal 0.9-1.3 mg/dL). Endoscopy disclosed a large gastric ulcer. Therapy with famotidine was started, but the standard dose was reduced by one half. Which of the following was the most likely reason for the use of a reduced dose of famotidine in this patient?",
+   "choices": [
+    "The patient's hypersensitivity to omeprazole",
+    "The patient's hypertension",
+    "The patient's age",
+    "The patient's anemia",
+    "The patient's renal insufficiency"
+   ],
+   "answer": 4,
+   "explanation": "The high creatinine level indicates that the patient was suffering from chronic renal insufficiency. Famotidine is an H2 histamine antagonist. All drugs of this class are cleared mainly by the kidney. Although the overdose toxicity of H2 antagonists is quite low, the dosage should be reduced in elderly patients with renal insufficiency, as in this case. A-C, E: See correct answer explanation.",
+   "source": "Pharmacology VI-2 Q16",
+   "topic": "Medium",
+   "topic_n": 2
+  },
+  {
+   "question": "An 18-year-old man traveling on vacation in Mexico noted some mild abdominal cramps and three or four unformed stools over the past 24 hours. No blood was seen in the stool. Which of the following drugs would be appropriate to treat the patient's diarrhea?",
+   "choices": [
+    "Metoclopramide",
+    "Sucralfate",
+    "Bismuth subsalicylate",
+    "Erythromycin",
+    "Magnesium sulfate",
+    "Vancomycin"
+   ],
+   "answer": 2,
+   "explanation": "The patient is most likely affected by travelers' diarrhea, which typically begins within 24 to 48 hours after eating fecally contaminated food. Several enterobacteriaceae can cause travelers' diarrhea, varying according to the area of travel. Escherichia coli is the most common in Central America. Bismuth subsalicylate is effective in patients with diarrhea caused by E. coli, Helicobacter pylori, Campylobacter jejuni, and Salmonella species and also inhibits enteric secretions. A: Magnesium sulfate is an osmotic laxative and therefore is contraindicated in the treatment of diarrhea. C, D: These antibiotics are not effective against enterobacteriaceae. E, F: These drugs have no antidiarrheal properties.",
+   "source": "Pharmacology VI-2 Q17",
+   "topic": "Easy",
+   "topic_n": 14
+  },
+  {
+   "question": "A 45-year-old man recently diagnosed with mild colonic Crohn disease had been receiving sulfasalazine for 4 weeks, but remission was not achieved. Prednisone was added for another 2 weeks, but improvement was negligible, and the gastroenterologist decided to add a third drug to the therapy. Which of the following drugs would be appropriate for the patient at this time?",
+   "choices": [
+    "Amikacin",
+    "Dexamethasone",
+    "Daclizumab",
+    "Infliximab",
+    "Mesalamine"
+   ],
+   "answer": 3,
+   "explanation": "Treatment of mild colonic Crohn disease can start with sulfasalazine or glucocorticoids. If remission is not achieved, infliximab, azathioprine, or methotrexate is added. An important proinflammatory cytokine in Crohn disease is tumor necrosis factor (TNF). Infliximab is a monoclonal antibody that binds to soluble and membrane-bound TNF with high affinity, thus preventing the binding of the cytokine to its receptors. A, C: To add these drugs is irrational, as prednisone and sulfasalazine were not effective. B: Daclizumab is a monoclonal antibody used only for treatment of acute organ rejection. D: Antibiotics have no role in remission induction. Metronidazole is sometimes used in fistulizing disease or in patients with abscesses, but amikacin is not effective against anaerobes, the prevalent bacteria in intestinal flora.",
+   "source": "Pharmacology VI-2 Q18",
+   "topic": "Medium",
+   "topic_n": 3
+  },
+  {
+   "question": "A 43-year-old man suffering from heartburn had been using antacid preparations as needed. Which of the following best describes the mechanism of action of antacids?",
+   "choices": [
+    "Reaction with hydrochloric acid in the stomach lumen",
+    "Stimulation of bicarbonate secretion by epithelial cells",
+    "Binding to necrotic ulcer tissue",
+    "Inhibition of pepsin and hydrochloric acid secretion",
+    "Reaction with pepsin in the stomach lumen"
+   ],
+   "answer": 0,
+   "explanation": "Antacids are salts of sodium, calcium, magnesium, and/or aluminum. They react with the hydrochloric acid of the stomach to form chlorides, water, and carbon dioxide. In this way, they neutralize gastric acidity and raise the gastrointestinal pH sufficiently to relieve the pain of heartburn. A: Because antacids neutralize gastric acid, the gastric secretion of hydrochloric acid and pepsin is stimulated, not inhibited. B, D, E: Antacids do not cause these effects.",
+   "source": "Pharmacology VI-2 Q19",
+   "topic": "Easy",
+   "topic_n": 15
+  },
+  {
+   "question": "A 30-year-old man went to his physician because of 1 month of worsening intermittent abdominal pain, bloating, diarrhea, and rectal bleeding. Vital signs were normal, and physical examination disclosed only diffuse abdominal pain. Sigmoidoscopy showed erythematous mucosa in the rectum and sigmoid and distal descending colon. The mucosa had areas of fine granular appearance with some focal hemorrhage and ulcerations. Biopsies demonstrated abnormal crypt abscesses. A diagnosis was made, and a therapy was prescribed. Which of the following drugs would be most appropriate for the patient at this time?",
+   "choices": [
+    "Clarithromycin",
+    "Ondansetron",
+    "Loperamide",
+    "Metronidazole",
+    "Prednisolone"
+   ],
+   "answer": 4,
+   "explanation": "The patient's symptoms, together with macroscopic and microscopic findings, suggest that he was most likely affected by ulcerative colitis. The limitation of the lesions to the superficial mucosa and crypt abscesses confirm the diagnosis (Crohn disease involves all layers of the bowel from mucosa to serosa). Remission induction in ulcerative colitis is usually accomplished with glucocorticoids. Their effects on inflammatory bowel disease are well documented, but the response in individual patients is variable. About 40% of patients are responsive, 40% have only partial response, and 20% are resistant. A, B: Antibiotics such as metronidazole and clarithromycin are used only as adjunctive treatment along with other medications. C, D: These drugs are not effective and may be dangerous in inflammatory bowel disease.",
+   "source": "Pharmacology VI-2 Q20",
+   "topic": "Hard",
+   "topic_n": 2
+  },
+  {
+   "question": "A 50-year-old woman complained to her physician of regurgitation of foul-tasting fluid into her mouth and occasional nausea and vomiting. The physician prescribed a drug that can both prevent nausea and vomiting and promote upper gastrointestinal motility. Blockade of which of the following receptors most likely contributed to the therapeutic effect of the drug in the patient's disease?",
+   "choices": [
+    "M3 cholinergic",
+    "H2 histaminergic",
+    "D2 dopaminergic",
+    "Beta-2 adrenergic",
+    "Nn cholinergic"
+   ],
+   "answer": 2,
+   "explanation": "Metoclopramide is a dopamine D2 receptor antagonist, a serotonin 5-HT3 receptor antagonist, and a serotonin 5-HT4 receptor agonist. In the enteric nervous system, all of these molecular actions seem to contribute to the final effect that is related to an increased activity of cholinergic motor neurons. In this way, the drug exerts a prokinetic effect; that is, it increases the lower esophageal sphincter tone and enhances transit in the upper digestive tract. It has negligible effects on gastric secretion or motility of the large intestine. In addition, the blockade of D2 receptors and 5-HT3 receptors in the chemoreceptor trigger zone can explain the antiemetic activity of the drug. A-D: See correct answer explanation.",
+   "source": "Pharmacology VI-2 Q21",
+   "topic": "Medium",
+   "topic_n": 4
+  },
+  {
+   "question": "A 61-year-old man was seen at a clinic because of heartburn and abdominal pain for the past month. He had self-medicated with various over-the-counter preparations, but he got only temporary relief. All routine laboratory tests were within normal limits except the serum gastrin level, which was 3240 pg/mL (normal < 100 pg/mL). Radiographic and endoscopic studies demonstrated one gastric and two duodenal ulcers, and magnetic resonance imaging showed a small pancreatic tumor. A drug with which of the following mechanisms of action would be most appropriate for this patient?",
+   "choices": [
+    "Activation EP3 receptors in gastric epithelial cells",
+    "Coating the gastric ulcer craters",
+    "Neutralization of hydrochloric acid in the stomach lumen",
+    "Blockade of H2 receptors in gastric parietal cells",
+    "Inhibition of H+/K+ ATPase in gastric parietal cells"
+   ],
+   "answer": 4,
+   "explanation": "The patient is most likely suffering from Zollinger-Ellison syndrome, a rare condition characterized by a triad of clinical findings, including severe recurrent peptic ulcer disease, significant hypersecretion of gastric acid, and a tumor of the pancreas (gastrinoma) that functions as an ectopic source of gastrin. This tumor is usually located in the pancreas but can be found in other regions, particularly the duodenum. Currently, most patients with gastrinomas can be effectively treated with high doses of a drug such as omeprazole that inhibits H+/K+ ATPase in gastric parietal cells. A-D: These are the mechanisms of action of H2-receptor antagonists (A), misoprostol (B), sucralfate (C), and antacids (D). All of these antiulcer drugs are less effective than proton pump inhibitors in reducing gastric acid secretion and therefore are not first-line agents in Zollinger-Ellison syndrome.",
+   "source": "Pharmacology VI-2 Q22",
+   "topic": "Medium",
+   "topic_n": 5
+  },
+  {
+   "question": "A 61-year-old woman with newly diagnosed ovarian cancer was scheduled to receive her first course of chemotherapy. A prophylactic antiemetic medication was planned. A drug from which of the following classes would be most appropriate to include in the antiemetic therapy of this patient?",
+   "choices": [
+    "Serotonergic antagonists",
+    "Gabaergic agonists",
+    "Adrenergic agonists",
+    "Muscarinic antagonists",
+    "Dopaminergic agonist"
+   ],
+   "answer": 0,
+   "explanation": "Serotonergic antagonists are currently considered first-line agents to prevent chemotherapy-induced nausea and vomiting. Ondansetron and congeners block 5-HT3 receptors located in the nucleus of the tractus solitarius (likely the main site of action), chemoreceptor trigger zone, and visceral afferent nerves. In this way, it is thought that they can prevent both peripheral and central stimulation of the vomiting center. B, E: These drugs can cause, not prevent, nausea and vomiting. C, D: These drugs have antiemetic properties but are much less effective than serotonergic antagonists in chemotherapy-induced nausea and vomiting.",
+   "source": "Pharmacology VI-2 Q23",
+   "topic": "Easy",
+   "topic_n": 16
+  },
+  {
+   "question": "A 44-year-old man who has been receiving his first course of chemotherapy for a non-Hodgkin lymphoma still complains of recurrent nausea and vomiting despite antiemetic medication with ondansetron, dexamethasone, and aprepitant. Which of the following drugs would be appropriate to add to the patient's antiemetic regimen at this time?",
+   "choices": [
+    "Famotidine",
+    "Meclizine",
+    "Omeprazole",
+    "Loperamide",
+    "Dronabinol",
+    "Triamcinolone"
+   ],
+   "answer": 4,
+   "explanation": "Dronabinol is a Δ9-tetrahydrocannabinol, the most active cannabinoid from cannabis. Its mechanism of antiemetic action is still uncertain, but the drug likely activates specific cannabinoid receptors in the vomiting center. Because of the availability of more effective agents, dronabinol is uncommonly used in patients receiving cancer chemotherapy, but can be a useful addition when other antiemetic medications are not effective, as in this case. A-C: These drugs are devoid of antiemetic properties. E: It would be illogical to add a glucocorticoid drug when dexamethasone was not effective. F: Meclizine is an antihistamine agent useful in prevention of motion sickness-induced vomiting. Antihistamines are not effective in chemotherapy-induced vomiting.",
+   "source": "Pharmacology VI-2 Q24",
+   "topic": "Medium",
+   "topic_n": 6
+  },
+  {
+   "question": "A 64-year-old woman suffering from episodic heartburn routinely took an over-the-counter medication as needed. The drug acts by inhibiting the action of an endogenous compound released from enterochromaffin-like cells of the stomach. Which of the following drugs did the patient most likely take?",
+   "choices": [
+    "Loratadine",
+    "Loperamide",
+    "Famotidine",
+    "Sucralfate",
+    "Ondansetron",
+    "Metoclopramide"
+   ],
+   "answer": 2,
+   "explanation": "Heartburn is caused by gastroesophageal reflux disease (GERD). Drugs for heartburn act by decreasing the secretion of or neutralizing hydrochloric acid in the stomach. They include antacids, H2 antagonists, and proton pump inhibitors. H2 antagonists such as famotidine block H2 receptors, thus inhibiting the action of histamine that is released from enterochromaffin-like cells located on the stomach wall. A-C, E, F: See correct answer explanation.",
+   "source": "Pharmacology VI-2 Q25",
+   "topic": "Medium",
+   "topic_n": 7
+  },
+  {
+   "question": "A 36-year-old man complained to his physician of dizziness and drowsiness. The man, recently diagnosed with gastroesophageal reflux disease, had started an appropriate treatment 2 weeks earlier. Laboratory findings showed an increase of the patient's prolactin levels. Which of the following drugs could have caused the signs and symptoms of this patient?",
+   "choices": [
+    "Calcium carbonate",
+    "Omeprazole",
+    "Metoclopramide",
+    "Sucralfate",
+    "Ranitidine",
+    "Aluminum hydroxide"
+   ],
+   "answer": 2,
+   "explanation": "Metoclopramide is an antagonist of D2 and 5-HT3 receptors. Blockade of D2 receptors in the central nervous system can cause dizziness and drowsiness, and blockade of D2 receptors in the pituitary leads to hyperprolactinemia, a common adverse effect of metoclopramide. A-E: These drugs can be used for gastroesophageal reflux disease, but they do not cause hyperprolactinemia.",
+   "source": "Pharmacology VI-2 Q26",
+   "topic": "Medium",
+   "topic_n": 8
+  },
+  {
+   "question": "A 51-year-old man complained to his physician of indigestion. He described a burning sensation and some belching, often associated with foul-tasting acid in his mouth, especially after large or spicy meals. If meals were too close to his bedtime, the burning kept him awake at night. He would like to have a treatment that prevents meal-related symptoms. Which of the following drugs would be most appropriate for this patient?",
+   "choices": [
+    "Ondansetron",
+    "Erythromycin",
+    "Dronabinol",
+    "Famotidine",
+    "Atropine",
+    "Bismuth"
+   ],
+   "answer": 3,
+   "explanation": "The patient was most likely suffering from GERD. Because the patient requested a medication to specifically prevent meal-related symptoms, H2 antagonists such as famotidine are appropriate. Their onset of symptom relief occurs within 30 to 45 minutes and persists up to 10 hours. They also have a beneficial effect of reducing nocturnal acid secretion, which is mainly histamine-dependent. Proton pump inhibitors (not listed) have an efficacy higher than that of H2 antagonists with regard to symptom relief and duration of suppression, but their onset of activity is slower (2 to 3 hours), and complete relief may take up to 4 days of therapy. B: Atropine is actually contraindicated, as it may favor reflux by relaxing the lower esophageal sphincter. C-E: These drug are of no value in GERD. F: This drug would be indicated only in case of peptic ulcer, which is unlikely in this patient.",
+   "source": "Pharmacology VI-2 Q27",
+   "topic": "Easy",
+   "topic_n": 17
+  },
+  {
+   "question": "A 60-year-old man suffering from recurrent heartburn routinely took large quantities of different antacid preparations. Which of the following antacids had the highest risk of metabolic alkalosis in this patient?",
+   "choices": [
+    "Ca(OH)2",
+    "NaHCO3",
+    "Al(OH)3",
+    "Mg(OH)2",
+    "CaCO3"
+   ],
+   "answer": 1,
+   "explanation": "All antacids can cause metabolic alkalosis, due to the spared endogenous bicarbonate that is secreted in the stomach under prostaglandin E2 control. In addition, exogenous bicarbonate is readily and completely absorbed; therefore, the risk of metabolic alkalosis is higher than that of calcium, magnesium, and aluminum salts that have an oral bioavailability less than 30%. B-E: See correct answer explanation.",
+   "source": "Pharmacology VI-2 Q28",
+   "topic": "Easy",
+   "topic_n": 18
+  },
+  {
+   "question": "A 67-year-old man complained to his physician of nervousness, insomnia, palpitations, and stomach ache. The man had a long history of chronic obstructive pulmonary disease currently treated with inhaled ipratropium and oral theophylline. He told the physician that he had started taking cimetidine for heartburn 3 days ago. Which of the following best explains the reason for the patient's current complaints?",
+   "choices": [
+    "Theophylline increased the clearance of cimetidine.",
+    "Cimetidine increased the clearance of ipratropium.",
+    "Cimetidine decreased the clearance of theophylline.",
+    "Theophylline decreased the clearance of cimetidine.",
+    "Cimetidine increased the clearance of theophylline."
+   ],
+   "answer": 2,
+   "explanation": "The symptoms of the patient are most likely due to theophylline overdose. Cimetidine (and, to a lesser extent, ranitidine, but not other H2 blockers) strongly inhibits the cytochrome P-450 system, decreasing the metabolism of several drugs, including theophylline. Because theophylline has a low therapeutic index, even a small increase in plasma drug concentration can cause symptoms of overdose toxicity. A, C-E: See correct answer explanation.",
+   "source": "Pharmacology VI-2 Q29",
+   "topic": "Medium",
+   "topic_n": 9
+  },
+  {
+   "question": "A 71-year-old man with terminal metastatic lung cancer had been hospitalized for 3 months. His renal function had deteriorated, and laboratory results showed serum creatinine 4.5 mg/dL (normal 0.9-1.2 mg/dL) and blood urea nitrogen (BUN) 75 mg/dL (normal 6-20 mg/dL). Because of poor food intake, immobility, and requirement for an opioid analgesia, the patient was severely constipated and required daily laxative therapy. Which of the following would be a suitable laxative for this patient?",
+   "choices": [
+    "Sodium phosphate",
+    "Mineral oil",
+    "Castor oil",
+    "Lactulose",
+    "Magnesium hydroxide"
+   ],
+   "answer": 3,
+   "explanation": "Lactulose is a nonabsorbable sugar that is hydrolyzed in the colon to organic acids. These acids draw water into the lumen by osmotic forces, stimulating colonic propulsive motility by stretching the colonic wall. The laxative effect is mild. B: Castor oil is too strong a cathartic to be used regularly. C, D: Magnesium and phosphate preparations are contraindicated in renal insufficiency because the small amount of absorbed salt cannot be readily excreted, thus causing systemic toxicity (hypermagnesemia or hyperphosphatemia). E: Mineral oil has several adverse effects (interference with absorption of fat-soluble substances, elicitation of foreign-body reaction) that preclude its regular use.",
+   "source": "Pharmacology VI-2 Q30",
+   "topic": "Easy",
+   "topic_n": 19
+  },
+  {
+   "question": "A 74-year-old patient suffering from chronic constipation complained of very loose stools after a treatment with bisacodyl, one tablet daily for 1 week. Which of the following would be the best advice to give to this patient?",
+   "choices": [
+    "Continue bisacodyl, and add lactulose.",
+    "There is no cause for alarm; the situation is self-limiting.",
+    "Continue bisacodyl, but take the medication with a small snack.",
+    "Discontinue bisacodyl, and switch to castor oil.",
+    "Discontinue bisacodyl, and increase fiber and fluid intake."
+   ],
+   "answer": 4,
+   "explanation": "When diarrhea is experienced with the use of laxatives, the laxative should be discontinued until resolution of the diarrhea. A diet rich in fiber and abundant fluid intake usually helps to normalize the intestine. A: The situation is not self-limiting. Tolerance to bisacodyl is negligible. B, C: These options would maintain the drug-induced diarrhea. E: Castor oil is too strong a cathartic to be used regularly.",
+   "source": "Pharmacology VI-2 Q31",
+   "topic": "Easy",
+   "topic_n": 20
+  },
+  {
+   "question": "A 43-year-old man recently diagnosed with testicular cancer was in the hospital for his second cycle of chemotherapy. A three-drug combination was given to prevent chemotherapy-induced nausea and vomiting. The combination included a drug that blocks NK1 neurokinin receptors in the area postrema. Which of the following drugs has this molecular mechanism of action?",
+   "choices": [
+    "Dronabinol",
+    "Diphenhydramine",
+    "Ondansetron",
+    "Metoclopramide",
+    "Aprepitant"
+   ],
+   "answer": 4,
+   "explanation": "NK1 neurokinin receptors are located in the nucleus of the tractus solitarius in the brainstem. Activation of these receptors by substance P and related substances causes an increase in firing to the vomiting center. Aprepitant is an NK1-receptor antagonist that is able to cross the blood-brain barrier. It has antiemetic effects, especially in cases of delayed emesis, and it improves the efficacy of standard antiemetic regimens in patients receiving multiple cycles of chemotherapy. A, B, D, E: See correct answer explanation.",
+   "source": "Pharmacology VI-2 Q32",
+   "topic": "Easy",
+   "topic_n": 21
+  },
+  {
+   "question": "A 57-year-old man complained to his physician of epigastric pain that was stronger at night and was temporarily relieved by food. Upper gastrointestinal endoscopy showed two small gastric ulcers, and a urease breath test was positive for Helicobacter pylori infection. The physician prescribed a triple therapy with omeprazole, clarithromycin, and metronidazole for 14 days, followed by omeprazole daily for 6 weeks. Which of the following statements best explains why this drug regimen is the first-line therapy for H. pylori-associated ulcers?",
+   "choices": [
+    "Omeprazole is rapidly bactericidal against H. pylori.",
+    "The regimen can cure the ulcer in up to 70% of cases.",
+    "Clarithromycin greatly enhances the bactericidal activity of omeprazole.",
+    "Metronidazole greatly enhances the bactericidal activity of omeprazole.",
+    "The regimen almost completely eliminates the risk of ulcer recurrence."
+   ],
+   "answer": 4,
+   "explanation": "For H. pylori-associated ulcers, there are two therapeutic goals: eradicate the H. pylori and heal the ulcer. The first goal is important because it has been shown that eradication of H. pylori almost completely eliminates the risk of ulcer recurrence. The most effective regimens for H. pylori eradication are combinations of two antibiotics and a proton pump inhibitor. After completion of triple-drug therapy, the proton pump inhibitor should be continued for 3 to 6 weeks to ensure complete ulcer healing. A, C, D: Omeprazole has no bactericidal activity against H. pylori. It only creates a hostile environment for H. pylori by increasing gastric pH. E: The triple-drug regimen can cure the ulcer in more than 90%, not up to 70%, of cases.",
+   "source": "Pharmacology VI-2 Q33",
+   "topic": "Easy",
+   "topic_n": 22
+  },
+  {
+   "question": "A 34-year-old hospitalized male patient complained of torticollis, grimacing, and spasm of the ocular muscles 1 day after surgery. The man had received an intravenous drug soon after surgery to treat nausea and vomiting. Which of the following antiemetic drugs most likely caused the patient's symptoms?",
+   "choices": [
+    "Dronabinol",
+    "Ondansetron",
+    "Dexamethasone",
+    "Scopolamine",
+    "Metoclopramide"
+   ],
+   "answer": 4,
+   "explanation": "The patient's symptoms suggest that he is suffering from acute dystonia, an extrapyramidal syndrome that can occur after treatment with neuroleptics and other drugs that block D2 receptors in the basal ganglia. Young patients, especially males who receive these drugs intravenously, are at greater risk of this adverse effect, as in this case. Metoclopramide is a drug with antiemetic properties, probably due to its blocking activity on both D2 and 5-HT3 receptors located in the chemoreceptor trigger zone and the nucleus of the tractus solitarius. It is often used to treat postoperative nausea and vomiting. A-C, E: These antiemetic drugs do not cause acute dystonias.",
+   "source": "Pharmacology VI-2 Q34",
+   "topic": "Medium",
+   "topic_n": 10
+  },
+  {
+   "question": "A 59-year-old woman suffering from chronic constipation routinely self-administered milk of magnesia (magnesium hydroxide) daily. Which of the following actions most likely mediated the laxative effect of the drug?",
+   "choices": [
+    "Formation of a bulky emollient gel",
+    "Retention of water in the vessels by osmosis",
+    "Inhibition of cholecystokinin release",
+    "Stretching of the intestinal wall",
+    "Lubrication of fecal material"
+   ],
+   "answer": 3,
+   "explanation": "Saline laxatives such as magnesium salts (citrate and hydroxide) and phosphate salts are poorly absorbed and hold water in the intestine by osmotic forces. The increased volume of intestinal content stretches the intestinal wall, thus stimulating peristalsis. A: Magnesium salts stimulate, not inhibit, cholecystokinin release. B: The drug causes water retention in the intestinal lumen, not in the vessels. C: This is the mechanism of action of mineral oil. E: This is the mechanism of action of dietary fibers.",
+   "source": "Pharmacology VI-2 Q35",
+   "topic": "Easy",
+   "topic_n": 23
+  },
+  {
+   "question": "A 41-year-old woman complained to her physician of increasing frequency and urgency of bowel movements that she attributed to increased stress at work. The woman was diagnosed with spastic colon 4 years ago but was able to tolerate the symptoms until recently, when she noted the increasing frequency of bowel movements. A drug from which of the following classes could be appropriate to treat the patient's disorder?",
+   "choices": [
+    "Opioid agonists",
+    "Serotonergic agonists",
+    "Gabaergic antagonists",
+    "Adrenergic antagonists",
+    "Muscarinic agonists",
+    "H1 agonists"
+   ],
+   "answer": 0,
+   "explanation": "The patient's symptoms suggest that she was most likely suffering from irritable bowel syndrome, a condition that affects 10 to 15% of the population in the United States. Many patients with this syndrome can be managed satisfactorily with simple medical counseling and supportive measures, including dietary restriction and fiber supplementation. The pharmacological treatment of bowel symptoms (either diarrhea or constipation) is symptomatic. In this case, an antidiarrheal drug is needed. Opioid agonists such as loperamide and diphenoxylate are commonly used. They have the advantage of negligible central nervous system (CNS) activity because penetration into the CNS is poor. Other drugs used for this purpose are muscarinic and 5-HT3 antagonists. B-F: Drugs from these classes would increase, not decrease, bowel movements.",
+   "source": "Pharmacology VI-2 Q36",
+   "topic": "Easy",
+   "topic_n": 24
+  },
+  {
+   "question": "A 46-year-old man recently diagnosed with a duodenal ulcer started a treatment that included daily sucralfate. Which of the following mechanisms most likely mediates the therapeutic efficacy of the drug in the patient's disease?",
+   "choices": [
+    "Stimulating bicarbonate secretion by antral parietal cells",
+    "Acting as a barrier to acid by binding to necrotic ulcer tissue",
+    "Exerting a bactericidal effect against Helicobacter pylori",
+    "Reacting with gastric hydrochloric acid to form salt and water",
+    "Inhibiting hydrochloric acid secretion"
+   ],
+   "answer": 1,
+   "explanation": "Sucralfate is a mucosal protective agent. In a strong acid environment (pH < 4), the negatively charged sucrose sulfate undergoes extensive cross-linking to positively charged proteins to produce a viscous, sticky polymer that adheres to epithelial cells and ulcer craters for up to 6 hours after a single dose. B, E: Sucralfate does not have these effects. C, D: Sucralfate may have cytoprotective effects, including stimulation of local production of prostaglandins, which in turn can inhibit acid secretion and stimulate bicarbonate secretion, but this is not the main mechanism of action of the drug.",
+   "source": "Pharmacology VI-2 Q37",
+   "topic": "Easy",
+   "topic_n": 25
+  },
+  {
+   "question": "A 24-year-old woman in her second trimester of pregnancy complained of constipation at a routine prenatal visit. The physician instructed the woman to maintain bowel function by drinking plenty of water, increasing bulk in the diet with vegetables, and taking a laxative daily. Which of the following laxatives would be most appropriate for this patient?",
+   "choices": [
+    "Docusate",
+    "Sodium sulfate",
+    "Castor oil",
+    "Senna",
+    "Bisacodyl",
+    "Magnesium hydroxide"
+   ],
+   "answer": 0,
+   "explanation": "Up to 30% of women experience constipation during pregnancy. Laxatives must be used cautiously because they can increase motility and blood flow in the lower abdomen, and mild agents are preferred. A stool softener such as docusate or a bulk-producing product such as psyllium is commonly used. A-C, E, F: Stimulant cathartics (castor oil, bisacodyl, and senna) and saline cathartics (magnesium hydroxide and sodium sulfate) are not recommended during pregnancy.",
+   "source": "Pharmacology VI-2 Q38",
+   "topic": "Easy",
+   "topic_n": 26
+  },
+  {
+   "question": "A 64-year-old man complained to his physician of burning and substernal pain for about 3 weeks. The pain usually occurred after dinner when he was lying on the couch watching television and was sometimes accompanied by regurgitation of foul-tasting fluid into his mouth. The man had been suffering from Parkinson disease for 1 year and was currently receiving pramipexole and selegiline. Which of the following drugs would be most appropriate to treat the patient's symptoms?",
+   "choices": [
+    "Cimetidine",
+    "Ondansetron",
+    "Metoclopramide",
+    "Atropine",
+    "Misoprostol",
+    "Omeprazole"
+   ],
+   "answer": 5,
+   "explanation": "The substernal pain and reflux of gastric contents into the esophagus are classic symptoms of GERD, a disorder that affects 7% of the population in the United States. Proton pump inhibitors such as omeprazole are effective in the treatment of GERD, and a once-daily dose for 4 weeks will heal 60 to 80% of patients with severe esophagitis. A: Atropine is contraindicated, because it may favor reflux by relaxing the lower esophageal sphincter. B, C: These drugs are not effective in treating GERD. E: Metoclopramide is used in the treatment of GERD because it promotes gastric peristalsis and also increases the lower esophageal sphincter resting tone. However, it is contraindicated in patients with Parkinson disease because it is a D2 antagonist. F: H2 antagonists are currently used in GERD, but cimetidine is not appropriate in a patient taking other drugs because it can inhibit the metabolism of most drugs, including selegiline.",
+   "source": "Pharmacology VI-2 Q39",
+   "topic": "Medium",
+   "topic_n": 11
+  },
+  {
+   "question": "A 63-year-old man suffering from a small cell carcinoma of the lung was hospitalized for his first cycle of chemotherapy. Which of the following three-drug regimens would be the best to prevent nausea and vomiting in this patient?",
+   "choices": [
+    "Aprepitant, scopolamine, loperamide",
+    "Ondansetron, aprepitant, dexamethasone",
+    "Ranitidine, diazepam, dexamethasone",
+    "Diphenhydramine, prochlorperazine, dronabinol",
+    "Scopolamine, dexamethasone, ondansetron",
+    "Prochlorperazine, ranitidine, loperamide"
+   ],
+   "answer": 1,
+   "explanation": "According to the guidelines for the use of antiemetics in oncology from the American Society of Clinical Oncology, the best regimen to prevent nausea and vomiting in patients undergoing chemotherapy is a three-drug combination of a 5-HT3 receptor antagonist, a glucocorticoid, and aprepitant. This combination prevents acute emesis in 80 to 90% of patients and prevents delayed emesis in more than 70% of patients. A: Benzodiazepines have no direct antiemetic effect. They are sometimes added to the main regimen because the antianxiety effect could reduce the anticipatory component of nausea and vomiting. Ranitidine has no antiemetic effect. B: Anticholinergic drugs such as scopolamine are not effective in chemotherapy-induced nausea and vomiting. D: Loperamide is not an antiemetic drug. E: These drugs are used in chemotherapy-induced nausea and vomiting only when other antiemetic drugs are not effective. F: See correct answer explanation.",
+   "source": "Pharmacology VI-2 Q40",
+   "topic": "Hard",
+   "topic_n": 3
+  },
+  {
+   "question": "A 34-year-old-man with a 2-year history of AIDS was admitted to the hospital for evaluation. The patient's only complaint was a poor appetite that had gotten progressively worse over the past 3 weeks. He was currently taking a highly active antiretroviral therapy (HAART) with lamivudine, stavudine, and atazanavir. Physical examination and laboratory exams showed that the patient was in stable condition except for decreasing body weight. Which of the following drugs would be appropriate to treat the patient's anorexia?",
+   "choices": [
+    "Omeprazole",
+    "Loperamide",
+    "Dronabinol",
+    "Metoclopramide",
+    "Meclizine",
+    "Famotidine"
+   ],
+   "answer": 2,
+   "explanation": "Appetite-enhancing (also called orexigenic) drugs are a vast array of medications used to prevent undesired weight loss in the elderly and in patients suffering from such diseases as AIDS and cancer, which often result in wasting of the body's muscle tissue, as well as overall weight loss. Agents with orexigenic effects include 5-HT2C serotonin receptor antagonists (cyproheptadine), adrenergic antagonists (carvedilol and mirtazapine), anabolic steroids (oxandrolone and nandrolone), glucocorticoids (cortisol, prednisone, and dexamethasone), antidiabetic drugs (Insulin and glibenclamide), and cannabinoids. Dronabinol, the most active cannabinoid of cannabis, has been shown to stimulate appetite in patients with AIDS and is often used for this purpose. A-C, E, F: These drugs are devoid of orexigenic properties.",
+   "source": "Pharmacology VI-2 Q41",
+   "topic": "Easy",
+   "topic_n": 27
+  },
+  {
+   "question": "A 53-year-old woman complained to her physician that the drug she was taking did not work and that she was still suffering from obstinate constipation. The woman had a long history of irritable bowel syndrome and took several drugs in the past with limited success. She was presently taking lactulose. The physician decided to try another drug recently approved for irritable bowel syndrome with constipation in adult women. The drug is a prostanoid derivative that acts by opening type 2 chloride channels in the small intestine. Which of the following drugs was most likely prescribed?",
+   "choices": [
+    "Metoclopramide",
+    "Ondansetron",
+    "Lubiprostone",
+    "Diphenhydramine",
+    "Dronabinol",
+    "Sorbitol"
+   ],
+   "answer": 2,
+   "explanation": "Lubiprostone is a prokinetic drug that acts in the small intestine. Several agents, commonly called laxatives, can stimulate intestinal motility in nonspecific or indirect ways, but the term prokinetic generally is reserved for agents that enhance intestinal transit through interaction with specific receptors. Lubiprostone is a prostaglandin E1 derivative that appears to bind to prostaglandin E4 receptors linked to activation of adenylyl cyclase. This in turn can open specific type 2 chloride channels in the luminal cells of the intestinal epithelium, increasing chloride-rich fluid secretion into the intestine. Clinically, lubiprostone alters stool consistency and promotes regular bowel movements. Signs and symptoms related to constipation, including abdominal bloating, abdominal discomfort, stool consistency, and straining, are improved, and long-term data suggest a sustained response over a 6- to 12-month treatment period. A, B, D-F: These drugs do not affect intestinal type 2 chloride channels.",
+   "source": "Pharmacology VI-2 Q42",
+   "topic": "Easy",
+   "topic_n": 28
+  }
+ ]
+}

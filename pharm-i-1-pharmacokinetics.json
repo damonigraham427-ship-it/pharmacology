@@ -1,0 +1,496 @@
+{
+ "questions": [
+  {
+   "question": "A 22-year-old woman suffering from asthma was prescribed albuterol by inhalation. Albuterol is a bronchodilating drug with a molecular weight of 239 daltons. Which of the following permeation processes most likely accounted for the transfer of the drug through the bronchial mucosa?",
+   "choices": [
+    "Lipid diffusion",
+    "Active transport",
+    "Facilitated diffusion",
+    "Endocytosis",
+    "Aqueous diffusion"
+   ],
+   "answer": 0,
+   "explanation": "Lipid diffusion is by far the most common transport system of drugs across cell membranes. Because albuterol has a low molecular weight, lipid diffusion most likely accounts for the transfer of albuterol through the bronchial mucosa. A, C-E See correct answer explanation.",
+   "source": "Pharmacology I-1 Q1",
+   "topic": "Easy",
+   "topic_n": 1
+  },
+  {
+   "question": "A 34-year-old man on vacation in Mexico was admitted to the hospital because of vomiting, double vision, and muscular paralysis. The man reported that he had eaten some canned food from a local vendor the previous day. After a physical examination, a presumptive diagnosis of botulism was made. It is known that botulinum toxin causes paralysis by getting inside the axon terminals of motor nerves, where it inhibits the release of acetylcholine. Botulinum toxin is a protein with a molecular weight greater than 100,000 daltons. Which of the following permeation processes most likely accounts for the transfer of the toxin through the nerve cell membrane?",
+   "choices": [
+    "Filtration",
+    "Lipid diffusion",
+    "Facilitated diffusion",
+    "Aqueous diffusion",
+    "Endocytosis"
+   ],
+   "answer": 4,
+   "explanation": "Very large molecules cannot permeate cell membranes by diffusion or filtration. The only way they can cross cell membranes is by endocytosis, a process by which a substance is bound to the cell surface, engulfed by the cell membrane, and carried into the cytosol, where the substance can be released by breakdown of the vesicle membrane. A-C, E See correct answer explanation.",
+   "source": "Pharmacology I-1 Q2",
+   "topic": "Easy",
+   "topic_n": 2
+  },
+  {
+   "question": "A 51-year-old woman suffering from hyperthyroidism was administered an oral solution of radioactive iodine to destroy her thyroid gland. Which of the following permeation processes most likely accounted for the transfer of the drug across the thyroid cell membrane?",
+   "choices": [
+    "Facilitated diffusion",
+    "Lipid diffusion",
+    "Endocytosis",
+    "Aqueous diffusion",
+    "Active transport"
+   ],
+   "answer": 4,
+   "explanation": "About one fifth of the iodides ingested with foods are selectively removed from the circulating blood by the Na+-dependent secondary active transport system that concentrates iodide in thyroid cells 30 to 100 times its concentration in the blood. Because radioactive iodine is essentially the same as iodide taken with foods, it is transported into the thyroid cells by the same secondary active transport system. B-E See correct answer explanation.",
+   "source": "Pharmacology I-1 Q3",
+   "topic": "Easy",
+   "topic_n": 3
+  },
+  {
+   "question": "A 12-year-old boy recently diagnosed with type 1 diabetes started a therapy with two daily subcutaneous administrations of insulin. Which of the following permeation processes best explains the absorption of insulin from the site of injection?",
+   "choices": [
+    "Endocytosis",
+    "Lipid diffusion",
+    "Facilitated diffusion",
+    "Bulk flow transport",
+    "Active transport"
+   ],
+   "answer": 3,
+   "explanation": "A drug administered subcutaneously will initially be located primarily in the extracellular fluid. In order to be absorbed, the drug must enter the general circulation; that is, it must cross the capillary wall. Capillaries have very wide fenestrae that permit the passage of molecules with a molecular weight as high as 30,000 daltons (D). Therefore, most drugs given by the subcutaneous or intramuscular routes will enter the general circulation by bulk flow transport (or filtration; also known as solvent drag) through capillary fenestrae. Moreover, insulin is a protein with a molecular weight of about 6000 D, so it cannot cross the capillary wall by lipid or aqueous diffusion through aquaporins (water channels) of cell membranes. Bulk flow transport is a passive process and is directly proportional to the pressure gradient across the capillary wall. It does not depend on the structure of the drug but only on its molecular size (both lipid- and water-soluble drugs can be filtered provided the molecule is not too large). B See correct answer explanation. C-E Facilitated diffusion, endocytosis, and active transport do not seem to be involved in the absorption of insulin from the site of injection.",
+   "source": "Pharmacology I-1 Q4",
+   "topic": "Easy",
+   "topic_n": 4
+  },
+  {
+   "question": "An 85-year-old man was recently admitted to a nursing facility. Diseases listed in his medical record on admission were depression with anxiety symptoms, atrial fibrillation, chronic obstructive pulmonary disease, and osteoarthritis. Medications taken orally by the patient included the following: Sertraline (base, pKa = 9.5); Diazepam (base, pKa = 3.0); Amiodarone (base, pKa = 7.4); Theophylline (acid, pKa = 8.8); Ibuprofen (acid, pKa 4.8). Shortly after administration, which of the following drugs was most likely concentrated inside the patient's gastric cells?",
+   "choices": [
+    "Theophylline",
+    "Ibuprofen",
+    "Sertraline",
+    "Amiodarone",
+    "Diazepam"
+   ],
+   "answer": 1,
+   "explanation": "The Henderson-Hasselbalch equation predicts that a weak acid will be more nonionized, and therefore more lipid soluble, when pKa is greater than pH. Because the pH of the stomach lumen is less than 2, ibuprofen, an acid drug with a pKa of 4.8, will be mainly nonionized in the gastric lumen and will readily penetrate the gastric mucosal cell membranes. Inside the mucosal cells, however, the pH is about 7, and the drug will become mainly ionized because now the pKa is less than the pH. Consequently, the concentration gradient of the nonionized, lipid-soluble form will remain high, and the drug will continue crossing cell membranes. At equilibrium, the concentration of the nonionized moiety of the drug will be the same on both sides, but the concentration of the ionized moiety inside the cell can be 15 to 20 times higher than that in the gastric lumen, as the ionized moiety is “trapped” inside the cell (ion-trapping mechanism). Therefore, the total drug concentration inside the cell will be high. A-C Basic drugs are mainly ionized when the pKa is higher than the pH; therefore, most of the drug will stay in the stomach lumen. D Theophylline, an acidic drug with a pKa of 8.8, is mainly nonionized in the stomach lumen and therefore can readily penetrate the gastric cell membranes. Inside the gastric cells, however, the drug remains mainly nonionized (i.e., lipid soluble) because the pKa is greater than the pH. Therefore, the drug will be able to diffuse through the basolateral membrane of the cell, thus reaching the extracellular fluids. No ion trapping occurs, and the drug will not concentrate inside the cells.",
+   "source": "Pharmacology I-1 Q5",
+   "topic": "Hard",
+   "topic_n": 1
+  },
+  {
+   "question": "A 17-year-old boy took a tablet of naproxen for a headache. Naproxen is a weak acid with a pKa of 5.2. What percentage of the drug was most likely water soluble in the patient's plasma?",
+   "choices": [
+    "24%",
+    ">99%",
+    "99%",
+    "50%",
+    "76%",
+    "1%"
+   ],
+   "answer": 1,
+   "explanation": "An acidic drug is mainly water soluble when its pKa is lower than the pH of the medium. The amount of water solubility is proportional to the difference between pH and pKa, according to the following table (Difference between pH and pKa / Percentage). Because the pH of plasma is about 7.4, the drug will be greater than 99% water soluble in the patient's plasma. A-E See correct answer explanation.",
+   "source": "Pharmacology I-1 Q6",
+   "topic": "Medium",
+   "topic_n": 1
+  },
+  {
+   "question": "A 69-year-old woman was brought to a local hospital emergency department by her son, who reported that his mother was found lethargic, disoriented, and combative a few hours earlier. Additional history revealed that she had ingested a large number of aspirin tablets in a suicide attempt. An appropriate therapy was instituted, which included the administration of sodium bicarbonate to increase the elimination of salicylate. Which of the following best explains the mechanism of this increased elimination?",
+   "choices": [
+    "Decreased renal biotransformation of salicylate",
+    "Urinary ion trapping of salicylate",
+    "Decreased tubular active transport of salicylate",
+    "Decreased bioavailability of salicylate",
+    "Increased glomerular filtration of salicylate"
+   ],
+   "answer": 1,
+   "explanation": "Aspirin is an acidic drug. As a rule, the excretion of an acidic drug can be accelerated by alkalinizing the urine, because an acidic drug dissociates to its charged, polar form in alkaline solution. This form, being water soluble, is “trapped” in the tubular lumen and cannot be transported back into the blood across the renal tubular cells. Conversely, the urinary excretion of a weak base may be accelerated by acidifying the urine. A Salicylates do not undergo active transport. B Salicylate biotransformation by the kidney is negligible. C Aspirin was already absorbed, so bioavailability is not relevant. E Glomerular filtration of a drug is strictly related to the renal glomerular filtration rate (GFR). It is very rare for drugs to significantly increase GFR.",
+   "source": "Pharmacology I-1 Q7",
+   "topic": "Medium",
+   "topic_n": 2
+  },
+  {
+   "question": "A 63-year old man recently diagnosed with hypertension started a therapy with hydrochlorothiazide, one tablet daily. Hydrochlorothiazide is an acidic drug with a pKa of about 9. Which of the following parts of the digestive tract most likely represents the main site of absorption of that drug?",
+   "choices": [
+    "Small intestine",
+    "Rectum",
+    "Stomach",
+    "Colon",
+    "Oral mucosa"
+   ],
+   "answer": 0,
+   "explanation": "All drugs given by the oral route are primarily absorbed by the small intestine. This is because of the very large surface area of the small intestine, which is about 250 m2 and represents about 80% of the total area of the gastrointestinal tract. Hydrochlorothiazide is an acidic drug with a pKa of about 9, so it will be more lipid soluble in the stomach (where the pH is less than 2) than in the small intestine (where the pH is around 7). Nevertheless, absorption will take place mainly in the small intestine because of its enormous absorptive surface area. A Because a drug given orally is swallowed, the oral mucosa does not contribute to absorption. B, D, E See correct answer explanation.",
+   "source": "Pharmacology I-1 Q8",
+   "topic": "Medium",
+   "topic_n": 3
+  },
+  {
+   "question": "A 26-year-old man became inebriated after drinking several glasses of alcoholic beverages at a party. Ethanol is a polar, nonionizable drug with an approximate molecular weight of 46 daltons. Which of the following permeation processes mediated the man's intestinal absorption of ethanol?",
+   "choices": [
+    "Aqueous diffusion",
+    "Bulk flow transport",
+    "Active transport",
+    "Facilitated diffusion",
+    "Endocytosis"
+   ],
+   "answer": 0,
+   "explanation": "Being a polar drug, ethanol is readily water soluble. Because its molecular weight is small, it can cross cell membranes by aqueous diffusion through aquaporins. B-E See correct answer explanation.",
+   "source": "Pharmacology I-1 Q11",
+   "topic": "Easy",
+   "topic_n": 5
+  },
+  {
+   "question": "A 44-year-old man took a large dose of acetaminophen in aqueous solution to treat an excruciating headache. Two hours later, the pain was not diminished. Because acetaminophen should be effective in about 30 minutes after its oral administration, which of the following conditions most likely delayed the oral absorption of the drug in this patient?",
+   "choices": [
+    "A large volume of distribution of the drug",
+    "The presence of strong pain",
+    "A very low clearance of the drug",
+    "A moderate increase in intestinal peristalsis",
+    "The administration of the drug in aqueous solution"
+   ],
+   "answer": 1,
+   "explanation": "Strong pain can substantially decrease gastric emptying, likely because of the activation of the sympathetic nervous system. Because the absorption of drugs by the stomach is very small, gastric emptying is a major factor influencing the rate of intestinal drug absorption, and its decrease can significantly delay this absorption. A, C These factors usually speed up, not delay, the intestinal absorption of drugs. D, E The distribution and elimination (clearance) of drugs have nothing to do with absorption.",
+   "source": "Pharmacology I-1 Q12",
+   "topic": "Hard",
+   "topic_n": 2
+  },
+  {
+   "question": "A 22-year-old woman was admitted to the emergency department after a car accident. The woman had extensive brain trauma and multiple fractures. She complained of severe pain, and the attending physician planned to administer morphine. The physician knew that the dose should be carefully titrated because the entry of morphine into the patient's central nervous system (CNS) was most likely higher than normal. Which of the following factors is most likely to have increased morphine entry into the CNS of this patient?",
+   "choices": [
+    "The brain trauma of the patient",
+    "The high first-pass effect of the drug",
+    "The low clearance of the drug",
+    "The young age of the patient",
+    "The high ionization of the drug"
+   ],
+   "answer": 0,
+   "explanation": "The permeability of the blood-brain barrier can be increased by several factors. Damage to the brain by any cause (trauma, infections, tumors, metabolic disorders, cerebrovascular disorders) is one of the most common causes of increased blood-brain barrier permeability. A, D The first-pass effect is related to the bioavailability of a drug. Clearance is related to the elimination of a drug. Passage into the brain is related to the distribution of the drug. Bioavailability, distribution, and elimination are independent processes. C The permeability of the blood-brain barrier is physiologically increased only in the fetus and the newborn. E The high ionization of the drug decreases, not increases, the drug entry into the brain.",
+   "source": "Pharmacology I-1 Q13",
+   "topic": "Medium",
+   "topic_n": 4
+  },
+  {
+   "question": "A 67-year-old woman recently diagnosed with atrial fibrillation started treatment with atenolol, 100 mg/d. With this dose, the percentage of atenolol bound to plasma proteins is about 5%. Which of the following would have been the bound percentage of atenolol if a dose of 50 mg/d had been administered to the same patient?",
+   "choices": [
+    "2.5%",
+    "2%",
+    "1.25%",
+    "5%",
+    "10%"
+   ],
+   "answer": 3,
+   "explanation": "Drugs bind primarily to albumin (if acidic) or to α1 acid glycoprotein (if basic). The extent to which drugs are bound to protein is highly variable (e.g., 0% for lithium, 99% for warfarin). Drugs ordinarily bind to protein in a reversible fashion and in dynamic equilibrium, according to the law of mass action, as shown by the equation [Free drug] + [Protein] ⇌ [Drug-protein complex]. Mass action kinetics predicts that a constant percentage of the drug is bound; therefore, binding is independent of the dose (i.e., the kinetics of binding is first order). A, C-E See correct answer explanation.",
+   "source": "Pharmacology I-1 Q14",
+   "topic": "Easy",
+   "topic_n": 6
+  },
+  {
+   "question": "A 34-year-old man recently diagnosed with grand mal epilepsy started treatment with valproic acid, an antiseizure drug with a pKa of 5. What percentage of the drug was most likely lipid soluble in the patient's duodenal lumen (assuming pH = 7 in the lumen)?",
+   "choices": [
+    "24%",
+    "50%",
+    "76%",
+    "1%",
+    "99%"
+   ],
+   "answer": 3,
+   "explanation": "The answer can be found using the Henderson-Hasselbalch equation: for a weak acid, log(nonionized/ionized) = pKa - pH. In the present case, the equation becomes log(nonionized/ionized) = 5 - 7 = -2, so nonionized/ionized = 1/100. Remembering that the total drug (i.e., 100% = 1) is the sum of the ionized and nonionized form: ionized = 100/101 = 0.99. Therefore, the ionized form will be 99%, and the nonionized, lipid-soluble form will be 1%. B-E See correct answer explanation.",
+   "source": "Pharmacology I-1 Q15",
+   "topic": "Hard",
+   "topic_n": 3
+  },
+  {
+   "question": "A 4-year-old boy suffering from acute lymphoblastic leukemia was about to receive an intrathecal injection of methotrexate, a drug that cannot cross the blood-brain barrier. Which of the following statements best explains why several drugs, including methotrexate, cannot easily enter the brain?",
+   "choices": [
+    "Most drugs are completely ionized in blood.",
+    "Cerebrospinal fluid pressure is lower than cerebral perfusion pressure.",
+    "Many drugs are bound to protein and cannot cross brain capillaries.",
+    "Endothelial cells of brain capillaries and choroid plexus have tight junctions.",
+    "The pH of cerebrospinal fluid is lower than plasma pH."
+   ],
+   "answer": 3,
+   "explanation": "Drugs may enter the central nervous system (CNS) by crossing the cerebral capillaries (i.e., from plasma to the extracellular fluid [ECF]) or by crossing the choroid plexus (i.e., from plasma to the cerebrospinal fluid [CSF]). The composition of CSF is essentially the same as that of brain ECF, and there appears to be free communication between the brain ECF and CSF. In both of these cases, the drug must cross the blood-brain barrier (BBB). The main reasons that this barrier limits the transfer of drugs into the CNS are (1) endothelial cells of brain capillaries are connected to each other by occluding zonulae and do not have fenestrae, and (2) epithelial cells of the choroid plexus are connected by occluding zonulae. A, B These statements are correct, but they do not explain the low drug permeability of the blood-brain barrier. C Drugs are variably bound to plasma proteins; because the bound and free drugs are in equilibrium, even very extensively bound drugs can appreciably enter the brain. E Very few drugs are completely ionized in the blood.",
+   "source": "Pharmacology I-1 Q16",
+   "topic": "Easy",
+   "topic_n": 7
+  },
+  {
+   "question": "A 52-year-old woman suffering from rheumatoid arthritis started a treatment that included infliximab, a monoclonal antibody against tumor necrosis factor-α (TNF-α). The drug has a volume of distribution of about 3 L. Which of the following is most likely the main site of distribution of this drug?",
+   "choices": [
+    "Extracellular fluids",
+    "Total body water",
+    "Fat tissue",
+    "Cell cytosol",
+    "Plasma"
+   ],
+   "answer": 4,
+   "explanation": "Because the volume of plasma in a person weighing 70 kg is about 3 L, it can be deduced that drugs with a volume of distribution of about 3 L distribute in plasma. In fact, infliximab is a large molecule that cannot leave the vascular compartment. It binds to and neutralizes TNF-α in the blood, thus preventing the actions of this cytokine. A, D In these cases, the volume of distribution would be greater than 42 L. C In this case, the volume of distribution would be about 15 L. E In this case, the volume of distribution would be about 42 L.",
+   "source": "Pharmacology I-1 Q18",
+   "topic": "Medium",
+   "topic_n": 5
+  },
+  {
+   "question": "A 36-year-old woman recently diagnosed with trichomoniasis started a treatment with metronidazole. The drug has a hepatic clearance of 4.86 L/h and a renal clearance of 0.54 L/h. On the assumption that only the liver and kidney are involved in the elimination of this drug, what percentage of the administered drug will be eliminated by the liver?",
+   "choices": [
+    "20%",
+    "40%",
+    "50%",
+    "90%",
+    "70%",
+    "60%"
+   ],
+   "answer": 3,
+   "explanation": "Because the total clearance is 5.4 L/h, and the hepatic clearance is 4.86 L/h, the hepatic clearance will be 90% of the total clearance (4.86/5.40 = 0.9, or 90%). Therefore, 90% of the drug will be eliminated by the liver. A-E See correct answer explanation.",
+   "source": "Pharmacology I-1 Q19",
+   "topic": "Easy",
+   "topic_n": 8
+  },
+  {
+   "question": "When studied in healthy volunteers, the oral bioavailability of a new drug turned out to be 20%. Knowing that in this case the entire administered drug reached the portal circulation, which of the following will be the hepatic clearance (in mL/min) of the drug?",
+   "choices": [
+    "2000",
+    "500",
+    "1500",
+    "1200",
+    "800"
+   ],
+   "answer": 3,
+   "explanation": "By definition, clearance is the volume of blood from which all the drug is removed per unit of time. If all of the drug were removed by the liver, the liver clearance would equal the liver blood flow (volume per unit of time), that is, 1500 mL/min. Because 20% of the drug can reach the general circulation, it follows that 80% of the drug is removed by the liver, that is, the drug contained in 80% of the blood flow. Therefore, the liver clearance will be 80% of the liver blood flow (0.8 x 1500 mL/min = 1200 mL/min). A, B, D, E See correct answer explanation.",
+   "source": "Pharmacology I-1 Q21",
+   "topic": "Medium",
+   "topic_n": 6
+  },
+  {
+   "question": "A new drug was studied in a healthy volunteer during a phase 1 clinical trial. Urine and plasma samples were collected 1 hour after the intravenous administration of a test dose. Drug concentration was 40 mg/mL in urine and 1 mg/mL in plasma. The urine output of this subject was 1.44 L/d. Which of the following was most likely the renal clearance of the drug, in mL/min?",
+   "choices": [
+    "50",
+    "10",
+    "40",
+    "30",
+    "60",
+    "20"
+   ],
+   "answer": 2,
+   "explanation": "If the daily urine output is 1.44 L/d (24 h), the urine flow in that subject will be: Urine flow = 1440 mL/1440 min = 1 mL/min. Remembering that the renal clearance (CLr) of a substance is given by CLr = (Urine flow x Urine concentration)/Plasma concentration, the renal clearance of that drug will be CLr = (1 mL/min x 40 mg/mL)/1 mg/mL = 40 mL/min. B-F See correct answer explanation.",
+   "source": "Pharmacology I-1 Q22",
+   "topic": "Medium",
+   "topic_n": 7
+  },
+  {
+   "question": "A 10-mg dose of a new drug that follows first-order, one-compartment model kinetics was given intravenously to healthy subjects in a phase 1 clinical trial. The volume of distribution (Vd) of the drug turned out to be 80 L. Which of the following would have been the volume of distribution of the drug (in liters) if the administered dose were 20 mg?",
+   "choices": [
+    "160",
+    "80",
+    "40",
+    "240",
+    "120"
+   ],
+   "answer": 1,
+   "explanation": "The volume of distribution (Vd) of a drug is independent of the dose. In fact, Vd = D x F/Cp0, where D = dose, F = fraction absorbed, and Cp0 = plasma concentration at time 0. If the dose is increased by a certain proportion, the plasma concentration will also be increased by the same proportion, and the Vd will remain the same. A, C-E See correct answer explanation.",
+   "source": "Pharmacology I-1 Q23",
+   "topic": "Easy",
+   "topic_n": 9
+  },
+  {
+   "question": "A 45-year-old man suffering from epilepsy had been receiving carbamazepine, one tablet daily. The drug has a total clearance of 63 L/h and a hepatic clearance of 62 L/h. The man was recently diagnosed with a skin infection due to Mycobacterium marinum, and treatment with rifampin and ethambutol was started. Knowing that rifampin is a potent inducer of microsomal enzymes, which of the following changes most likely occurred to the pharmacokinetics of carbamazepine?",
+   "choices": [
+    "The hepatic clearance of the drugs decreased.",
+    "The renal clearance of the drug decreased.",
+    "The volume of distribution of the drug increased.",
+    "The first-pass loss of the drug decreased.",
+    "The half-life of the drug decreased."
+   ],
+   "answer": 4,
+   "explanation": "When microsomal enzymes are induced, the hepatic clearance of a drug increases. Because the hepatic clearance of carbamazepine is close to the total clearance, the total clearance of the drug will also increase substantially. Remembering that t1/2 = 0.7 x Vd/CL, where t1/2 = half-life, Vd = volume of distribution, and CL = clearance, the half-life of the drug will decrease. A-C These parameters are increased, not decreased, when microsomal enzymes are induced. D The volume of distribution of a drug does not change when the amount of drug reaching the general circulation changes.",
+   "source": "Pharmacology I-1 Q24",
+   "topic": "Medium",
+   "topic_n": 8
+  },
+  {
+   "question": "A 59-year-old Japanese man with atrial fibrillation presented to his physician complaining of red urine. The man had been receiving a standard dose of warfarin, which is an anticoagulant drug biotransformed by CYP2C9 isozyme. Which of the following was the most likely cause of the patient's disorder?",
+   "choices": [
+    "Increased protein binding of warfarin",
+    "Decreased renal excretion of warfarin",
+    "Decreased metabolism of CYP2C9",
+    "Genetic polymorphism of CYP2C9",
+    "Increased CYP2C9 synthesis in a person of Asian origin"
+   ],
+   "answer": 3,
+   "explanation": "P450 isozymes show genetic polymorphism, and different subgroups have been characterized as poor, intermediate, extensive, and ultra-rapid metabolizers. In the case of CYP2C9 isozyme, more than 20% of Asians are poor metabolizers. Therefore, the hematuria of the patient was most likely related to the fact that he was a poor metabolizer of warfarin, so the anticoagulant effect of the drug was too pronounced. A, D, E All these reasons would cause a decrease, not an increase, in the warfarin effect. B Theoretically, decreased renal excretion of warfarin would cause an increase in the warfarin effect. However, more than 95% of warfarin is metabolized, so adverse effects of warfarin due to variation in renal excretion are unlikely.",
+   "source": "Pharmacology I-1 Q25",
+   "topic": "Medium",
+   "topic_n": 9
+  },
+  {
+   "question": "The pharmacokinetics of a new drug was studied in laboratory animals. The drug was given orally, and the following results were obtained: Percent reaching the portal circulation: 40%. Liver clearance: negligible. Liver blood flow in the animal was 1000 mL/min. Which of the following would be the oral bioavailability of the drug?",
+   "choices": [
+    "0.6",
+    "0.4",
+    "0.1",
+    "0.8",
+    "2.2",
+    "1.0"
+   ],
+   "answer": 1,
+   "explanation": "The liver clearance was negligible, so all of the drug reaching the portal circulation will reach the systemic circulation. Because only 40% of the drug reaches the portal circulation, the oral bioavailability of the drug is 0.4. (Note that the liver blood flow rate is not needed to solve the problem.) A, C-F See correct answer explanation.",
+   "source": "Pharmacology I-1 Q26",
+   "topic": "Easy",
+   "topic_n": 10
+  },
+  {
+   "question": "A 35-year-old Caucasian man complained to his physician of tingling sensation in his limbs and noted that his arms sometimes felt heavy. The man, recently diagnosed with pulmonary tuberculosis, had been receiving isoniazid and rifampin for 2 months. He was diagnosed with peripheral neuropathy, a known adverse effect of isoniazid. Which of the following events most likely caused the patient's symptoms and signs?",
+   "choices": [
+    "Allergic reaction to rifampin",
+    "Rifampin-induced inhibition of isoniazid metabolism",
+    "Worsening of the disease, despite the therapy",
+    "Inherited deficiency of N-acetyltransferase",
+    "Allergic reaction to isoniazid"
+   ],
+   "answer": 3,
+   "explanation": "Isoniazid is biotransformed mainly by hepatic acetylation, which is under genetic control. About one half of people of Caucasian origin are slow acetylators because they have an inherited deficiency of N-acetyltransferase. Slow acetylators have a higher risk of adverse effects with isoniazid. A Rifampin can increase, not reduce, the biotransformation of many drugs by increasing the synthesis of microsomal enzymes. B, C, E These pathologic conditions do not cause peripheral neuropathy.",
+   "source": "Pharmacology I-1 Q27",
+   "topic": "Medium",
+   "topic_n": 10
+  },
+  {
+   "question": "A 49-year-old obese man recently diagnosed with vasospastic angina started a treatment with nifedipine. The drug has a volume of distribution (Vd) of about 55 L in a 70-kg person, but in this obese patient, the Vd turned out to be 110 L. The standard loading dose of nifedipine for a patient weighing 70 kg is 30 mg. Which of the following should be the therapeutic loading dose administered to this patient (in mg) in order to achieve the same target concentration?",
+   "choices": [
+    "60",
+    "90",
+    "150",
+    "40",
+    "120",
+    "20"
+   ],
+   "answer": 0,
+   "explanation": "The dose of a drug can be calculated using the equation Dose = Vd x Cp0/F, where Vd = volume of distribution, Cp0 = plasma concentration at time 0, and F = fraction absorbed. Because the Vd of the obese patient is twice the Vd of a normal-weight person, the dose must be doubled to 60 mg to achieve the same plasma concentration. A, B, D-F See correct answer explanation.",
+   "source": "Pharmacology I-1 Q28",
+   "topic": "Medium",
+   "topic_n": 11
+  },
+  {
+   "question": "A 22-year-old man suffering from adult autism and violent behavior started a treatment that included buspirone, a drug with a large first-pass effect. Which of the following pharmacokinetic properties of the drug was most likely affected by this large first-pass effect?",
+   "choices": [
+    "Sublingual bioavailability",
+    "Volume of distribution",
+    "Oral bioavailability",
+    "Intramuscular bioavailability",
+    "Renal clearance"
+   ],
+   "answer": 2,
+   "explanation": "If an orally administered drug is extensively biotransformed during its first pass through the gut wall and/or the liver, less drug will reach the general circulation. That is, its oral bioavailability will be reduced. In fact, buspirone has an oral bioavailability of about 5%. A Absorption (measured by bioavailability) and distribution (measured by volume of distribution) are independent processes; therefore, volume of distribution is not affected by the absorption of the drug. C Renal elimination (measured by renal clearance) and bioavailability are independent processes; therefore, renal clearance is not affected by the absorption of the drug. D, E Sublingual and intramuscular administrations avoid the first-pass effect.",
+   "source": "Pharmacology I-1 Q29",
+   "topic": "Easy",
+   "topic_n": 11
+  },
+  {
+   "question": "A 47-year-old man recently diagnosed with systolic heart failure started a treatment that included furosemide. The drug has a total clearance of about 136 mL/min, and about 66% of the drug is excreted as such in the urine. On the assumption that, in this case, only the liver and kidneys are involved in drug elimination, which of the following was most likely the renal clearance of furosemide (in mL/min)?",
+   "choices": [
+    "110",
+    "16",
+    "25",
+    "90",
+    "81",
+    "70"
+   ],
+   "answer": 3,
+   "explanation": "If 66% of the drug is excreted as such in the urine, its renal clearance will be 66% of the total clearance (0.66 x 136), or about 90 mL/min. B-F See correct answer explanation.",
+   "source": "Pharmacology I-1 Q30",
+   "topic": "Easy",
+   "topic_n": 12
+  },
+  {
+   "question": "The pharmacokinetics of a new drug that followed first-order, one-compartment model kinetics was studied in a healthy volunteer. A 20-mg dose was given intravenously. The plasma concentration of the drug turned out to be 2 mg/L initially and 1 mg/L 2 hours later. Which of the following was most likely the total clearance of the drug (in L/h)?",
+   "choices": [
+    "5.5",
+    "6.7",
+    "4.9",
+    "8.4",
+    "2.5",
+    "3.5"
+   ],
+   "answer": 5,
+   "explanation": "The plasma concentration (Cp) of the drug is 2 mg/L initially and 1 mg/L after 2 hours; therefore, the half-life (t1/2) of the drug is 2 hours. The volume of distribution of the drug (Vd) is given by Vd = 20 mg/2 mg/L = 10 L. Thus, the total clearance (CL) will be CL = 0.7 x Vd/t1/2 = 0.7 x 10 L/2 h = 3.5 L/h. A-D, F See correct answer explanation.",
+   "source": "Pharmacology I-1 Q31",
+   "topic": "Hard",
+   "topic_n": 4
+  },
+  {
+   "question": "The pharmacokinetics of a new drug was studied in healthy volunteers. It was found that the drug followed first-order, one-compartment model kinetics and had a volume of distribution of 100 L. After the oral administration of 200 mg, the theoretical plasma concentration at time 0 turned out to be 1 mg/L. Which of the following was most likely the oral bioavailability of the drug?",
+   "choices": [
+    "0.1",
+    "0.8",
+    "1.0",
+    "1.6",
+    "2.3",
+    "0.5"
+   ],
+   "answer": 5,
+   "explanation": "The bioavailability can be calculated as Vd = D x F/Cp0, where Vd = volume of distribution, D = dose, F = oral bioavailability, and Cp0 = theoretical plasma concentration at time 0. Therefore, rearranging: F = (Vd x Cp0)/D = (100 L x 1 mg/L)/200 = 0.5. A, C, D See correct answer explanation. E, F These options are irrational. Bioavailability cannot be higher than 1 (or 100%).",
+   "source": "Pharmacology I-1 Q33",
+   "topic": "Easy",
+   "topic_n": 13
+  },
+  {
+   "question": "A 32-year-old male cocaine addict was brought unconscious to the emergency department. A friend stated that the man had intravenously self-injected an unknown dose of cocaine 2 hours earlier. An immediate lab analysis indicated that the plasma level of cocaine was 0.75 mg/L. Cocaine has a volume of distribution of about 130 L and a half-life of about 1 hour. Which of the following was most likely the injected dose of cocaine (in mg)?",
+   "choices": [
+    "180",
+    "315",
+    "250",
+    "390",
+    "115",
+    "420"
+   ],
+   "answer": 3,
+   "explanation": "Because the half-life of cocaine is 1 hour, the plasma concentration of the drug should have been 1.5 mg/L 1 hour after the injection and 3 mg/L immediately after the injection. To determine the dose, D = Cp x Vd = 3 mg/L x 130 L = 390 mg, where D = dose, Cp = plasma concentration, and Vd = volume of distribution. The lethal dose of cocaine is about 500 mg in a nonaddicted person. Hence the dose taken by the patient was most likely high enough to induce coma. A, C-F See correct answer explanation.",
+   "source": "Pharmacology I-1 Q34",
+   "topic": "Hard",
+   "topic_n": 5
+  },
+  {
+   "question": "A 23-year-old healthy male volunteer received an intravenous dose of 2 mg of a new drug during a clinical trial. The drug followed a first-order, one-compartment model kinetics and had a volume of distribution of 10 L. After 6 hours the plasma concentration of the drug was 50 µg/L. Which of the following was most likely the half-life of the drug (in hours)?",
+   "choices": [
+    "6",
+    "2",
+    "1",
+    "3",
+    "5",
+    "4"
+   ],
+   "answer": 3,
+   "explanation": "The initial plasma concentration (Cp) of the drug would be Cp = D/Vd = 2000 µg/10 L = 200 µg/L, where D = dose and Vd = volume of distribution. Therefore, the Cp will be 100 µg/L after one half-life and 50 µg/L after two half-lives. Because this is the concentration after 6 hours, the half-life of the drug will be 3 hours. A, B, D-F See correct answer explanation.",
+   "source": "Pharmacology I-1 Q35",
+   "topic": "Hard",
+   "topic_n": 6
+  },
+  {
+   "question": "The pharmacokinetics of a new drug following zero-order kinetics was studied in a healthy volunteer. Three hours after the intravenous administration of a test dose, the plasma concentration of the drug was 8 mg/L, and 1 hour later it was 7 mg/L. Which of the following was most likely the plasma concentration of the drug (in mg/L) immediately after drug administration?",
+   "choices": [
+    "5",
+    "11",
+    "32",
+    "9",
+    "16",
+    "64"
+   ],
+   "answer": 1,
+   "explanation": "The kinetics of drug absorption, distribution, and elimination is defined as zero order (or saturation kinetics) when a constant amount of the drug is absorbed, distributed, or eliminated per unit of time. If the plasma concentration of the drug was 8 mg/L 3 hours after the administration and 7 mg/L 1 hour later, this means that 1 mg/L of the drug is lost every hour. Therefore, the drug was 9 mg/L 2 hours after the administration, 10 mg/L 1 hour after the administration, and 11 mg/L immediately after the administration. A, B, D-F See correct answer explanation.",
+   "source": "Pharmacology I-1 Q38",
+   "topic": "Easy",
+   "topic_n": 14
+  },
+  {
+   "question": "The pharmacokinetics of a new drug was studied in a healthy volunteer. The drug followed first-order, one-compartment model kinetics and had a half-life of 3 hours. An intravenous infusion of the drug was started at 8:00 a.m. A blood sample taken at 2:00 p.m. of the same day showed a plasma drug concentration of 60 µg/mL. Which of the following was most likely the plasma concentration of that drug (in µg/mL) at the steady state?",
+   "choices": [
+    "30",
+    "60",
+    "100",
+    "40",
+    "120",
+    "80"
+   ],
+   "answer": 5,
+   "explanation": "Because the half-life of the drug is 3 hours, 75% of the plasma concentration of the drug at the steady state will be reached in two half-lives, that is, at 2:00 p.m. The plasma concentration of the drug at 2:00 p.m. is 60 µg/mL. This represents 75% of the plasma concentration of the drug at the steady state. Therefore, at the steady state the plasma concentration will be 80 µg/mL (60/0.75). A, B, D-F See correct answer explanation.",
+   "source": "Pharmacology I-1 Q40",
+   "topic": "Hard",
+   "topic_n": 7
+  }
+ ]
+}

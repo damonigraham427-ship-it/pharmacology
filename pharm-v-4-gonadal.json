@@ -1,0 +1,663 @@
+{
+ "questions": [
+  {
+   "question": "An inhibitor of the enzyme that catalyzes the conversion of androgens to estrogens",
+   "choices": [
+    "Dihydrotestosterone",
+    "Mifepristone",
+    "Fulvestrant",
+    "Finasteride",
+    "Danazol",
+    "Clomiphene",
+    "Flutamide",
+    "Anastrozole",
+    "Norgestrel",
+    "Tamoxifen",
+    "Oxandrolone"
+   ],
+   "answer": 7,
+   "explanation": "Matching item. The printed answer key gives A — Anastrozole.",
+   "source": "Pharmacology V-4 Q1",
+   "topic": "Easy",
+   "topic_n": 1
+  },
+  {
+   "question": "A selective estrogen receptor modulator",
+   "choices": [
+    "Anastrozole",
+    "Fulvestrant",
+    "Oxandrolone",
+    "Clomiphene",
+    "Dihydrotestosterone",
+    "Flutamide",
+    "Mifepristone",
+    "Tamoxifen",
+    "Danazol",
+    "Norgestrel",
+    "Finasteride"
+   ],
+   "answer": 7,
+   "explanation": "Matching item. The printed answer key gives K — Tamoxifen.",
+   "source": "Pharmacology V-4 Q2",
+   "topic": "Easy",
+   "topic_n": 2
+  },
+  {
+   "question": "An inhibitor of the enzyme that catalyzes the conversion of testosterone to dihydrotestosterone",
+   "choices": [
+    "Fulvestrant",
+    "Dihydrotestosterone",
+    "Anastrozole",
+    "Tamoxifen",
+    "Mifepristone",
+    "Finasteride",
+    "Clomiphene",
+    "Flutamide",
+    "Danazol",
+    "Norgestrel",
+    "Oxandrolone"
+   ],
+   "answer": 5,
+   "explanation": "Matching item. The printed answer key gives E — Finasteride.",
+   "source": "Pharmacology V-4 Q3",
+   "topic": "Easy",
+   "topic_n": 3
+  },
+  {
+   "question": "A drug able to block estrogen receptors in all target tissues",
+   "choices": [
+    "Oxandrolone",
+    "Finasteride",
+    "Clomiphene",
+    "Anastrozole",
+    "Flutamide",
+    "Norgestrel",
+    "Tamoxifen",
+    "Mifepristone",
+    "Fulvestrant",
+    "Danazol",
+    "Dihydrotestosterone"
+   ],
+   "answer": 8,
+   "explanation": "Matching item. The printed answer key gives G — Fulvestrant.",
+   "source": "Pharmacology V-4 Q4",
+   "topic": "Easy",
+   "topic_n": 4
+  },
+  {
+   "question": "A competitive antagonist at androgen receptors",
+   "choices": [
+    "Flutamide",
+    "Mifepristone",
+    "Oxandrolone",
+    "Anastrozole",
+    "Dihydrotestosterone",
+    "Fulvestrant",
+    "Clomiphene",
+    "Finasteride",
+    "Danazol",
+    "Norgestrel",
+    "Tamoxifen"
+   ],
+   "answer": 0,
+   "explanation": "Matching item. The printed answer key gives F — Flutamide.",
+   "source": "Pharmacology V-4 Q5",
+   "topic": "Easy",
+   "topic_n": 5
+  },
+  {
+   "question": "A 56-year-old woman complained to her gynecologist of persistent vaginal burning and vaginal pain during intercourse. One year earlier, the woman had undergone total hysterectomy because of a large leiomyoma. Physical examination showed dryness and atrophy of the vagina. A vaginal cream was prescribed. Which of the following drugs would be appropriate for local therapy in this patient?",
+   "choices": [
+    "Anastrozole",
+    "Finasteride",
+    "Tamoxifen",
+    "Ethinyl estradiol",
+    "Norgestrel"
+   ],
+   "answer": 3,
+   "explanation": "Total hysterectomy includes removal of the ovaries. Vaginal dryness and atrophy due to estrogen deficiency is a common cause of dyspareunia (painful vaginal intercourse) and can be cured with estrogen administration. Topical forms of estrogens (creams, vaginal tablets, etc.) are as effective as or more effective than oral forms for this indication and are usually preferred. When estrogen cream is used, women with a uterus are also given a progestin, which is not needed following hysterectomy, as in this case. B-E See correct answer explanation.",
+   "source": "Pharmacology V-4 Q6",
+   "topic": "Easy",
+   "topic_n": 6
+  },
+  {
+   "question": "A 61-year-old woman complained to her physician of increasing tiredness, a dry cough, and a lump in her right breast. The woman had a history of a hormone-positive carcinoma of her left breast 15 months earlier, for which she had a mastectomy and 3 months of chemotherapy. She had been taking tamoxifen daily since ending the chemotherapy. Magnetic resonance imaging revealed multiple pulmonary and liver metastases. Which of the following drugs would be appropriate to treat the metastatic cancer of this patient?",
+   "choices": [
+    "Anastrozole",
+    "Flutamide",
+    "Mifepristone",
+    "Norethindrone",
+    "Ethinyl estradiol",
+    "Finasteride"
+   ],
+   "answer": 0,
+   "explanation": "Early-stage breast cancer is curable. However, if the patient develops metastases, the goal of treatment shifts from cure to palliation and stabilization of disease. Anastrozole is a selective inhibitor of aromatase, the enzyme that converts androgens to estrogens. The low levels of estrogens in postmenopausal women are produced by aromatization of adrenal and ovarian androgens. Aromatase inhibitors cause almost a total suppression of estrogen levels. They are used in postmenopausal women with a hormone receptor-positive breast cancer when tamoxifen is contraindicated or has proven ineffective, as in this case. B-F See correct answer explanation.",
+   "source": "Pharmacology V-4 Q7",
+   "topic": "Easy",
+   "topic_n": 7
+  },
+  {
+   "question": "A 63-year-old woman was admitted to the hospital because of severe thoracic pain after a fall at home. Medical history was significant for mastectomy for breast cancer 8 years ago. An x-ray showed fracture of three ribs and diffuse and advanced osteoporosis. An appropriate therapy was started that included a drug that could lead to an increase in the bone mass index and could also decrease the risk of breast cancer reactivation. Which of the following drugs was most likely administered?",
+   "choices": [
+    "Anastrozole",
+    "Alendronate",
+    "Testosterone",
+    "Norgestrel",
+    "Raloxifene"
+   ],
+   "answer": 4,
+   "explanation": "Raloxifene is a selective estrogen receptor modulator. Such drugs can have estrogenic effects in bone but estrogen antagonist action on breast and uterine receptors. Raloxifene is approved both for the treatment of postmenopausal osteoporosis and for breast cancer risk reduction, and therefore can be appropriate therapy in a subset of women with postmenopausal osteoporosis who are at risk of breast cancer, as in this case. A Anastrozole can reduce the risk of breast cancer but has no effect or a negative effect (due to further decrease in estrogen levels) on bone mass. B Alendronate can increase the bone mass index more than raloxifene, but has not proven to reduce breast cancer risk. Bisphosphonates are used to treat bone metastases of breast cancer. It has been suggested that bisphosphonate therapy may decrease the risk of developing breast cancer, but the effectiveness for either prevention or treatment of breast cancer has not yet been proven. D, E Androgens and progestins are not used to treat postmenopausal osteoporosis.",
+   "source": "Pharmacology V-4 Q8",
+   "topic": "Easy",
+   "topic_n": 8
+  },
+  {
+   "question": "During her annual checkup, a 32-year-old woman was found to have mild hypertension (160/90 mm Hg). The woman, otherwise healthy, had started an oral contraceptive (ethinyl estradiol and norgestrel) 2 months earlier. The physician decided to change her contraceptive pill and prescribed ethinyl estradiol and drospirenone. An increased excretion of which of the following ions most likely occurred in this patient after a few days of therapy?",
+   "choices": [
+    "Magnesium",
+    "Bicarbonate",
+    "Calcium",
+    "Sodium",
+    "Potassium"
+   ],
+   "answer": 3,
+   "explanation": "Drospirenone is the only progestin drug with definite antihypertensive properties. It is structurally related to spironolactone and acts as an aldosterone receptor antagonist. Therefore, it causes an increased renal sodium excretion, which can account for its diuretic and antihypertensive effects. A Potassium excretion is decreased, not increased, by aldosterone antagonists. C-E The renal excretion of these ions is minimally affected by drospirenone.",
+   "source": "Pharmacology V-4 Q9",
+   "topic": "Easy",
+   "topic_n": 9
+  },
+  {
+   "question": "A 16-year-old girl was seen by her physician because of primary amenorrhea. Physical examination showed a short girl (height 135 cm, 53.15 in.) with a broad chest, poor breast development, and normal external genitalia. Subsequent exams revealed rudimentary ovaries, and cytogenetic analysis showed a 45,X karyotype. A diagnosis was made, and an appropriate therapy was prescribed. Which of the following drugs would be most appropriate for this patient?",
+   "choices": [
+    "Oxandrolone",
+    "Diethylstilbestrol",
+    "Danazol",
+    "Ethinyl estradiol",
+    "Anastrozole",
+    "Mifepristone"
+   ],
+   "answer": 3,
+   "explanation": "The patient's signs and lab exams indicate that the girl was affected by Turner syndrome, a sex chromosome abnormality in which there is a complete or partial absence of one of the two sex chromosomes, producing a phenotypic female. The phenotype varies from that of the typical Turner syndrome to normal. Failure to go to puberty and begin menses occurs in 90% of affected persons, as in this case. Replacement with female hormones will bring on puberty in most cases. A Diethylstilbestrol is a synthetic estrogen but is not used in replacement therapy because of the risk of adenocarcinoma in the offspring. B-E These drugs are of no value in replacement therapy.",
+   "source": "Pharmacology V-4 Q10",
+   "topic": "Medium",
+   "topic_n": 1
+  },
+  {
+   "question": "A 40-year-old woman complained to her gynecologist of heavy and painful menstruation over the past 3 months. Further exams led to the diagnosis of uterine fibroids, and the patient was scheduled for surgery. Which of the following drugs would be appropriate to decrease the patient's symptoms before surgery?",
+   "choices": [
+    "Flutamide",
+    "Medroxyprogesterone",
+    "Mifepristone",
+    "Finasteride",
+    "Ethinyl estradiol"
+   ],
+   "answer": 1,
+   "explanation": "Uterine fibroid, a benign uterine tumor, is the most common pelvic tumor, occurring in about 70% of women. It frequently causes abnormal vaginal bleeding and pelvic pain, as in this case. Fibroids tend to enlarge during reproductive years, when estrogen production is high, because they have estrogen receptors. Asymptomatic fibroids do not require treatment. For symptomatic fibroids, medical options are focused on suppression of estrogen stimulation, but results are limited. Progestins such as medroxyprogesterone can partially suppress estrogen stimulation, which in turn can decrease fibroid growth and vaginal bleeding. Danazol, an androgen agonist, can also suppress fibroid growth but has a high rate of adverse effects and is less frequently used. A Estrogens such as ethinyl estradiol are contraindicated in uterine fibroids because they stimulate uterine growth and bleeding. B, C Finasteride inhibits dihydrotestosterone synthesis, and flutamide is an androgen receptor antagonist. By decreasing androgen activity, these drugs can indirectly enhance estrogen actions and are therefore contraindicated in uterine fibroids. D Mifepristone is a progestin antagonist and therefore is contraindicated in uterine fibroids.",
+   "source": "Pharmacology V-4 Q11",
+   "topic": "Easy",
+   "topic_n": 10
+  },
+  {
+   "question": "A 23-year-old woman asked her physician for a postcoital contraceptive 2 days following unprotected intercourse. Which of the following drugs would be most appropriate for this purpose?",
+   "choices": [
+    "Danazol",
+    "Leuprolide",
+    "Fulvestrant",
+    "Tamoxifen",
+    "Clomiphene",
+    "Levonorgestrel"
+   ],
+   "answer": 5,
+   "explanation": "Levonorgestrel, a progestin compound, is an effective postcoital contraceptive. The effectiveness is most likely due to a combination of effects of interaction with progesterone receptors and the time of the cycle. Among the contraceptive actions are inhibition of ovulation, alterations in cervical mucus production, and decreased fallopian tube motility, all of which can hinder fertilization and/or disrupt development of an endometrium suitable for implantation. Ulipristal, a selective progesterone receptor modulator, is also effective and appears to be even more effective at preventing ovulation. A, B, D-F See correct answer explanation.",
+   "source": "Pharmacology V-4 Q12",
+   "topic": "Easy",
+   "topic_n": 11
+  },
+  {
+   "question": "A 34-year-old woman complained to her physician of swelling and pain in her left ankle. The woman was otherwise healthy, and the only medication she had been taking was a combined oral contraceptive. Further exams confirmed the diagnosis of venous thrombosis that the physician believed to be caused by the contraceptive pill. Which of the following actions most likely contributed to the adverse effect of the drug in this patient?",
+   "choices": [
+    "Decreased plasminogen synthesis",
+    "Increased antithrombin III synthesis",
+    "Decreased platelet aggregation",
+    "Increased synthesis of clotting factors",
+    "Increased synthesis of protein C"
+   ],
+   "answer": 3,
+   "explanation": "Estrogens enhance the coagulability of blood because they * Increase plasma levels of coagulation factors II, VII, VIII, IX, X, and XII (the main action) * Decrease plasma levels of antithrombin III * Increase platelet production and aggregation actions augment the risk of thromboembolic disease in women taking combined oral contraceptives about threefold compared to women taking no hormones. A-C, E Estrogens tend to cause actions opposite to those listed.",
+   "source": "Pharmacology V-4 Q13",
+   "topic": "Medium",
+   "topic_n": 2
+  },
+  {
+   "question": "A 26-year-old woman asked her family physician for a hormonal contraceptive. She refused other methods of contraception. Past history of the woman indicated disseminated intravascular coagulation that followed an abortion due to placental abruptio. Which of the following would be the most appropriate hormonal contraceptive preparation for this woman?",
+   "choices": [
+    "Levonorgestrel",
+    "Diethylstilbestrol",
+    "Mifepristone",
+    "Ethinyl estradiol and norethindrone",
+    "Mestranol and norethindrone",
+    "Ethinyl estradiol and levonorgestrel"
+   ],
+   "answer": 0,
+   "explanation": "Progestin alone (daily progestin tablets or implantable preparation) is the best hormonal contraceptive for women with an abnormal coagulation history, as in this case. In fact, estrogens must be avoided because they increase blood coagulability. A-C, E See correct answer explanation. D Mifepristone is not currently available as a regular contraceptive preparation.",
+   "source": "Pharmacology V-4 Q14",
+   "topic": "Medium",
+   "topic_n": 3
+  },
+  {
+   "question": "A 39-year-old obese woman was admitted to the hospital because of a severe pain in her right calf. Medical history included chronic bronchial asthma, currently treated with inhaled albuterol, and mild type II diabetes, currently treated with chlorpropamide and metformin. She had been taking combined oral contraceptives for 2 years. Physical examination showed a red, swollen, and tender right calf. A duplex ultrasonography confirmed the diagnosis of deep venous thrombosis. Which of the following drugs most likely caused the patient's disorder?",
+   "choices": [
+    "Diethylstilbestrol",
+    "Norethindrone",
+    "Metformin",
+    "Ethinyl estradiol",
+    "Chlorpropamide",
+    "Albuterol"
+   ],
+   "answer": 3,
+   "explanation": "The estrogens contained in the contraceptive pill can contribute to thromboembolic events by several mechanisms. They increase plasma levels of factors II, VII, VIII, IX, X, and XII, decrease plasma levels of antithrombin III, and increase platelet production and aggregation in a manner similar to that seen late in pregnancy. A Progestins play a minimal role, if any, in thromboembolism risk. B, D, E These drugs do not cause or favor thromboembolism. F This estrogen is not used in contraceptive preparations.",
+   "source": "Pharmacology V-4 Q15",
+   "topic": "Easy",
+   "topic_n": 12
+  },
+  {
+   "question": "A 68-year-old man with a long history of chronic cardiac failure presented to his physician complaining of urinary hesitancy and frequent need to urinate during the night. An examination revealed an enlarged prostate, and further exams confirmed the diagnosis of benign prostatic hyperplasia. Finasteride was included as part of his therapeutic regimen. Which of the following actions most likely mediated the therapeutic effect of the drug in the patient's disease?",
+   "choices": [
+    "Blockade of testosterone receptors",
+    "Inhibition of gonadotropin-releasing hormone (GnRH) release",
+    "Inhibition of 5α-reductase enzyme",
+    "Blockade of progesterone receptors",
+    "Inhibition of follicle-stimulating hormone (FSH) and luteinizing hormone (LH) release"
+   ],
+   "answer": 2,
+   "explanation": "Finasteride is a competitive inhibitor of 5α-reductase, the enzyme that converts testosterone to dihydrotestosterone. Dihydrotestosterone is the principal androgen responsible for stimulation of prostatic growth. The definitive therapy of benign prostatic hyperplasia is surgical, but drugs can be used when surgery is contraindicated, as in this case. A, B, D, E See correct answer explanation.",
+   "source": "Pharmacology V-4 Q16",
+   "topic": "Easy",
+   "topic_n": 13
+  },
+  {
+   "question": "A 20-year-old woman started using a hormonal contraceptive with a monophasic combination of ethinyl estradiol and norethindrone. The primary contraceptive mechanism of action of this contraceptive preparation most likely includes decreased secretion of a hormone from which of the following organs or tissues?",
+   "choices": [
+    "Hypothalamus",
+    "Endometrium",
+    "Posterior pituitary",
+    "Ovary",
+    "Adrenals"
+   ],
+   "answer": 0,
+   "explanation": "Combination hormonal contraceptives act mainly through inhibition of ovulation most likely due to the following mechanisms: * In the brain, activation of estrogen and progestin receptors located on arcuate hypothalamic nuclei inhibits the secretion of gonadotropin-releasing hormone (GnRH). In current low-dose preparations, the primary hypothalamic effect of the estrogen component may be to increase expression of progesterone receptors. The progestin component acts to disrupt the normal cyclical pulsatility of GnRH release. * Activation of estrogen receptors in the anterior pituitary gland mainly inhibits follicle-stimulating hormone (FSH) secretion. * Activation of progestin receptors in the anterior pituitary gland mainly inhibits luteinizing hormone (LH) secretion. When combination hormonal contraceptives are given daily, the midcycle surge of LH is absent, and ovulation fails to occur. A Although combined oral contraceptives do result in decreased ovarian hormone secretion, this effect is not part of the contraceptive action B, D Activation of receptors on these organs does not decrease the secretion of a hormone involved in the contraceptive effect of estrogens. C Activation of receptors located in the anterior, not posterior, pituitary inhibits the secretion of FSH and LH.",
+   "source": "Pharmacology V-4 Q17",
+   "topic": "Easy",
+   "topic_n": 14
+  },
+  {
+   "question": "A 43-year-old woman recently diagnosed with endometriosis started a treatment with medroxyprogesterone, one tablet daily. Which of the following effects most likely occurred after a few days of therapy?",
+   "choices": [
+    "Decreased body temperature",
+    "Increased circulating levels of amino acids",
+    "Increased estrogen secretion by the ovary",
+    "Increased ventilatory response to carbon dioxide",
+    "Decreased kidney excretion of sodium and water"
+   ],
+   "answer": 3,
+   "explanation": "Medroxyprogesterone is a synthetic progesterone derivative that is about 15 times more potent and has the same pharmacological properties of the parent compound. Progesterone increases the sensitivity of the respiratory center to carbon dioxide, thus leading to an increased ventilatory response. This can explain the measurable reduction of arterial and alveolar carbon dioxide that occurs during pregnancy. A, B, D, E Progesterone actually exhibits actions opposite to those listed.",
+   "source": "Pharmacology V-4 Q18",
+   "topic": "Medium",
+   "topic_n": 4
+  },
+  {
+   "question": "A 21-year-old woman started using a combined oral contraceptive pill (ethinyl estradiol and norethindrone). Which of the following cell structures is the primary site of action of both drugs?",
+   "choices": [
+    "Nucleus",
+    "Mitochondria",
+    "Ribosomes",
+    "Membrane",
+    "Golgi apparatus"
+   ],
+   "answer": 0,
+   "explanation": "All gonadal steroid hormones act primarily via intracellular receptors to regulate gene transcription, which occurs in the nucleus of target cells, where the ligand-activated receptor binds to specific estrogen response elements or progestin response elements in the DNA of regulated genes. B-E See correct answer explanation.",
+   "source": "Pharmacology V-4 Q19",
+   "topic": "Easy",
+   "topic_n": 15
+  },
+  {
+   "question": "A 45-year-old woman complained to her physician that for the past month she had frequent episodes of developing a sudden feeling of warmth over her chest accompanied by a patchy flushing of her skin. She stated that these symptoms were extremely disturbing. She had been having irregular menstrual periods for the past year, often skipping two or three periods at a time. Which of the following preparations would be most appropriate for short-term hormonal replacement therapy in this woman?",
+   "choices": [
+    "Parenteral medroxyprogesterone",
+    "Oral ethinyl estradiol",
+    "Transdermal estradiol",
+    "Oral ethinyl estradiol-norgestrel combination",
+    "Oral norethindrone",
+    "Subcutaneous implant of levonorgestrel"
+   ],
+   "answer": 3,
+   "explanation": "Although the exact triggering mechanism of hot flushes is unknown, it has been shown that there is a clear association between the development of hot flushes and the wide swings in circulating estrogen levels that can occur during perimenopause. Hormonal replacement therapy is indicated for perimenopausal (and sometimes postmenopausal) women who complain of overt menopausal symptoms that disrupt their lives, as in this case. Women with an intact uterus should receive estrogen-progestin therapy to decrease the risk of endometrial and ovarian cancers. The therapy can often be slowly withdrawn once the woman's system has progressed to established menopause. A, B Estrogens alone are not indicated because of the increased risk of endometrial and ovarian cancers. C, D, F Progestins alone are not effective in reducing hot flushes.",
+   "source": "Pharmacology V-4 Q20",
+   "topic": "Easy",
+   "topic_n": 16
+  },
+  {
+   "question": "A 26-year-old woman came to her physician complaining of hyperpigmentation of her face. Physical examination revealed a poorly defined, blotchy, masklike zone of facial pigmentation with almost equal involvement of her cheeks, temples, and forehead. Skin biopsy showed increased melanin pigment in basal layers. The woman had been taking a hormonal contraceptive for 6 years. She was a long-distance runner and admitted the use of oxandrolone, erythropoietin, and methamphetamine while training. Which of the following drugs most likely caused the hyperpigmentation in this woman?",
+   "choices": [
+    "Oxandrolone",
+    "Ethinyl estradiol",
+    "Methamphetamine",
+    "Norethindrone",
+    "Erythropoietin"
+   ],
+   "answer": 1,
+   "explanation": "The patient's history and signs indicate that she was affected by chloasma, an increased skin pigmentation characterized by extensive brown patches of irregular shape and size. Chloasma occurs in 5% of women after 1 year and in 40% of women after 8 years of oral contraceptive use. It is similar to the so-called mask of pregnancy that sometimes occurs in pregnant women. The hyperpigmentation usually fades slowly when the hormone is withdrawn. B-E These drugs do not cause skin hyperpigmentation.",
+   "source": "Pharmacology V-4 Q21",
+   "topic": "Medium",
+   "topic_n": 5
+  },
+  {
+   "question": "A 59-year-old woman diagnosed with metastatic breast cancer started a treatment that included anastrozole. Which of the following molecular actions most likely mediated the therapeutic effect of the drug in the patient's disease?",
+   "choices": [
+    "Competitive blockade of estrogen receptors",
+    "Competitive blockade of progesterone receptors",
+    "Inhibition of conversion of androgens to estrogens",
+    "Inhibition of conversion of progesterone to androgens",
+    "Activation of estrogen catabolism"
+   ],
+   "answer": 2,
+   "explanation": "Anastrozole and letrozole are selective inhibitors of aromatase, the enzyme responsible for the conversion of androgens to estrogens, including the extra-adrenal synthesis of estrogen from androstenedione, which takes places in several tissues, including breast. Aromatase inhibitors are considered second-line agents for hormone-dependent breast cancers, but they are increasingly used in this disease in postmenopausal women, in whom they cause an almost total suppression of estrogen synthesis. A-C, E Aromatase inhibitors such as anastrozole are devoid of these actions.",
+   "source": "Pharmacology V-4 Q22",
+   "topic": "Easy",
+   "topic_n": 17
+  },
+  {
+   "question": "A 32-year-old woman had been taking a combined oral contraceptive pill for the past 5 years. However, she recently developed a disorder that prompted her physician to withdraw the pill and to recommend other forms of contraception. Which of the following disorders most likely occurred to this patient?",
+   "choices": [
+    "Vaginal infection",
+    "Vein thrombosis",
+    "Acne",
+    "Rheumatoid arthritis",
+    "Anorexia"
+   ],
+   "answer": 1,
+   "explanation": "Estrogens increase plasma levels of factors II, VII, VIII, IX, X, and XII and are therefore absolutely contraindicated in thromboembolic diseases. Progestin-only contraceptives may be used in women with thromboembolic diseases. A, C-E These disorders do not contraindicate the use of hormonal contraceptives.",
+   "source": "Pharmacology V-4 Q23",
+   "topic": "Easy",
+   "topic_n": 18
+  },
+  {
+   "question": "A 54-year-old woman was admitted to the hospital because of increasing shortness of breath. Five years earlier, the woman had been diagnosed with hormone-positive breast cancer and underwent radical mastectomy and six cycles of chemotherapy. She had been receiving hormonal therapy with tamoxifen since then. A computed tomography scan showed multiple lung metastases. Tamoxifen was stopped, and a therapy with a competitive estrogen receptor antagonist was initiated. Which of the following drugs was most likely given?",
+   "choices": [
+    "Mifepristone",
+    "Fulvestrant",
+    "Danazol",
+    "Anastrozole",
+    "Leuprolide"
+   ],
+   "answer": 1,
+   "explanation": "Hormonal therapy in the metastatic breast cancer setting can provide long progression-free survival in patients. If the patient responds to a hormonal agent for a long period of time, the likelihood of response to another hormonal agent is high. Because the patient was well controlled with tamoxifen for 5 years, another hormonal agent is a reasonable choice. Fulvestrant, a competitive estrogen receptor antagonist, has been approved for patients who have become resistant to tamoxifen, as in this case. A Anastrozole is used in metastatic breast cancer but is an aromatase inhibitor, not an estrogen receptor antagonist. B, C, E These drugs are not used in the therapy of breast carcinoma.",
+   "source": "Pharmacology V-4 Q24",
+   "topic": "Easy",
+   "topic_n": 19
+  },
+  {
+   "question": "A 52-year-old woman presented to her physician complaining of hot flushes and night sweats that disturbed her sleep. Her last menstrual period was 6 months ago. The physician prescribed a hormone replacement therapy with a combined contraceptive pill (ethinyl estradiol and norethindrone). This therapy might carry a small increase in the risk of which of the following diseases?",
+   "choices": [
+    "Ovarian cancer",
+    "Colon cancer",
+    "Endometrial cancer",
+    "Osteoporosis",
+    "Breast cancer"
+   ],
+   "answer": 4,
+   "explanation": "Hormone replacement therapy is the most effective treatment option for alleviating vasomotor symptoms in postmenopausal women. The risk of malignant tumors in women taking hormonal contraceptives is probably the major concern for the use of these medications in perimenopausal women. Although the issue is still controversial, it appears that there is a small duration-related increase in the risk of breast cancer. This prompted the U.S. Food and Drug Administration to mandate the addition of new safety warnings to the labels of all systemic estrogens, including estrogen-only and combined estrogen-progestin products. The labels caution that the use of estrogen-containing hormone therapy regimens by postmenopausal women may be associated with an increased risk of breast cancer, myocardial infarction, stroke, and thromboembolism. A, C-E The risk of these diseases is actually decreased in postmenopausal women on hormonal estrogen plus progestin therapy.",
+   "source": "Pharmacology V-4 Q25",
+   "topic": "Easy",
+   "topic_n": 20
+  },
+  {
+   "question": "A 27-year-old woman who was having trouble trying to conceive started a cycle of therapy with clomiphene. Eight weeks later, she had a positive pregnancy test. Which of the following was most likely the primary site of action of the drug that led to the woman's successfully becoming pregnant?",
+   "choices": [
+    "Posterior pituitary",
+    "Ovary",
+    "Uterine tube",
+    "Endometrium",
+    "Corpus luteum",
+    "Hypothalamus"
+   ],
+   "answer": 5,
+   "explanation": "Clomiphene is an estrogen receptor antagonist in most target tissues. Blockade of estrogen receptors in the hypothalamus counteracts the estrogen-induced negative feedback on the hypothalamic-pituitary-ovarian axis. This effect often allows normal pulsatility of gonadotropin-releasing hormone (GnRH) release from the hypothalamus to occur, stimulating a normal pattern of follicle-stimulating hormone (FSH) and luteinizing hormone (LH) release from the antepituitary, resulting in ovulation. The drug has been used for more than 25 years to treat infertility when other causes have been ruled out. However, clomiphene may exhibit negative effects, including an increased incidence of multiple births, ovarian cysts, and ovarian hyperstimulation syndrome. A, C-F See correct answer explanation.",
+   "source": "Pharmacology V-4 Q26",
+   "topic": "Easy",
+   "topic_n": 21
+  },
+  {
+   "question": "A 22-year-old woman started using a combination hormonal contraceptive (ethinyl estradiol and norethindrone). Synthetic estrogens and progestins are currently used in most contraceptive formulations instead of natural hormones mainly because of which of the following pharmacological advantages?",
+   "choices": [
+    "Higher hormonal efficacy",
+    "Lower teratogenic activity",
+    "Much lower incidence of adverse effects",
+    "Higher inhibition of gonadotropin secretion",
+    "Greater oral bioavailability"
+   ],
+   "answer": 4,
+   "explanation": "Synthetic estrogens and progestins are often preferred over natural hormones mainly because they have greater oral bioavailability due to lower first-pass metabolism. The slower metabolism of these drugs also accounts for their longer half-life (i.e., estradiol 1 to 2 hours, ethinyl estradiol 8 to 24 hours). A, C-E Synthetic compounds do not differ significantly from natural hormones in their hormonal efficacy, inhibition of gonadotropin secretion, incidence of adverse effects, or teratogenic activity.",
+   "source": "Pharmacology V-4 Q27",
+   "topic": "Easy",
+   "topic_n": 22
+  },
+  {
+   "question": "A 24-year-old man complained to his physician of erectile dysfunction. Further exams led to the diagnosis of adultonset hypogonadism, and a therapy with a testosterone patch was started. Which of the following effects most likely occurred after a few days of therapy?",
+   "choices": [
+    "Decreased synthesis of clotting factors",
+    "Decreased growth of bone marrow stem cells",
+    "Increased high-density lipoprotein (HDL) levels",
+    "Enhanced luteinizing hormone (LH) secretion",
+    "Enhanced erythropoietin synthesis"
+   ],
+   "answer": 4,
+   "explanation": "Several disorders can cause erectile dysfunction, but when this is due to hypogonadism, androgen replacement therapy is indicated. Androgens can increase erythropoietin synthesis in the kidney, and this can explain the increased erythropoiesis that occurs with these hormones. Because of this, in the past, high doses of testosterone were used in the treatment of certain types of anemia, but today the direct administration of erythropoietin is largely preferred. A-C, E Androgens tend to cause effects opposite to those listed.",
+   "source": "Pharmacology V-4 Q28",
+   "topic": "Easy",
+   "topic_n": 23
+  },
+  {
+   "question": "A 30-year old man, who was a long-distance runner, had been using large doses of anabolic steroids for more than 10 years to increase his athletic performance. The man was most likely at increased risk of developing which of the following diseases?",
+   "choices": [
+    "Hemolytic anemia",
+    "Hepatic tumors",
+    "Osteoporosis",
+    "Kidney failure",
+    "Gastric ulcer",
+    "Angioneurotic edema"
+   ],
+   "answer": 1,
+   "explanation": "Hepatocellular adenoma and carcinoma, although rare, are clearly associated with the use of both oral contraceptives and alkylated anabolic steroids. The relative risk in those exposed for more than 10 years is 100-fold higher than that of patients not receiving these drugs. The risk may be even higher for athletes than for patients using hormones for other purposes, as relatively very high doses are taken to increase athletic performance. A-C, E, F The risk of these diseases is not increased by the use of anabolic steroids.",
+   "source": "Pharmacology V-4 Q29",
+   "topic": "Easy",
+   "topic_n": 24
+  },
+  {
+   "question": "A 16-year-old girl complained to her physician that her periods were very irregular, with intervals between 22 days and 4 months. She also noticed increased hair growth on her face, extremities, abdomen, and breasts. Further exams led to the diagnosis of polycystic ovary syndrome, and an appropriate treatment was prescribed. Which of the following pairs of drugs would be appropriate for this patient?",
+   "choices": [
+    "Ethinyl estradiol and danazol",
+    "Ethinyl estradiol and mifepristone",
+    "Danazol and norgestrel",
+    "Ethinyl estradiol and norgestrel",
+    "Mifepristone and norgestrel",
+    "Danazol and mifepristone"
+   ],
+   "answer": 3,
+   "explanation": "Polycystic ovary syndrome is the most common form of chronic anovulation associated with androgen excess. It occurs in 5 to 10% of women of reproductive age, making it the leading cause of infertility and the most common endocrine abnormality for this age group. The primary defect leading to the disease is unknown, but there are at least three potential mechanisms that act synergistically: * Inappropriate gonadotropin secretion: there is an increased frequency of gonadotropin-releasing hormone (GnRH) secretion leading to an increased luteinizing hormone (LH) pulse frequency and amplitude; thus no dominant follicle develops, and no ovulation occurs. * Excessive androgen production in the theca cell of the ovary leads to hyperandrogenism. * Insulin resistance with compensatory hyperinsulinemia Estrogen-progestin therapy with a combination hormonal contraceptive preparation is the first-line treatment for women seeking regular menstrual cycles and relief from androgenic symptoms. The hormones suppress the hypothalamic-pituitary-ovarian axis, including decreasing LH secretion, thus decreasing androgen production. The pills also provide “replacement therapy,” and a cycle of 21 days of active pills followed by 7 days of inactive pills usually normalizes the menstrual cycle. A-E Mifepristone and danazol are useless in polycystic ovary syndrome",
+   "source": "Pharmacology V-4 Q30",
+   "topic": "Easy",
+   "topic_n": 25
+  },
+  {
+   "question": "A 23-year-old woman asked her physician for a contraceptive pill. Because the woman had suffered in the past from deep venous thrombosis, the physician prescribed a progestin-only oral contraceptive (the mini pill). Which of the following actions most likely contributed to the contraceptive effect of the prescribed drug?",
+   "choices": [
+    "Stimulation of follicle-stimulating hormone (FSH) release from the pituitary",
+    "Increased frequency of gonadotropin-releasing hormone (GnRH) pulse generator",
+    "Increased viscosity of the cervical mucus",
+    "Activation of progestin receptors in the corpus luteum",
+    "Stimulation of contraction of the myometrium"
+   ],
+   "answer": 2,
+   "explanation": "The doses of progestin in mini pills are sufficient to block ovulation in only 60 to 80% of cycles. The effectiveness of these preparations is thought to be mainly related to a combination of effects, including: increased viscosity of cervical mucus, which decreases sperm penetration; a decrease in fallopian tube motility (estrogens increase but progestins decrease tube motility); and endometrial alterations that impair implantation. A The corpus luteum is formed from the rupture of ovarian follicle and produces a large amount of progesterone and estrogens. Activation of progesterone receptors in the corpus luteum has nothing to do with the contraceptive effect. B Progestins do not enhance follicle-stimulating hormone (FSH) release; if they did, this effect would favor, not inhibit, ovulation. D Progestins decrease, not increase, the frequency and increase the amplitude of pulsatile gonadotropin-releasing hormone (GnRH) release. E Progestins inhibit, not increase, the contractility of the myometrium.",
+   "source": "Pharmacology V-4 Q31",
+   "topic": "Easy",
+   "topic_n": 26
+  },
+  {
+   "question": "A 54-year-old woman had been receiving tamoxifen for 1 year following surgery for breast cancer. Which of the following drug classes best defines this drug?",
+   "choices": [
+    "Aromatase synthesis inhibitor",
+    "Estrogen receptor antagonist",
+    "Progestin receptor antagonist",
+    "Progestin receptor agonist",
+    "Selective estrogen receptor modulator",
+    "Androgen receptor agonist"
+   ],
+   "answer": 4,
+   "explanation": "Tamoxifen is a common hormonal adjunct therapy for breast cancer because it has been shown that 5-year treatment reduces annual odds of death by about 25% in both pre- and postmenopausal women regardless of axillary lymph node involvement. Tamoxifen is classified as a selective estrogen receptor modulator (SERM). SERMs such as tamoxifen and raloxifene bind to estrogen receptors, but they have different allosteric modulation effects than estrogen. The result is that the conformational change following SERM binding allows them to be agonists in the modulation of some genes in some target tissues and antagonists in the modulation of expression of other genes. Furthermore, each SERM has a different spectrum of actions. For example, tamoxifen acts as an estrogen antagonist in breast tissue but as an agonist in bone and endometrial tissue, whereas raloxifene is an antagonist in both breast and endometrium tissue but an agonist in bone. A-C, E, F See correct answer explanation.",
+   "source": "Pharmacology V-4 Q32",
+   "topic": "Easy",
+   "topic_n": 27
+  },
+  {
+   "question": "A 15-year-old boy was admitted to the hospital because of a sudden swelling in his arms, legs, abdomen, lips, tongue, and throat. Past history of the patient indicated that his father had had a similar episode in his youth. An emergency therapy was started, and further exams indicated very low levels of C1 esterase inhibitor. A few days later, the patient was discharged with a suitable therapy. Which of the following drugs would be appropriate to prevent further attacks in this patient?",
+   "choices": [
+    "Clomiphene",
+    "Flutamide",
+    "Octreotide",
+    "Danazol",
+    "Medroxyprogesterone",
+    "Mifepristone"
+   ],
+   "answer": 3,
+   "explanation": "The signs and symptoms of the patient suggest that he was affected by hereditary angioedema, a disease caused by hereditary impairment of C1 esterase inhibitor, a protein that regulates activation of the complement, contact, and fibrinolytic systems. C1 inhibitor is one of the major inhibitors of plasma kallikrein, the contact system protease that cleaves kininogen and releases bradykinin. Presumably, uncontrolled activation of the contact system allows for the release of kinin-like mediators, resulting in edema of subcutaneous or submucosal tissues. The disease is estimated to occur in 1 in 50,000 to 150,000 individuals, with a mortality rate estimated at 15 to 33%, resulting from laryngeal edema and asphyxiation. Chronic androgenic treatment of patients with hereditary angioedema effectively prevents the attacks. Androgens most likely act by stimulating the hepatic synthesis of C1 esterase inhibitor. Danazol is the drug most frequently used for this purpose. A-D, F See correct answer explanation.",
+   "source": "Pharmacology V-4 Q33",
+   "topic": "Hard",
+   "topic_n": 1
+  },
+  {
+   "question": "A 63-year-old man came to his physician complaining of a persistent backache. Rectal examination revealed a single, hard, irregular nodule within his prostate. Subsequent exams found his prostate-specific antigen (PSA) level to be 100 ng/mL (normal < 3.0 ng/mL), and a computed tomography scan showed several enlarged pelvic lymph nodes and multiple sclerotic lesions in his spine. Which of the following pairs of drugs would be most appropriate for the patient at this time?",
+   "choices": [
+    "Vincristine and prednisone",
+    "Paclitaxel and cisplatin",
+    "Vincristine and actinomycin",
+    "Tamoxifen and anastrozole",
+    "Leuprolide and flutamide"
+   ],
+   "answer": 4,
+   "explanation": "The patient's signs and symptoms suggest prostate cancer, and the exam results confirm the diagnosis of metastasized prostatic carcinoma. Prostate-specific antigen (PSA) is the most used lab test for early detection of prostate cancer, and spine metastases with prevalent necrotic lesions are the most common metastases of prostatic carcinoma. The mainstay of treatment for metastasized prostate cancer is hormonal therapy. Because the cancer is testosterone-dependent, hormonal manipulation focuses on reducing testosterone levels. Leuprolide is a synthetic gonadotropin-releasing hormone (GnRH) analogue. When administered daily (or as a depot preparation) to maintain stable blood levels, it inhibits the release of follicle-stimulating hormone (FSH) and luteinizing hormone (LH), likely due to downregulation of pituitary receptors. This inhibition strongly reduces testicular androgen synthesis. Flutamide is an androgen receptor antagonist. Combined treatment with these drugs reduces symptoms in 70 to 80% of patients, causes an appreciable regression of established metastases, and prolongs survival. In contrast, cytotoxic chemotherapy has failed to prolong survival in patients with advanced prostate cancer. A This is a therapy for advanced ovarian cancer. B This is a therapy for acute lymphoblastic leukemia. D These drugs are used in hormone receptor-positive breast cancer. E These drugs are used in Wilms tumor.",
+   "source": "Pharmacology V-4 Q34",
+   "topic": "Medium",
+   "topic_n": 6
+  },
+  {
+   "question": "A 19-year-old woman started using daily norethindrone pills as a hormonal contraceptive. Which of the following adverse effects would be most likely associated with this method of contraception?",
+   "choices": [
+    "Galactorrhea",
+    "Breakthrough bleeding",
+    "Increased skin pigmentation",
+    "Megaloblastic anemia",
+    "Retinal thrombosis"
+   ],
+   "answer": 1,
+   "explanation": "Some women experience breakthrough bleeding while taking oral contraceptives, but breakthrough bleeding is the most common problem (in up to 25% of patients) in women using the progestin-only pill. It is more frequently encountered in women taking a low dose of progestins and often resolves on its own. If it persists for more than 3 months, the best strategy is to switch to a combined oral contraceptive with a higher ratio of estrogen to progestin. A-C, E All of these adverse effects can occur with combination oral contraceptives but are due mainly to the estrogen component of the preparation, and the risk is therefore minimal with a progestin-only oral contraceptive.",
+   "source": "Pharmacology V-4 Q35",
+   "topic": "Easy",
+   "topic_n": 28
+  },
+  {
+   "question": "A 21-year-old woman complained to her physician of recurrent nausea lasting most of the day. The woman had been suffering from a urinary tract infection presently being treated with ciprofloxacin and from gastroesophageal reflux disease presently being treated with omeprazole. She also routinely took ibuprofen during her menstrual period. One week ago, she started taking a contraceptive pill (ethinyl estradiol and norgestrel). Which of the following drugs most likely caused the patient's nausea?",
+   "choices": [
+    "Ethinyl estradiol",
+    "Ciprofloxacin",
+    "Norgestrel",
+    "Omeprazole",
+    "Ibuprofen"
+   ],
+   "answer": 0,
+   "explanation": "Many drugs can cause nausea and vomiting in sensitive patients. However, the woman was most likely suffering from nausea due to the contraceptive preparation, as she had been taking the other drugs for some time without adverse effects. Nausea from a combined oral contraceptive can generally be attributed to the estrogen component (ethinyl estradiol). It was a common adverse effect and was one of the main reasons for discontinuing use of combined contraceptives. Today, with the use of low-dose contraceptive pills, this adverse effect is much less common. B-E See correct answer explanation.",
+   "source": "Pharmacology V-4 Q36",
+   "topic": "Medium",
+   "topic_n": 7
+  },
+  {
+   "question": "A young couple presented to the physician complaining that they have been trying for 2 years to conceive a second child but have not been successful. Their first child was a healthy 4-year-old girl. Lab tests revealed that the husband was severely oligospermic. On questioning, he admitted he had been taking some drugs to aid his athletic performance. Which of the following drugs most likely contributed to the oligospermia of this man?",
+   "choices": [
+    "Danazol",
+    "Medroxyprogesterone",
+    "Oxandrolone",
+    "Ferrous sulphate",
+    "Erythropoietin",
+    "Vitamin B12"
+   ],
+   "answer": 2,
+   "explanation": "High doses of androgens or anabolic steroids, used by athletes to improve competitive performance, can produce oligospermia and reduction in testicular size. This is the consequence of negative feedback by androgen on the hypothalamus that inhibits the secretion of gonadotropin-releasing hormone (GnRH), which in turn causes a corresponding decrease in both follicle-stimulating and luteinizing hormones. A-E See correct answer explanation.",
+   "source": "Pharmacology V-4 Q37",
+   "topic": "Easy",
+   "topic_n": 29
+  },
+  {
+   "question": "A 38-year-old woman underwent a hysterectomy and bilateral oophorectomy because of acute pelvic peritonitis. One month later, a hormonal treatment was started. Which of the following drugs would be appropriate for this patient?",
+   "choices": [
+    "Anastrozole",
+    "Tamoxifen",
+    "Leuprolide",
+    "Norgestrel",
+    "Human chorionic gonadotropin",
+    "Estradiol"
+   ],
+   "answer": 5,
+   "explanation": "Estrogen replacement therapy is definitely indicated to postpone menopause in young women who undergo ablation of the ovary. Some risks associated with estrogen replacement therapy (endometrial and ovarian cancer) cannot occur in this case because the organs are no longer present. Other risks of this therapy (breast cancer and thromboembolic disorders) are also minimal in this case, because the therapy simply restores the physiological levels of estrogens. A, C-F See correct answer explanation.",
+   "source": "Pharmacology V-4 Q38",
+   "topic": "Easy",
+   "topic_n": 30
+  },
+  {
+   "question": "A 37-year-old woman complained of severe pelvic pain during menstruation and mild to moderate pain on some nonmenstrual days. Physical examination of the patient revealed diffuse uterine and adnexal tenderness and multiple nodes palpated along the uterosacral ligament. Laparoscopic examination showed endometriotic lesions. Which of the following drug therapies would be most appropriate for this patient?",
+   "choices": [
+    "Lutropin alfa",
+    "Human chorionic gonadotropin",
+    "Combined oral contraceptives",
+    "Anastrozole",
+    "Tamoxifen",
+    "Urofollitropin"
+   ],
+   "answer": 2,
+   "explanation": "The patient is most likely suffering from endometriosis, an estrogen-dependent inflammatory disease in which functioning endometrial tissue is present outside the uterine cavity. The incidence of the disorder is high, as it is commonly found in 10 to 15% of women between the ages of 25 and 45 who are actively menstruating. Medical therapy of endometriosis usually involves medical suppression of ovarian function to arrest the growth and the activity of endometrial implants. Endometriosis is estrogen-dependent. Low-dose oral contraceptives are appropriate initial therapy, with the goal of suppressing the endogenous production of estrogen. The low dose provided by the pill may offer some protection against bone loss without significantly promoting endometrial tissue formation. Depot injections of gonadotropin-releasing hormone (GnRH) agonists are an alternative therapy for endometriosis. Danazol is also approved for this use, but the adverse effect profile is considered to be worse than that of low-dose combined oral contraceptives or GnRH analogues. A Although anastrozole may be useful in treating postmenopausal endometriosis by blocking peripheral conversion of androgens to estrogens, it is not able to fully suppress estrogen production in premenopausal women and is not effective when used as monotherapy in premenopausal women; it has been proposed to use anastrozole in combination with a GnRH agonist, such as leuprolide. B, C, F These drugs provide luteinizing hormone-like (human chorionic gonadotropin and lutropin alfa) and follicle-stimulating hormone (urofollitropin) activity and would not be useful in the treatment of endometriosis; furthermore, they potentially could be counterproductive. D Tamoxifen is a selective estrogen receptor modulator that has estrogen-like actions on endometrial tissues and would be contraindicated in this situation.",
+   "source": "Pharmacology V-4 Q39",
+   "topic": "Medium",
+   "topic_n": 8
+  },
+  {
+   "question": "A 22-year-old woman was admitted to the emergency department because of excruciating abdominal pain over the past 4 hours. The woman had been suffering from asthma, presently treated with albuterol and ipratropium, and from recurrent urinary tract infection, presently treated with ciprofloxacin and azithromycin. A few days earlier, she had started using a combined oral contraceptive for the first time. Physical examination showed a patient in obvious distress with pronounced muscle weakness. Bladder catheterization showed clear red urine. Further exams confirmed the diagnosis of an acute porphyric attack. Which of the following drugs most likely triggered the patient's disorder?",
+   "choices": [
+    "Norethindrone",
+    "Ciprofloxacin",
+    "Azithromycin",
+    "Ipratropium",
+    "Albuterol"
+   ],
+   "answer": 0,
+   "explanation": "The patient was most likely suffering from acute intermittent porphyria that manifests as intermittent attacks of abdominal, mental, or neurologic symptoms. Porphyrias result from genetic deficiencies of enzymes in the heme biosynthetic pathway. A large number of drugs, especially those that can induce hepatic aminolevulinic acid (ALA) synthase and cytochrome P-450 enzymes, can precipitate a porphyric attack in predisposed patients. These include barbiturates, phenytoin, valproate, sulfonamides, rifampin, progesterone, and synthetic progestins. Therefore, it is most likely that the progestin of the contraceptive pill (norethindrone) was the drug that triggered the attack in this patient. A, C-E The administration of these drugs is considered safe in a patient affected by porphyrias.",
+   "source": "Pharmacology V-4 Q40",
+   "topic": "Hard",
+   "topic_n": 2
+  },
+  {
+   "question": "A 10-year-old boy was brought to the emergency department with the admitting diagnosis of bacterial meningitis. Further exams confirmed the diagnosis of meningococcal meningitis, and a drug was given prophylactically to all the heath personnel assisting the boy. The female personnel were instructed that hormonal contraceptives were not effective when taken with the given drug, as that drug was able to significantly reduce plasma concentration of estrogens and progestins. Which of the following was most likely the drug used to prevent the infection in close contacts of this boy?",
+   "choices": [
+    "Ciprofloxacin",
+    "Ketoconazole",
+    "Ceftriaxone",
+    "Erythromycin",
+    "Rifampin"
+   ],
+   "answer": 4,
+   "explanation": "The drug currently used to prevent infection in close contacts of patients with meningococcal meningitis is rifampin. Historically, several cases of unexpected pregnancies were reported among women taking rifampin, and now it is well known that this occurs because rifampin can strongly reduce the plasma concentration of estrogens and progestins by inducing their metabolism. A, B Ceftriaxone and ciprofloxacin are used to prevent infection in close contacts of patients with meningococcal meningitis, but they are not metabolism inducers. C, D Erythromycin and ketoconazole are metabolism inhibitors, not inducers, and they are not used for meningococcal prophylaxis.",
+   "source": "Pharmacology V-4 Q41",
+   "topic": "Medium",
+   "topic_n": 9
+  }
+ ]
+}

@@ -1,0 +1,387 @@
+{
+ "questions": [
+  {
+   "question": "The antifungal spectrum of this drug is limited to Candida and Aspergillus species.",
+   "choices": [
+    "Fluconazole",
+    "Caspofungin",
+    "Itraconazole",
+    "Flucytosine",
+    "Amphotericin B",
+    "Griseofulvin",
+    "Terbinafine",
+    "Nystatin"
+   ],
+   "answer": 1,
+   "explanation": "Caspofungin is an echinocandin; the antifungal spectrum of echinocandins is limited to Candida and Aspergillus species. (Matching key, Questions 1-3: 1. B)",
+   "source": "Pharmacology VIII-5 Q1",
+   "topic": "Easy",
+   "topic_n": 1
+  },
+  {
+   "question": "This drug has the broadest antifungal spectrum but is used only in case of severe mycoses because of its toxicity.",
+   "choices": [
+    "Amphotericin B",
+    "Caspofungin",
+    "Flucytosine",
+    "Griseofulvin",
+    "Fluconazole",
+    "Itraconazole",
+    "Nystatin",
+    "Terbinafine"
+   ],
+   "answer": 0,
+   "explanation": "Amphotericin B has the broadest antifungal spectrum but is used only in case of severe mycoses because of its toxicity. (Matching key, Questions 1-3: 2. A)",
+   "source": "Pharmacology VIII-5 Q2",
+   "topic": "Easy",
+   "topic_n": 2
+  },
+  {
+   "question": "The mechanism of action of this drug involves the inhibition of the synthesis of β-glucan, an essential constituent of a fungal cell wall.",
+   "choices": [
+    "Flucytosine",
+    "Terbinafine",
+    "Fluconazole",
+    "Itraconazole",
+    "Amphotericin B",
+    "Caspofungin",
+    "Nystatin",
+    "Griseofulvin"
+   ],
+   "answer": 5,
+   "explanation": "Caspofungin inhibits the synthesis of β-glucan, an essential constituent of the fungal cell wall. (Matching key, Questions 1-3: 3. B)",
+   "source": "Pharmacology VIII-5 Q3",
+   "topic": "Easy",
+   "topic_n": 3
+  },
+  {
+   "question": "A 42-year-old HIV-positive woman was recently diagnosed with invasive histoplasmosis and started a therapy with amphotericin B. Which of the following molecular actions most likely mediated the therapeutic effect of the drug in the patient's disease?",
+   "choices": [
+    "Activation of fungal cytochrome P-450 enzymes",
+    "Inhibition of fungal cytochrome P-450 enzymes",
+    "Inhibition of fungal mitosis",
+    "Pore formation in the fungal cell wall",
+    "Pore formation in fungal cell membrane"
+   ],
+   "answer": 4,
+   "explanation": "Amphotericin B binds to fungal cell membranes and causes the formation of artificial pores through which ions and small molecules are lost. This causes the death of the fungal cell. A, C-E See correct answer explanation.",
+   "source": "Pharmacology VIII-5 Q4",
+   "topic": "Easy",
+   "topic_n": 4
+  },
+  {
+   "question": "A 39-year-old man living in New Mexico was recently diagnosed with pulmonary coccidioidomycosis. A treatment was started with a drug that acts by inhibiting the fungal P-450 system. Which of the following drugs was most likely administered?",
+   "choices": [
+    "Griseofulvin",
+    "Nystatin",
+    "Amphotericin B",
+    "Terbinafine",
+    "Fluconazole",
+    "Flucytosine"
+   ],
+   "answer": 4,
+   "explanation": "Coccidioides immitis is sensitive to amphotericin B and antifungal azoles. Azole antifungals, primarily fluconazole and itraconazole, have replaced amphotericin B as initial therapy for most chronic pulmonary and disseminated infections. Amphotericin B is now usually reserved for patients with rapidly progressive coccidioidal infections. Azoles act by inhibiting the cytochrome P-450 system in fungal cells. The inhibition blocks the synthesis of ergosterol in the fungal cell membrane, leading to an antifungal effect. Relative selectivity occurs because the affinity for mammalian P-450 isozymes is less than that for the fungal isozymes. However, azoles can also block mammalian P-450 isozymes in the liver, which can explain the increased plasma concentration of many other drugs when coadministered with azoles. A, B, D-F These drugs do not block the fungal synthesis of ergosterol. Learning",
+   "source": "Pharmacology VIII-5 Q5",
+   "topic": "Easy",
+   "topic_n": 5
+  },
+  {
+   "question": "A 42-year-old man with AIDS was admitted to the hospital because of a recent onset of tonic-clonic seizures. Physical examination suggested acute meningitis, and lab tests indicated cryptococcal infection. A treatment with amphotericin B and flucytosine was initiated but had to be suspended due to the appearance of severe adverse effects. An alternative treatment was initiated. Which of the following drugs would be most appropriate for the patient at this time?",
+   "choices": [
+    "Nystatin",
+    "Terbinafine",
+    "Griseofulvin",
+    "Caspofungin",
+    "Fluconazole"
+   ],
+   "answer": 4,
+   "explanation": "Cryptococcal meningitis is common in patients with AIDS and is always fatal if untreated. Amphotericin B and flucytosine represent the standard therapy but are associated with frequent adverse reactions, including renal insufficiency and bone marrow suppression. Fluconazole is a useful alternative in patients who experience severe adverse effects. The antifungal spectrum of azoles includes Cryptococcus neoformans, but fluconazole is the preferred azole in case of meningitis because it easily crosses the blood-brain barrier. AIDS patients with cryptococcal meningitis frequently are treated indefinitely with fluconazole to prevent recurrence of clinical disease. A, B Terbinafine and griseofulvin are effective only against superficial mycoses due to dermatophytes.",
+   "source": "Pharmacology VIII-5 Q6",
+   "topic": "Easy",
+   "topic_n": 6
+  },
+  {
+   "question": "A 53-year-old man presented to the clinic because of painful, erosive, markedly pruritic lesions on the glans penis, scrotum, and inguinal region for the past week. The man had a 10-year history of poorly controlled diabetes mellitus. Physical examination showed irregular, shallow, erythematous ulcerations. A wet preparation of ulcer secretions showed budding cells with pseudohyphae. A diagnosis was made, and an oral therapy was prescribed. Which of the following drugs would be appropriate for this patient?",
+   "choices": [
+    "Griseofulvin",
+    "Nystatin",
+    "Mebendazole",
+    "Metronidazole",
+    "Acyclovir",
+    "Fluconazole"
+   ],
+   "answer": 5,
+   "explanation": "The patient's symptoms and lab results suggest he was suffering from genital candidiasis, which can occur in people without underlying illnesses but is more common in those with diabetes mellitus or with the use of certain drugs (broad-spectrum antibiotics, corticosteroids, or immunosuppressants). Budding yeast cells and pseudohyphae of Candida albicans, the most common Candida species causing candidiasis, can be detected by microscopic examination of biologic specimens. C. albicans is sensitive to most antifungal drugs, but for genital candidiasis, a topical or oral azole derivative or topical nystatin is the first-line treatment. Oral and topical therapies are therapeutically equivalent. A Nystatin is effective against Candida species, but it is used only topically because of its toxicity. B, D, E These agents are not antifungal drugs. F Griseofulvin is not effective against C. albicans.",
+   "source": "Pharmacology VIII-5 Q7",
+   "topic": "Hard",
+   "topic_n": 1
+  },
+  {
+   "question": "A 40-year-old woman with AIDS was admitted to the hospital because of fever (103.2°F, 39.5°C), cough, and chest pain over the past 12 hours. Physical examination revealed verrucose and vesicular skin lesions on her arms and face, and a chest x-ray showed scattered pulmonary lesions compatible with a granulomatous process. A blood culture displayed typical yeasts with chlamydospores. Which of the following correctly pairs the most likely offending pathogen with the appropriate treatment?",
+   "choices": [
+    "Trichophyton tonsurans: griseofulvin",
+    "Histoplasma capsulatum: fluconazole",
+    "Cryptococcus neoformans: amphotericin B",
+    "Aspergillus fumigatus: fluconazole",
+    "Candida albicans: amphotericin B"
+   ],
+   "answer": 4,
+   "explanation": "The patient's signs, symptoms, and x-ray suggest a systemic mycosis. Lab results confirm the diagnosis of systemic candidiasis, which accounts for about 80% of major systemic fungal infections. Amphotericin B, antifungal azoles, and echinocandins are first-line agents for systemic candidiasis. A-D All of these fungal infections are paired with the appropriate treatment, but they do not produce chlamydospores in blood cultures.",
+   "source": "Pharmacology VIII-5 Q8",
+   "topic": "Easy",
+   "topic_n": 7
+  },
+  {
+   "question": "A 43-year-old woman recently diagnosed with chromoblastomycosis started a treatment that included a drug that acts by inhibiting fungal DNA synthesis. Which of the following drugs was most likely given?",
+   "choices": [
+    "Griseofulvin",
+    "Fluconazole",
+    "Terbinafine",
+    "Cytarabine",
+    "Flucytosine",
+    "Fluorouracil"
+   ],
+   "answer": 4,
+   "explanation": "Flucytosine is accumulated in fungal cells and is converted by a cytosine deaminase to 5-fluorouracil (selectivity occurs because mammalian cells do not accumulate and do not deaminate flucytosine). Fluorouracil is in turn metabolized to 5-deoxyfluorouridylic acid, a potent inhibitor of thymidylate synthetase, the enzyme responsible for converting deoxyuridine monophosphate to deoxythimidine monophosphate. This reduces the availability of thymidylic acid, impairing DNA synthesis. The drug is not used alone but is given together with itraconazole in chromoblastomycosis to avoid the development of resistance. A, B Fluorouracil and cytarabine can inhibit DNA synthesis in mammalian cells but are not accumulated in fungal cells and therefore are devoid of antifungal activity. D-F These antifungal drugs do not inhibit DNA synthesis. Identify the drug used to treat meningeal",
+   "source": "Pharmacology VIII-5 Q9",
+   "topic": "Easy",
+   "topic_n": 8
+  },
+  {
+   "question": "A 30-year-old Mexican man who was a lifelong resident of the San Joaquin Valley, California, was admitted to the hospital because of a 4-day history of low-grade fever (99.9°F, 37.7°C), severe headache, irritability, and fatigue. Physical examination showed stiff neck and Kernig sign. Microscopic analysis of the spinal fluid revealed spherules filled with endospores. Which of the following drugs was most likely administered to this patient for an appropriate therapy?",
+   "choices": [
+    "Terbinafine",
+    "Zidovudine",
+    "Fluconazole",
+    "Flucytosine",
+    "Nystatin",
+    "Itraconazole"
+   ],
+   "answer": 2,
+   "explanation": "The patient’ signs and symptoms suggest the diagnosis of meningitis, and the lab results confirm that the man was suffering from meningeal coccidioidomycosis. The infection is caused by Coccidioides immitis, a soil mold that lives in semiarid regions of the globe, including the southwestern United States. Inhalation of the arthrospores leads to a primary infection that is asymptomatic in 60% of individuals. Others develop a flulike self-limited illness called valley fever or desert rheumatism. Following inhalation, the arthrospores form spherules that contain endospores. In biologic specimens, these spherules are diagnostic of C. immitis infection. In less than 1% of individuals, a secondary or disseminated infection evolves within a year after the primary one. This secondary infection is often life-threatening and can affect many parts of the body and tissues, but the most frequent are the bone, joints, and meninges. Untreated meningitis is always fatal. C. immitis is sensitive to amphotericin B and antifungal azoles. Fluconazole is the first-line agent for meningeal coccidioidomycosis. It easily crosses the blood-brain barrier, and cerebrospinal fluid concentrations are 50 to 90% of plasma concentrations. A Itraconazole is effective against C. immitis, but penetration into the brain is negligible. B, C These antifungal drugs are not effective against C. immitis. E, F These agents are not antifungal drugs.",
+   "source": "Pharmacology VIII-5 Q10",
+   "topic": "Medium",
+   "topic_n": 1
+  },
+  {
+   "question": "A 31-year-old man with AIDS was admitted to the emergency department with fever (102.4°F, 39.1°C), headache, confusion, muddled thinking, and vomiting. Physical examination revealed nuchal rigidity, diplopia, and loss of vision. An agglutination test of the spinal fluid for capsular polysaccharide antigen turned out to be positive. Which of the following treatments would be most appropriate for this patient?",
+   "choices": [
+    "Ampicillin and erythromycin",
+    "Amphotericin B and flucytosine",
+    "Tolnaftate and nystatin",
+    "Terbinafine and griseofulvin",
+    "Saquinavir and foscarnet",
+    "Pyrimethamine and sulfadiazine"
+   ],
+   "answer": 1,
+   "explanation": "The patient's history, signs and symptoms, and lab results suggest the diagnosis of cryptococcal meningitis. After common central toxoplasmosis, cryptococcosis is the most infection associated with AIDS. Cryptococcus nervous system characterized by a thick polyneoformans is a yeast that is saccharide capsule. During infection, the capsular polysacfluid and can be detected by charide is dissolved in spinal cryptococcosis. an agglutination test that is diagnostic of neoformans is sensitive to amphotericin B, flucytosine, C. treatment recommended and antifungal azoles. The current for acute cryptococcal meningitis is amphotericin B plus Synergism between the two drugs has been flucytosine. demonstrated in vitro and in vivo. It may be related to enhanced penetration of flucytosine through the amphotericindamaged fungal cell membrane. A-C These agents are not antifungal drugs. E, F These antifungal drugs are not effective against C. neoformans.",
+   "source": "Pharmacology VIII-5 Q11",
+   "topic": "Hard",
+   "topic_n": 2
+  },
+  {
+   "question": "A 68-year-old man hospitalized because of prostate cancer developed fever (103.8°F, 39.9°C) 4 days after prostatectomy despite empirical antibacterial therapy. He had a urinary catheter and was treated with a combination of broad-spectrum antibiotics. The patient had been suffering from chronic renal insufficiency for the past year. Urinalysis showed many budding yeasts and cultures that were positive for Candida albicans. Which of the following drugs would be appropriate for systemic antifungal treatment of this patient?",
+   "choices": [
+    "Nystatin",
+    "Caspofungin",
+    "Piperacillin",
+    "Griseofulvin",
+    "Metronidazole",
+    "Amphotericin B"
+   ],
+   "answer": 1,
+   "explanation": "The patient is suffering from candiduria, a condition often related to the placement of an indwelling urinary catheter, especially if the patient is taking broad-spectrum antibiotics, as in this case. Eradication of Candida in the urine includes the removal of the catheter and an antifungal treatment. Treatment options include amphotericin B, fluconazole, and an echinocandin such as caspofungin. However, in this patient, amphotericin B, which directly damages renal tubules, is contraindicated because of chronic renal dysfunction. Echinocandins are the newest class of antifungal drugs. They act by inhibiting the synthesis of B-glucan, an essential constituent of the fungal cell wall. Their antifungal spectrum is limited to Candida and Aspergillus species. Echinocandins are approved for treatment of mucocutaneous or disseminated candidiasis. A See correct answer explanation. C, D Piperacillin and metronidazole are not antifungal drugs. E Though an antifungal drug, griseofulvin is not effective against C. albicans.",
+   "source": "Pharmacology VIII-5 Q12",
+   "topic": "Medium",
+   "topic_n": 2
+  },
+  {
+   "question": "A 37-year-old woman suffering from AIDS was recently diagnosed with systemic candidiasis, and an intravenous antifungal treatment was prescribed. One week later, the following lab results were obtained: serum creatinine 5.9 mg/dL (normal: 0.6-1.2 mg/dL), blood urea nitrogen (BUN) 53 mg/dL (normal 7-18 mg/dL), plasma potassium 2.3 mmol/L (normal 3.5-5.0 mmol/L). Which of the following drugs most likely caused these abnormal lab results?",
+   "choices": [
+    "Flucytosine",
+    "Fluconazole",
+    "Griseofulvin",
+    "Amphotericin B",
+    "Tobramycin",
+    "Cyclosporine"
+   ],
+   "answer": 3,
+   "explanation": "The lab results indicate that the patient was suffering from renal insufficiency. Amphotericin B is the drug of choice for many systemic mycoses, but it can cause serious, dose-dependent renal dysfunction due to direct damage of renal tubules. Azotemia, renal tubular acidosis, and Kt wasting are the most prominent symptoms. B-D These antifungal drugs do not cause renal toxicity. E, F These agents are nephrotoxic but are not antifungal drugs.",
+   "source": "Pharmacology VIII-5 Q13",
+   "topic": "Easy",
+   "topic_n": 9
+  },
+  {
+   "question": "A 29-year-old man presented to his physician with an annular lesion with raised borders on his left hand. Microscopic examination of skin scrapings revealed branching hyphae. The diagnosis of tinea manus was made, and the patient was prescribed terbinafine. Which of the following skin structures was most likely the site of action of the prescribed drug?",
+   "choices": [
+    "Stratum corneum",
+    "Stratum basale",
+    "Pigment layer",
+    "Hair shaft",
+    "Stratum spinosum",
+    "Hair follicle"
+   ],
+   "answer": 0,
+   "explanation": "Tinea manus is a cutaneous mycosis caused by dermatophytes that infect only the superficial, keratinized tissues. These fungi are probably restricted to the nonviable, keratinized tissues (stratum corneum, hairs, nails) because most are unable to grow at 37°C (98.6°F). Dermatophytoses can be treated locally with several antifungal drugs, but a first-line agent for systemic treatment is terbinafine. The drug has good oral bioavailability and is deposited in newly formed keratinized tissues, where it exerts its antifungal action. A, B, D, E See correct answer explanation. F Terbinafine can be deposited in the hair shaft, where it can cure tinea capitis, but in this case, the fungus is in the skin’s stratum corneum, not in the hair.",
+   "source": "Pharmacology VIII-5 Q14",
+   "topic": "Easy",
+   "topic_n": 10
+  },
+  {
+   "question": "A 9-year-old girl was brought to the pediatrician by her mother because the girl had several small hairless patches on her scalp. Upon close physical examination, patches looking like black dots were seen on the skin surface. Microscopic examination revealed a dense sheath of spores around the hair. Which of the following drugs given orally would be appropriate for this patient?",
+   "choices": [
+    "Acyclovir",
+    "Metronidazole",
+    "Terbinafine",
+    "Amphotericin B",
+    "Vancomycin",
+    "Flucytosine"
+   ],
+   "answer": 2,
+   "explanation": "The microscopic examination of the hair suggests the diagnosis of “black dots” tinea capitis, a skin mycosis caused by T. tonsurans. Cutaneous mycoses are caused by fungi (mainly dermatophytes) that infect only the superficial keratinized tissues. Dermatophytes are sensitive to terbinafine, antifungal azoles, griseofulvin, and amphotericin B, but the first two are agents of choice in cutaneous mycoses because they are deposited in newly forming skin, where they bind to keratin, protecting the skin from the infection. Griseofulvin is less frequently used today because of its toxicity. A, B, D These agents are not antifungal drugs. E Amphotericin B is only used topically for cutaneous mycoses. F Flucytosine is a systemic antifungal drug but is not effective against dermatophytes.",
+   "source": "Pharmacology VIII-5 Q15",
+   "topic": "Medium",
+   "topic_n": 3
+  },
+  {
+   "question": "A 34-year-old man with AIDS was admitted to the hospital because of fever (103.7°F, 39.8°C), severe headache, and mental confusion. Further exams led to the diagnosis of cryptococcal meningitis. An intravenous (IV) dose of hydrocortisone was administered, then an antibiotic therapy was started that included an IV infusion of amphotericin B. Hydrocortisone was most likely given to decrease which of the following drug-related adverse effects?",
+   "choices": [
+    "Red man syndrome",
+    "Hepatotoxicity",
+    "Nephrotoxicity",
+    "Hemolytic anemia",
+    "Exfoliative dermatitis",
+    "Infusion reaction"
+   ],
+   "answer": 5,
+   "explanation": "The intravenous administration of amphotericin B can cause an infusion reaction with fever, chills, muscle spasms, headache, vomiting, and hypotension. Premedication with nonsteroidal antiinflammatory drugs, antihistamines, or glucocorticoids can alleviate the syndrome. The cause of this reaction is still uncertain, but histamine and prostaglandin release seems to be involved. A-C, E, F See correct answer explanation. pharmacological therapy of geni",
+   "source": "Pharmacology VIII-5 Q16",
+   "topic": "Easy",
+   "topic_n": 11
+  },
+  {
+   "question": "A 33-year-old woman presented to her gynecologist with a 4-day history of perineal pruritus and a nonmalodorous, thick, cheesy vaginal discharge. The only medication the woman was taking was an oral contraceptive. A wet preparation of vaginal secretion showed budding yeast cells and pseudohyphae. A diagnosis was made, and a local therapy was prescribed. Which of the following correctly pairs the most likely offending pathogen with the appropriate treatment?",
+   "choices": [
+    "C. albicans: terbinafine",
+    "Candida albicans: griseofulvin",
+    "C. albicans: nystatin",
+    "B. dermatitidis: nystatin",
+    "Blastomyces dermatitidis: caspofungin",
+    "B. dermatitidis: terbinafine"
+   ],
+   "answer": 2,
+   "explanation": "The patient’s symptoms common suffering from vulvovaginal candidiasis, the most Answers and Explanations: VIll-5 Antifungal Drugs 471 opportunistic mycosis of the genital tract in women taking oral contraceptives. Other predisposing factors are pregnancy, menstruation, diabetes mellitus, and use of broad-spectrum antibiotics, corticosteroids, or immunosuppressive drugs. Budding yeast cells and pseudohyphae of Candida albicans, the most common Candida species causing candidiasis, can be detected by microscopic examination of biologic specimens. Local therapy of vulvovaginal candidiasis includes azoles and nystatin. Cure rates for uncomplicated vulvovaginal candidiasis are 80 to 95% with topical or oral azoles and 70 to 90% with nystatin. A, B, D-F All of these mycoses are incorrectly paired with the appropriate therapeutic agent.",
+   "source": "Pharmacology VIII-5 Q17",
+   "topic": "Easy",
+   "topic_n": 12
+  },
+  {
+   "question": "A 34-year-old man presented with fever (103.5°F, 39.6°C), cough, increasing dyspnea, and bloody sputum. The man, suffering from a non-Hodgkin lymphoma, was in the hospital for the second cycle of chemotherapy. A chest x-ray disclosed diffuse alveolar infiltrates on the right lobe and multiple small cavitary lesions on the left lobe. Bronchoalveolar lavage revealed fungal forms typical of the Aspergillus genus. Which of the following drugs would be appropriate for this patient?",
+   "choices": [
+    "Nystatin",
+    "Terbinafine",
+    "Voriconazole",
+    "Griseofulvin",
+    "Flucytosine"
+   ],
+   "answer": 2,
+   "explanation": "Fungi of the genus Aspergillus usually coexist with man in harmless symbiosis. In special circumstances, however, some species may play an opportunistic role in producing disease in humans. Patients with chemotherapy-induced neutropenia or impaired immune responses from any cause are at high risk for invasive pulmonary aspergillosis, as in this case. Recent studies indicate that the isolation of aspergilli in bronchoalveolar lavage fluid correlates strongly with histologic evidence of parenchymal invasion. The disease must be treated aggressively with amphotericin B or voriconazole, which most experts now consider a first-line agent. Despite treatment, the mortality rate remains high (30-90%). A Flucytosine is effective in vitro against Aspergillus species but is not clinically effective in case of invasive aspergillosis. B, C These antifungal drugs are not effective against Aspergillus species. E Nystatin is too toxic for parenteral administration and is only used topically.",
+   "source": "Pharmacology VIII-5 Q18",
+   "topic": "Medium",
+   "topic_n": 4
+  },
+  {
+   "question": "A 63-year-old woman recently diagnosed with onychomycosis started a treatment with terbinafine. Inhibition of which of the following enzymes most likely mediated the therapeutic effect of the drug in the patient's disease?",
+   "choices": [
+    "Lanosterol synthetase",
+    "Thymidylate synthase",
+    "7α-hydroxylase",
+    "Squalene epoxidase",
+    "Transpeptidase"
+   ],
+   "answer": 3,
+   "explanation": "Terbinafine is an antifungal drug that inhibits fungal squalene epoxidase, the enzyme that catalyzes the conversion of lanosterol into ergosterol. The inhibition leads to the accumulation of squalene, which is toxic to dermatophytes. The drug is deposited in keratinized tissue and is used in the treatment of dermatophytoses, mainly onychomycosis. The drug is fungicidal and is therefore more effective than griseofulvin, which is fungistatic. A, B, D, E See correct answer explanation.",
+   "source": "Pharmacology VIII-5 Q19",
+   "topic": "Easy",
+   "topic_n": 13
+  },
+  {
+   "question": "A 36-year-old HIV-positive man living near the Mississippi River was admitted to the hospital with a 3-week history of cough, productive yellow sputum, and progressive dyspnea of exertion, as well as a 14-lb (6.4-kg) weight loss. Physical examination disclosed prominent hepatosplenomegaly and diffuse lymphadenopathy. Pertinent lab results on admission were CD4+ lymphocyte count 320 cells/mm3 (normal > 500 cells/mm3), lactate dehydrogenase 5000 IU/L (normal < 600 IU/L). A blood stain showed neutrophils containing small uninucleated, encapsulated microorganisms. A diagnosis was made, and an appropriate pharmacotherapy was started. Which of the following drugs would be most appropriate for this patient?",
+   "choices": [
+    "Terbinafine",
+    "Isoniazid",
+    "Streptomycin",
+    "Amphotericin B",
+    "Nystatin"
+   ],
+   "answer": 3,
+   "explanation": "The fact that uninucleated, encapsulated microorganisms are found intracellularly suggests an infection with Histoplasma capsulatum. Other intracellular microorganisms are either multinucleate, such as blastomyces, or not encapsulated, such as the intracellular stage of several pathogenic protozoa. Infection with H. capsulatum is extremely common. In the vast majority of cases, it is subclinical, or it may manifest itself as a mild, self-limited pneumonia. Progressive disseminated histoplasmosis usually occurs in people with suppressed cell-mediated immunity, especially if they are from endemic areas (Mississippi River valleys and the Caribbean basin), as in this case. Most laboratory findings are nonspecific, but the lactate dehydrogenase level can reach 10 times above normal. Progressive disseminated histoplasmosis has a high fatality rate. Amphotericin B remains the first-line agent, but mild cases can be treated initially with parenteral azoles. B-E See correct answer explanation.",
+   "source": "Pharmacology VIII-5 Q20",
+   "topic": "Medium",
+   "topic_n": 5
+  },
+  {
+   "question": "A 45-year-old farmer complained to his physician of a red itchy rash over his thorax and arms. One week earlier, the man had been diagnosed with a fungal infection on his face and started an appropriate drug treatment. After physical examination, the physician told the patient that the rash was most likely a photosensitivity reaction to the drug. Which of the following drugs most likely caused the adverse effect in this patient?",
+   "choices": [
+    "Caspofungin",
+    "Amphotericin B",
+    "Ciprofloxacin",
+    "Griseofulvin",
+    "Doxycycline",
+    "Flucytosine"
+   ],
+   "answer": 3,
+   "explanation": "The location of the fungal infection suggests that the patient was most likely suffering from tinea barbae, a dermatophytosis most often caused by fungi of the Trichophyton genus. Griseofulvin and terbinafine are the agents of choice. Griseofulvin can cause both a phototoxic and a photoallergic reaction in sun-exposed areas. Other antifungal drugs that can cause photosensitivity effects are antifungal azoles. A-C These antifungal drugs are not effective against dermatophytosis, and they do not cause photosensitivity. E, F These antibiotics can cause photosensitivity but are not effective against fungal infections.",
+   "source": "Pharmacology VIII-5 Q21",
+   "topic": "Easy",
+   "topic_n": 14
+  },
+  {
+   "question": "A 42-year-old HIV-positive woman was admitted to the emergency department with the admitting diagnosis of pneumonia. Further exams led to the diagnosis of cryptococcal pneumonia, and a treatment with liposomal amphotericin B was started. Which of the following best explains the primary advantage of liposomal preparations over the regular colloidal suspension of amphotericin B?",
+   "choices": [
+    "Increased oral bioavailability",
+    "Decreased interactions with other drugs",
+    "Decreased drug clearance",
+    "Decreased systemic toxicity",
+    "Increased antifungal activity spectrum"
+   ],
+   "answer": 3,
+   "explanation": "In liposomal preparations of amphotericin B, the drug is contained inside lipid delivery vehicles. The drug binds to the lipids of these vehicles with an affinity that is lower than that for fungal ergosterol but higher than that for human cholesterol. Thus, the drug is more likely to be delivered to fungi than to human cells. Moreover, some fungi contain lipases that can liberate free amphotericin B directly at the site of infection. Therefore, the liposomal preparations allow a reduction of toxicity; that is, they improve the therapeutic index of the drug. However, although laboratory experiments found very large differences between the lethal dose of liposomal formulations and those of regular formulations, the clinical improvement obtained with the liposomal vehicles is, at best, moderate. A Decreased interactions with other drugs could occur, but this is not the main advantage of liposomal preparations. B Amphotericin B is the active molecule, and the antifungal activity spectrum is the same. D The clearance of liposomal preparations can be decreased or increased, but this is not the reason for their advantage over the regular preparation. E Intestinal absorption of all amphotericin B formulations is negligible.",
+   "source": "Pharmacology VIII-5 Q22",
+   "topic": "Medium",
+   "topic_n": 6
+  },
+  {
+   "question": "A 34-year-old man with AIDS was admitted to the emergency department and diagnosed with severe invasive candidiasis. He was initially treated with an antifungal drug to rapidly reduce fungal burden, and the drug was then replaced with another agent for chronic therapy. Which of the following pairs of drugs were most likely given?",
+   "choices": [
+    "Caspofungin and terbinafine",
+    "Amphotericin B and mebendazole",
+    "Caspofungin and metronidazole",
+    "Amphotericin B and fluconazole",
+    "Amphotericin B and terbinafine",
+    "Caspofungin and griseofulvin"
+   ],
+   "answer": 3,
+   "explanation": "Because of its broad spectrum of fungicidal activity, amphotericin B remains the first-line agent for nearly all severe fungal infections. Due to toxicity, the drug is often used initially to rapidly reduce fungal load and then is replaced by another less toxic antifungal agent, as in this case. A-C, E, F All of these pairs include at least one drug that is not effective against systemic candidiasis.",
+   "source": "Pharmacology VIII-5 Q23",
+   "topic": "Medium",
+   "topic_n": 7
+  },
+  {
+   "question": "A 45-year-old woman with AIDS had been receiving fluconazole for an esophageal Candida infection. The therapy was initially effective, but over time its efficacy decreased, and the physician thought that development of resistance had occurred. Which of the following was most likely the mechanism of fungal resistance to fluconazole in this patient?",
+   "choices": [
+    "Decreased fungal permeability to the drug",
+    "Gene-induced changes in fungal topoisomerase II",
+    "Decreased activity of fungal multiefflux pump",
+    "Gene-induced changes in fungal cytochrome P-450 enzymes",
+    "Gene-induced changes in fungal RNA polymerase",
+    "Increased fungal metabolism of the drug"
+   ],
+   "answer": 3,
+   "explanation": "Fungal resistance to drugs in the azole class tends to occur gradually over the course of prolonged drug therapy. In Candida infections, resistance occurs by way of mutations in the gene that encodes for an enzyme of the P-450 system. These mutations prevent the azole drug from binding and inhibiting the enzyme. Development of resistance to one azole in this way confers resistance to all drugs in the class. A, B, D-F These actions are not involved in the fungal resistance to fluconazole.",
+   "source": "Pharmacology VIII-5 Q24",
+   "topic": "Easy",
+   "topic_n": 15
+  }
+ ]
+}

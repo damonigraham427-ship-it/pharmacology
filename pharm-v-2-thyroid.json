@@ -1,0 +1,463 @@
+{
+ "questions": [
+  {
+   "question": "This drug is a target for thyroid deiodinase.",
+   "choices": [
+    "Methimazole",
+    "Radioactive iodine",
+    "Liothyronine",
+    "Potassium iodide",
+    "Propylthiouracil",
+    "Levothyroxine"
+   ],
+   "answer": 5,
+   "explanation": "Matching item. The printed answer key gives A — Levothyroxine.",
+   "source": "Pharmacology V-2 Q1",
+   "topic": "Easy",
+   "topic_n": 1
+  },
+  {
+   "question": "This drug causes thyroid cell necrosis.",
+   "choices": [
+    "Levothyroxine",
+    "Liothyronine",
+    "Potassium iodide",
+    "Methimazole",
+    "Radioactive iodine",
+    "Propylthiouracil"
+   ],
+   "answer": 4,
+   "explanation": "Matching item. The printed answer key gives F — Radioactive iodine.",
+   "source": "Pharmacology V-2 Q2",
+   "topic": "Easy",
+   "topic_n": 2
+  },
+  {
+   "question": "This drug acts mainly by inhibiting hormone release from the thyroid gland.",
+   "choices": [
+    "Propylthiouracil",
+    "Potassium iodide",
+    "Liothyronine",
+    "Radioactive iodine",
+    "Levothyroxine",
+    "Methimazole"
+   ],
+   "answer": 1,
+   "explanation": "Matching item. The printed answer key gives D — Potassium iodide.",
+   "source": "Pharmacology V-2 Q3",
+   "topic": "Easy",
+   "topic_n": 3
+  },
+  {
+   "question": "A 64-year-old woman was admitted to the emergency department with the admitting diagnosis of myxedema coma. An emergency treatment was started that included an intravenous injection of triiodothyronine (T3) every 6 hours for 2 days. Which of the following were most likely the patient's serum levels of free thyroxine (FT4) and thyroid-stimulating hormone (TSH, thyrotropin) after 2 days of therapy?",
+   "choices": [
+    "FT4 low, TSH high",
+    "FT4 high, TSH low",
+    "FT4 high, TSH high",
+    "FT4 low, TSH low"
+   ],
+   "answer": 3,
+   "explanation": "Myxedema coma is a rare but serious consequence of long-standing uncorrected hypothyroidism. Despite aggressive therapy with large doses of thyroid hormones, mortality rates of 60 to 70% are common. Whether levothyroxine or triiodothyronine (T3) is the drug of choice in myxedema coma is controversial. Although triiodothyronine is potentially more cardiotoxic, it is sometimes preferred because its more rapid onset can reverse coma faster and because deiodinase activity is markedly reduced in myxedema, thus impairing conversion of T4 to T3. In this patient, after a few days of triiodothyronine therapy, serum T4 levels are low because of the disease, and thyrotropin (TSH) levels are low because of triiodothyronine negative feedback. A-C See correct answer explanation.",
+   "source": "Pharmacology V-2 Q4",
+   "topic": "Medium",
+   "topic_n": 1
+  },
+  {
+   "question": "A 2-year-old boy was brought to the emergency department because of fever, irritability, increased lethargy, and multiple episodes of diarrhea. The mother reported that she found her levothyroxine bottle empty a few hours earlier. Vital signs of the boy were blood pressure 130/80 mm Hg, heart rate 180 bpm, respirations 26/min. Laboratory test results on admission showed a total triiodothyronine level of 472 ng/dL (normal: 40-130 ng/dL). An appropriate emergency therapy was planned. Which of the following drugs should be administered first to control hormone-related effects that could be rapidly lethal in this patient?",
+   "choices": [
+    "Propylthiouracil",
+    "Radioactive iodine",
+    "Propranolol",
+    "Potassium iodide",
+    "Betamethasone"
+   ],
+   "answer": 2,
+   "explanation": "The patient's symptoms and the lab results indicated that he was suffering from drug-induced severe hyperthyroidism. A leading cause of death in thyroid hormone excess is related to the cardiovascular effects that can cause arrhythmias and acute myocardial ischemia due mainly to thyroid hormone-induced increased sensitivity of the sympathetic nervous system. Administration of a B-blocker can promptly counteract cardiovascular symptoms and may be lifesaving. A, C, D All of these drugs are used in severe thyroid hormone excess from any cause, but the administration of a B-blocker must be done first. E Radioactive iodine is not an emergency therapy.",
+   "source": "Pharmacology V-2 Q5",
+   "topic": "Easy",
+   "topic_n": 4
+  },
+  {
+   "question": "A 50-year-old woman who underwent thyroid ablation with radioactive iodine had been taking levothyroxine as replacement therapy. Which of the following best represents the percentage of drug bound to plasma proteins in this patient?",
+   "choices": [
+    "75.0%",
+    "50.72%",
+    "30.57%",
+    "99.96%",
+    "10.5%"
+   ],
+   "answer": 3,
+   "explanation": "Most circulating T4 and T3 are bound to plasma proteins (about 75% to thyroxine-binding globulin, the rest to prealbumin and albumin). Only 0.4% T3 and 0.04% T4 are free. Therefore, the bound hormones represent a huge reservoir, which explains why, in a person with the thyroid gland destroyed by radioactive iodine, it takes 3 months to 1 year after radioactive treatment before hypothyroidism occurs, even though radioactive iodine disrupts hormone synthesis in a few days. A-D See correct answer explanation.",
+   "source": "Pharmacology V-2 Q6",
+   "topic": "Medium",
+   "topic_n": 2
+  },
+  {
+   "question": "A few days after a normal delivery, a newborn baby boy became lethargic, had respiratory difficulties and a hoarse cry, and sucked poorly. Physical examination revealed large fontanelles, macroglossia, a distended abdomen, cyanotic skin, hypotonia, slow reflexes, and rectal temperature of 95°F (35°C). Which of the following drugs would be appropriate for this baby?",
+   "choices": [
+    "Somatrem",
+    "Prednisone",
+    "Methimazole",
+    "Theophylline",
+    "Potassium iodide",
+    "Levothyroxine"
+   ],
+   "answer": 5,
+   "explanation": "The signs and symptoms of the baby suggest that he is suffering from neonatal hypothyroidism, which occurs in about 1/4000 live births. The most frequent cause is congenital absence of the thyroid gland, which requires lifelong therapy. Treatment with levothyroxine must be started immediately and closely monitored. A, B, D-F See correct answer explanation.",
+   "source": "Pharmacology V-2 Q7",
+   "topic": "Medium",
+   "topic_n": 3
+  },
+  {
+   "question": "A 51-year-old woman suffering from chronic asthma was admitted to the hospital with nausea and vomiting, extreme restlessness, insomnia, tremor, mental confusion, and fever (103.1°F, 39.5°C). After her sister died a few days ago, she experienced increased hunger, dyspnea on exertion, palpitations, and diarrhea. Laboratory data on admission included a free thyroxine (FT4) level of 11 ng/dL (normal 0.9-2.0 ng/dL) and undetectable thyroid-stimulating hormone (TSH, thyrotropin) levels. Which of the following drugs should be included in the emergency treatment of the patient?",
+   "choices": [
+    "Propranolol",
+    "Aspirin",
+    "Diltiazem",
+    "Triiodothyronine",
+    "Danazol",
+    "Radioactive iodine"
+   ],
+   "answer": 2,
+   "explanation": "The signs and symptoms of the patient and the lab exams indicate that she is suffering from thyroid storm, a life-threatening syndrome characterized by the abrupt onset of the more florid symptoms of hyperthyroidism. An emergency treatment is mandatory and usually includes propranolol to control hypertension and tachycardia. When propranolol is contraindicated, as in this case, calcium channel blockers with cardiac activity (diltiazem or verapamil) can be used. B Radioactive iodine can be used for the long-term management of the disease but is not a drug for the emergency treatment of thyroid storm. C-F See correct answer explanation.",
+   "source": "Pharmacology V-2 Q8",
+   "topic": "Hard",
+   "topic_n": 1
+  },
+  {
+   "question": "A 30-year-old woman who was 1 month pregnant complained to her physician of swelling of the eyelids and increasing lid aperture. Subsequent blood tests gave the following results: free thyroxine (FT4) 3.3 ng/dL (normal 0.9-2.0 ng/dL), thyroid-stimulating hormone (TSH, thyrotropin) < 0.01 mU/L (normal 0.5-5.0 mU/L). Treatment with which of the following drugs would be appropriate for this patient during the first trimester of pregnancy?",
+   "choices": [
+    "Propylthiouracil",
+    "Radioactive iodine",
+    "Methyldopa",
+    "Potassium iodide",
+    "Octreotide",
+    "Esmolol"
+   ],
+   "answer": 0,
+   "explanation": "The patient's FT4 (free thyroxine) and TSH (thyrotropin) levels indicate that she was suffering from thyrotoxicosis. Either surgery or thioamide is the treatment of choice for hyperthyroidism in a pregnant patient. When antithyroid drug therapy must be used during pregnancy, propylthiouracil is the preferred thioamide during the first trimester because it crosses the placenta much less than methimazole does, and because a rare embryopathy was associated with methimazole. Subsequently, methimazole should be prescribed to avoid the rare but serious potential hepatic damage associated with propylthiouracil. A Radioactive iodine is contraindicated during pregnancy. B Octreotide is a somatostatin analogue. It is used only in rare cases of hyperthyroidism due to a pituitary adenoma secreting TSH (thyrotropinoma). This is not the case in this patient, as TSH was very low. C Iodine compounds are not used for routine treatment of hyperthyroidism. Low doses of iodine have been used in pregnancy, but only when all other approaches are contraindicated. D Methyldopa is used during pregnancy only in hypertensive patients. F Beta-blockers are used in hyperthyroidism, but esmolol has a very short half-life and therefore is not suited for chronic use.",
+   "source": "Pharmacology V-2 Q9",
+   "topic": "Medium",
+   "topic_n": 4
+  },
+  {
+   "question": "A 53-year-old woman suffering from thyrotoxicosis underwent thyroid ablation with radioactive iodine. Three weeks later, she started a therapy with levothyroxine. Which of the following best describes the molecular mechanism of action of this drug?",
+   "choices": [
+    "Agonist at thyroid hormone (TH) receptors",
+    "Antagonist at TSH receptors",
+    "Antagonist at TRH receptors",
+    "Antagonist at TH receptors",
+    "Agonist at thyroid-stimulating hormone (TSH) receptors",
+    "Agonist at thyrotropin-releasing hormone (TRH) receptors"
+   ],
+   "answer": 0,
+   "explanation": "Levothyroxine (T4) can activate a specific thyroid hormone (TH) receptor that is located in the nucleus of most body cells. This action in turn leads to activation or repression of transcription of specific genes, which ultimately mediate excitatory or inhibitory responses. A, E By definition, an agonist is a drug that binds to a receptor and activates it. Levothyroxine does not activate thyroid-stimulating hormone (TSH) or thyrotropin-releasing (TRH) receptors. B, D, F By definition, a receptor antagonist is a drug that binds to a receptor and blocks receptor actions. Levothyroxine does not block TH, TSH, or TRH receptors.",
+   "source": "Pharmacology V-2 Q10",
+   "topic": "Easy",
+   "topic_n": 5
+  },
+  {
+   "question": "A 50-year-old woman who underwent thyroid ablation with radioactive iodine started treatment with levothyroxine. Which of the following cell elements represent the main site of therapeutic action of the drug?",
+   "choices": [
+    "Smooth endoplasmic reticulum",
+    "Golgi apparatus",
+    "Cell nucleus",
+    "Mitochondria",
+    "Cell membrane",
+    "Lysosomes"
+   ],
+   "answer": 2,
+   "explanation": "Thyroid hormones are transported into the target cells by a specific transport system. Within the cytoplasm, levothyroxine (T4) is converted to T3 and moves into the nucleus, where it binds to the thyroid receptor. The binding displaces a bound corepressor and binds a coactivator to the receptor complex. The receptor-coactivator complex modulates gene transcription. A-C, E, F See correct answer explanation.",
+   "source": "Pharmacology V-2 Q11",
+   "topic": "Easy",
+   "topic_n": 6
+  },
+  {
+   "question": "A 53-year-old woman recently diagnosed with hyperthyroidism started an appropriate treatment. One month later, the following laboratory values were obtained: Red blood cell count (RBC): 4.6 x 10^6/mm3 (normal 4.0-5.5 x 10^6/mm3); White blood cell count (WBC): 0.6 x 10^3/mm3 (normal 3.2-9.8 x 10^3/mm3); Platelets 180 x 10^3/mm3 (normal 140-400 x 10^3/mm3). Which of the following drugs most likely caused these results?",
+   "choices": [
+    "Radioactive iodine",
+    "Levothyroxine",
+    "Methimazole",
+    "Propranolol",
+    "Potassium iodide"
+   ],
+   "answer": 2,
+   "explanation": "The patient's very low white blood cell count indicates that she was suffering from agranulocytosis, a potentially lethal adverse effect of thioamide antithyroid drugs, such as methimazole and propylthiouracil. Agranulocytosis occurs in 0.3 to 0.6% of patients treated with these drugs, but the risk is increased in older patients. The mechanism of agranulocytosis is still unknown, and both allergic and toxic-type reactions have been suggested. The disease is usually rapidly reversible if the drug is promptly discontinued, and colony-stimulating factors may hasten the recovery of granulocytes. A, B, D, E These drugs have a negligible risk of agranulocytosis.",
+   "source": "Pharmacology V-2 Q12",
+   "topic": "Easy",
+   "topic_n": 7
+  },
+  {
+   "question": "A 33-year-old woman was admitted to the hospital because of anorexia, malaise, jaundice, and right upper quadrant abdominal pain for the past 2 days. The woman, who was 2 months' pregnant, was diagnosed with hyperthyroidism 1 month ago and started an appropriate therapy. Pertinent lab results on admission included alanine aminotransferase of 410 U/L (normal 20-40 U/L). Which of the following drugs most likely caused the patient's disorder?",
+   "choices": [
+    "Propranolol",
+    "Potassium iodide",
+    "Propylthiouracil",
+    "Radioactive iodine",
+    "Methimazole"
+   ],
+   "answer": 2,
+   "explanation": "The patient's history, signs, and symptoms suggest that she was most likely suffering from propylthiouracil-induced toxic hepatitis. More than 900 drugs have been implicated in causing liver injury, but propylthiouracil, isoniazid, halothane, valproate, and certain antipyretics (acetaminophen, diclofenac, and indomethacin) are among the drugs most frequently involved in acute hepatocellular toxicity. Propylthiouracil-induced toxic hepatitis occurs in about 1% of treated patients, is always severe, and can be lethal. The U.S. Food and Drug Administration has added a black box warning to the label of propylthiouracil. A Methimazole-induced liver injury is extremely rare. In addition, propylthiouracil is preferred over methimazole in the first trimester of pregnancy because it crosses the placenta much less than methimazole. B, D, E Liver injury with these drugs is negligible.",
+   "source": "Pharmacology V-2 Q13",
+   "topic": "Medium",
+   "topic_n": 5
+  },
+  {
+   "question": "A 40-year-old man complained to his physician of increased appetite, palpitations, and diarrhea. Laboratory results confirmed the diagnosis of mild hyperthyroidism, and a treatment with methimazole was started. Which of the following actions most likely contributed to the therapeutic efficacy of the drug in this patient?",
+   "choices": [
+    "Stimulation of thyroid peroxidase",
+    "Proteolysis of thyroglobulin",
+    "Inhibition of iodination of tyrosine residues",
+    "Accumulation of iodine into thyroglobulin",
+    "Blockade of iodine uptake by the thyroid gland"
+   ],
+   "answer": 2,
+   "explanation": "Methimazole and propylthiouracil are thioamides used as antithyroid agents. These drugs inhibit thyroid peroxidase, the enzyme that catalyzes the following three steps in thyroid hormone biosynthesis: * Oxidation of iodide to iodine * Iodination of tyrosine residues within thyroglobulin (iodide organification) * Combination of two diiodotyrosines (DITs), leading to T4 and combination of monoiodotyrosine (MIT) and DIT, which leads to T3. By blocking the enzyme, the synthesis of thyroid hormones is blocked. In addition, propylthiouracil and, to a lesser extent, methimazole inhibit the peripheral deiodination of T4 and T3. A-D See correct answer explanation.",
+   "source": "Pharmacology V-2 Q14",
+   "topic": "Easy",
+   "topic_n": 8
+  },
+  {
+   "question": "A 59-year-old woman complained to her physician of insomnia. The woman had undergone radioiodine treatment for thyroid ablation 6 months earlier and started replacement therapy with levothyroxine. Further questioning revealed that she had recently increased her daily drug dose because she felt fatigued and sad. A lab test showed thyroid-stimulating hormone (TSH) 0.1 mU/L (normal 0.5-5.0 mU/L) and free thyroxine (FT4) 2.4 ng/dL (normal 0.8-2.7 ng/dL). Which of the following signs and symptoms most likely occurred in this patient after the inappropriate increase of the drug dose?",
+   "choices": [
+    "Fluid retention",
+    "Anorexia",
+    "Decreased body temperature",
+    "Decreased heart rate",
+    "Decreased diastolic pressure",
+    "Constipation"
+   ],
+   "answer": 4,
+   "explanation": "The patient's history and the low thyroid-stimulating hormone (TSH) value indicate that the patient was suffering from subclinical hyperthyroidism, which is defined as a low level of TSH in conjunction with normal thyroid hormone levels. The disorder can occur in many patients taking levothyroxine because of inappropriate adjustment of the daily hormone dose. Patients with subclinical hyperthyroidism are usually asymptomatic or present only a few specific symptoms (i.e., insomnia), as in this case. An excess of thyroid hormones can cause significant alteration in cardiovascular function. At rest, peripheral vascular resistance is decreased, which explains the decreased diastolic pressure, whereas systolic pressure is increased due to increased heart rate and cardiac output. A, B, D-F Levothyroxine excess tends to cause effects opposite to those listed.",
+   "source": "Pharmacology V-2 Q15",
+   "topic": "Hard",
+   "topic_n": 2
+  },
+  {
+   "question": "A 67-year-old woman complained to her physician that for the past few days she had experienced restlessness and frequent runs of tachycardia. The woman had undergone thyroid ablation 7 months earlier and started replacement therapy with levothyroxine. Further exams led to the diagnosis of hyperthyroidism, most probably due to excessive self-dosage of the drug. Which of the following disorders most likely caused the patient's tachycardia?",
+   "choices": [
+    "Mitral stenosis",
+    "Atrial fibrillation",
+    "Hypertrophic cardiomyopathy",
+    "Constrictive pericarditis",
+    "Mitral regurgitation"
+   ],
+   "answer": 1,
+   "explanation": "Atrial fibrillation is the most common cardiac complication of hyperthyroidism, affecting 10 to 25% of hyperthyroid patients. The disorder seems to be due, at least in part, to hyperthyroidism-induced increased sensitivity of the autonomic nervous system. Both sympathetic and parasympathetic impulses can increase automaticity and conduction in atrial myocytes, thus triggering atrial fibrillation. Because it is known that cardiac fibrosis (which increases with age) is the most common cause of atrial fibrillation, the disorder is seen more frequently in elderly hyperthyroid patients, as in this case. A, C-E All of these disorders can cause tachyarrhythmias, but they are very rarely associated with hyperthyroidism.",
+   "source": "Pharmacology V-2 Q16",
+   "topic": "Hard",
+   "topic_n": 3
+  },
+  {
+   "question": "A 44-year-old woman recently diagnosed with Graves disease started a therapy with methimazole. Inhibition of which of the following enzymes most likely mediated the therapeutic effect of the drug in the patient's disease?",
+   "choices": [
+    "Topoisomerase I",
+    "Thyroid peroxidase",
+    "Thyroid aldolase",
+    "Thyroid monodeiodinase",
+    "Thyroid protease"
+   ],
+   "answer": 1,
+   "explanation": "Thioamides such as methimazole inhibit thyroid peroxidase, the enzyme that oxidizes iodide to a reactive intermediate that couples with tyrosine in the initial step of thyroid hormone synthesis (iodide organification). The enzyme also catalyzes monoiodotyrosine and diiodotyrosine coupling to form T4 and T3 A This enzyme catalyzes the proteolysis of thyroglobulin. B This enzymes catalyzes the relaxation of supercoiled DNA. C This enzyme converts some T4 into T3 in the follicular cell. E This enzyme is a glycolytic enzyme found mainly in thyroid tumors.",
+   "source": "Pharmacology V-2 Q17",
+   "topic": "Easy",
+   "topic_n": 9
+  },
+  {
+   "question": "A 60-year-old alcoholic woman was brought to the emergency department after a car accident. Medical history of the patient was significant for hepatic cirrhosis and hypothyroidism. Although she had been advised repeatedly to take her thyroxine regularly, she continued to take it sporadically. Physical examination showed a distressed patient complaining of severe pain in both legs. An intramuscular injection of morphine sulphate was given to allay pain. Soon after the injection, the patient showed disorientation, lethargy, and shallow breathing, followed by unconsciousness. Her temperature was 93°F (30°C). Which of the following drugs should be included in the emergency therapy of this patient?",
+   "choices": [
+    "IV triiodothyronine",
+    "Oral levothyroxine",
+    "Intravenous (IV) potassium iodide",
+    "Oral methimazole",
+    "Oral propylthiouracil"
+   ],
+   "answer": 0,
+   "explanation": "The signs and symptoms of the patient suggest she is affected by myxedema coma, a life-threatening complication of long-standing hypothyroidism. Factors that can precipitate the disorder are exposure to cold, illness, trauma, and drugs that are central nervous system depressants, as in this case. Emergency treatment is imperative, as the condition is rapidly fatal. A large dose of T4 (levothyroxine) or T3 (triiodothyronine) should be given intravenously. A, B, E These drugs are absolutely contraindicated in hypothyroidism. C T4 can be given, but the intravenous route is mandatory.",
+   "source": "Pharmacology V-2 Q18",
+   "topic": "Medium",
+   "topic_n": 6
+  },
+  {
+   "question": "A 45-year-old woman complained to her physician of cold intolerance and menstrual irregularities over the past 3 weeks. The woman, recently diagnosed with Graves disease, had started a treatment with methimazole 2 months earlier. The physician told the patient that her symptoms were most likely due to an excessive dose of methimazole. Which of the following effects could also occur as a result of an excessive dose of that drug?",
+   "choices": [
+    "Palpitations",
+    "Sweating",
+    "Tremor",
+    "Constipation",
+    "Insomnia"
+   ],
+   "answer": 3,
+   "explanation": "Thioamide antithyroid drugs such as methimazole are currently used to treat hyperthyroidism, but excessive doses of these drugs can shift a hyperthyroid patient to a hypothyroid one, as in this case. Constipation is a common symptom of hypothyroidism. A-D All of these are symptoms of hyperthyroidism and therefore unlikely after an excessive dose of methimazole.",
+   "source": "Pharmacology V-2 Q19",
+   "topic": "Easy",
+   "topic_n": 10
+  },
+  {
+   "question": "A 46-year-old man was taking levothyroxine as replacement therapy following radioactive iodine-induced thyroid ablation. Which of the following molecular actions most likely mediated the majority of therapeutic effects of the drug in this patient?",
+   "choices": [
+    "Increased plasma catecholamine levels",
+    "Alteration of transcription of specific genes",
+    "Decreased Na+/K+ ATPase activity",
+    "Inhibition of RNA activity",
+    "Inhibition of mitochondrial oxidative phosphorylation"
+   ],
+   "answer": 1,
+   "explanation": "Most of the effects of thyroid hormones appear to be mediated by activation of nuclear receptors that lead to activation or repression of transcription of specific genes. Large numbers of thyroid hormone receptors are found in most tissues. Although genomic actions of thyroid hormones predominate, nongenomic actions of thyroid hormones have also been observed, including enhancement of mitochondrial oxidative phosphorylation, as well as actions on ion channels, second messengers, and protein kinases. B-D Thyroid hormones have actions opposite to those listed. E Plasma catecholamine levels are not changed by thyroid hormones, but these hormones raise the sensitivity of tissues to the action of catecholamines.",
+   "source": "Pharmacology V-2 Q20",
+   "topic": "Easy",
+   "topic_n": 11
+  },
+  {
+   "question": "A 29-year-old woman complained to her physician of fatigue, constipation, and menstrual irregularities for the past 2 months. Physical examination showed delayed deep tendon reflexes, mild bradycardia, and a nontender, nodular thyroid goiter. A blood analysis showed thyroid peroxidase antibodies of 120 IU/L (normal < 0.8 IU/L). Which of the following drugs would be most appropriate for this patient?",
+   "choices": [
+    "Potassium iodide",
+    "Ethinyl estradiol",
+    "Methimazole",
+    "Radioactive iodine",
+    "Levothyroxine"
+   ],
+   "answer": 4,
+   "explanation": "The patient's signs and symptoms indicate that she was most likely suffering from hypothyroidism, and lab results confirmed that the disorder was due to Hashimoto thyroiditis. In most cases, high levels of antibodies to thyroid peroxidase are diagnostic for this disease. Hashimoto thyroiditis is likely the most common cause of hypothyroidism in North America. The treatment usually requires lifelong replacement therapy with thyroid hormones. A, B, D, E See correct answer explanation.",
+   "source": "Pharmacology V-2 Q21",
+   "topic": "Easy",
+   "topic_n": 12
+  },
+  {
+   "question": "A 50-year-old woman suffering from hyperthyroidism was admitted to the emergency department with the admitting diagnosis of thyroid storm. Further exams confirmed the diagnosis, and an emergency therapy was started that included propranolol and hydrocortisone. Which of the following pairs of drugs should also be added to the emergency treatment of this patient?",
+   "choices": [
+    "Radioactive iodine and dexamethasone",
+    "Propylthiouracil and potassium iodide",
+    "Aspirin and atenolol",
+    "Diltiazem and methimazole",
+    "Esmolol and verapamil"
+   ],
+   "answer": 1,
+   "explanation": "Thyroid storm (also called thyrotoxic crisis) is a life-threatening syndrome due to a sudden increase in all of the symptoms of hyperthyroidism. The management of thyroid storm must be aggressive and fast. Treatment includes four drugs: propylthiouracil (which blocks hormone synthesis and the peripheral conversion of T4 to T3), potassium iodide (which blocks hormone synthesis and inhibits the release of hormones from the thyroid gland), hydrocortisone (which protects the patient against shock and inhibits the peripheral conversion of T4 to T3), and propranolol (which antagonizes the severe cardiovascular manifestations of the syndrome). The treatment can restore the normal concentration of triiodothyronine in 24 to 48 hours. A, D Methimazole can be used (although propylthiouracil is a better choice, because methimazole does not block the conversion of T4 to T3), but diltiazem, atenolol, esmolol, and verapamil are useless, as the patient was receiving propranolol. B Because fever is almost always present in thyroid storm, antipyretics are indicated, but salicylates should be avoided because they compete with T4 and T3 for binding to thyroxine-binding globulin, thus increasing free hormone levels. C Radioactive iodine is contraindicated because it can increase thyroid hormone release from degenerating follicles in the first days after treatment. Dexamethasone is useless, as the patient was receiving a glucocorticoid.",
+   "source": "Pharmacology V-2 Q22",
+   "topic": "Hard",
+   "topic_n": 4
+  },
+  {
+   "question": "A 48-year-old man complained to his physician of a feeling of fullness in his neck. Physical examination showed diffuse enlargement of the thyroid gland without any apparent masses. Further exams led to the diagnosis of nontoxic goiter, most likely endemic because the man lived in an iodine-deficient country. Iodide supplementation was prescribed to provide sufficient iodide ions to the thyroid. These ions cross thyroid cell membranes by active transport. Which of the following is the primary transporter carrying iodide ions through the apical membrane of thyroid follicular cells?",
+   "choices": [
+    "Sulfate exchanger",
+    "Na+/K+ exchanger",
+    "Na+/Cl- symporter",
+    "Na+/iodine symporter",
+    "Cl-/iodide exchanger"
+   ],
+   "answer": 4,
+   "explanation": "Iodide ions are carried through the apical membrane of thyroid follicular cells by a secondary active Cl-/iodide antiporter called pendrin that exchanges one iodide ion with a chlorine ion. A, B, D, E See correct answer explanation.",
+   "source": "Pharmacology V-2 Q23",
+   "topic": "Easy",
+   "topic_n": 13
+  },
+  {
+   "question": "A 64-year-old man complained to his physician of constipation, cold intolerance, and abnormal sensations in his hands and feet. A blood test showed the following results: Free triiodothyronine (FT3) 0.02 ng/dL (normal 0.23-0.42 ng/dL); Free thyroxine (FT4) 0.2 ng/dL (normal 0.8-2.7 ng/dL); Thyroid-stimulating hormone (TSH) 0.1 mU/L (normal 0.5-5.0 mU/L). A computed tomography scan confirmed the diagnosis, and an appropriate therapy was planned. Which of the following was most likely the patient's disease?",
+   "choices": [
+    "Thyroid cancer",
+    "Graves disease",
+    "Pituitary tumor",
+    "Myxedema",
+    "Hashimoto thyroiditis"
+   ],
+   "answer": 2,
+   "explanation": "The low levels of both thyroid hormones and TSH indicate that the patient was suffering from secondary hypothyroidism, which occurs when the pituitary produces insufficient TSH or the hypothalamus produces insufficient thyrotropin-releasing hormone (TRH; this insufficiency is sometimes termed tertiary hypothyroidism). The fact that a computed tomography scan confirmed the diagnosis indicates that the patient's hypothyroidism was due to a pituitary tumor that caused TSH deficiency. A, C, E In Hashimoto thyroiditis, myxedema, or papillary thyroid cancer, TSH levels are usually high, not low. B In Graves disease, thyroid hormone levels are high, not low.",
+   "source": "Pharmacology V-2 Q24",
+   "topic": "Medium",
+   "topic_n": 7
+  },
+  {
+   "question": "A 24-year-old woman with Hashimoto thyroiditis was 6 weeks' pregnant. The only medication she was taking was levothyroxine. Laboratory test results showed free thyroxine (FT4) 0.6 ng/dL (normal 0.7-1.9 ng/dL) and thyroid-stimulating hormone (TSH) 4.8 mU/L (normal 0.5-5.0 mU/L). The physician decided to increase her daily dose of levothyroxine by about 30%. Which of the following best explains the primary reason for careful adjustment of the levothyroxine dose during pregnancy?",
+   "choices": [
+    "To control maternal weight gain",
+    "To counteract the TSH activity of human chorionic gonadotropin",
+    "To maintain normal fetal brain development",
+    "To avoid maternal myxedema coma",
+    "To avoid maternal preeclampsia"
+   ],
+   "answer": 2,
+   "explanation": "Congenital hypothyroidism, abnormal fetal development, and impaired cognitive development in the newborn have been attributed to maternal hypothyroidism. A delay in both mental and motor development was observed in children who were born to mothers with low circulating thyroid hormone levels but normal thyroid-stimulating hormone (TSH, thyrotropin) levels during the first trimester of pregnancy. This is because early development of the fetal brain depends on maternal levothyroxine. Most women with primary hypothyroidism will require about 30 to 50% increment in hormone dosage to maintain euthyroidism during pregnancy. Explanations for this increment include the pregnancy-induced increase in thyroid-binding proteins and an increased volume of distribution during pregnancy. A-C Maternal hypothyroidism can be associated with excessive weight gain, preeclampsia, or even myxedema coma, but these are very rare events, and to avoid these disorders is not the main reason for the increased dosage of thyroid hormone during pregnancy. E Human chorionic gonadotropin has significant TSH activity, but this has nothing to do with the reason for the increased dosage of thyroid hormone during pregnancy.",
+   "source": "Pharmacology V-2 Q25",
+   "topic": "Easy",
+   "topic_n": 14
+  },
+  {
+   "question": "A 43-year-old man was undergoing surgery to remove a very large nontoxic goiter, apparently due to iodide deficiency. A short course of potassium iodide was administered before surgery. Which of the following statements best explains why this drug was given to the patient?",
+   "choices": [
+    "To decrease the risk of hypothyroidism after surgery",
+    "To inhibit the excessive secretion of thyroid-stimulating hormone (TSH, T4) from the pituitary",
+    "To reduce the size and vascularity of the thyroid gland",
+    "To stimulate thyroid hormone synthesis before surgery",
+    "To overcome iodine deficiency after surgery"
+   ],
+   "answer": 2,
+   "explanation": "Potassium iodide is often used for the preoperative preparation of patients undergoing thyroidectomy because it decreases the vascularity and fragility of a hyperplastic gland. When there is chronic iodine deficiency, more iodine needs to go to the thyroid to maintain production of thyroid-stimulating hormone (TSH) at the required levels. To do this, the blood flow to the gland must be increased, and the thyroid cells must increase in number. These actions are promoted by TSH, whose production is increased, making the gland hyperplastic. When iodine supply is restored, the feedback mechanism is no longer needed, and vascularity and fragility of the gland decrease. There is convincing evidence of decreased thyroid blood flow from iodine treatment. However, whether this decrease results in any additional benefits at surgery is still controversial. A, B, D, E See correct answer explanation.",
+   "source": "Pharmacology V-2 Q26",
+   "topic": "Easy",
+   "topic_n": 15
+  },
+  {
+   "question": "A 57-year-old woman was admitted to the hospital with restlessness, insomnia, tremor, and pronounced exophthalmos. The woman, who had been suffering from Graves disease for 3 months, had been treated with propylthiouracil, but the drug had been discontinued a few days earlier because of the appearance of neutropenia. Which of the following agents would be most appropriate for the long-term management of the patient at this time?",
+   "choices": [
+    "Methimazole",
+    "Prednisone",
+    "Radioactive iodine",
+    "Potassium iodide",
+    "Propranolol"
+   ],
+   "answer": 2,
+   "explanation": "Treatment of hyperthyroidism includes antithyroid drugs, surgical thyroidectomy, or destruction of the gland with radioactive iodine. When antithyroid drugs are contraindicated, as in this case, or when the disease is severe, radioactive iodine is currently the treatment of choice. A Thioamide antithyroid drugs (propylthiouracil and methimazole) can cause neutropenia and agranulocytosis and are therefore contraindicated in this patient because of propylthiouracil-induced neutropenia. C-E These drugs can be used to control symptoms of hyperthyroidism but are not suitable for the long-term management of the disease.",
+   "source": "Pharmacology V-2 Q27",
+   "topic": "Medium",
+   "topic_n": 8
+  },
+  {
+   "question": "A 53-year-old woman who had undergone total thyroidectomy started replacement therapy with levothyroxine. Which of the following pharmacological properties best explains why the levo isomer of the hormone is currently used instead of a racemic mixture for replacement therapy in thyroid disorders?",
+   "choices": [
+    "Better gastrointestinal absorption",
+    "Longer half-life",
+    "Higher volume of distribution",
+    "Higher affinity for thyroid receptors",
+    "Less frequent adverse effects"
+   ],
+   "answer": 3,
+   "explanation": "The use of the levo isomer of thyroxine is an example of the stereo selectivity of drugs. More than one half of all useful drugs are chiral molecules. Chirality (also called stereoisomerism) means that drugs can exist as enantiomer pairs; that is, they have asymmetric centers. A racemic mixture is a mixture of these enantiomers. In most cases, one of these enantiomers (dextro or levo) has greater affinity for the receptors than its mirror image; it fits better to the receptor molecule. However, most studies of clinical efficacy of drugs have been carried out with racemic mixtures of the drug rather than with separate enantiomers. Therefore, only a small percentage of the chiral drugs used clinically are marketed as the active isomers. The receptor affinity of levothyroxine is about 25 times higher than that of dextrothyroxine, and this is the reason why the levo isomer is used clinically. A, B, D, E See correct answer explanation.",
+   "source": "Pharmacology V-2 Q28",
+   "topic": "Easy",
+   "topic_n": 16
+  },
+  {
+   "question": "A 50-year-old woman complained to her physician of sleepiness, fatigue, cold intolerance, weigh gain, and constipation. Medical history was significant for a reentrant supraventricular tachycardia presently treated with amiodarone and for type 2 diabetes presently treated with metformin. Further exams led to the diagnosis of mild hypothyroidism, and an adequate treatment was planned. Which of the following would be the most appropriate initial therapeutic step for this patient?",
+   "choices": [
+    "Start oral levothyroxine.",
+    "Withdraw amiodarone.",
+    "Withdraw metformin.",
+    "Start oral liothyronine.",
+    "Start oral potassium iodide."
+   ],
+   "answer": 1,
+   "explanation": "Chronic treatment with amiodarone can cause hyper- or (more often) hypothyroidism because the drug is rich in iodine. When amiodarone is metabolized by the liver, iodine molecules are released and can exert pharmacological effects. In general, the resulting hypothyroidism is mild, as in this case, and it disappears in a few days when the drug is withdrawn. A, C When hypothyroidism is caused by drugs, the first procedure is to stop the offending agent. Thyroid hormones can be given later if symptoms persist. B Potassium iodide can block thyroid hormone release. Therefore, it is contraindicated in hypothyroidism. D Metformin does not affect thyroid function.",
+   "source": "Pharmacology V-2 Q29",
+   "topic": "Medium",
+   "topic_n": 9
+  },
+  {
+   "question": "A 75-year-old woman complained to her physician of very dry skin and constipation, which she treated with milk of magnesia. She had no other medical problems and took no other medications. A blood analysis gave the following results: Free triiodothyronine (FT3): 0.3 ng/dL (normal 0.23-0.42 ng/dL); Free thyroxine (FT4): 0.9 ng/dL (normal 0.8-2.7 ng/dL); Thyroid-stimulating hormone (TSH, thyrotropin): 15 mU/L (normal 0.5-5.0 ng/dL); Thyroperoxidase antibodies: 28 IU/L (normal < 0.8 IU/L). Which of the following drugs would be appropriate for this patient?",
+   "choices": [
+    "Propranolol",
+    "Levothyroxine",
+    "Loperamide",
+    "Methimazole",
+    "Diltiazem",
+    "Potassium iodide"
+   ],
+   "answer": 1,
+   "explanation": "The woman was most likely affected by subclinical hypothyroidism, which is defined as elevated thyroid-stimulating hormone (TSH) in the presence of normal thyroid hormone levels. The prevalence of subclinical hypothyroidism is 4 to 10% but can increase to 26% in the elderly population, particularly women. The risk of developing overt hypothyroidism is related to the level of TSH and is increased in patients with positive antibodies, as in this case. Treatment of subclinical hypothyroidism is controversial, but thyroid replacement appears reasonable in asymptomatic patients with levels greater than 10 mU/L and in those with positive thyroid antibodies. A-D, F See correct answer explanation.",
+   "source": "Pharmacology V-2 Q30",
+   "topic": "Easy",
+   "topic_n": 17
+  }
+ ]
+}

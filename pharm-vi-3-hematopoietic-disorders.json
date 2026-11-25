@@ -1,0 +1,502 @@
+{
+ "questions": [
+  {
+   "question": "This drug is sometimes used to prevent transfusional iron overload.",
+   "choices": [
+    "Folic acid",
+    "Cyanocobalamin",
+    "Filgrastim",
+    "Iron sucrose",
+    "Iron dextran",
+    "Leucovorin",
+    "Sargramostim",
+    "Deferoxamine",
+    "Oprelvekin",
+    "Erythropoietin",
+    "Ferrous sulfate"
+   ],
+   "answer": 7,
+   "explanation": "Matching item. Correct match: Deferoxamine.",
+   "source": "Pharmacology VI-3 Q1",
+   "topic": "Easy",
+   "topic_n": 1
+  },
+  {
+   "question": "An endogenous compound synthesized by the kidney in response to hypoxia",
+   "choices": [
+    "Iron sucrose",
+    "Folic acid",
+    "Cyanocobalamin",
+    "Iron dextran",
+    "Ferrous sulfate",
+    "Filgrastim",
+    "Deferoxamine",
+    "Leucovorin",
+    "Sargramostim",
+    "Erythropoietin",
+    "Oprelvekin"
+   ],
+   "answer": 9,
+   "explanation": "Matching item. Correct match: Erythropoietin.",
+   "source": "Pharmacology VI-3 Q2",
+   "topic": "Easy",
+   "topic_n": 2
+  },
+  {
+   "question": "There is a lifetime requirement for this drug in patients who have undergone gastrectomy.",
+   "choices": [
+    "Ferrous sulfate",
+    "Folic acid",
+    "Leucovorin",
+    "Cyanocobalamin",
+    "Deferoxamine",
+    "Sargramostim",
+    "Erythropoietin",
+    "Iron sucrose",
+    "Iron dextran",
+    "Filgrastim",
+    "Oprelvekin"
+   ],
+   "answer": 3,
+   "explanation": "Matching item. Correct match: Cyanocobalamin.",
+   "source": "Pharmacology VI-3 Q3",
+   "topic": "Easy",
+   "topic_n": 3
+  },
+  {
+   "question": "A recombinant form of interleukin 11",
+   "choices": [
+    "Folic acid",
+    "Filgrastim",
+    "Erythropoietin",
+    "Leucovorin",
+    "Iron dextran",
+    "Oprelvekin",
+    "Iron sucrose",
+    "Sargramostim",
+    "Ferrous sulfate",
+    "Deferoxamine",
+    "Cyanocobalamin"
+   ],
+   "answer": 5,
+   "explanation": "Matching item. Correct match: Oprelvekin.",
+   "source": "Pharmacology VI-3 Q4",
+   "topic": "Easy",
+   "topic_n": 4
+  },
+  {
+   "question": "A multilineage myeloid growth factor",
+   "choices": [
+    "Iron dextran",
+    "Erythropoietin",
+    "Iron sucrose",
+    "Folic acid",
+    "Sargramostim",
+    "Leucovorin",
+    "Oprelvekin",
+    "Ferrous sulfate",
+    "Deferoxamine",
+    "Filgrastim",
+    "Cyanocobalamin"
+   ],
+   "answer": 4,
+   "explanation": "Matching item. Correct match: Sargramostim.",
+   "source": "Pharmacology VI-3 Q5",
+   "topic": "Easy",
+   "topic_n": 5
+  },
+  {
+   "question": "This drug is absorbed through the distal ileum by a process of receptor-mediated endocytosis.",
+   "choices": [
+    "Ferrous sulfate",
+    "Erythropoietin",
+    "Iron sucrose",
+    "Folic acid",
+    "Leucovorin",
+    "Cyanocobalamin",
+    "Oprelvekin",
+    "Filgrastim",
+    "Iron dextran",
+    "Sargramostim",
+    "Deferoxamine"
+   ],
+   "answer": 5,
+   "explanation": "Matching item. Correct match: Cyanocobalamin.",
+   "source": "Pharmacology VI-3 Q6",
+   "topic": "Easy",
+   "topic_n": 6
+  },
+  {
+   "question": "A 62-year-old man presented to his physician complaining of tiredness and abdominal pain. Medical history revealed that the man had been taking two tablets of naproxen twice daily for arthritic pain for the past 3 months. Pertinent lab results on admission were red blood cell count (RBC) 3.1 x 10^6/mm3 (normal, male 4.3-5.9 x 10^6/mm3), hemoglobin 8.5 g/dL (normal, male > 13.5 g/dL), mean corpuscular volume 70 fL (normal 80-100 fL), serum ferritin 6 ng/mL (normal: 30-300). An appropriate therapy was prescribed. Which of the following actions most likely mediated the therapeutic effect of the prescribed drug?",
+   "choices": [
+    "Stimulation of erythropoietin production by the kidney",
+    "Activation of specific receptors on RBC progenitors",
+    "Stimulation of transferrin production by the liver",
+    "Increased life span of RBCs",
+    "Replacement of a chemical whose stores are severely depleted"
+   ],
+   "answer": 4,
+   "explanation": "The patient's history and lab results indicate that he was most likely suffering from iron deficiency anemia due to blood loss, which is the most common cause of the disease. In this case, the loss was most likely caused by naproxen therapy; the prevalence of endoscopically confirmed gastrointestinal ulcers in nonsteroidal antiinflammatory drug users is 15 to 30%. Iron is the standard therapy for iron deficiency anemia, and it acts only by replacing the severely depleted stores of the metal. A: There are no specific receptors for iron. C-E: Iron does not cause these effects.",
+   "source": "Pharmacology VI-3 Q7",
+   "topic": "Medium",
+   "topic_n": 1
+  },
+  {
+   "question": "A 22-year-old woman in her first week of pregnancy started on daily folic acid supplementation. The therapy was given to decrease the risk of which of the following congenital abnormalities?",
+   "choices": [
+    "Atrial septal defect",
+    "Cryptorchidism",
+    "Spina bifida",
+    "Tetralogy of Fallot",
+    "Esophageal atresia",
+    "Congenital cataract"
+   ],
+   "answer": 2,
+   "explanation": "It has been shown that neural tube defects are associated with folic acid deficiency during pregnancy. Folate supplementation during early pregnancy may substantially reduce the risk of neural tube defects, such as spina bifida and encephalocele. A, C-F: The risk of these congenital abnormalities is not related to folic acid deficiency.",
+   "source": "Pharmacology VI-3 Q8",
+   "topic": "Easy",
+   "topic_n": 7
+  },
+  {
+   "question": "A 58-year-old man recently diagnosed with iron deficiency anemia was found to have a severe depletion of total body iron stores. Which of the following compounds represents the most important store for iron?",
+   "choices": [
+    "Hemoglobin",
+    "Myoglobin",
+    "Ferroportin",
+    "Transferrin",
+    "Ferritin"
+   ],
+   "answer": 4,
+   "explanation": "Iron not used for erythropoiesis is stored in two storage pools. The most important is ferritin, a heterogeneous family of proteins formed around an iron core. Ferritin is found in hepatocytes, liver, bone marrow, macrophages, red blood cells, and serum. The pool is very labile and readily available to meet any body requirement for iron. The second storage pool of iron is hemosiderin, which is located primarily in the liver and bone marrow. A, B, D, E: See correct answer explanation.",
+   "source": "Pharmacology VI-3 Q9",
+   "topic": "Easy",
+   "topic_n": 8
+  },
+  {
+   "question": "A 71-year-old man complained to his physician of tiredness, breathlessness, and fatigue. Four years earlier, the patient had undergone total gastrectomy for advanced Zollinger-Ellison syndrome. A blood analysis showed megaloblastic anemia. Which of the following statements best explains why folic acid supplementation would be contraindicated in this patient?",
+   "choices": [
+    "Older patients are especially at risk of folic acid toxicity.",
+    "The drug may increase vitamin B12 metabolism.",
+    "The drug would mask hematologic signs of vitamin B12 deficiency.",
+    "Gastrectomy completely prevents folic acid absorption.",
+    "The drug would block vitamin B12 actions in the central nervous system."
+   ],
+   "answer": 2,
+   "explanation": "The patient's megaloblastic anemia was most likely due to vitamin B12 deficiency resulting from the previous total gastrectomy. Administration of folic acid can correct the anemia caused by vitamin B12 deficiency but does not prevent the potentially irreversible neurologic damage caused by vitamin B12 deficiency. In this patient, treatment with folic acid would mask the hematologic signs of anemia, thus increasing the risk of neurologic symptoms due to undiagnosed vitamin B12 deficiency. B-E: See correct answer explanation.",
+   "source": "Pharmacology VI-3 Q10",
+   "topic": "Medium",
+   "topic_n": 2
+  },
+  {
+   "question": "A 32-year-old woman in her second trimester of pregnancy presented to the clinic for a check-up. The patient had a 5-year history of excessive alcohol intake and had been using cocaine frequently for the past 3 years. She appeared malnourished and had lost 12 pounds during the first trimester, secondary to anorexia, nausea, and vomiting. Pertinent laboratory values were red blood cell count (RBC) 2.7 x 10^6/mm3 (normal, female 3.5-5.5 x 10^6/mm3), mean corpuscular volume 112 fL (normal 80-100 fL), serum vitamin B12 350 pg/mL (normal > 280 pg/mL), serum ferritin 200 ng/mL (normal 30-300 ng/mL). Blood stain showed macro-ovalocytic RBCs and hypersegmentation of neutrophils. Which of the following drugs would be most appropriate for this patient?",
+   "choices": [
+    "Erythropoietin",
+    "Ferrous sulfate",
+    "Iron dextran",
+    "Cyanocobalamin",
+    "Folic acid"
+   ],
+   "answer": 4,
+   "explanation": "The patient's lab values indicate that she was suffering from megaloblastic anemia. Because the serum vitamin B12 is normal, the anemia is most likely due to folic acid deficiency. The disorder is not rare in a pregnant woman with malnutrition and excessive alcohol intake, as in this case. A, C-E: See correct answer explanation.",
+   "source": "Pharmacology VI-3 Q11",
+   "topic": "Medium",
+   "topic_n": 3
+  },
+  {
+   "question": "A 34-year-old woman was seen at a clinic because of severe weakness and dizziness for the past several months. The woman had a long history of menorrhagia and of chronic headaches for which she had been using several analgesic medications on a daily basis. Physical examination revealed a pale, lethargic female appearing older than her stated age. Notable signs were a sore tongue, spooning of the nails, and splenomegaly. Pertinent laboratory values were red blood cell count 2.3 x 10^6/mm3 (normal, female 3.5-5.5 x 10^6/mm3), mean corpuscular volume 72 fL (normal 80-100 fL), hemoglobin 5 g/dL (normal, female > 12 g/dL), serum ferritin 7 ng/mL (normal 30-300 ng/mL). Which of the following drugs would be most appropriate for this patient?",
+   "choices": [
+    "Ferrous sulfate",
+    "Vitamin B12",
+    "Iron sucrose",
+    "Folic acid",
+    "Filgrastim",
+    "Erythropoietin"
+   ],
+   "answer": 2,
+   "explanation": "The patient's signs and symptoms, together with lab values, indicate that she was suffering from severe iron deficiency anemia, probably related to chronic blood loss due to menorrhagia and overuse of nonsteroidal antiinflammatory drugs. Because the hemoglobin and ferritin levels are very low, parenteral iron therapy is mandatory. Iron sucrose is a preparation given by the parenteral route. It appears to be less likely than iron dextran to cause hypersensitivity reactions. A-C, E, F: See correct answer explanation.",
+   "source": "Pharmacology VI-3 Q12",
+   "topic": "Medium",
+   "topic_n": 4
+  },
+  {
+   "question": "A 22-year-old man complained to his physician of increasing fatigue, anorexia, and irritability over the past 2 months. The man had been suffering from gluten enteropathy since his infancy. Physical examination revealed pallor, glossitis, paresthesias, and muscle weakness. Pertinent laboratory values were red blood cell count (RBC) 3.4 x 10^6/mm3 (normal, male 4.3-5.9 x 10^6/mm3), mean corpuscular volume 116 fL (normal 80-100 fL), serum vitamin B12 330 pg/mL (normal > 280 pg/mL), serum ferritin 200 ng/mL (normal 30-300 ng/mL). Blood stain showed macro-ovalocytic red blood cells and hypersegmentation of neutrophils. An appropriate drug was started, and 10 days later, the RBC was normal. Which of the following actions most likely mediated the therapeutic effect of the drug in the patient's disease?",
+   "choices": [
+    "Increased absorption of iron from duodenal mucosa",
+    "Decreased erythrocyte destruction",
+    "Increased conversion of homocysteine to methionine",
+    "Increased synthesis of tetrahydrofolate",
+    "Increased synthesis of erythropoietin"
+   ],
+   "answer": 3,
+   "explanation": "The patient's symptoms and lab exams indicate that he was most likely suffering from megaloblastic anemia. The normal serum vitamin B12 levels suggest that the anemia is due to folic acid deficiency, which can occur in people suffering from malabsorption syndromes, as in this case (see gluten enteropathy). Administration of folic acid can cure the anemia because folic acid is needed for the synthesis of tetrahydrofolate acid (THF). This molecule can subsequently be transformed into several THF cofactors that participate in many one-carbon unit transfer reactions. The reaction needed for purine and DNA synthesis transfers one carbon unit of N5-N10-methylenetetrahydrofolate to deoxyuridine monophosphate to form thymidine 5'-monophosphate. In rapidly proliferating tissues, considerable amounts of THF are consumed in the reaction, and continued DNA synthesis requires continued regeneration of THF. Therefore, in folate deficiency, thymidine 5'-monophosphate formation is decreased, which in turn decreases the synthesis of DNA. RNA synthesis continues, resulting in increased cytoplasmic mass and maturation. Therefore, cytoplasmic maturity is greater than nuclear maturity, and megaloblasts are produced in the bone marrow. A: This is an action of vitamin B12 in the treatment of vitamin B12 deficiency, which was not the case in this patient. C: This is an action of ferrous sulfate in the treatment of iron deficiency anemia, which was not the case in this patient. D: The patient's anemia was not caused by hemolysis. E: The patient's anemia was not caused by erythropoietin deficiency.",
+   "source": "Pharmacology VI-3 Q13",
+   "topic": "Hard",
+   "topic_n": 1
+  },
+  {
+   "question": "A 34-year-old woman recently diagnosed with iron deficiency anemia started a treatment with ferrous sulfate. Which of the following mechanisms was most likely involved in the delivery of iron to the patient's erythroblasts?",
+   "choices": [
+    "Receptor-mediated endocytosis",
+    "Facilitated diffusion",
+    "Bulk flow transport",
+    "Aqueous diffusion",
+    "Lipid diffusion"
+   ],
+   "answer": 0,
+   "explanation": "Iron is transported in plasma bound to transferrin, a β globulin that specifically binds ferric iron. The complex binds to a specific receptor located on erythroblasts and other proliferating erythroid cells. The complex is then internalized by endocytosis, releasing iron within the cell, and transferrin and the receptors are recycled. A-C, E: See correct answer explanation.",
+   "source": "Pharmacology VI-3 Q14",
+   "topic": "Easy",
+   "topic_n": 9
+  },
+  {
+   "question": "A 53-year-old man recently diagnosed with pernicious anemia started a treatment with vitamin B12. Which of the following molecular actions most likely mediated the antianemic effect of the drug in this patient?",
+   "choices": [
+    "Formation of succinyl-coenzyme A (CoA)",
+    "Hydroxylation of folic acid",
+    "Glycine formation from serine",
+    "Demethylation of N5-methyltetrahydrofolate",
+    "Hydroxylation of dihydrofolic acid"
+   ],
+   "answer": 3,
+   "explanation": "Megaloblastic anemias (both folate and vitamin B12 deficiency anemias) are due to a decreased availability of tetrahydrofolate (THF). Vitamin B12 transfers a methyl group from N5-methyltetrahydrofolate to homocysteine, forming methionine and THF. In vitamin B12 deficiency, N5-methyltetrahydrofolate accumulates with associated depletion of THF (methylfolate trapping). The administration of vitamin B12 restores the demethylation of N5-methyltetrahydrofolate, thus correcting the megaloblastic anemia. A: This formation is another chemical reaction catalyzed by vitamin B12, but the reaction is not needed for the synthesis of THF. B, D, E: These reactions are not catalyzed by vitamin B12.",
+   "source": "Pharmacology VI-3 Q15",
+   "topic": "Medium",
+   "topic_n": 5
+  },
+  {
+   "question": "A 66-year-old woman was admitted to the hospital because of tiredness, breathlessness, and fatigue over the past 3 weeks. Two years ago, she underwent gastrectomy for severe nonhealing ulcers. The only medication the patient was taking was cyanocobalamin, intramuscularly, once a month. Pertinent laboratory values on admission were red blood cell count 2.8 × 10^6/mm3 (normal, female 3.5-5.5 × 10^6/mm3), mean corpuscular volume 60 fL (normal 80-100 fL), hemoglobin 8.6 g/dL (normal, female > 12 g/dL), hematocrit 32% (normal 36-46%). Which of the following drugs given orally would most likely improve the patient's condition?",
+   "choices": [
+    "Sargramostim",
+    "Vitamin B12",
+    "Erythropoietin",
+    "Ferrous sulfate",
+    "Iron dextran",
+    "Folic acid"
+   ],
+   "answer": 3,
+   "explanation": "The patient's symptoms and lab results indicate that she was suffering from microcytic anemia, most likely secondary to iron deficiency due to total gastrectomy. Removal of the stomach leads to marked decrease in the production of gastric acid, which is necessary to convert dietary iron to a form that is readily absorbed by the duodenum. Iron deficiency anemia does not occur for a few years after gastrectomy because iron is stored in moderately large amounts in bone marrow. When anemia is caused by iron deficiency, oral iron supplementation is appropriate. A-E: See correct answer explanation.",
+   "source": "Pharmacology VI-3 Q16",
+   "topic": "Medium",
+   "topic_n": 6
+  },
+  {
+   "question": "A 65-year-old man was seen at a clinic because of muscle weakness, emotional instability, burning of the tongue, and alternating constipation and diarrhea. Physical examination showed a pale man with red tongue, loss of vibratory sense in the lower extremities, and ataxia. Pertinent blood values were red blood cell count 3.4 × 10^6/mm3 (normal, male 4.3-5.9 × 10^6/mm3), mean corpuscular volume 110 fL (normal 80-100 fL), vitamin B12 96 pg/mL (normal > 280 pg/mL), serum ferritin 250 ng/mL (normal 30-300 ng/mL). Which of the following drugs would be most appropriate for this patient?",
+   "choices": [
+    "Ferrous sulfate",
+    "Iron dextran",
+    "Folic acid",
+    "Cyanocobalamin",
+    "Deferoxamine"
+   ],
+   "answer": 3,
+   "explanation": "The patient's signs and symptoms are classic for pernicious anemia. The disease occurs equally in both genders, with an average onset of age 60. The anemia is caused by vitamin B12 malabsorption due to severe atrophy of the gastric glands with loss of parietal cells and inability to secrete intrinsic factor. The cause of the disease is unknown, but several findings point to an immunologic or inherited basis of the disease. Approximately 90% of patients have antibodies to parietal cells, and 2 to 10% of relatives of these patients exhibit similar antibodies. Parenteral cyanocobalamin should be given daily to replenish tissue stores, and a monthly maintenance dose should be given for life. A-D: See correct answer explanation.",
+   "source": "Pharmacology VI-3 Q17",
+   "topic": "Medium",
+   "topic_n": 7
+  },
+  {
+   "question": "A 54-year-old woman recently diagnosed with iron deficiency anemia started a treatment with oral ferrous sulfate. Which of the following mechanisms was most likely involved in the patient's intestinal absorption of the drug?",
+   "choices": [
+    "Lipid diffusion",
+    "Active transport",
+    "Exocytosis",
+    "Aqueous diffusion",
+    "Facilitated diffusion"
+   ],
+   "answer": 1,
+   "explanation": "Iron crosses the luminal membrane of duodenal mucosal cells by two mechanisms: active transport of ferrous iron by a carrier named divalent metal transporter 1 (DMT1) and absorption of iron complexed with heme. Because the patient received ferrous sulfate, the drug was actively transported by DMT1. A-C, E: See correct answer explanation.",
+   "source": "Pharmacology VI-3 Q18",
+   "topic": "Easy",
+   "topic_n": 10
+  },
+  {
+   "question": "A 33-year-old malnourished woman in her eighth month of pregnancy presented to the clinic complaining of extreme lethargy. The woman was multiparous and living in a poor suburban area with her two daughters. Pertinent laboratory values on admission were red blood cell (RBC) count 2.9 × 10^6/mm3 (normal, female 3.5-5.5 × 10^6/mm3), mean corpuscular volume 90 fL (normal 80-100 fL), hemoglobin 7 g/dL (normal, female > 12 g/dL), serum ferritin 8 µg/dL (normal 30-300 pg/mL), serum vitamin B12 350 pg/mL (normal > 280 pg/mL), RBC folate 45 ng/mL (normal 150-800 ng/mL). Blood stain demonstrated both micro- and macrocytic erythrocytes and blood hypochromia. Which of the following pairs of drugs would represent an appropriate treatment for this patient?",
+   "choices": [
+    "Folic acid and erythropoietin",
+    "Folic acid and ferrous sulfate",
+    "Iron dextran and filgrastim",
+    "Erythropoietin and hydroxocobalamin",
+    "Cyanocobalamin and ferrous sulfate"
+   ],
+   "answer": 1,
+   "explanation": "The patient's blood values indicate that the woman was most likely suffering from a mixed anemia, due to both iron and folate deficiency. The combination of both macro- and microcytic red blood cells offset each other to produce a normal mean corpuscular volume. There are many examples of situations in which mixed anemia occurs, including pregnancy, as both iron and folate requirements increase during gestation. When anemia is both microcytic and megaloblastic, treatment with iron and folic acid is indicated. A, B: Vitamin B12 precursors are not needed because blood concentration of vitamin B12 is normal. D, E: See correct answer explanation.",
+   "source": "Pharmacology VI-3 Q19",
+   "topic": "Hard",
+   "topic_n": 2
+  },
+  {
+   "question": "A 6-year-old boy recently diagnosed with thalassemia major was started on whole blood transfusion therapy. Which of the following drugs was most likely given during the transfusion to prevent transfusional iron overload?",
+   "choices": [
+    "Filgrastim",
+    "Folic acid",
+    "Deferoxamine",
+    "Ferritin",
+    "Sargramostim",
+    "Erythropoietin"
+   ],
+   "answer": 2,
+   "explanation": "In thalassemic children with severe anemia, blood transfusions are necessary to maintain life and normal activity. To prevent iron overloading as a result of repeated blood transfusions, deferoxamine is often given during the transfusion. The drug can remove iron from hemosiderin, ferritin, and transferrin, but not iron from hemoglobin and cytochromes. Therefore, the drug can eliminate iron excess without affecting hemoglobin formation. A-E: See correct answer explanation.",
+   "source": "Pharmacology VI-3 Q20",
+   "topic": "Easy",
+   "topic_n": 11
+  },
+  {
+   "question": "A 72-year-old man was admitted to the hospital with a 2-week history of weakness, decreased appetite, and exercise intolerance. Pertinent laboratory values on admission were red blood cell count 3.0 × 10^6/mm3 (normal, male 4.3-5.9 × 10^6/mm3), mean corpuscular volume 96 fL (normal 80-100 fL), hemoglobin 6 g/dL (normal, male > 13.5 g/dL), serum iron 45 µg/dL (normal 50-150 µg/dL), serum creatinine 4.7 mg/dL (normal 0.6-1.2 mg/dL). Which of the following pairs of drugs would be most appropriate to treat the patient's disease?",
+   "choices": [
+    "Erythropoietin and filgrastim",
+    "Cyanocobalamin and ferrous sulfate",
+    "Erythropoietin and ferrous sulfate",
+    "Folic acid and oprelvekin",
+    "Folic acid and iron dextran",
+    "Cyanocobalamin and iron dextran"
+   ],
+   "answer": 2,
+   "explanation": "The patient's lab results indicate that he was most likely suffering from a hypoproliferative anemia due to renal insufficiency. Anemia usually occurs when creatinine clearance is less than 45 mL/min (which corresponds roughly to serum creatinine > 3 mg/dL in a normal man over age 70). When anemia is due to renal disease, erythropoietin is the treatment of choice. Iron supplements must also be given to achieve an adequate erythropoietin response. A, C-F: See correct answer explanation.",
+   "source": "Pharmacology VI-3 Q21",
+   "topic": "Hard",
+   "topic_n": 3
+  },
+  {
+   "question": "A 42-year-old man suffering from diffuse non-Hodgkin lymphoma was in the hospital for autologous bone marrow transplantation. Which of the following drugs should be administered after transplantation to hasten neutrophil recovery?",
+   "choices": [
+    "Allopurinol",
+    "Ondansetron",
+    "Cyanocobalamin",
+    "Filgrastim",
+    "Leucovorin",
+    "Oprelvekin"
+   ],
+   "answer": 3,
+   "explanation": "Bone marrow transplantation is associated with profound granulocytopenia due to the myeloablative preparative regimen. Filgrastim is a human granulocyte colony-stimulating factor that stimulates the production of granulocyte progenitor cells. Therefore, once engraftment occurs, hematopoietic recovery can be accelerated. A, C-F: See correct answer explanation.",
+   "source": "Pharmacology VI-3 Q22",
+   "topic": "Easy",
+   "topic_n": 12
+  },
+  {
+   "question": "A 65-year-old man suffering from lung cancer was admitted to the hospital for a cycle of chemotherapy. After completion of the cycle, a treatment with oprelvekin was started. The therapeutic effect of the drug is most likely mediated by activation of specific receptors located mainly on which of the following cells?",
+   "choices": [
+    "Lymphocytes",
+    "Neutrophils",
+    "Platelets",
+    "Monocytes",
+    "Macrophages",
+    "Megakaryocytes"
+   ],
+   "answer": 5,
+   "explanation": "Oprelvekin is the recombinant form of interleukin-11. The drug activates specific receptors located on megakaryocytes and megakaryocyte progenitors, thus stimulating the production of platelets. It is used clinically to prevent severe chemotherapy-induced thrombocytopenia and to reduce the need for platelet transfusions following chemotherapy for nonmyeloid malignancies. A-D, F: See correct answer explanation.",
+   "source": "Pharmacology VI-3 Q23",
+   "topic": "Easy",
+   "topic_n": 13
+  },
+  {
+   "question": "A 33-year-old woman recently diagnosed with severe microcytic anemia felt uneasy and became agitated and flushed soon after the first intravenous injection of an antianemic drug. She also complained of palpitations, coughing, urticaria, and difficulty in breathing. Within 5 minutes, cardiovascular collapse developed. Which of the following drugs most likely caused the patient's syndrome?",
+   "choices": [
+    "Iron dextran",
+    "Cyanocobalamin",
+    "Leucovorin",
+    "Sargramostim",
+    "Ferrous sulfate",
+    "Filgrastim"
+   ],
+   "answer": 0,
+   "explanation": "The signs and symptoms of the patient indicate that she was most likely suffering from an anaphylactoid reaction, which is a rare but potentially fatal adverse effect of iron dextran therapy. Other parenteral preparations, such as sodium ferric gluconate and iron sucrose, appear to cause fewer hypersensitivity reactions than iron dextran and are now preferred for parenteral iron therapy. A, D: Leucovorin and cyanocobalamin do not cause anaphylactoid reactions and are not used to treat microcytic anemia. B: Ferrous sulfate is given only by the oral route. E, F: Filgrastim and sargramostim can cause anaphylactoid reactions, but they are not used to treat microcytic anemia.",
+   "source": "Pharmacology VI-3 Q24",
+   "topic": "Easy",
+   "topic_n": 14
+  },
+  {
+   "question": "A 51-year-old man undergoing ambulatory hemodialysis for end-stage renal disease had been receiving erythropoietin for normochromic normocytic anemia. A blood analysis showed the following results: red blood cell count 4.4 × 10^6/mm3 (normal, male 4.3-5.9 × 10^6/mm3), mean corpuscular volume 98 fL (normal 80-100 fL), hemoglobin 14 g/dL (normal, male > 13.5 g/dL). The patient was most likely at greater risk of which of the following drug-related adverse effects?",
+   "choices": [
+    "Adynamic ileus",
+    "Thrombotic complications",
+    "Angioedema",
+    "Hypotension",
+    "Hypokalemia"
+   ],
+   "answer": 1,
+   "explanation": "The most common adverse effects of erythropoietin are hypertension and thrombotic complications. The mechanism of the thrombotic effect is still uncertain but is likely related to an excessive increase of hemoglobin levels. Recently, the U.S. Food and Drug Administration issued a warning that patients with renal failure or cancer whose hemoglobin rises to more than 12 g/dL are at greater risk of thrombotic events, as in this case. B-E: See correct answer explanation.",
+   "source": "Pharmacology VI-3 Q25",
+   "topic": "Medium",
+   "topic_n": 8
+  },
+  {
+   "question": "A 66-year-old woman complained to her physician of bleeding gums. The woman had been receiving her third cycle of chemotherapy for metastatic ovarian cancer. A blood analysis showed the following results: red blood cell count 3.2 × 10^6/mm3 (normal, female 3.5-5.5 × 10^6/mm3), mean corpuscular volume 96 fL (normal 80-100 fL), hemoglobin 9 g/dL (normal, female > 12 g/dL), neutrophil count 4600/mm3 (normal 3000-7000/mm3), platelet count 7000/mm3 (normal 130,000-400,000/mm3). A hematopoietic agent was administered intravenously. Which of the following drugs would be appropriate for this patient?",
+   "choices": [
+    "Erythropoietin",
+    "Leucovorin",
+    "Cyanocobalamin",
+    "Filgrastim",
+    "Folic acid",
+    "Oprelvekin"
+   ],
+   "answer": 5,
+   "explanation": "The patient's lab results indicate severe thrombocytopenia, likely due to cytotoxic anticancer chemotherapy. Oprelvekin, the recombinant form of interleukin-11, has been approved for treatment of severe thrombocytopenia due to chemotherapy for nonmyeloid malignancies. A: Filgrastim is human granulocyte colony-stimulating factor that stimulates the production of granulocyte progenitor cells. The normal neutrophil count indicates that there is no granulocytopenia. B: Erythropoietin is given when the anemia is hypoproliferative (i.e., due to a deficient response to cytokine humoral stimuli). There is no evidence that the patient's anemia is hypoproliferative. C-E: These drugs are used for megaloblastic anemias. The normal mean corpuscular volume indicates that the patient's anemia is not megaloblastic.",
+   "source": "Pharmacology VI-3 Q26",
+   "topic": "Medium",
+   "topic_n": 9
+  },
+  {
+   "question": "A 2-year-old boy was brought to the emergency department after suffering two episodes of brownish vomit containing pills, followed by a large hematemesis. The mother, who was pregnant, suspected her son had ingested several tablets of her medication. Physical examination showed a lethargic and cyanotic child complaining of abdominal pain. Vital signs were blood pressure 80/50 mm Hg (normal for 2 years 100/65 mm Hg), pulse 130 bpm (normal for 2 years 115 bpm) respirations 30/min (normal at 2 years 24/min). Laboratory values indicated severe metabolic acidosis. Which of the following drugs would be most appropriate for this child?",
+   "choices": [
+    "Deferoxamine",
+    "Cyanocobalamin",
+    "Ferrous sulfate",
+    "Iron dextran",
+    "Erythropoietin",
+    "Folic acid"
+   ],
+   "answer": 0,
+   "explanation": "The large hematemesis and the pregnancy of the mother suggest the possible ingestion of iron tablets. The signs and symptoms of the patient are indicative of first-stage acute iron poisoning. As few as 10 to 12 prenatal multivitamin with iron tablets can cause serious illness in a young child. Deferoxamine is an iron-chelating compound that can bind iron that has already been absorbed. The iron-deferoxamine complex is not toxic and is excreted by the kidney. Deferoxamine therapy should be promptly initiated when severe symptoms of iron toxicity are prominent, as in this case. A, C-F: See correct answer explanation.",
+   "source": "Pharmacology VI-3 Q27",
+   "topic": "Easy",
+   "topic_n": 15
+  },
+  {
+   "question": "A 13-year-old boy suffering from acute lymphoblastic leukemia was admitted to the hospital for the third cycle of anticancer therapy, which included high-dose methotrexate. Which of the following drugs should be given to the patient to counteract methotrexate toxicity?",
+   "choices": [
+    "Filgrastim",
+    "Oprelvekin",
+    "Folic acid",
+    "Leucovorin",
+    "Cyanocobalamin",
+    "Ferrous sulfate"
+   ],
+   "answer": 3,
+   "explanation": "Methotrexate inhibits dihydrofolate reductase, preventing the formation of tetrahydrofolate (THF), an essential factor for DNA synthesis. The blockade of this synthesis in cancer cells mediates the therapeutic action of the drug, but the blockade of the synthesis in normal cells causes methotrexate toxicity. Leucovorin bypasses the dihydrofolate reductase step in tetrahydrofolate synthesis, thus rescuing normal cells while cancer cells are less affected. A: Folic acid is useless in this situation because it cannot be transformed to THF due to the dihydrofolate reductase inhibition. B, D-F: See correct answer explanation.",
+   "source": "Pharmacology VI-3 Q28",
+   "topic": "Easy",
+   "topic_n": 16
+  },
+  {
+   "question": "A 39-year-old male AIDS patient has had recent episodes of cytomegalovirus esophagitis. The man was being treated with a zidovudine, lamivudine, efavirenz combination for AIDS and with ganciclovir for cytomegalovirus prophylaxis. His last blood analysis revealed the following: red blood cell count 4.1 × 10^6/mm3 (normal, male 4.3-5.9 × 10^6/mm3), white blood cell count 1.5 × 10^3/mm3 (normal 4.5-11.0 × 10^6/mm3), neutrophil count 250/mm3 (normal 3000-7000/mm3). Which of the following drugs would be appropriate to add to the patient's therapeutic regimen at this time?",
+   "choices": [
+    "Cyanocobalamin",
+    "Filgrastim",
+    "Erythropoietin",
+    "Ferrous sulfate",
+    "Saquinavir"
+   ],
+   "answer": 1,
+   "explanation": "The patient's lab results indicate a profound neutropenia, which can occur in AIDS patients taking zidovudine. Filgrastim is recombinant human granulocyte colony-stimulating factor that stimulates proliferation and differentiation of progenitors already committed to neutrophil lineage. It has been shown that zidovudine-induced neutropenia can be partially or completely reversed by filgrastim treatment. A-C, E: See correct answer explanation.",
+   "source": "Pharmacology VI-3 Q29",
+   "topic": "Medium",
+   "topic_n": 10
+  },
+  {
+   "question": "A 15-year-old girl was seen at a clinic because of easy fatigue, irritability, and decreased mental alertness over the past month. The girl was a strict vegetarian and reported heavy menstrual periods since her menarche. Pertinent lab results on admission were red blood cell count 3.1 × 10^6/mm3 (normal, female 3.5-5.5 × 10^6/mm3), hemoglobin 9 g/dL (normal, female > 12 g/dL), mean corpuscular volume 71 fL (normal 80-100 fL), serum ferritin 5 ng/mL (normal 30-300 ng/mL). Which of the following drugs would be most appropriate for this patient?",
+   "choices": [
+    "Iron sucrose",
+    "Iron dextran",
+    "Erythropoietin",
+    "Ferrous sulfate",
+    "Folic acid",
+    "Sargramostim"
+   ],
+   "answer": 3,
+   "explanation": "The patient's lab results indicate that she was suffering from microcytic anemia, most likely due to iron deficiency (see the vegetarian diet and heavy menstrual periods). Oral iron should correct the anemia rapidly and completely and therefore is the preferred starting therapy. Parenteral iron administration (iron dextran or iron sucrose) would most likely also be effective, but should be used only when clearly indicated, that is, when the anemia is very severe, or when oral therapy fails. A-D, F: See correct answer explanation.",
+   "source": "Pharmacology VI-3 Q30",
+   "topic": "Medium",
+   "topic_n": 11
+  }
+ ]
+}

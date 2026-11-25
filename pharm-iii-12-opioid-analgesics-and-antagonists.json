@@ -1,0 +1,670 @@
+{
+ "questions": [
+  {
+   "question": "A partial agonist at p (mu) opioid receptors and antagonist at K (kappa) opioid receptors",
+   "choices": [
+    "Heroin",
+    "Fentanyl",
+    "Pentazocine",
+    "Tramadol",
+    "Morphine",
+    "Methadone",
+    "Propoxyphene",
+    "Buprenorphine",
+    "Loperamide",
+    "Naloxone",
+    "Codeine"
+   ],
+   "answer": 7,
+   "explanation": "Matching question; the book prints only the answer key for matching sets (key: A).",
+   "source": "Pharmacology III-12 Q1",
+   "topic": "Easy",
+   "topic_n": 1
+  },
+  {
+   "question": "A full opioid agonist with the highest oral bioavailability",
+   "choices": [
+    "Codeine",
+    "Morphine",
+    "Propoxyphene",
+    "Fentanyl",
+    "Methadone",
+    "Naloxone",
+    "Pentazocine",
+    "Heroin",
+    "Tramadol",
+    "Loperamide",
+    "Buprenorphine"
+   ],
+   "answer": 4,
+   "explanation": "Matching question; the book prints only the answer key for matching sets (key: F).",
+   "source": "Pharmacology III-12 Q2",
+   "topic": "Easy",
+   "topic_n": 2
+  },
+  {
+   "question": "A drug with very weak opioid activity used in the treatment of diarrhea",
+   "choices": [
+    "Codeine",
+    "Naloxone",
+    "Tramadol",
+    "Pentazocine",
+    "Fentanyl",
+    "Methadone",
+    "Buprenorphine",
+    "Morphine",
+    "Heroin",
+    "Propoxyphene",
+    "Loperamide"
+   ],
+   "answer": 10,
+   "explanation": "Matching question; the book prints only the answer key for matching sets (key: E).",
+   "source": "Pharmacology III-12 Q3",
+   "topic": "Easy",
+   "topic_n": 3
+  },
+  {
+   "question": "A partial agonist at (mu) opioid receptors and full agonist at K (kappa) opioid receptors",
+   "choices": [
+    "Naloxone",
+    "Tramadol",
+    "Propoxyphene",
+    "Codeine",
+    "Buprenorphine",
+    "Pentazocine",
+    "Heroin",
+    "Methadone",
+    "Fentanyl",
+    "Morphine",
+    "Loperamide"
+   ],
+   "answer": 5,
+   "explanation": "Matching question; the book prints only the answer key for matching sets (key: I).",
+   "source": "Pharmacology III-12 Q4",
+   "topic": "Easy",
+   "topic_n": 4
+  },
+  {
+   "question": "A drug with high affinity but no intrinsic activity at opioid receptors",
+   "choices": [
+    "Heroin",
+    "Propoxyphene",
+    "Codeine",
+    "Fentanyl",
+    "Pentazocine",
+    "Loperamide",
+    "Naloxone",
+    "Buprenorphine",
+    "Tramadol",
+    "Methadone",
+    "Morphine"
+   ],
+   "answer": 6,
+   "explanation": "Matching question; the book prints only the answer key for matching sets (key: H).",
+   "source": "Pharmacology III-12 Q5",
+   "topic": "Easy",
+   "topic_n": 5
+  },
+  {
+   "question": "A 34-year-old man was admitted to the emergency department because of a sharp abdominal pain for the past 3 hours. Further exams led to the diagnosis of renal colic, and the patient received an intramuscular injection of morphine. Activation of receptors in which of the following brain areas most likely mediated the analgesic effect of the drug in this patient?",
+   "choices": [
+    "Nucleus accumbens",
+    "Periaqueductal gray matter",
+    "Edinger-Westphal nucleus",
+    "Meynert nucleus"
+   ],
+   "answer": 1,
+   "explanation": "The analgesic effect of opioids is mediated by both spinal and supraspinal actions. At the spinal level, activation of opioid receptors on posterior horn interneurons and output neurons of the substantia gelatinosa inhibits nociceptive transmission in the lateral spinothalamic tract. At the supraspinal level, activation of opioid receptors occurs in several brain areas, but the best characterized of these areas is the mesencephalic periaqueductal gray matter. Microinjections of morphine in this region block nociceptive responses in every species examined, from rodents to primates. Naloxone reverses these effects. A-C, E None of these brain areas are involved in the analgesic effect of opioids, but they may be the sites for other effects of opioids.",
+   "source": "Pharmacology III-12 Q6",
+   "topic": "Easy",
+   "topic_n": 6
+  },
+  {
+   "question": "A 22-year-old pregnant woman was in labor for 12 hours and was experiencing strong and very painful contractions. Epidural administration of morphine was administered for analgesia. Which of the following neuronal areas was most likely the main site of the analgesic action of morphine in this setting?",
+   "choices": [
+    "Periaqueductal gray matter",
+    "Rostral ventrolateral medulla",
+    "Nucleus accumbens",
+    "Substantia gelatinosa",
+    "Substantia nigra",
+    "Locus ceruleus"
+   ],
+   "answer": 3,
+   "explanation": "When an opioid is given by the epidural route, it provides an exceptionally long analgesic action with limited systemic effects. In this situation, the analgesia is mainly spinal and mainly due to activation of receptors in the substantia gelatinosa, with consequent inhibition of nociceptive transmission in the lateral spinothalamic tract. A, C, F Activation of opioid receptors in these areas can contribute to the analgesic effect of morphine by enhancing the descending inhibitory pain pathways, but they are minimally involved when morphine is given locally by the epidural route. D This area is involved in the gratifying effects of opioids. E This area is not involved in the analgesic action of morphine.",
+   "source": "Pharmacology III-12 Q7",
+   "topic": "Easy",
+   "topic_n": 7
+  },
+  {
+   "question": "A 58-year-old woman with metastasized breast cancer received an intramuscular injection of morphine for pain, but she suffered nausea and vomiting soon after the injection. Which of the following brain areas was most likely the main site of these adverse effects of morphine?",
+   "choices": [
+    "Locus ceruleus",
+    "Area postrema",
+    "Putamen 7moOMn wp Rostral ventrolateral medulla",
+    "Median hypothalamic eminence",
+    "Nucleus accumbens"
+   ],
+   "answer": 1,
+   "explanation": "Opioids can cause nausea and vomiting mainly through stimulation of the chemoreceptor trigger zone, a group of neurons located in the area postrema on the floor of the fourth ventricle. A, C-F See correct answer explanation.",
+   "source": "Pharmacology III-12 Q8",
+   "topic": "Easy",
+   "topic_n": 8
+  },
+  {
+   "question": "A61-year-old woman complained of severe pain a few hours after surgery for renal cancer. An intramuscular injection of morphine was given. Which of the following actions most likely contributed to the analgesic effect of morphine?",
+   "choices": [
+    "Stimulation of substance P release from nerve terminals in the spinal cord",
+    "Activation of brainstem neurons that modulate pain transmission",
+    "Inhibition of adrenergic pathways from the locus ceruleus",
+    "Induction of dissociative feeling and dysphoria S",
+    "Inhibition of serotonergic pathways from the raphe nuclei"
+   ],
+   "answer": 1,
+   "explanation": "Opioids can affect nociceptive information in two ways: information by impairment of ascending nociceptive pathways at various levels in the central nervous system Indirectly through activation (likely via p [mu] receptormediated inhibition of GABAergic neurons) of descending aminergic bulbospinal pathways (from the rostral ventral medulla, locus ceruleus, periaqueductal gray area, nucleus raphe magnus, etc.) that control the processing of pain transmission in the spinal cord. B Opioids inhibit the release of substance P, an excitatory neurotransmitter present in afferent sensory fibers. C Opioids can induce dissociative feelings and dysphoria, but this has nothing to do with the analgesic action. D, E Opioids indirectly activate these pathways (see correct answer explanation).",
+   "source": "Pharmacology III-12 Q9",
+   "topic": "Easy",
+   "topic_n": 9
+  },
+  {
+   "question": "A 55-year-old man complained of severe pain after surgery to remove a colon cancer. The physician prescribed a drug that is a partial 1 (mu) opioid agonist, more potent than morphine, and whose effects are not readily antagonized by naloxone. Which of the following drugs was most likely administered?",
+   "choices": [
+    "Loperamide",
+    "peptenyl,",
+    "Buprenorphine",
+    "Methadone ‘"
+   ],
+   "answer": 0,
+   "explanation": "Buprenorphine is a partial p agonist and a k (kappa) antagonist. It is much more potent than morphine (0.3 mg buprenorphine is considered equianalgesic to 10 mg morphine), and its effects are not readily antagonized by naloxone, likely because buprenorphine dissociates very slowly from opioid receptors. A-C, E, F These drugs are not partial opioid agonists.",
+   "source": "Pharmacology III-12 Q10",
+   "topic": "Easy",
+   "topic_n": 10
+  },
+  {
+   "question": "A 34-year-old woman was admitted to the emergency department because of multiple fractures sustained in a car accident. The patient complained of severe pain, and an intramuscular injection of morphine was given. Which of the following molecular actions most likely mediated the analgesic effect of the drug in this patient?",
+   "choices": [
+    "Stimulation of glutamate release from nociceptive nerve terminals",
+    "Opening of Ca** channels on presynaptic nerve terminals",
+    "Closing of chloride channels on postsynaptic neurons",
+    "Opening of K* channels on postsynaptic neurons",
+    "Stimulation of substance P release from nociceptive nerve terminals",
+    "Closing of Na+ channels on presynaptic nerve terminals"
+   ],
+   "answer": 3,
+   "explanation": "Opioid receptors are mainly inhibitory receptors coupled to G proteins. The primary transduction mechanisms of these receptors are activation of phospholipase C or inhibition of adenylyl cyclase. Two well-established consequences of this transduction are * At the presynaptic level, blockade of voltage-gated Ca2+ channels, which in turn reduces the release of a large number of neurotransmitters (most often glutamate but also acetylcholine, norepinephrine, serotonin, and substance tance P P) * At the postsynaptic level, opening of ligand-gated K* channels, which in turn evokes an inhibitory postsynaptic potential A See correct answer explanation. B, E Opioids do not act on chloride or Na+ channels. C, F Opioids have actions opposite to those listed.",
+   "source": "Pharmacology III-12 Q11",
+   "topic": "Medium",
+   "topic_n": 1
+  },
+  {
+   "question": "A 52-year-old man admitted to the emergency department after a myocardial infarction still complained of severe pain after an intravenous injection of nitroglycerin. Intramuscular administration of morphine was given. Which of the following molecular actions most likely mediated the analgesic effect of the drug?",
+   "choices": [
+    "Stimulation of substance P release from nerve terminals",
+    "Blockade of k (kappa) receptors",
+    "Activation of glutamate receptors",
+    "Activation of u (mu) receptors",
+    "Stimulation of release of endogenous opioid peptides"
+   ],
+   "answer": 3,
+   "explanation": "The analgesic action of morphine (as well as that of most opioids) is mainly due to direct activation of 1 (mu) receptors in various areas of the central nervous system. A By activating p receptors, opioids can cause the release of endogenous opioid peptides. This can contribute to the final analgesic effect but is not the main cause of this effect. C Activation, not blockade, of k (kappa) receptors can contribute to the analgesic effect of opioids. D, E Opioids decrease the release of many neurotransmitters, including substance P and glutamate, so these listed effects are unlikely. F Opioids can decrease the release of norepinephrine, causing decreased activity of B adrenoceptors, but this action is not related to the analgesic action of opioids.",
+   "source": "Pharmacology III-12 Q12",
+   "topic": "Easy",
+   "topic_n": 11
+  },
+  {
+   "question": "A 68-year-old man suffering from metastasized neck cancer had a characteristic pinpoint pupil because of subcutaneous infusion of morphine from a portable pump. Stimulation of which of the following brain areas most likely mediated this drug effect?",
+   "choices": [
+    "Nucleus ambiguus",
+    "Area postrema",
+    "Locus ceruleus",
+    "Edinger-Westphal nucleus",
+    "Nucleus accumbens 7m OM w > Hippocampus"
+   ],
+   "answer": 3,
+   "explanation": "Opioids can stimulate the Edinger-Westphal nucleus (also known as the accessory oculomotor nucleus), which is the accessory parasympathetic cranial nerve nucleus of the oculomotor nerve supplying the sphincter muscle of the iris and the ciliary muscle. Therefore, miosis is seen with virtually all opioid agonists. Tolerance to this opioid effect is negligible. A, B, D-F See correct answer explanation.",
+   "source": "Pharmacology III-12 Q13",
+   "topic": "Medium",
+   "topic_n": 2
+  },
+  {
+   "question": "A 55-year-old woman suffering from terminal cancer received a spinal morphine infusion from a portable pump. Which of the following was the most likely electrophysiological consequence of the activation of postsynaptic p (mu) opioid receptors on the pain transmission neurons in the spinal cord?",
+   "choices": [
+    "Increased firing of those neurons",
+    "Production of an inhibitory postsynaptic potential",
+    "Production of an excitatory postsynaptic potential",
+    "Increase in membrane Na+ conductance",
+    "Decrease in membrane K* conductance"
+   ],
+   "answer": 1,
+   "explanation": "Activation of postsynaptic p opioid receptors on the cell membrane of pain transmission neurons in the spinal cord causes opening of K* channels, hyperpolarizing the membrane. An inhibitory postsynaptic potential ensues; therefore, the transmission of nociceptive stimuli is impaired. A-D See correct answer explanation. aa",
+   "source": "Pharmacology III-12 Q14",
+   "topic": "Medium",
+   "topic_n": 3
+  },
+  {
+   "question": "A 51-year-old woman was seen in the emergency department because of strong abdominal pain for the past hour. Physical examination showed a red-headed, pale-skinned woman in obvious distress, with severe pain and tenderness of the right flank. A presumptive diagnosis of renal colic was made, and the patient was given an intramuscular injection of an opioid drug that is a partial agonist at (mu) receptors and a full agonist at k (kappa) receptors. Which of the following drugs was most likely administered?",
+   "choices": [
+    "Buprenorphine",
+    "Pentazocine",
+    "Methadone",
+    "Fentanyl",
+    "Codeine"
+   ],
+   "answer": 1,
+   "explanation": "Pentazocine is a partial agonist at 1: (mu) receptors and a full agonist at kK (kappa) receptors. Because of this mechanism of action, it is generally less effective as an analgesic than other full opioid agonists. However, there is a large individual variability in opioid sensitivity that has been ascribed to genetic diversity of receptors. For example, some red-headed, pale skin phenotypes have a more active x opioid system and are therefore more sensitive to the analgesic action of pentazocine. This can explain the choice in this case. B-E See correct answer explanation.",
+   "source": "Pharmacology III-12 Q15",
+   "topic": "Hard",
+   "topic_n": 1
+  },
+  {
+   "question": "A 56-year-old woman suffering from osteoarthritis complained to her physician that the joint pain in her legs and shoulders had worsened and was now unbearable. She had used several drugs in the past, including ketorolac and ibuprofen, with little success. Full doses of acetaminophen were partially effective until recently, but they were no longer effective. Every morning the patient said that she was “really terrified” by the expected pain and asked for an effective analgesic. Her physician decided to add a drug that can also lower the anxiety, fear, and suffering evoked by pain. Which of the following drugs was most likely prescribed?",
+   "choices": [
+    "Ketorolac",
+    "Venlafaxine",
+    "Indomethacin",
+    "Methadone",
+    "Diazepam",
+    "Sertraline"
+   ],
+   "answer": 3,
+   "explanation": "The use of opioids to treat chronic noncancer pain is still controversial because some clinicians believe that these situations should never be treated with opioids. However, current guidelines recommend opioid therapy as a second-line option for patients who have inadequate response to other therapies, as in this case. Opioids are the only analgesic that can reduce both the sensory and the affective components of the pain experience. The affective component (i.e., suffering) is the one most effectively targeted. Methadone is often the preferred opioid for two reasons: it has excellent oral bioavailability (about 90%), and it has a long half-life (about 25 hours) that allows for a single daily dose. A, B Nonsteroidal antiinflammatory drugs such as indomethacin and ketorolac have no significant effect on the emotional aspect of pain. C-E Drugs with anxiolytic properties such as sertraline, diazepam, and venlafaxine can reduce the emotional aspect of pain, but they have negligible analgesic properties.",
+   "source": "Pharmacology III-12 Q16",
+   "topic": "Medium",
+   "topic_n": 4
+  },
+  {
+   "question": "A 64-year-old man suffering from advanced heart failure was admitted to the emergency department because of extreme dyspnea over the past hour. After physical examination, a diagnosis of impending pulmonary edema was made, and an appropriate therapy was prescribed that included the intramuscular injection of morphine. Which of the following cardiovascular actions most likely contributed to the therapeutic effect of the drug in the patient’s disorder?",
+   "choices": [
+    "Increased heart rate",
+    "Increased left ventricular end-diastolic pressure",
+    "Peripheral venous dilation",
+    "Constriction of the renal vascular bed",
+    "Increased systolic pressure"
+   ],
+   "answer": 2,
+   "explanation": "The therapeutic effect of morphine in pulmonary edema likely involves * Reduced perception of shortness of breath ¢ Reduced fear and apprehension (pain anticipatory anxiety is reduced). é Reduced preload due to peripheral venous dilation and afterload due to arteriolar vasodilation, likely due both to histamine release and decreased sympathomimetic activity secondary to decreased anxiety However, good evidence supporting a beneficial hemodynamic effect is lacking, and some physicians believe that the risks of morphine may outweigh the benefits. of",
+   "source": "Pharmacology III-12 Q17",
+   "topic": "Medium",
+   "topic_n": 5
+  },
+  {
+   "question": "A 67-year-old woman complained to her physician of obstinate constipation. The woman, who was suffering bone pain from metastatic breast cancer, had started a therapy with morphine 2 weeks previously. Which of the following actions most likely mediated the adverse effect of the drug in this patient?",
+   "choices": [
+    "Increased intestinal peristalsis",
+    "Decreased anal sphincter tone",
+    "Increased colonic tone",
+    "Increased reflex response to rectal distention",
+    "Increased softening of feces"
+   ],
+   "answer": 2,
+   "explanation": "Opioids increase the tone of nonvascular smooth muscle (both sphincteral and nonsphincteral) that in turn causes a contraction of the colon and a decrease of its peristaltic activity. Opioids also increase the internal anal sphincter tone and reduce the reflex relaxation response to rectal distention. All of these actions, combined with decreased normal sensory stimuli for defecation because of the central nervous system depressant action, contribute to the final constipating effect. A, C, D Opioids cause actions opposite to those listed. Ean ine-i i i i he morphine-induced decrease of intestinal peristalsis delays passage of the fecal mass and allows increased absorption of water. Therefore, the feces become harder, not softer.",
+   "source": "Pharmacology III-12 Q18",
+   "topic": "Easy",
+   "topic_n": 12
+  },
+  {
+   "question": "A 39-year-old woman was admitted to the hospital because of gripping and burning abdominal pain that increased over the past 4 hours. The patient was suffering from stage 4 ovarian cancer metastatic to the pelvis. A treatment with sustained release morphine was started. Which of the following effects on the patient's respiratory system would be expected during the first few days of therapy?",
+   "choices": [
+    "Decreased tidal volume w Increased rate of breathing",
+    "Stimulation of the cough reflex",
+    "Bronchodilation",
+    "Increased vital capacity"
+   ],
+   "answer": 0,
+   "explanation": "Morphine depresses all phases of respiratory activity (respiratory rate, minute volume, and tidal exchanges) mainly because the drug reduces the responsiveness of the brainstem respiratory centers to partial pressure of arterial carbon dioxide (P,CO.,). A The cough reflex is depressed, not stimulated, by morphine, due, at least in part, to depression of the cough center. B Morphine causes bronchoconstriction, not bronchodilation, which is due, at least in part, to histamine release. C, E See correct answer explanation.",
+   "source": "Pharmacology III-12 Q19",
+   "topic": "Easy",
+   "topic_n": 13
+  },
+  {
+   "question": "A 52-year-old man was in his physician’s office for a routine visit. The man, suffering from metastasized stomach cancer, had started a therapy with morphine 3 weeks ago. Which of the following morphine effects was most likely unchanged in the patient after 3 weeks of therapy?",
+   "choices": [
+    "” E. Euphoria",
+    "Nausea and vomiting",
+    "Miosis .",
+    "SSLEM OM",
+    "Respiratory depression"
+   ],
+   "answer": 2,
+   "explanation": "Tolerance develops to most effects of morphine, including the lethal effect. Notable exceptions are the effects on the eye (which lead to miosis) and the effects on the enteric smooth muscle (which lead to constipation) for which tolerance is negligible. A, C-F See correct answer explanation.",
+   "source": "Pharmacology III-12 Q20",
+   "topic": "Easy",
+   "topic_n": 14
+  },
+  {
+   "question": "A 34-year-old woman complained to her physician of annoying constipation. One week earlier, she had developed a sore throat and a dry, nonproductive cough and was diagnosed with acute bronchitis. A drug treatment was started, and the cough gradually disappeared. Which of the following STUD most likely caused the constipation reported by the patient?",
+   "choices": [
+    "Theophylline",
+    "Buprenorphine",
+    "Albuterol",
+    "Morphine",
+    "Fentanyl",
+    "Codeine"
+   ],
+   "answer": 5,
+   "explanation": "Codeine is commonly used as an antitussive when a dry, nonproductive cough is disturbing the patient. Most opioids can cause constipation when used repeatedly, as in this case. A, B, F Most opioids can depress the cough reflex, but opioids such as buprenorphine, fentanyl, and morphine are not commonly used as antitussives. C, E Albuterol and theophylline can be used in cases of acute bronchitis because of their bronchodilating properties, but they usually do not cause constipation.",
+   "source": "Pharmacology III-12 Q21",
+   "topic": "Easy",
+   "topic_n": 15
+  },
+  {
+   "question": "A 36-year-old man complained of severe abdominal pain after surgery to remove a kidney stone. An analgesic drug was administered intramuscularly. Shortly after the administration, an itchy weal developed at the injection site, along with generalized pruritus. Which of the following drugs was most likely given to the patient?",
+   "choices": [
+    "Ibuprofen",
+    "Morphine",
+    "Fentanyl",
+    "Acetaminophen",
+    "Clonidine",
+    "Indomethacin"
+   ],
+   "answer": 1,
+   "explanation": "An intramuscular injection of morphine can release histamine, which can cause a local reaction (weal at the injection site and pruritus). A Most opioids can release histamine, but fentanyl and congeners (alfentanil, remifentanil, and sulfentanil) do not. B-E These drugs do not cause histamine release.",
+   "source": "Pharmacology III-12 Q22",
+   "topic": "Easy",
+   "topic_n": 16
+  },
+  {
+   "question": "A 74-year-old woman was admitted to the emergency department in a stupor from which she could be aroused only briefly by strong and repeated stimulation. The woman had received an intramuscular analgesic drug 2 hours earlier because of several minor abrasions and wounds secondary to a motor accident. Her records showed she was suffering from an anxiety disorder presently treated with diazepam. Which of the following analgesic drugs was most likely given to the patient?",
+   "choices": [
+    "Indomethacin",
+    "Acetaminophen",
+    "Aspirin",
+    "Ketorolac",
+    "Morphine",
+    "Piroxicam"
+   ],
+   "answer": 4,
+   "explanation": "; Pte er 23, p Opioids can have additive central nervous system depressant actions when given to a patient treated with a sedative hypnotic drug, such as diazepam. In the most serious instances, these actions can lead to stupor, as in this case. A-C, E, F These analgesic drugs do not have central nervous system depressant properties.",
+   "source": "Pharmacology III-12 Q23",
+   "topic": "Easy",
+   "topic_n": 17
+  },
+  {
+   "question": "A 33-year-old man was admitted to the emergency department because of severe agitation and hallucinatory behavior. He admitted he had been using marijuana (regularly) and LSD (from time to time). Shortly before admission, he self-injected what he believed to be “smack” (heroin) sold on the street. Which of the following opioids did the patient most likely take?",
+   "choices": [
+    "Pentazocine",
+    "Morphine",
+    "Buprenorphine",
+    "Fentanyl",
+    "Methadone"
+   ],
+   "answer": 0,
+   "explanation": "Pentazocine is an opioid that can cause dose-dependent dysphoria and psychotomimetic symptoms. It is sometimes sold illegally when heroin is not available. The drug is a partial agonist at up (mu) receptors and a full agonist at k (kappa) receptors. Dysphoria and psychotomimetic symptoms have been ascribed to activation of brain k receptors. Chronic users of cannabis and hallucinogens are more sensitive to hallucinogenic effects of drugs, as in this case. A, B, D, E With these drugs, the risk of hallucinogenic effects is negligible.",
+   "source": "Pharmacology III-12 Q24",
+   "topic": "Medium",
+   "topic_n": 6
+  },
+  {
+   "question": "A 62-year-old woman recovering from surgical repair of multiple fractures was complaining of severe pain. A standard dose of morphine was given intramuscularly. Which of the following adverse effects most likely occurred in this patient?",
+   "choices": [
+    "Impairment of far vision",
+    "Diarrhea",
+    "Dysphoria",
+    "Hypertension",
+    "Dry cough"
+   ],
+   "answer": 0,
+   "explanation": "Opioid analgesics have stimulant effects on the nucleus of Edinger—Westphal, the parasympathetic portion of cranial nerve III. The increase in parasympathetic firing causes constriction of the sphincter muscle of the iris (miosis) and the ciliary muscle (cyclospasm). This impairs the accommodation of the eye for far vision. A Opioids tend to cause euphoria in patients with pain, whereas dysphoria is more likely to occur in normally painfree people. C, D Opioids tend to cause constipation, not diarrhea, and hypotension, not hypertension. E Opioids are given to treat dry cough because they depress the cough center.",
+   "source": "Pharmacology III-12 Q25",
+   "topic": "Easy",
+   "topic_n": 18
+  },
+  {
+   "question": "A 63-year-old man with terminal prostate cancer developed fever (101.7°F, 38.7°C) followed by severe respiratory depression. For the past week, the patient had been receiving an analgesic medication by transdermal patch because of severe bone pain. Which of the following drugs was most likely administered to the patient?",
+   "choices": [
+    "Ketorolac cE So a Indomethacin",
+    "Pentazocine",
+    "Fentanyl",
+    "Ibuprofen",
+    "Codeine"
+   ],
+   "answer": 2,
+   "explanation": "Fentanyl is a (mu) receptor agonist that can be administered by transdermal patch. Because the drug is very lipid soluble, it can be absorbed slowly over about 3 days, providing a long-lasting analgesic effect. However, fever can increase the drug absorption, leading to an overdose effect, as in this case. Occasional fatalities due to this action of fentanyl are reported in the literature. A, B Pentazocine and codeine are less likely to cause respiratory depression and are not administered by transdermal patch. D-F Ibuprofen, ketorolac, and indomethacin are not administered by transdermal patch and have negligible risk of respiratory depression.",
+   "source": "Pharmacology III-12 Q26",
+   "topic": "Medium",
+   "topic_n": 7
+  },
+  {
+   "question": "A 59-year-old woman with metastatic breast cancer complained of increasing bone pain, no longer managed with acetaminophen and codeine. A daily treatment with oral morphine was started. Which of the following drugs should be given concomitantly to prevent one of the most common adverse effects of opioids?",
+   "choices": [
+    "Omeprazole",
+    "Lactulose",
+    "Nifedipine",
+    "Diazepam",
+    "Fluoxetine",
+    "Propranolol"
+   ],
+   "answer": 1,
+   "explanation": "Constipation is one of the most common side effects of opioids, affecting up to 40% of patients under chronic treatment. Therefore, all patients on chronic opioids should receive concomitant prophylaxis for constipation with laxatives (bulking laxatives, e.g., lactulose and agar; stimulant laxatives, e.g., senna and bisacodyl; or softening laxatives, e.g., docusate). It should be noted that, because the constipating effect does not undergo tolerance, concomitant therapy with laxatives should be continued indefinitely. A Diazepam would increase, not counteract, the sedative effect of morphine. B Selective serotonin reuptake inhibitors are contraindicated, or should be used with great caution, in patients taking opioids because of the risk of serotonin syndrome. D Opioids tend to cause bradycardia, which would be enhanced, not prevented, by B-blockers. E Opioids tend to cause hypotension, which would be enhanced, not prevented, by calcium channel blockers. F Opioids tend to decrease gastric secretion, which would be enhanced, not prevented, by omeprazole.",
+   "source": "Pharmacology III-12 Q27",
+   "topic": "Easy",
+   "topic_n": 19
+  },
+  {
+   "question": "A 62-year-old man suffering from metastatic prostate cancer complained of severe bone pain. The physician prescribed methadone. Which of the following was most likely one of the postreceptor mechanisms triggered by this drug?",
+   "choices": [
+    "Opening of Na+ channels on neuronal cell membrane",
+    "Inhibition of the synthesis of inositol triphosphate/diacylglycerol (IP,/DAG)",
+    "Stimulation of adenylyl cyclase activity",
+    "Blockade of Ca2+ channels on presynaptic nerve terminals",
+    "Inhibition of phospholipase C activity"
+   ],
+   "answer": 3,
+   "explanation": "Opioid receptors are mainly inhibitory receptors coupled to G,/G, proteins. The transduction mechanisms triggered by activation of these receptors include * Inhibition of N- and P-type Ca2+ channels in nerve terminals, which in turn reduces the release of a large number of neurotransmitters (mainly glutamate, but also acetylcholine, norepinephrine, serotonin, and substance P) * Activation of K* channels, which in turn leads to hyperpolarization * Activation of phospholipase C, which in turn increases the synthesis of IP,/DAG * Activation or inhibition of adenylyl cyclase, leading to either stimulation or inhibition A By increasing the activity of phospholipase C, opioids increase the synthesis of IP,/DAG. C Opioids have negligible effect on Na+ channels. D, E Opioids have actions opposite to these.",
+   "source": "Pharmacology III-12 Q28",
+   "topic": "Easy",
+   "topic_n": 20
+  },
+  {
+   "question": "A 35-year-old man admitted to the hospital because of a second-degree burn on his left forearm complained of increasing pain. An oral combination of acetaminophen/ codeine was administered for pain control. Which of the following statements best explain the reason for using this drug combination?",
+   "choices": [
+    "Codeine counteracts acetaminophen-induced hepatotoxicity.",
+    "Acetaminophen counteracts codeine-induced constipation.",
+    "The two drugs enhance each other’s analgesic effects.",
+    "The combination does not cause tolerance or dependence.",
+    "Acetaminophen speeds up the biotransformation of codeine into morphine."
+   ],
+   "answer": 2,
+   "explanation": "Acetaminophen and opioid analgesics provide pain relief by different mechanisms of action; thus, they have additive or synergistic effects when given concomitantly. A, B The two drugs do not antagonize each other’s adverse effects. C Tolerance to the codeine analgesic effect does occur with chronic use of the combination. D Acetaminophen does not affect codeine biotransformation.",
+   "source": "Pharmacology III-12 Q29",
+   "topic": "Easy",
+   "topic_n": 21
+  },
+  {
+   "question": "A51-year-old woman was admitted to the hospital with severe, intermittent right upper quadrant pain accompanied by nausea, vomiting, and clay-colored stools. Medical history of the patient indicated that she had been suffering from hypothyroidism for 2 years. The admitting diagnosis was biliary colic. Which of the following statements best explains why opioids were relatively contraindicated in this patient?",
+   "choices": [
+    "They can increase the risk of nausea and vomiting.",
+    "They are poorly metabolized in patients with liver disease.",
+    "They can cause smooth muscle spasm in the sphincter of Oddi.",
+    "They increase the risk of hepatotoxicity in patients with liver disease.",
+    "They are ineffective in patients with hypothyroidism."
+   ],
+   "answer": 2,
+   "explanation": "Opioids can induce smooth muscle spasm in the sphincter of Oddi, thereby increasing intrabiliary pressure. The resulting intraductal back pressure can aggravate pain symptoms. Because the duration of biliary hypertension can outlast the analgesic effect, it is better to avoid opioid analgesics in treating biliary colic. B Patients with hypothyroidism may have prolonged and exaggerated responses to opioids. C, D Opioids do not have these effects. E Opioids can cause nausea and vomiting, but they decrease the risk of nausea and vomiting when these symptoms are due to visceral pain.",
+   "source": "Pharmacology III-12 Q30",
+   "topic": "Medium",
+   "topic_n": 8
+  },
+  {
+   "question": "A 64-year-old man was brought to the emergency room for an episode of severe and crushing chest pain that radiated to his left arm and jaw. Thus far the pain had not responded to five nitroglycerin sublingual tablets. Other signs and symptoms were consistent with the diagnosis of acute myocardial infarction, and his physician was considering the use of an opioid analgesic. Which of the following opioids would be contraindicated in this patient?",
+   "choices": [
+    "Morphine",
+    "Methadone",
+    "Buprenorphine",
+    "Fentanyl",
+    "Pentazocine"
+   ],
+   "answer": 4,
+   "explanation": "Pentazocine is an opioid drug that can cause a dosedependent increase in arterial pressure, pulmonary pressure, and heart rate. For this reason, the drug is generally contraindicated in myocardial infarction. A-C These opioids are indicated, not contraindicated, in myocardial infarction. E Methadone is not contraindicated in myocardial infarction, but it is less suitable than morphine or meperidine because of its slow onset of action.",
+   "source": "Pharmacology III-12 Q31",
+   "topic": "Medium",
+   "topic_n": 9
+  },
+  {
+   "question": "A 47-year-old man complained of severe pain 3 days after surgery to remove a colon cancer. Physical examination and x-ray confirmed the diagnosis of postoperative adynamic ileus. An analgesic treatment was prescribed. Which of the following analgesic drugs would be contraindicated for this patient?",
+   "choices": [
+    "Ketorolac",
+    "Acetaminophen",
+    "Indomethacin",
+    "Morphine",
+    "Ibuprofen"
+   ],
+   "answer": 3,
+   "explanation": "Morphine and other p (mu) opioid receptor agonists are universally used for the treatment of acute postsurgical pain. However, they have an inhibitory effect on gastrointestinal tract motility and are therefore absolutely contraindicated in treating ileus that can occur mainly after abdominal surgery, as in this case. A, C-E These are analgesic-antipyretic drugs that are not contraindicated for this patient.",
+   "source": "Pharmacology III-12 Q32",
+   "topic": "Easy",
+   "topic_n": 22
+  },
+  {
+   "question": "A 74-year-old man was brought to the emergency department with strong pain following a car accident. Vital signs were blood pressure 190/100, pulse 55 bpm, respirations 12/min. Physical examination showed severe head trauma. The patient was currently taking nitroglycerin, lovastatin, and ranitidine. Which of the following analgesic drugs would be contraindicated for this patient?",
+   "choices": [
+    "Morphine",
+    "Ketorolac",
+    "Indomethacin",
+    "Aspirin",
+    "Acetaminophen"
+   ],
+   "answer": 0,
+   "explanation": "The patient’s vital signs suggest that head trauma had increased intracranial pressure. When this pressure is substantially elevated over a short period, there is a stimulation of the vasomotor area (which causes hypertension) and stimulation of vagal outflow (which causes bradycardia). Opioid analgesics generally are avoided in patients with head injury for the following reasons: * Opioids induce carbon dioxide retention, which in turn causes vasodilation of the cerebral arteries and a consequent increase in intracranial pressure, which might be already elevated because of the head injury, as in this case. * Head injury potentiates the respiratory depressant effects of opioids. A-C, E Nonsteroidal antiinflammatory drugs are not contraindicated in cases of head trauma.",
+   "source": "Pharmacology III-12 Q33",
+   "topic": "Easy",
+   "topic_n": 23
+  },
+  {
+   "question": "A 74-year-old man who had been suffering from occlusive atherosclerotic disease of the legs for 3 months complained that recently his pain had increased and was not relieved by nonsteroidal antiinflammatory drugs (NSAIDs). His physician changed the therapy and prescribed an appropriate treatment.",
+   "choices": [
+    "Haloperidol",
+    "A few days later, the patient reported that he was feeling much better and that the pain seemed to be still there, but that “it doesn’t bother me so much.” He also said that he was alittle sleepy during the day and had some difficulty in voiding his bladder. Which of the following drugs was most likely prescribed to the patient? A. Amitriptyline",
+    "Acetaminophen",
+    "Morphine",
+    "Diazepam",
+    "Ketorolac"
+   ],
+   "answer": 3,
+   "explanation": "The patient’s signs and symptoms indicate that he was most likely receiving an opioid analgesic. Opioid analgesics such as morphine are the only analgesics that can reduce the affective aspect of pain experience (“It doesn’t bother me so much”). The sedative effect of opioids can explain the patient’s drowsiness during the day, and the opioid-induced increased tone of the internal sphincter of the bladder can explain the difficulty in voiding. A Amitriptyline can have analgesic effects (mainly in neuropathic pain) but does not alter the affective aspect of pain experience. B, F Acetaminophen and ketorolac are less effective than opioids as analgesics and do not reduce the affective aspect of pain experience. C, E Haloperidol and diazepam can alter the affective aspect of the environment, but they are devoid of analgesic properties.",
+   "source": "Pharmacology III-12 Q34",
+   "topic": "Medium",
+   "topic_n": 10
+  },
+  {
+   "question": "A 65-year-old man with terminal cancer was suffering from continuous pain that had gradually increased in intensity and now was severe and no longer relieved by full therapeutic doses of ketorolac. His physician decided to change the therapy. Which of the following treatments would be most appropriate for this patient?",
+   "choices": [
+    "Fentanyl IM, as needed",
+    "Methadone PO, once daily",
+    "Tramadol PO, twice daily",
+    "Morphine intramuscularly (IM), as needed",
+    "Naproxen orally (PO), once daily"
+   ],
+   "answer": 1,
+   "explanation": "When cancer pain is severe and no longer relieved by nonsteroidal antiinflammatory drugs, an opioid analgesic is usually needed. Methadone is a strong opioid with excellent oral bioavailability and a long half-life (about 25 hours). Therefore, its administration is most convenient for the patient, and a single daily dose can provide adequate, continuous coverage. A See correct answer explanation. B, D Morphine and fentanyl are effective analgesics, but the administration route is more difficult and can be painful in cachectic patients with terminal cancer, as in this case. C Tramadol is a mild analgesic and is not appropriate for strong pain.",
+   "source": "Pharmacology III-12 Q35",
+   "topic": "Medium",
+   "topic_n": 11
+  },
+  {
+   "question": "A 34-year-old man, brought to the emergency department after a car collision, was fully conscious and complained of chest pain. He was also agitated, disoriented, moving all his limbs, and aggressive. Physical examination showed hematoma over the right orbit and strong pain on palpation of the 5th to 9th right ribs. Reflexes were grossly intact. A computed tomography (CT) scan was ordered. Which of the following pairs of drugs would be appropriate to induce “conscious sedation” in this patient to complete the CT scan?",
+   "choices": [
+    "Diazepam and acetaminophen",
+    "Zolpidem and morphine",
+    "Buspirone and meperidine",
+    "Lorazepam and fentanyl",
+    "Ibuprofen and codeine"
+   ],
+   "answer": 3,
+   "explanation": "Conscious sedation is aimed at providing alleviation of anxiety and pain, together with a diminished (but not abolished) state of consciousness. Benzodiazepines and opioids are used most often to obtain conscious sedation because this treatment has the advantage of being reversible by specific receptor antagonists (flumazenil and naloxone, respectively). The use of opioids must be very cautious in cases of head trauma because these drugs tend to increase intracranial pressure. In this case, the fact that the patient did not lose consciousness and had intact reflexes suggests that intracranial injury was unlikely and that the behavior of the patient was mainly related to pain. A Ibuprofen and codeine are mild analgesic drugs and therefore are not useful in this setting. B Buspirone is an anxiolytic drug with negligible hypnotic activity, and its antianxiety effect may take more than a week to become established. Therefore, it is not useful for acute treatments. C Zolpidem is a hypnotic drug used only for treatment of insomnia. E Diazepam could be appropriate, but acetaminophen is a mild analgesic and therefore not useful in this setting.",
+   "source": "Pharmacology III-12 Q36",
+   "topic": "Hard",
+   "topic_n": 2
+  },
+  {
+   "question": "A 44-year-old man complained to his physician of burning pain on his chest, especially when his clothes rubbed against it, and an itchy feeling in the same area. The patient was diagnosed with herpes zoster 3 weeks ago, but the painful rush on his chest disappeared after 8 days. The physician made a presumptive diagnosis and ordered a drug to allay pain. Which of the following drugs would be appropriate for this patient? Acetaminophen Ethosuximide Diazepam Tramadol Fluoxetine & p> Ibuprofen",
+   "choices": [
+    "Ibuprofen",
+    "Ethosuximide",
+    "Fluoxetine",
+    "Tramadol",
+    "Diazepam",
+    "Acetaminophen"
+   ],
+   "answer": 3,
+   "explanation": "The patient’s history and symptoms indicate that he was most likely suffering from postherpetic neuralgia, a painful condition that develops after a case of shingles. Shingles is a very common disease (about one million cases every year in the United States), and a number of shingles cases convert to postherpetic neuralgia. Three major classes of medications are commonly used in the treatment of neuropathic pain: antidepressants, especially tricyclics; anticonvulsants, especially gabapentin and carbamazepine; and sodium channel blockers, especially mexiletine. Opioids are usually not very effective, but tramadol is a unique dual-acting opioid agent, as it is a weak agonist at (mu) receptors but also inhibits the neuronal reuptake of serotonin and norepinephrine. It has shown effectiveness in a number of neuropathic pain states, including postherpetic neuralgia. A, F Antipyretics-analgesics are minimally effective against neuropathic pain. B Some anticonvulsants are effective in neuropathic pain, but ethosuximide is ineffective. C Benzodiazepines have no analgesic effects. E Serotonin and norepinephrine reuptake inhibitors such as venlafaxine and duloxetine are effective in neuropathic pain, but selective serotonin reuptake inhibitors are not.",
+   "source": "Pharmacology III-12 Q37",
+   "topic": "Hard",
+   "topic_n": 3
+  },
+  {
+   "question": "A 44-year-old man who underwent surgery to remove a lung cancer exhibited pronounced shivering upon recovering from surgery. An appropriate therapy was started that included fluid warming and an intravenous injection of a drug. Which of the following drugs was most likely administered?",
+   "choices": [
+    "Meperidine",
+    "Atropine",
+    "Indomethacin",
+    "Amitriptyline",
+    "Fluoxetine"
+   ],
+   "answer": 0,
+   "explanation": "Postanesthetic shivering is a common symptom after anesthesia, affecting 40 to 60% of patients who receive volatile anesthetics. Postanesthetic shivering can be subdivided into ¢ Thermoregulated shivering (with vasoconstriction), which is anormal response to hypothermia ¢ Nonthermoregulated shivering (without vasoconstriction). The mechanism is unknown but seems related to postoperative pain. Because many neuronal systems appear to modulate central thermoregulation, numerous drugs can have antishivering properties, including a, agonists (clonidine), cholinergic agonists (physostigmine), 5-HT, antagonists (ondansetron), and opiates (meperidine, morphine, fentanyl, and tramadol). Meperidine is more effective than equianalgesic concentration of other opiates and is currently used for postanesthetic shivering. The mechanism is still uncertain but seems to be related to activation of k (kappa) receptors and/or to activation of a subtype of a, receptors. A-C, E See correct answer explanation.",
+   "source": "Pharmacology III-12 Q38",
+   "topic": "Hard",
+   "topic_n": 4
+  },
+  {
+   "question": "A baby boy, born after normal delivery, presented with respiratory depression, pinpoint pupils, and low Apgar scores. His mother received two intramuscular injections of an analgesic drug 3 and 2 hours before the delivery because of strong erratic and very painful contractions. Which of the following drugs would be appropriate for the baby at this time?",
+   "choices": [
+    "Naloxone",
+    "Theophylline",
+    "Flumazenil",
+    "Caffeine",
+    "Albuterol",
+    "Ipratropium"
+   ],
+   "answer": 0,
+   "explanation": "The signs of the patient suggest that the mother was treated with morphine during labor. In this instance, the newborn baby can present signs of morphine overdose (pinpoint pupil, respiratory and central nervous system [CNS] depression) because the drug easily crosses the placenta. Naloxone, injected into the umbilical vein, easily counteracts the morphine-induced respiratory and central nervous system depression. Because naloxone actions are short, additional doses may be needed to maintain morphine reversal. A Flumazenil can counteract the depressive CNS effects induced by benzodiazepines, but not the ones induced by opioids. Moreover, diazepam is not an analgesic drug and does not cause all the symptoms shown by the baby. B, D Theophylline and caffeine can have respiratory stimulant properties, but they are functional antagonists of morphine-induced respiratory depression and therefore much less effective than naloxone, which is a pharmacological antagonist. E, F Albuterol and ipratropium are bronchodilating agents and are therefore useless in case of depression of the respiratory center.",
+   "source": "Pharmacology III-12 Q39",
+   "topic": "Medium",
+   "topic_n": 12
+  },
+  {
+   "question": "A 58-year-old woman was about to be discharged from the hospital after a hysterectomy. Her past medical history was significant for duodenal ulcer, which healed 1 year ago after",
+   "choices": [
+    "Methadone/aspirin",
+    "appropriate therapy. Because the patient still complained of some episodic abdominal pain, a postdischarge analgesic was prescribed. Which of the following drug combinations would be appropriate for this patient? A. Buprenorphine/ibuprofen",
+    "Fentanyl/ketorolac",
+    "Codeine/acetaminophen",
+    "Morphine/indomethacin"
+   ],
+   "answer": 3,
+   "explanation": "The codeine/acetaminophen combination is the one most frequently used to treat mild or moderate postsurgical pain. The onset of action is rapid, and it can be titrated to effect. A, B, D, E These combinations are not currently used to treat moderate postsurgical pain. Moreover, all these combinations include a nonsteroidal antiinflammatory drug. These agents are contraindicated in patients with present or past history of peptic ulcer, as in this case.",
+   "source": "Pharmacology III-12 Q40",
+   "topic": "Medium",
+   "topic_n": 13
+  },
+  {
+   "question": "A 34-year-old heroin addict was determined to “quit the habit” and started a detoxification program supervised by a certified physician. The program included the administration of a buprenorphine/naloxone combination to be given by the sublingual route. Which of the following was most likely the reason for using naloxone in the patient’s detoxification program?",
+   "choices": [
+    "To increase the absorption of buprenorphine",
+    "To counteract buprenorphine-induced respiratory depression",
+    "To prevent buprenorphine overdose",
+    "To discourage the intravenous abuse of buprenorphine fw To minimize buprenorphine tolerance"
+   ],
+   "answer": 3,
+   "explanation": "Naloxone is combined with buprenorphine in a sublingual preparation called suboxone. The aim of the combination was to prevent intravenous (IV) buprenorphine abuse. It is known that opioid addicts often dilute an opioid preparation and inject it IV. When given by the sublingual route, naloxone is minimally absorbed, whereas buprenorphine absorption is good (about 70%). If the combination is given IV, naloxone should block buprenorphine’s rewarding effects and even throw the addict into precipitated withdrawal. However, it is worth noting that these effects of the combination can be achieved, at best, only partially, because buprenorphine has a higher affinity for opioid receptors than naloxone and dissociates very slowly from opioid receptors. A-C, E None of these effects will occur, as the sublingual absorption of naloxone is negligible.",
+   "source": "Pharmacology III-12 Q41",
+   "topic": "Medium",
+   "topic_n": 14
+  },
+  {
+   "question": "A 68-year-old woman with breast cancer metastases complained to her physician of a dull bone pain that had been increasing over the past few days. The pain was initially relieved by ibuprofen, but now the drug was unable to control it. The patient described the pain as continuous but moderate. The physician decided to add to ibuprofen a drug whose analgesic effect is most likely due to its conversion to morphine. Which of the following drugs was most likely prescribed?",
+   "choices": [
+    "Codeine",
+    "Tramadol",
+    "Fentanyl",
+    "Pentazocine wp 7m OM Meperidine",
+    "Buprenorphine"
+   ],
+   "answer": 0,
+   "explanation": "Nonsteroidal antiinflammatory drugs (NSAIDs) are particularly useful in the management of cancer-related bone pain, but when they cannot control it, the addition of an opioid is the best course of action. Because the pain is moderate, a mild opioid such as codeine can be appropriate. About 10% of the administered codeine is demethylated to morphine. Because codeine has an exceptionally low affinity for opioid receptors, its analgesic effect is most likely the result of its conversion to morphine. This conclusion is supported by pharmacokinetic data. It is known that an oral codeine dose of 120 mg is about equieffective to the standard intramuscular morphine dose of 10 mg. The oral bioavailability of codeine reported in the literature is 70 to 90%. Therefore, about 96 mg of the 120-mg dose can be absorbed, and 10% of that dose (i.e., 9.6 mg) is converted to morphine. A, C-E None of these opioids are biotransformed to morphine. A 6. D We 18) F F Wy \\3s 24 18 D E 8. B Ush 4 B",
+   "source": "Pharmacology III-12 Q42",
+   "topic": "Easy",
+   "topic_n": 24
+  }
+ ]
+}

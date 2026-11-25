@@ -1,0 +1,487 @@
+{
+ "questions": [
+  {
+   "question": "A partial agonist at serotonin (5-hydroxytryptamine, 5-HT) S-HT,, receptors",
+   "choices": [
+    "Flunitrazepam",
+    "Thiopental",
+    "Alprazolam",
+    "Flumazenil",
+    "Lorazepam",
+    "Midazolam",
+    "Phenobarbital",
+    "Clonazepam",
+    "Buspirone",
+    "Zolpidem"
+   ],
+   "answer": 8,
+   "explanation": "Matching question; the book prints only the answer key for matching sets (key: B).",
+   "source": "Pharmacology III-2 Q1",
+   "topic": "Easy",
+   "topic_n": 1
+  },
+  {
+   "question": "Acompetitive antagonist at benzodiazepine receptors",
+   "choices": [
+    "Alprazolam",
+    "Flumazenil",
+    "Phenobarbital",
+    "Clonazepam",
+    "Thiopental",
+    "Midazolam",
+    "Flunitrazepam",
+    "Buspirone",
+    "Lorazepam",
+    "Zolpidem"
+   ],
+   "answer": 1,
+   "explanation": "Matching question; the book prints only the answer key for matching sets (key: D).",
+   "source": "Pharmacology III-2 Q2",
+   "topic": "Easy",
+   "topic_n": 2
+  },
+  {
+   "question": "A hypnotic drug with negligible effects on sleep architecture and stages",
+   "choices": [
+    "Zolpidem",
+    "Flunitrazepam",
+    "Buspirone",
+    "Alprazolam",
+    "Midazolam",
+    "Clonazepam",
+    "Lorazepam",
+    "Phenobarbital",
+    "Flumazenil",
+    "Thiopental"
+   ],
+   "answer": 0,
+   "explanation": "Matching question; the book prints only the answer key for matching sets (key: J).",
+   "source": "Pharmacology III-2 Q3",
+   "topic": "Easy",
+   "topic_n": 3
+  },
+  {
+   "question": "The barbiturate most frequently used to induce general anesthesia",
+   "choices": [
+    "Clonazepam",
+    "Lorazepam",
+    "Buspirone",
+    "Midazolam",
+    "Flumazenil",
+    "Alprazolam",
+    "Zolpidem",
+    "Phenobarbital",
+    "Thiopental",
+    "Flunitrazepam"
+   ],
+   "answer": 8,
+   "explanation": "Matching question; the book prints only the answer key for matching sets (key: I).",
+   "source": "Pharmacology III-2 Q4",
+   "topic": "Easy",
+   "topic_n": 4
+  },
+  {
+   "question": "A benzodiazepine with a very short half-life (about 2 hours)",
+   "choices": [
+    "Zolpidem",
+    "Lorazepam",
+    "Thiopental",
+    "Phenobarbital",
+    "Buspirone",
+    "Flunitrazepam",
+    "Flumazenil",
+    "Alprazolam",
+    "Midazolam",
+    "Clonazepam"
+   ],
+   "answer": 8,
+   "explanation": "Matching question; the book prints only the answer key for matching sets (key: G).",
+   "source": "Pharmacology III-2 Q5",
+   "topic": "Easy",
+   "topic_n": 5
+  },
+  {
+   "question": "An anxiolytic drug with negligible abuse liability",
+   "choices": [
+    "Zolpidem",
+    "Phenobarbital",
+    "Lorazepam",
+    "Flumazenil",
+    "Buspirone",
+    "Midazolam",
+    "Flunitrazepam",
+    "Alprazolam",
+    "Clonazepam",
+    "Thiopental"
+   ],
+   "answer": 4,
+   "explanation": "Matching question; the book prints only the answer key for matching sets (key: B).",
+   "source": "Pharmacology III-2 Q6",
+   "topic": "Easy",
+   "topic_n": 6
+  },
+  {
+   "question": "A 42-year-old man recently diagnosed with generalized anxiety disorder had started a treatment with sertraline, but the drug caused some sexual dysfunction, and the psychiatrist decided to switch to a short course of alprazolam. Which of the following molecular actions on neuronal membranes most likely mediated the therapeutic effect of alprazolam in the patient’s disorder?",
+   "choices": [
+    "Increased inward Cl current",
+    "Decreased outward Na+ current",
+    "Decreased outward K* current",
+    "Increased inward Ca2* current"
+   ],
+   "answer": 0,
+   "explanation": "Benzodiazepines bind to receptors located at the interface between a and y subunits of the GABA, receptor-chloride ion channel macromolecular complex. The binding increases the affinity of the GABA, receptor for GABA, which in turn causes an increased frequency of chloride channel opening. Because extracellular chloride concentration is about 120 mM, and intracellular chloride concentration is about 20 mM, chloride channel opening will increase inward Cl current. This in turn will increase the negative charges inside the cell, causing hyperpolarization of the cell membrane. A, C-E Benzodiazepines do not affect these currents. Moreover, all of these actions would cause depolarization, not hyperpolarization, of cell membranes.",
+   "source": "Pharmacology III-2 Q7",
+   "topic": "Medium",
+   "topic_n": 1
+  },
+  {
+   "question": "A 63-year-old woman was referred to a psychiatrist because of easy fatigue, worry, irritability, and difficulty concentrating. These symptoms had been present almost continuously during the daytime since she retired from her job as a schoolteacher 1 month ago. She told the doctor that those symptoms were unbearable and that she wanted to die. A preliminary diagnosis of severe generalized anxiety disorder was made, and a treatment with sertraline and diazepam was prescribed. Which of the following adverse effects were most likely to occur during the first days of therapy?",
+   "choices": [
+    "Respiratory depression and apnea",
+    "Excessive sedation and drowsiness",
+    "Mental confusion and anterograde amnesia",
+    "Excitement and irritability",
+    "Disturbing dreams and early awakening"
+   ],
+   "answer": 1,
+   "explanation": "Today selective serotonin reuptake inhibitors (SSRIs) are first-line agents for generalized anxiety disorder, but because they have a slow onset of action, a benzodiazepine is often given concomitantly for the first few days to provide acute relief of symptoms when anxiety is severe and includes a suicide risk (patient wanted to die). Sedation and drowsiness are adverse effects that occur in more than 50% of patients on long- or medium-acting benzodiazepines. They represent an extension of pharmacological effects and are dose-related. Tolerance (at least partial) to these effects usually occurs after 2 to 3 weeks of use. Drowsiness can occur in about 10% of patients taking sertraline. A These effects are not common (they occur in 2 to 5% of patients taking benzodiazepines). B, D These effects occur only with high doses of benzodiazepines. E Benzodiazepines improve the quality of sleep, and early awakening is unlikely with long- and medium-acting compounds. Nightmares with sertraline are exceedingly rare.",
+   "source": "Pharmacology III-2 Q8",
+   "topic": "Medium",
+   "topic_n": 2
+  },
+  {
+   "question": "A 36-year-old man was referred to a psychiatrist because of irritability, worrying thoughts, palpitations, dry mouth, and insomnia of 1-month duration. The man had a past history of alcohol abuse, but he was able to quit 1 year ago after psychological counseling and drug therapy. Recently, he suffered from erectile dysfunction, treated with sildenafil. A provisional diagnosis of generalized anxiety disorder was made, and cognitive behavioral therapy with a drug treatment was prescribed. Which of the following drugs would be most appropriate for this patient?",
+   "choices": [
+    "Lithium",
+    "Lorazepam",
+    "Diazepam",
+    "Haloperidol",
+    "Buspirone",
+    "Fluoxetine"
+   ],
+   "answer": 4,
+   "explanation": "Buspirone is considered a second-line agent for generalized anxiety disorders because of inconsistent reports of longterm efficacy. However, it can be the appropriate drug in patients who fail other anxiolytic therapies or in patients with a history of substance abuse, as in this case. A, C Benzodiazepines can cause dependence and therefore are contraindicated in a person with a past history of substance abuse. B Selective serotonin reuptake inhibitors are drugs of choice for anxiety disorders but are relatively contraindicated in this patient because of the recent episode of sexual dysfunction. D, E Neuroleptics, such as haloperidol, and lithium have negligible anxiolytic properties.",
+   "source": "Pharmacology III-2 Q9",
+   "topic": "Medium",
+   "topic_n": 3
+  },
+  {
+   "question": "A 75-year-old woman was undergoing cystoscopy for a suspected papilloma of the bladder. Before the procedure, the anesthesiologist administered alprazolam to induce conscious sedation and to avoid situational anxiety. When the cystoscopy was over, flumazenil was administered. Which of the following terms best defines the mode of action of this drug?",
+   "choices": [
+    "Full agonist",
+    "Partial agonist",
+    "Competitive antagonist",
+    "Inverse agonist",
+    "Functional antagonist"
+   ],
+   "answer": 2,
+   "explanation": "Flumazenil is a competitive benzodiazepine (BDZ) receptor antagonist that can block both the effects of BDZ and those of B-carboline derivatives, the inverse agonists at BDZ receptors. It can also block the effects of z-hypnotics but does not antagonize those of other central nervous system depressants (barbiturates, buspirone, ethanol, etc.). It is used clinically to counteract excessive effects of BDZ, as in this case. Because it can cause several (and sometimes serious) unwanted effects, it is not currently used in case of BDZ poisoning. A, B, C, D See correct answer explanation.",
+   "source": "Pharmacology III-2 Q10",
+   "topic": "Easy",
+   "topic_n": 7
+  },
+  {
+   "question": "A 44-year-old man complained to his physician of being tired, irritable, and tense, with frequent stomach upset and diarrhea. The man denied past or present use of any illicit drugs or alcohol. Past medical history of the patient was significant for peptic ulcer, presently treated with omeprazole, and for myasthenia gravis, presently treated with neostigmine. After further clinical assessment, a diagnosis of generalized anxiety disorder was made, and an appropriate therapy was prescribed. Which of the following drugs would be relatively contraindicated for this patient?",
+   "choices": [
+    "Sertraline",
+    "Venlafaxine",
+    "Paroxetine",
+    "Diazepam",
+    "Buspirone"
+   ],
+   "answer": 3,
+   "explanation": "Because of their muscle relaxant properties, benzodiazepines are relatively contraindicated in myasthenia gravis. A-C, E All of these agents are first- or second-choice drugs in treating generalized anxiety disorder. They lack muscle relaxant activities and therefore are not contraindicated in myasthenic patients.",
+   "source": "Pharmacology III-2 Q11",
+   "topic": "Easy",
+   "topic_n": 8
+  },
+  {
+   "question": "A 63-year-old woman complained to her physician of difficulty in falling asleep. She denied nocturnal insomnia or early awaking. The doctor prescribed ramelteon, one tablet at bedtime. Which of the following molecular actions most likely mediated the therapeutic effect of the drug?",
+   "choices": [
+    "Activation of serotonin 5-HT, receptors",
+    "Activation of GABA, receptors",
+    "Blockade of glutamate receptors",
+    "Activation of melatonin receptors",
+    "Blockade of a, receptors"
+   ],
+   "answer": 3,
+   "explanation": "Melatonin receptors are thought to be involved in maintaining circadian rhythms underlying the sleep-wake cycle. Ramelteon, a novel hypnotic drug prescribed specifically for sleep-onset insomnia, is an agonist at melatonin receptors located in the suprachiasmatic nuclei of the brain. A, B, D, E See correct answer explanation.",
+   "source": "Pharmacology III-2 Q12",
+   "topic": "Easy",
+   "topic_n": 9
+  },
+  {
+   "question": "A58-year-old man was admitted to the hospital for a laparoscopic hernia repair. General anesthesia was induced by intravenous diazepam, and the patient lost consciousness in about 1 minute. He regained consciousness about 35 minutes later. Knowing that the half-life of diazepam is about 40 hours, which of the following items best explains the short action of the drug?",
+   "choices": [
+    "Biotransformation of the drug into inactive metabolites",
+    "Redistribution of the drug from central nervous system to other tissues",
+    "Rapid metabolism of the drug within the central nervous system",
+    "Development of a rapid tolerance to drug effects",
+    "Rapid excretion of the drug by the kidneys"
+   ],
+   "answer": 1,
+   "explanation": "Redistribution of a drug from its site of action into other tissues or sites is a main factor in terminating drug effect, primarily when a highly lipid-soluble drug that acts on the brain is administered rapidly by intravenous (IV) injection. A good example of this is the use of IV injection of diazepam (a highly lipid-soluble drug) to induce loss of consciousness. Because blood flow to the brain is so high, the drug reaches its maximal concentration in the brain within 1 minute of its IV injection. After the injection is concluded, the plasma concentration falls as diazepam diffuses into other tissues, such as muscle. A, D Diazepam is extensively metabolized in the liver (not in the brain) to desmethyldiazepam and oxazepam. Both metabolites are active. Therefore, biotransformation cannot explain the short action of the drug. B The renal excretion of diazepam is about 1%. E Tolerance can develop to the action of benzodiazepines, but only after a chronic treatment of several days.",
+   "source": "Pharmacology III-2 Q13",
+   "topic": "Easy",
+   "topic_n": 10
+  },
+  {
+   "question": "A 43-year-old man suffering from rectal bleeding was admitted to the hospital for a colonoscopy. An intravenous injection of diazepam was given before the procedure to induce a conscious sedation. Which of the following symptoms did the patient most likely experience upon recovery from sedation?",
+   "choices": [
+    "Anterograde amnesia",
+    "Limb muscle spasms",
+    "Increased respiratory rate",
+    "Delusional thoughts",
+    "Nausea and vomiting"
+   ],
+   "answer": 0,
+   "explanation": "A classical effect of benzodiazepines (mainly when high doses are given to induce conscious sedation) is anterograde amnesia, that is, loss of memory for events occurring during the drug’s duration of action. The effect is exploited therapeutically, because the patient cannot remember the unpleasant sensations felt during endoscopic or surgical procedures, as in this case. A Benzodiazepines have very mild antiemetic properties. B, D Benzodiazepines tend to cause effects opposite to those listed. E Delusion and hallucinations are exceedingly rare effects of benzodiazepines.",
+   "source": "Pharmacology III-2 Q14",
+   "topic": "Easy",
+   "topic_n": 11
+  },
+  {
+   "question": "A 34-year-old man exhibited severe agitation, fearfulness, and apprehension upon recovery from surgery to remove a colon cancer. He was given an intravenous injection of a drug that acts by making the resting membrane potentials of short interneurons in several brain areas more negative. Which of the following drugs was most likely administered?",
+   "choices": [
+    "Buspirone",
+    "Alprazolam",
+    "Imipramine",
+    "Thiopental",
+    "Haloperidol",
+    "Trazodone"
+   ],
+   "answer": 1,
+   "explanation": "The patient most likely received a short-acting benzodiazepine, such as alprazolam, a drug used in the surgical setting for the rapid relief of agitation in postoperative patients. Benzodiazepines increase the frequency of chloride channel opening, thus making the resting membrane potential of GABA interneurons more negative in several brain areas. A-C, E, F All of these drugs can cause, directly or indirectly, neuronal membrane hyperpolarization (i.e., more negative resting membrane potential), but they are not used for rapid relief of postsurgical agitation.",
+   "source": "Pharmacology III-2 Q15",
+   "topic": "Easy",
+   "topic_n": 12
+  },
+  {
+   "question": "A 16-year-old girl brought by ambulance to the emergency department was diagnosed with status epilepticus and was given an intravenous injection of a drug that binds to the a subunit of the GABA, receptor complex. Which of the following drugs was most likely administered?",
+   "choices": [
+    "Lorazepam",
+    "Valproic acid",
+    "Phenytoin w Valproic acid",
+    "Zolpidem",
+    "Flumazenil"
+   ],
+   "answer": 0,
+   "explanation": "Benzodiazepines (mainly diazepam and lorazepam) are first-line agents for the emergency treatment of status epilepticus. They bind to receptors located at the « subunit of the GABA, receptor-chloride ion channel macromolecular complex, near the interface between a and y subunits. GABA, receptors in different areas of the central nervous system consist of different isoforms containing five different « subunits (Q,, 5, 3, _4and _,). Benzodiazepines can bind to many of these subunits. B, C Zolpidem and flumazenil bind to « subunits of GABA receptors, but they are not used as anticonvulsants. D, E Phenytoin and valproic acid are used as anticonvulsants, but they do not bind GABA receptor components.",
+   "source": "Pharmacology III-2 Q16",
+   "topic": "Easy",
+   "topic_n": 13
+  },
+  {
+   "question": "A 67-year-old woman suffering from primary insomnia had started treatment with zolpidem, but the drug was withdrawn because she developed conjunctivitis, apparently due to a hypersensitivity reaction to the drug. Her physician prescribed behavioral therapy and a short course of temazepam, one tablet at bedtime. Which of the following was most likely an action of the drug on the patient’s sleep architecture?",
+   "choices": [
+    "Decreased number of rapid eye movement (REM) sleep cycles",
+    "Increased duration of stage 1 sleep",
+    "Decreased latency of sleep onset",
+    "Increased duration of slow-wave sleep"
+   ],
+   "answer": 2,
+   "explanation": "Benzodiazepines alter sleep architecture and stages. They decrease sleep latency and decrease awakening during the night. All other effects on sleep are opposite to those listed. Benzodiazepines are less frequently used today for insomnia because of the risk of dependence. Experts agree that these drugs should be used at the lowest effective dose for the shortest duration possible. A, C-E See correct answer explanation.",
+   "source": "Pharmacology III-2 Q17",
+   "topic": "Medium",
+   "topic_n": 4
+  },
+  {
+   "question": "An 82-year-old man was brought to his physician by his son, who reported that his father appeared oversedated, spending the whole day dozing. Further questioning revealed that the man had for some time been taking a “sleeping pill” given to him by a friend, but he did not remember the name of the drug. Which of the following drugs most likely caused the patient’s disorder?",
+   "choices": [
+    "Chlorpromazine",
+    "Zolpidem",
+    "Phenobarbital",
+    "Ramelteon",
+    "Temazepam",
+    "Buspirone"
+   ],
+   "answer": 4,
+   "explanation": "The patient had most likely taken temazepam, a benzodiazepine often used by practicing physicians to treat insomnia. Elderly people are more sensitive to the depressive effects of these drugs, and the daily dose can easily be mistaken, if the drug is taken without strict supervision, as in this case. A, C Zolpidem and ramelteon have very short half-lives, so they are less prone to cause daytime sedation. D-F Chlorpromazine, buspirone, and phenobarbital are not prescribed as hypnotics. 139",
+   "source": "Pharmacology III-2 Q18",
+   "topic": "Medium",
+   "topic_n": 5
+  },
+  {
+   "question": "A 78-year-old man was admitted to the hospital because of a broken leg. His wife reported that he was walking in the dining room when he suddenly lost his balance and fell down. The man had been suffering from atrial fibrillation, insomnia, hypertension, and anxiety. The patient’s medications on admission were atenolol, warfarin, diazepam, losartan, and hydrochlorothiazide. Which of these drugs was most likely to have contributed to the patient’s accident?",
+   "choices": [
+    "Losartan",
+    "Warfarin",
+    "Diazepam",
+    "Atenolol"
+   ],
+   "answer": 2,
+   "explanation": "The link between benzodiazepine use and falls is well documented and may result from balance impairment, sedation, and muscle relaxant effects. Although tolerance can develop to these benzodiazepine actions, elderly people may experience persistent impairment. The chronic use of benzodiazepines is therefore relatively contraindicated in the elderly. A, B, D, E These drugs do not increase the risk of fallrelated fractures.",
+   "source": "Pharmacology III-2 Q19",
+   "topic": "Easy",
+   "topic_n": 14
+  },
+  {
+   "question": "A 45-year-old man had been suffering from a central nervous system disorder for many years. Recently, a barbiturate was added to his pharmacotherapy. Which of the following central nervous system effects was most likely elicited by that drug?",
+   "choices": [
+    "Analgesic",
+    "Antiparkinson",
+    "Anticonvulsant Pie GN Analgesic",
+    "Antidepressant",
+    "Antipsychotic"
+   ],
+   "answer": 2,
+   "explanation": "The man most likely suffered from epilepsy, and phenobarbital was added to his pharmacotherapy. Phenobarbital is a barbituric acid derivative and is considered a second-line agent in epilepsy. All barbiturates can offset convulsions when given at doses that cause loss of consciousness, but phenobarbital has anticonvulsant properties even in doses that do not affect alertness. A-C Barbiturates are devoid of antidepressant, antipsychotic, or antiparkinson properties. E Although barbiturates are still included in analgesic combinations, they are devoid of analgesic properties, and they actually may worsen a patient’s perception of pain.",
+   "source": "Pharmacology III-2 Q20",
+   "topic": "Easy",
+   "topic_n": 15
+  },
+  {
+   "question": "A66-year-old man who had been a heavy smoker for 30 years was undergoing bronchoscopy for suspected bronchogenic carcinoma. Before starting the intervention, the anesthesiologist administered a drug to prevent situational anxiety and to provide anterograde amnesia of the procedure. Which of the following drugs would be appropriate for this patient?",
+   "choices": [
+    "Chlorpromazine",
+    "Buspirone",
+    "Zolpidem",
+    "Haloperidol",
+    "Oxazepam"
+   ],
+   "answer": 4,
+   "explanation": "In addition to the anxiolytic effect, benzodiazepines given at high doses can cause anterograde amnesia, that is, impairment of memory for events occurring after the administration of the drug. This action is particularly useful when the patient has to undergo a disturbing diagnostic procedure, as in this case. Because the intervention is brief, a short-acting benzodiazepine such as oxazepam is most appropriate. A Buspirone is an anxiolytic drug, but the effect develops slowly (in 1 to 2 weeks), and anterograde amnesia does not occur. B, C, E These drugs cause negligible anxiolytic effects and negligible anterograde amnesia.",
+   "source": "Pharmacology III-2 Q21",
+   "topic": "Medium",
+   "topic_n": 6
+  },
+  {
+   "question": "A 37-year-old man was brought unconscious to the emergency department. His roommate stated that the man had been very depressed for the last few days and that he had been drinking whiskey all day. The roommate also said he found an empty, unlabeled drug bottle next to him on the bed. Which of the following drugs most likely contributed to the patient’s intoxication?",
+   "choices": [
+    "Venlafaxine",
+    "Buspirone",
+    "Diazepam",
+    "Lithium",
+    "Fluoxetine"
+   ],
+   "answer": 2,
+   "explanation": "Poisoning by benzodiazepines, such as diazepam, is usually not life-threatening but can be very serious when these drugs are combined with alcohol because of the additive depressant effects on the central nervous system. A, C-F These drugs do not cause additive sedative effects when given concomitantly with alcohol.",
+   "source": "Pharmacology III-2 Q22",
+   "topic": "Easy",
+   "topic_n": 16
+  },
+  {
+   "question": "A 61-year-old obese man complained of difficulty in falling asleep and asked his physician for a sleeping pill. The man had been recently diagnosed with obstructive sleep apnea, most likely due to obesity. Which of the following drugs would be contraindicated for this patient?",
+   "choices": [
+    "Protriptyline",
+    "Medroxyprogesterone",
+    "Imipramine",
+    "Temazepam",
+    "Acetazolamide"
+   ],
+   "answer": 3,
+   "explanation": "Sleep apnea is a breathing disorder characterized by frequent and prolonged (more than 15 seconds) pauses in breathing that occur during sleep. Typical symptoms of sleep apnea include alteration in sleep pattern with loud snoring, excessive daytime sleepiness, and severe shortness of breath on exertion. In sleep apnea, the sensitivity of the respiratory center to carbon dioxide is decreased. Sedative-hypnotics drugs are generally contraindicated in this disorder, as they further decrease the sensitivity of the respiratory center to hypercapnia. B-E All of these drugs have been used in sleep apnea with modest results.",
+   "source": "Pharmacology III-2 Q23",
+   "topic": "Medium",
+   "topic_n": 7
+  },
+  {
+   "question": "A 26-year-old woman, suffering from cerebral palsy and seizures secondary to head injury, was seen in a clinic for a scheduled visit. She was spastic and unable to walk. Medical history indicated that for the month prior to the visit, her seizures had not been well controlled. Which of the following drugs would be appropriate to improve her seizure control and muscle spasms?",
+   "choices": [
+    "Fluoxetine",
+    "Diazepam",
+    "Haloperidol",
+    "Donepezil",
+    "Buspirone",
+    "Lithium"
+   ],
+   "answer": 1,
+   "explanation": "All benzodiazepines have anticonvulsant and muscle relaxant activity. The latter is at least partly related to the enhancement of GABA-induced inhibition of synaptic transmission in the spinal cord, because they are effective in patients with cord transection. Because the condition of the patient is a chronic one, a long-acting benzodiazepine is most appropriate. A-E All of these drugs are devoid of muscle relaxant properties.",
+   "source": "Pharmacology III-2 Q24",
+   "topic": "Easy",
+   "topic_n": 17
+  },
+  {
+   "question": "A 32-year-old man complained to his physician of attacks of intense terror while he was asleep, such as feeling crushed. He often woke up screaming but without remembering any specific dream. He also felt worried and restless from time to time during the day. Which of the following drugs would be most likely to provide a short-term decrease in the patient's symptoms?",
+   "choices": [
+    "Phenobarbital",
+    "Temazepam",
+    "Haloperidol",
+    "Imipramine",
+    "Lithium"
+   ],
+   "answer": 1,
+   "explanation": "The patient’s symptoms indicate that he is suffering from insomnia characterized by difficulty in maintaining sleep during the night because of nightmares. A benzodiazepine hypnotic is preferable in this patient because of the need for anxiolytic effect in addition to hypnotic efficacy. Moreover, benzodiazepines tend to decrease slow-wave sleep that is commonly associated with nightmares. A medium-acting benzodiazepine, such as temazepam, which can maintain sleep throughout the night, would be appropriate for this patient. A, C-E These drugs are devoid of hypnotic properties.",
+   "source": "Pharmacology III-2 Q25",
+   "topic": "Medium",
+   "topic_n": 8
+  },
+  {
+   "question": "A 34-year-old woman visited a psychiatrist because of overwhelming panic symptoms that occurred “out of the blue.” She felt light-headed, dizzy, and feared losing control or going crazy. She also felt nausea, a lump in her throat, shortness of breath, and palpitations. These symptoms lasted about 30 minutes. The woman had two of these attacks the previous month. Two days ago she had started a treatment with sertraline prescribed by her family physician, but yesterday she suffered another attack. After further clinical assessment, a preliminary diagnosis was made, and the psychiatrist decided to prescribe a drug in addition to sertraline. Which of the following would be an appropriate additional drug for the patient at this time?",
+   "choices": [
+    "Eszopiclone",
+    "Alprazolam",
+    "Aripiprazole",
+    "Thiopental",
+    "Buspirone"
+   ],
+   "answer": 1,
+   "explanation": "The patient’s symptoms indicate that she was most likely suffering from a panic disorder. A selective serotonin reuptake inhibitor (SSRI), such as sertraline, is an appropriate first-line treatment for most patients with panic disorder. However, patients with severe or distressing symptoms may initially require concurrent benzodiazepine therapy that of provides quick relief until the therapeutic effects of the SSRI are evident. A-C, E None of these drugs are effective in panic disorders.",
+   "source": "Pharmacology III-2 Q26",
+   "topic": "Medium",
+   "topic_n": 9
+  },
+  {
+   "question": "A 56-year-old homeless alcoholic man was brought to the emergency department by police, who found him wandering in the street. The man was nauseated, tremulous, and hallucinating. He stated he was out of money and unable to buy his usual daily amount of whiskey. Which of the following would be an appropriate drug to treat the acute alcohol withdrawal of this patient?",
+   "choices": [
+    "Ethanol",
+    "Buspirone",
+    "Naltrexone",
+    "Imipramine",
+    "Diazepam",
+    "Haloperidol"
+   ],
+   "answer": 4,
+   "explanation": "The time-honored principle of treating an abstinence syndrome with an agent to which the abused drug induces cross-tolerance holds for ethanol as well. A long-acting benzodiazepine, such as diazepam, is the drug most commonly used in alcohol withdrawal, but a short-acting agent such as oxazepam can be administered every 4 to 6 hours according to the stage and severity of withdrawal. Theoretically, ethanol itself should be effective but is never used because of its short duration of action and its narrow range of safety. A-E See correct answer explanation.",
+   "source": "Pharmacology III-2 Q27",
+   "topic": "Easy",
+   "topic_n": 18
+  },
+  {
+   "question": "A 57-year-old man complained to his physician that he had difficulty in falling asleep. He was a schoolteacher and needed a good night’s sleep to perform effectively during the day. Zolpidem was prescribed, one tablet at bedtime. The prescribed drug most likely caused which of the following effects on ion conductance of central nervous system neurons?",
+   "choices": [
+    "Increased K* conductance",
+    "Decreased K* conductance",
+    "Decreased Na+ conductance",
+    "Increased Cl conductance",
+    "Decreased Ca** conductance E."
+   ],
+   "answer": 3,
+   "explanation": "Z-hypnotics (zolpidem, zaleplon, and eszopiclone) bind selectively to the a, subunit of the GABA, receptor-chloride channel complex. This selectivity may account for their relative lack of effect on sleep architecture and stages, as well as for the negligible anxiolytic, anticonvulsant, and muscle relaxant properties. The binding increases the GABA-mediated opening of Cl channels, leading to an increase in Cl” conductance. The enhanced concentration of Cl inside the cell causes hyperpolarization of the cell membrane. A, C-E See correct answer explanation.",
+   "source": "Pharmacology III-2 Q28",
+   "topic": "Easy",
+   "topic_n": 19
+  },
+  {
+   "question": "A 49-year-old woman complained to her physician that she could get to sleep when she went to bed but woke up several times during the night and never felt refreshed in the morning. The woman had no medical problems and took no medications. Which of the following drugs would be most appropriate for this patient?",
+   "choices": [
+    "Eszopiclone",
+    "Buspirone",
+    "Flunitrazepam",
+    "Fluoxetine",
+    "Haloperidol 7amoOM wp Imipramine"
+   ],
+   "answer": 0,
+   "explanation": "Nonbenzodiazepines acting on GABA receptors (the socalled Z-hypnotics) are currently preferred to treat insomnia, because they do not alter sleep architecture and stages, do not have significant anxiolytic or anticonvulsant properties, and have a lower risk of dependence compared to the short-acting benzodiazepines. The choice of hypnotic drugs depends on the type of insomnia presented by the patient. When there is difficulty in falling asleep, a short-acting drug is appropriate; when there is difficulty in maintaining sleep during the night, a medium-acting drug such as eszopiclone (t,, 4-7 h) is appropriate, as in this case. A Flunitrazepam is a long-acting benzodiazepine and is therefore not appropriate as a hypnotic because of the risk of daytime sedation and drowsiness. B, D-F These drugs have negligible hypnotic activity.",
+   "source": "Pharmacology III-2 Q29",
+   "topic": "Medium",
+   "topic_n": 10
+  },
+  {
+   "question": "A 43-year-old man was brought to the emergency department after a car accident. He showed only minor injuries but was very anxious and excited. The patient had a history of epilepsy and had been stabilized on phenobarbital for several years. The attending physician administered a sedative drug intravenously. Several minutes later the patient became cyanotic and apneic, and his blood pressure was 100/55 mm Hg. Which of the following drugs most likely caused these adverse effects?",
+   "choices": [
+    "Buspirone",
+    "Fluoxetine",
+    "Chlorpromazine",
+    "Thiopental",
+    "Haloperidol",
+    "Diazepam"
+   ],
+   "answer": 5,
+   "explanation": "Benzodiazepines do not cause significant respiratory depression when given alone, but they can do so when they are given with other central nervous system depressants. In this case, the attending physician most likely did not take a detailed history and thus overlooked the antiepileptic therapy of the patient. Because of the interaction between phenobarbital and diazepam, the patient underwent severe respiratory depression. A, B, D-F These drugs are not used for the rapid relief of acute anxiety symptoms. DONPFWFIn-ToOF 8. BmMNPrPBWBDOIMTN)H (a (alice! mals ll ts a iia\" Waris)",
+   "source": "Pharmacology III-2 Q30",
+   "topic": "Medium",
+   "topic_n": 11
+  }
+ ]
+}

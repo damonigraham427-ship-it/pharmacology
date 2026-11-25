@@ -1,0 +1,792 @@
+{
+ "questions": [
+  {
+   "question": "A penicillinase-resistant penicillin",
+   "choices": [
+    "Cefotetan",
+    "Vancomycin",
+    "Cloxacillin",
+    "Cefotaxime",
+    "Ceftriaxone",
+    "Cefepime",
+    "Ticarcillin",
+    "Aztreonam",
+    "Piperacillin",
+    "Ampicillin",
+    "Ceftazidime"
+   ],
+   "answer": 2,
+   "explanation": "Cloxacillin is a penicillinase-resistant penicillin. (Matching key, Questions 1-4: 1. H)",
+   "source": "Pharmacology VIII-1 Q1",
+   "topic": "Easy",
+   "topic_n": 1
+  },
+  {
+   "question": "A penicillin active against Klebsiella species",
+   "choices": [
+    "Ticarcillin",
+    "Cloxacillin",
+    "Cefotaxime",
+    "Ceftriaxone",
+    "Piperacillin",
+    "Cefotetan",
+    "Ceftazidime",
+    "Ampicillin",
+    "Aztreonam",
+    "Cefepime",
+    "Vancomycin"
+   ],
+   "answer": 4,
+   "explanation": "Piperacillin is the penicillin keyed as active against Klebsiella species. (Matching key, Questions 1-4: 2. J)",
+   "source": "Pharmacology VIII-1 Q2",
+   "topic": "Easy",
+   "topic_n": 2
+  },
+  {
+   "question": "A third-generation cephalosporin active against Pseudomonas aeruginosa",
+   "choices": [
+    "Vancomycin",
+    "Cefotetan",
+    "Piperacillin",
+    "Cefotaxime",
+    "Cefepime",
+    "Ceftriaxone",
+    "Aztreonam",
+    "Ticarcillin",
+    "Ampicillin",
+    "Cloxacillin",
+    "Ceftazidime"
+   ],
+   "answer": 10,
+   "explanation": "Ceftazidime is a third-generation cephalosporin active against Pseudomonas aeruginosa. (Matching key, Questions 1-4: 3. F)",
+   "source": "Pharmacology VIII-1 Q3",
+   "topic": "Easy",
+   "topic_n": 3
+  },
+  {
+   "question": "This drug shows no cross-allergenicity with other β-lactam antibiotics.",
+   "choices": [
+    "Ceftazidime",
+    "Ceftriaxone",
+    "Piperacillin",
+    "Aztreonam",
+    "Cefotetan",
+    "Ampicillin",
+    "Ticarcillin",
+    "Cloxacillin",
+    "Cefepime",
+    "Cefotaxime",
+    "Vancomycin"
+   ],
+   "answer": 3,
+   "explanation": "Aztreonam shows no cross-allergenicity with other β-lactam antibiotics. (Matching key, Questions 1-4: 4. B)",
+   "source": "Pharmacology VIII-1 Q4",
+   "topic": "Easy",
+   "topic_n": 4
+  },
+  {
+   "question": "A 68-year-old man diagnosed with streptococcal pneumonia started treatment with a third-generation cephalosporin. Which of the following steps in the turnover of bacterial cell walls is specifically inhibited by this antibiotic?",
+   "choices": [
+    "Autolysin-mediated breaking of peptidoglycan chains",
+    "Linking of two amino sugars by a glycosidic bond",
+    "Synthesis of N-acetylmuramic acid",
+    "Elongation of linear amino sugar chains",
+    "Connection of two amino sugar chains by peptide bridges"
+   ],
+   "answer": 4,
+   "explanation": "Cephalosporins are β-lactam antibiotics. The mechanism of action of all β-lactam antibiotics involves the inhibition of transpeptidase, the enzyme that catalyzes the final connection (cross-link) of two amino sugar chains by peptide bridges. In this way, the synthesis of peptidoglycans is inhibited. A, B, D, E See correct answer explanation.",
+   "source": "Pharmacology VIII-1 Q5",
+   "topic": "Easy",
+   "topic_n": 5
+  },
+  {
+   "question": "A 51-year-old woman recently diagnosed with acute bacterial cystitis started an appropriate antibiotic treatment. The administered drug achieves therapeutic concentration in the urine because it is primarily eliminated by the kidney through active secretion in the proximal tubule. Which of the following drugs did the patient most likely take?",
+   "choices": [
+    "Cephalexin",
+    "Azithromycin",
+    "Metronidazole",
+    "Tetracycline",
+    "Tobramycin"
+   ],
+   "answer": 0,
+   "explanation": "Most community-acquired urinary tract infections are due to Escherichia coli. First-, second-, and third-generation cephalosporins, fluoroquinolones, and trimethoprim-sulfamethoxazole are first-line agents for these infections. Most cephalosporins are eliminated by the kidney, mainly by active secretion in the proximal tubule (two notable exceptions are ceftriaxone and cefoperazone, which are excreted mainly through the biliary tract). In most cases, concentrations in urine are higher than those in plasma. B Macrolides are mainly eliminated by biliary excretion. C Metronidazole is mainly eliminated by liver metabolism. D Aminoglycosides are excreted almost entirely by glomerular filtration only. E Renal excretion of tetracyclines occurs by glomerular filtration and tubular reabsorption.",
+   "source": "Pharmacology VIII-1 Q6",
+   "topic": "Easy",
+   "topic_n": 6
+  },
+  {
+   "question": "A 23-year-old woman complained to her physician of urinary frequency, pain upon urination, and a mucopurulent vaginal discharge. One year earlier, the patient had undergone an anaphylactic reaction to penicillin. A Gram stain of the exudate revealed gram-negative cocci. Which of the following drugs would be contraindicated for this patient?",
+   "choices": [
+    "Ciprofloxacin",
+    "Erythromycin",
+    "Doxycycline",
+    "Trimethoprim-sulfamethoxazole",
+    "Ceftriaxone"
+   ],
+   "answer": 4,
+   "explanation": "The signs of the patient and the lab results strongly suggest the diagnosis of gonorrhea. Ceftriaxone would be the first-line agent for gonorrhea, but a previous anaphylactic reaction to penicillin contraindicates the use of most β-lactam drugs. A, B, D, E All of these antibiotics are effective against Neisseria gonorrhoeae; they are not first-line agents, but none of them are contraindicated in this case.",
+   "source": "Pharmacology VIII-1 Q7",
+   "topic": "Easy",
+   "topic_n": 7
+  },
+  {
+   "question": "A 32-year-old woman was seen at a clinic because of 2 days of headache with joint and muscle pain. Physical examination revealed nuchal rigidity and a petechial rash on the lower extremities. A Gram stain of her spinal fluid showed many neutrophils and many gram-negative, bean-shaped diplococci. Which of the following drugs would be most appropriate for the therapy of this patient?",
+   "choices": [
+    "Aztreonam",
+    "Penicillin G",
+    "Erythromycin",
+    "Tobramycin",
+    "Tetracycline",
+    "Metronidazole"
+   ],
+   "answer": 1,
+   "explanation": "The patient's symptoms and lab results indicate that she was most likely suffering from meningitis due to N. meningitidis. In this disease, the preferred treatments are penicillin G (4 million units intravenously every 4 hours) and a third-generation cephalosporin (mainly ceftriaxone). A, C Although N. meningitidis is sensitive to these antibiotics, a bactericidal drug must be given in serious infectious diseases. D, E These antibiotics are mainly active against gram-negative bacilli. F N. meningitidis is not sensitive to metronidazole.",
+   "source": "Pharmacology VIII-1 Q8",
+   "topic": "Medium",
+   "topic_n": 1
+  },
+  {
+   "question": "A 30-year-old woman was in labor with her second child. Her first baby had contracted neonatal meningitis due to contamination with Streptococcus agalactiae during delivery. To prevent recurrence of this infection in the second child, which of the following drugs would be most appropriate for treatment of both the mother and the baby?",
+   "choices": [
+    "Tetracycline",
+    "Gentamicin",
+    "Trimethoprim-sulfamethoxazole",
+    "Ampicillin",
+    "Levofloxacin"
+   ],
+   "answer": 3,
+   "explanation": "Beta-lactam antibiotics are drugs of choice for streptococcal infections. S. agalactiae is a group B streptococcus sensitive to penicillins. Penicillin G or ampicillin is used with excellent results for antimicrobial prophylaxis against group B streptococci. A-C Streptococci may be sensitive to quinolones, sulfonamides, and tetracyclines, but these antibiotics are not recommended in children and newborns because of several potential adverse effects. D When given alone, aminoglycoside antibiotics are not effective against streptococci.",
+   "source": "Pharmacology VIII-1 Q9",
+   "topic": "Medium",
+   "topic_n": 2
+  },
+  {
+   "question": "A 24-year-old woman came to the clinic with a sore throat and low-grade fever. Physical examination showed tonsil exudates and tender cervical adenopathy. A Gram stain of the tonsil exudate demonstrated the presence of a high number of bacteria. A diagnosis was made, and penicillin G was prescribed, as the physician knew that the most likely offending pathogen was sensitive to the antibiotic. Which of the following bacteria did the physician most likely believe caused the patient's infection?",
+   "choices": [
+    "Streptococcus pyogenes",
+    "Clostridium difficile",
+    "Staphylococcus aureus",
+    "Pseudomonas aeruginosa",
+    "Klebsiella pneumoniae",
+    "Enterococcus faecalis",
+    "Haemophilus influenzae"
+   ],
+   "answer": 0,
+   "explanation": "The patient was most likely suffering from streptococcal pharyngitis, the most common disease caused by Streptococcus pyogenes, a group A β-hemolytic streptococcus. Group A streptococci are still exquisitely sensitive to penicillin G. Penicillin therapy of streptococcal pharyngitis reduces the risk of subsequent acute rheumatic fever. However, current evidence suggests that the incidence of glomerulonephritis that follows streptococcal infections is not reduced to a significant degree by treatment with penicillin. A-C, E-G All of these bacteria are now resistant to penicillin G.",
+   "source": "Pharmacology VIII-1 Q10",
+   "topic": "Medium",
+   "topic_n": 3
+  },
+  {
+   "question": "A 34-year-old man presented to the clinic with a painful ulcer on his penis. Regional lymph nodes were enlarged and painful. The man admitted to unprotected intercourse with a new partner while on a recent vacation. Darkfield microscopy and an FTA-ABS (fluorescent treponemal antibody absorption) test for syphilis were negative. A Gram stain of pus revealed short gram-negative bacilli in parallel chains. Which of the following would be the most appropriate pharmacotherapy for this patient?",
+   "choices": [
+    "Vancomycin",
+    "Metronidazole",
+    "Penicillin G",
+    "Nafcillin",
+    "Ceftriaxone"
+   ],
+   "answer": 4,
+   "explanation": "The history of the patient and the site of the ulcer suggest a sexually transmitted disease. Among these diseases, those characterized by ulcer on the penis include chancroid (caused by Haemophilus ducreyi), lymphogranuloma venereum (caused by Chlamydia trachomatis), granuloma inguinale (caused by Donovania granulomatis), syphilis (caused by Treponema pallidum), and genital herpes (caused by herpes simplex virus). The presence of gram-negative bacilli excludes viral infections such as genital herpes, as well as chlamydia and donovania infections (chlamydia and donovania are intracellular bacteria). Syphilis is unlikely because of the negative darkfield microscopy and FTA-ABS test. Therefore, the patient's disease is most likely caused by H. ducreyi, a gram-negative bacterium that is sensitive to second- and third-generation cephalosporins, trimethoprim-sulfamethoxazole, quinolones, and tetracyclines. Ceftriaxone is most often used because it has a long half-life (about 7 hours) and therefore can provide a long minimum bactericidal concentration (most β-lactam antibiotics exhibit time-dependent killing). A-C These antibiotics are not effective against gram-negative bacteria. E Metronidazole is not effective against H. ducreyi.",
+   "source": "Pharmacology VIII-1 Q11",
+   "topic": "Medium",
+   "topic_n": 4
+  },
+  {
+   "question": "A 41-year-old woman collapsed at home and was brought to the emergency department. Her husband stated she had complained recently of severe abdominal cramping, nausea, vomiting, and diarrhea. Vital signs on admission were temperature 103°F (39.4°C), pulse 134 bpm, blood pressure 85/52 mm Hg, respirations 28/min. Physical examination showed a critically ill patient with an abdominal erythematous indurated area below the umbilicus and an 8-mm (0.31-inch) central ulcer. A fluorescent antibody test of a specimen from the ulcer identified group A streptococci. Which of the following pairs of drugs would be most appropriate for the emergency treatment of this patient?",
+   "choices": [
+    "Penicillin G and clindamycin",
+    "Tobramycin and metronidazole",
+    "Chloramphenicol and tetracycline",
+    "Piperacillin and aztreonam",
+    "Erythromycin and amikacin"
+   ],
+   "answer": 0,
+   "explanation": "In addition to being among the most common of all human pathogens, group A streptococci have emerged in recent years as important causes of life-threatening invasive and suppurative infections. This patient likely had streptococcal septic shock syndrome, which is an especially lethal streptococcal disease. In 60% of patients with this syndrome, the organism is contracted through the skin or the genital mucosa. Patients are usually otherwise healthy children or adults. Pyrogenic exotoxins are thought to play a crucial role in the pathogenesis. Streptococcal septic shock syndrome follows a fulminant clinical course with a mortality rate of 50%. The principles of management include aggressive resuscitation, prompt surgical exploration and débridement of soft tissue infections, and antibiotic therapy. Penicillin-resistant isolates have yet to be observed for group A streptococci, so penicillin G remains an agent of choice. Patients may fail to achieve optimal response to penicillin G because large concentrations of bacteria in the lesion reach a stationary growth phase (in the absence of cell division, penicillin cannot have a bactericidal effect). Clindamycin has multiple effects against group A streptococcal infections. Its efficacy is not affected by inoculum size or growth stage; it is a potent suppressor of bacterial toxin synthesis, facilitates phagocytosis of Streptococcus pyogenes by inhibiting protein synthesis, and suppresses the synthesis of penicillin-binding proteins, which are enzymes involved in cell wall synthesis. Therefore, most clinicians recommend combined therapy with penicillin and clindamycin. B Tobramycin and metronidazole are not effective against gram-positive bacteria. C Chloramphenicol and tetracycline are bacteriostatic agents, and most strains of streptococci are now resistant to these drugs. D Erythromycin is effective against streptococci but is a bacteriostatic drug, and amikacin is effective mainly against gram-negative bacteria. E Piperacillin and aztreonam are β-lactam antibiotics mainly effective against gram-negative bacteria.",
+   "source": "Pharmacology VIII-1 Q12",
+   "topic": "Hard",
+   "topic_n": 1
+  },
+  {
+   "question": "A 54-year-old man was admitted to the hospital with fever (100.6°F, 38.1°C), night sweats, arthralgias, and 15 lb (6.8 kg) of unintentional weight loss. Past history was significant for rheumatic fever at the age of 9 and for dental surgery 1 month ago. The symptoms started about 2 weeks after the dental procedure. Physical examination was significant for mitral regurgitation, subungual splinter hemorrhages, and hemorrhagic plaques on the soles of both feet. Three blood cultures were ordered, and an empiric therapy was started. Which of the following should be an appropriate treatment for the patient at this time?",
+   "choices": [
+    "Piperacillin and chloramphenicol",
+    "Ampicillin and erythromycin",
+    "Dicloxacillin and ciprofloxacin",
+    "Aztreonam and amikacin",
+    "Penicillin G and gentamicin"
+   ],
+   "answer": 4,
+   "explanation": "The patient's history and clinical presentation suggest that the man is suffering from infective endocarditis. He appears chronically ill and represents the typical patient with subacute disease. He has mitral valve prolapse, which is the predominant defect in infective endocarditis, and he also exhibits several peripheral manifestations of infective endocarditis, including hemorrhages in the hands and feet. The gram-positive bacteria most commonly involved in infective endocarditis are streptococci and staphylococci. Streptococci of the viridans group are the principal cause of endocarditis in an abnormal heart valve (which is present in this case), and they reach the bloodstream typically after dental trauma. The temporal relationship between the dental procedure and the onset of symptoms makes it the most obvious cause of the disease. Most viridans streptococci are sensitive to penicillins and cephalosporins. Single-drug regimens include high-dose penicillin G or ceftriaxone for 2 to 4 weeks. When empirical therapy is needed, the guidelines suggest high-dose penicillin G plus an aminoglycoside, as in this case. This is a synergistic combination that can achieve bactericidal activity against resistant streptococcal species. A, B These are combinations of a bactericidal plus a bacteriostatic antibiotic. In general, these combinations should be avoided (with few exceptions), as an antagonistic interaction can occur in many cases. C These antibiotics are mainly effective against gram-negative bacteria. E Dicloxacillin is effective against mutant streptococci, but many strains of streptococci are now resistant to fluoroquinolones, and there is no synergism between penicillins and fluoroquinolones.",
+   "source": "Pharmacology VIII-1 Q13",
+   "topic": "Medium",
+   "topic_n": 5
+  },
+  {
+   "question": "A previously healthy 3-year-old child was admitted to the hospital with sore throat, fever, chills, painful swallowing, and dyspnea for the past 10 hours. Physical examination revealed a seriously ill patient with edematous erythema over the anterior neck, cervical lymph node enlargement, crackles in the left lung base, and diffuse wheezing best heard as stridor over the neck. Sputum Gram stain showed numerous gram-negative coccobacilli. A diagnosis of acute supraglottitis was made, and an emergency therapy was started. Which of the following drugs would be most appropriate for the patient's disease?",
+   "choices": [
+    "Penicillin G",
+    "Dicloxacillin",
+    "Cefazolin",
+    "Ceftriaxone",
+    "Vancomycin"
+   ],
+   "answer": 3,
+   "explanation": "Acute supraglottitis can occur at any time in life, but its incidence is highest in children ages 2 to 5 years. Most patients are febrile, many have cervical lymph node enlargement, and occasionally cellulitis appears over the anterior neck. Acute supraglottitis can be fulminant in onset and, if suspected clinically, must always be considered an emergency, as sudden, complete airway obstruction is impending. The disease is almost always due to Haemophilus influenzae type b. A third-generation cephalosporin (ceftriaxone) and ampicillin-sulbactam are the antibiotics of choice. A, B, D, E H. influenzae is not sensitive to any of the other listed antibiotics.",
+   "source": "Pharmacology VIII-1 Q14",
+   "topic": "Medium",
+   "topic_n": 6
+  },
+  {
+   "question": "A 63-year-old homeless man was admitted to the hospital with fever, general malaise, and a swollen, painful leg. Physical examination showed a man in obvious distress with the following vital signs: blood pressure 88/50 mm Hg, heart rate 115 bpm, respirations 22/min, temperature 103.1°F (39.5°C). His right leg had a large wound and appeared swollen with a “bronze” discoloration and crepitation of the tissue. A presumptive diagnosis was made. An empiric therapy was started that included extensive debridement of the wound and administration of a drug that was able to cure the infection. The mechanism of action of the given drug most likely involved the inhibition of which of the following bacterial enzymes?",
+   "choices": [
+    "Autolytic enzymes",
+    "Transglycosylase",
+    "Beta-lactamase",
+    "Transpeptidase",
+    "Acetyl transferase"
+   ],
+   "answer": 3,
+   "explanation": "The appearance of the lesion (crepitation, prostration) indicates that the patient was most likely suffering from gas gangrene (myonecrosis). The disease can be caused by many bacteria, including bacteroides, enterobacteriaceae, streptococci, and staphylococci, but the most common pathogen is Clostridium perfringens. Penicillin G, in high doses, is still the drug of choice for C. perfringens infection. The mechanism of action of β-lactam antibiotics involves the inhibition of transpeptidase, the enzyme that catalyzes the final cross-link step in the synthesis of peptidoglycan. A, B, D, E These enzymes are not inhibited by penicillins.",
+   "source": "Pharmacology VIII-1 Q15",
+   "topic": "Medium",
+   "topic_n": 7
+  },
+  {
+   "question": "A 56-year-old farmer presented to the clinic with a small, flat, hard swelling under the oral mucosa that formed a fistula discharging yellow granules. One month earlier, he had several teeth extracted because of paradental abscesses. Anaerobic cultures of the biopsy material showed small, spidery colonies containing gram-positive, non-acid-fast rods and branching filaments. A diagnosis was made, and an antibiotic therapy was prescribed. Which of the following drugs would be most appropriate for this patient?",
+   "choices": [
+    "Metronidazole",
+    "Penicillin G",
+    "Aztreonam",
+    "Gentamicin",
+    "Ciprofloxacin"
+   ],
+   "answer": 1,
+   "explanation": "The patient's history (a lesion after a local trauma), the site and type of lesion, and the appearance of the biopsy material suggest that the patient was suffering from actinomycosis. The disease is a chronic, suppurative, and granulomatous infection caused most often by Actinomyces israelii. The bacterium is sensitive to penicillins, cephalosporins, macrolides, tetracyclines, and sulfonamide-trimethoprim. Penicillin G remains the treatment of choice. B-E None of the other listed drugs are effective in actinomycosis.",
+   "source": "Pharmacology VIII-1 Q16",
+   "topic": "Medium",
+   "topic_n": 8
+  },
+  {
+   "question": "A 75-year-old man was admitted to the hospital for hip replacement. Which of the following antibiotics would be an appropriate prophylactic agent to be given before surgery?",
+   "choices": [
+    "Tetracycline",
+    "Aztreonam",
+    "Sulfamethoxazole",
+    "Erythromycin",
+    "Cefazolin",
+    "Metronidazole"
+   ],
+   "answer": 4,
+   "explanation": "Because surgical wound infections are major nosocomial infections, antimicrobial prophylaxis is advisable in open heart surgery, surgery for placement of prosthetic materials, any surgeries performed on an immunocompromised host, high-risk patients in preparation for contaminated and clean-contaminated surgical procedures, and orthopedic surgery, as in this case. The goal of antimicrobial prophylaxis is to decrease bacterial counts below the critical level necessary to cause infection. Cefazolin is the drug most frequently used for surgical prophylaxis when skin flora is the source of contamination because of its excellent activity against staphylococci. A Metronidazole is not used for surgical prophylaxis, as it is active only against anaerobic microorganisms. B, C, F Bacteriostatic agents are not used for microbial prophylaxis because bacteremia can reoccur when the drug is no longer present. D Aztreonam is active only against gram-negative bacteria and therefore is not suitable to prevent infection due to staphylococci.",
+   "source": "Pharmacology VIII-1 Q17",
+   "topic": "Easy",
+   "topic_n": 8
+  },
+  {
+   "question": "An 8-year-old girl was brought to the clinic because of fever (101.5°F, 38.6°C) and extensive skin abrasions on the right leg. Her mother explained that the girl had fallen off her bicycle a few days earlier and suffered several abrasions. Physical examination showed the skin of the right leg was hot, red, and edematous with a surface “peau d'orange” appearance. Regional lymphadenopathy was also present. A Gram stain from scrapings of the lesions showed the presence of a large number of gram-positive cocci. Which of the following drugs would be appropriate for the treatment of this patient?",
+   "choices": [
+    "Tetracycline",
+    "Piperacillin",
+    "Amikacin",
+    "Aztreonam",
+    "Dicloxacillin"
+   ],
+   "answer": 4,
+   "explanation": "The patient was most likely suffering from cellulitis. Acute bacterial infection of the skin and subcutaneous tissue is most often caused by streptococci or staphylococci. For most patients, empiric treatment effective against both bacteria is adequate. Because most staphylococcal isolates produce penicillinase, the best initial treatment is a β-lactamase-resistant penicillin, such as dicloxacillin, or a third-generation cephalosporin, or a carbapenem. A, B, E These drugs are mainly effective against gram-negative bacteria. D Most gram-positive cocci are now resistant to tetracyclines.",
+   "source": "Pharmacology VIII-1 Q18",
+   "topic": "Medium",
+   "topic_n": 9
+  },
+  {
+   "question": "A 55-year-old woman recently diagnosed with bacterial pyelonephritis started a treatment with a β-lactam antibiotic that is resistant to most β-lactamases. Which of the following drugs was most likely administered?",
+   "choices": [
+    "Ampicillin",
+    "Ticarcillin",
+    "Cephalexin",
+    "Piperacillin",
+    "Cefepime",
+    "Cefazolin"
+   ],
+   "answer": 4,
+   "explanation": "Cefepime is a fourth-generation cephalosporin. The drugs of this class are resistant to most plasmid- and chromosomally mediated β-lactamases. In general, resistance to β-lactamases increases from first- to fourth-generation cephalosporins. A, F These drugs are first-generation cephalosporins with a limited resistance to β-lactamases. B-D These penicillins are β-lactamase sensitive.",
+   "source": "Pharmacology VIII-1 Q19",
+   "topic": "Easy",
+   "topic_n": 9
+  },
+  {
+   "question": "A 52-year-old man presented to his physician with an extensive skin rash on his trunk and limbs. The man had been suffering from non-Hodgkin lymphoma for 2 years. A few days earlier, he was diagnosed with acute bacterial pharyngitis and started on an antibiotic. The physician said the rash was most likely an allergic reaction to the antibiotic. Which of the following drugs most likely caused this reaction?",
+   "choices": [
+    "Sulfamethoxazole",
+    "Doxycycline",
+    "Vancomycin",
+    "Amikacin",
+    "Amoxicillin"
+   ],
+   "answer": 4,
+   "explanation": "Acute pharyngitis is predominantly a viral infection but is also often caused by group A β-hemolytic streptococci. Because the patient was diagnosed with bacterial pharyngitis, he was most likely treated with a penicillin. Allergic reactions are the most frequent adverse effects of penicillins. They occur in up to 10% of patients previously exposed to the drug. Patients suffering from infectious mononucleosis, fungus infection, leukemia, and lymphoma are especially at risk, as in this case. Although allergic reactions can be caused by the intact drug molecule, most antigenic determinants of penicillin hypersensitivity are breakdown products. Both the intact molecule and the breakdown products act as haptens after their covalent reaction with proteins. The major antigenic determinant is the penicilloyl moiety, which is formed when the β-lactam ring is opened. When an allergic reaction occurs during the course of the therapy, the drug should be discontinued (if a valid alternative drug is available), because there is a chance, although small, that the reaction could worsen. A, C-E All of these antibiotics can cause allergic reactions, but they are not currently used to treat acute pharyngitis.",
+   "source": "Pharmacology VIII-1 Q20",
+   "topic": "Medium",
+   "topic_n": 10
+  },
+  {
+   "question": "A 26-year-old man presented to the emergency department with sudden onset of fever (101.1°F, 38.5°C), oliguria, and a skin rash. The man had been receiving systemic pharmacotherapy for primary syphilis. Laboratory findings showed eosinophiluria and proteinuria. Further exams led to the diagnosis of drug-induced tubulointerstitial nephritis. Which of the following antibiotics most likely caused the patient's disease?",
+   "choices": [
+    "Penicillin G",
+    "Cefepime",
+    "Trimethoprim-sulfamethoxazole",
+    "Nafcillin",
+    "Rifampin"
+   ],
+   "answer": 0,
+   "explanation": "The signs and symptoms of the patient (the skin rash and eosinophiluria) suggest that the tubulointerstitial nephritis is due to drug allergy. Penicillin is the drug of choice for primary syphilis, so it is the most likely offending drug. B-E Allergic tubulointerstitial nephritis can occur with all of the drugs listed, but these drugs are not currently used to treat primary syphilis.",
+   "source": "Pharmacology VIII-1 Q21",
+   "topic": "Easy",
+   "topic_n": 10
+  },
+  {
+   "question": "A 73-year-old man diagnosed with pneumonia due to Pseudomonas aeruginosa was started on piperacillin, but 2 days later, the disease was not improved, and the physician suspected that the infective organism was resistant to the drug. Which of the following was most likely the mechanism of bacterial resistance to this antibiotic?",
+   "choices": [
+    "Decreased permeability of the bacterial cell membrane to the drug",
+    "Inhibition of the efflux pump of the bacteria cell membrane",
+    "Inhibition of drug binding to the 50S subunit",
+    "Increased production of autolytic enzymes",
+    "Increased affinity of penicillin-binding protein to the drug"
+   ],
+   "answer": 0,
+   "explanation": "Resistance to β-lactam antibiotics is due to four main mechanisms: production of β-lactamase enzymes (by far the most important mechanism; β-lactamases hydrolyze the β-lactam ring, thus producing penicilloic acids that are devoid of antibacterial activity); development of penicillin-binding proteins that have decreased affinity for the antibiotic (the mechanism for penicillin resistance in pneumococci); decreased permeability of the cell membrane to the drug (the mechanism for resistance in many gram-negative bacteria); and development of an active efflux pump (the mechanism for resistance in some gram-negative bacteria). A, D, E These mechanisms would increase, not decrease, the sensitivity of bacteria to β-lactam antibiotics. B This is a mechanism of resistance to antibiotics that inhibit protein synthesis.",
+   "source": "Pharmacology VIII-1 Q22",
+   "topic": "Medium",
+   "topic_n": 11
+  },
+  {
+   "question": "A 70-year-old female resident in a nursing facility was admitted to the hospital because of fever (101.4°F, 38.6°C), diarrhea, and severe abdominal pain. Four days earlier, the patient had started antibiotic treatment because of acute tonsillitis due to β-hemolytic streptococci. Physical examination showed a critically ill patient with abdominal distention and absent bowel sounds. Colonoscopy revealed diffuse ulcerations and exudative plaques lining the colonic mucosa. Which of the following antibiotics most likely caused the patient's disease?",
+   "choices": [
+    "Vancomycin",
+    "Ampicillin",
+    "Aztreonam",
+    "Gentamicin",
+    "Rifampin"
+   ],
+   "answer": 1,
+   "explanation": "The patient most likely developed antibiotic-associated pseudomembranous colitis (AAPC) due to Clostridium difficile. The disease has emerged as a major threat to elderly patients. Ampicillin, clindamycin, cephalosporins, and fluoroquinolones are the most common antibiotics associated with the condition. Other causative agents are penicillins, erythromycin, trimethoprim-sulfamethoxazole, and tetracyclines. Ampicillin was most likely given to the patient to cure tonsillitis and therefore was the most plausible offending agent. A-D All of these antibiotics very rarely cause AAPC, and they are not used to treat streptococcal tonsillitis.",
+   "source": "Pharmacology VIII-1 Q23",
+   "topic": "Medium",
+   "topic_n": 12
+  },
+  {
+   "question": "A 34-year-old woman with no previous history of disease complained to her physician of burning on urination, bladder pain, and frequent urination of a small volume. A microorganism isolated from her urine grew on EMB (eosin methylene blue) agar, produced green colonies, was motile, and was urease-negative. A diagnosis of urinary tract infection was made, and antibiotic therapy was prescribed. Which of the following drugs would be appropriate for the patient's disease?",
+   "choices": [
+    "Erythromycin",
+    "Clindamycin",
+    "Cephalexin",
+    "Vancomycin",
+    "Penicillin G"
+   ],
+   "answer": 2,
+   "explanation": "The lab tests suggest that the patient's urinary tract infection was most likely due to E. coli, a gram-negative rod that accounts for about 80% of urinary tract infections. E. coli is sensitive to cephalosporins, broad-spectrum penicillins, aminoglycosides, trimethoprim-sulfamethoxazole, tetracyclines, and fluoroquinolones. However, several strains are now resistant to broad-spectrum penicillins, tetracyclines, and trimethoprim-sulfamethoxazole. Cephalosporins and fluoroquinolones remain first-line agents. A-C, E All of these drugs are effective mainly against gram-positive bacteria.",
+   "source": "Pharmacology VIII-1 Q24",
+   "topic": "Easy",
+   "topic_n": 11
+  },
+  {
+   "question": "A 32-year-old male heroin addict was admitted to the hospital with a 2-day history of fever, shaking chills, rigors, and night sweats. His vital signs were blood pressure 100/60 mm Hg, pulse 120 bpm, respirations 24/min, temperature 102.2°F (39°C). Two-dimensional echocardiography revealed three small vegetations on the tricuspid valve. Three blood cultures were drawn, and empiric therapy was initiated. The cultures turned out to be positive for Pseudomonas aeruginosa, with the following antibiotic susceptibilities (minimum inhibitory concentrations): gentamicin 16 µg/mL, tobramycin 2 µg/mL, piperacillin 64 µg/mL, ceftazidime 4 µg/mL, imipenem 2 µg/mL. Surgical excision of the infected valve and a 6-week postoperative treatment were planned. Which of the following drug combinations would be most appropriate for the patient at this time?",
+   "choices": [
+    "Ceftazidime and imipenem",
+    "Imipenem and gentamicin",
+    "Tobramycin and gentamicin",
+    "Piperacillin and tobramycin",
+    "Ceftazidime and tobramycin"
+   ],
+   "answer": 4,
+   "explanation": "The clinical picture suggests that the patient had a valve endocarditis. Endocarditis occurring in injection drug users, especially when infection involves the tricuspid valve, is commonly caused by Staphylococcus aureus strains, many of which are methicillin-resistant, but the results of susceptibility testing indicated that Pseudomonas aeruginosa was the cause of valve endocarditis in this patient. There is substantial evidence that a β-lactam and an aminoglycoside antibiotic exert a synergistic effect in serious infections caused by a number of bacteria, including P. aeruginosa. It appears that β-lactam drugs that are cell wall active increase the active transport of aminoglycosides into many bacteria, including staphylococci, enterococci, and P. aeruginosa. In choosing the right antibiotic combination, the results of susceptibility testing must be taken into account. Theoretically, all of the tested drugs can be effective against P. aeruginosa. Nevertheless, the combination of ceftazidime and tobramycin or imipenem and tobramycin (not listed) appears to be the best in this case. A Although both tobramycin and gentamicin are active against P. aeruginosa, a β-lactam plus an aminoglycoside must be given to provide in vivo synergy and prevent resistant subpopulations from emerging during therapy. C Because both imipenem and gentamicin are effective against P. aeruginosa, the combination could seem appropriate. Although the sensitivity of gentamicin is less than that of tobramycin, this could be overcome by increasing the gentamicin dose. However, aminoglycoside antibiotics have significant dose-dependent toxicity, and a minimum inhibitory concentration (MIC) higher than 3 to 4 µg/mL is predictive of toxicity. D P. aeruginosa is very sensitive to both imipenem and ceftazidime. However, the combination of these two drugs would be additive, not synergistic, as both share the same mechanism of action. E The very high MIC of piperacillin indicates that the Pseudomonas strain of this patient is resistant to the drug.",
+   "source": "Pharmacology VIII-1 Q25",
+   "topic": "Hard",
+   "topic_n": 2
+  },
+  {
+   "question": "A 22-year-old woman consulted her physician because of a postpartum breast infection. A Gram stain of the pus revealed gram-positive bacteria, and a susceptibility test showed resistance to all β-lactam antibiotics. Which of the following bacteria was most likely the offending pathogen?",
+   "choices": [
+    "Methicillin-resistant Staphylococcus aureus",
+    "Streptococcus pyogenes",
+    "Listeria monocytogenes",
+    "Escherichia coli",
+    "Serratia marcescens",
+    "Enterococcus faecalis",
+    "Clostridium tetani"
+   ],
+   "answer": 0,
+   "explanation": "Staphylococcus aureus is the most common causative pathogen of mastitis. Methicillin-resistant staphylococci are resistant through acquisition (via transposon) of penicillin-binding proteins with a very low affinity for all β-lactam antibiotics. A, D, F These bacteria are sensitive to most penicillins. C, E, G These bacteria are sensitive to broad-spectrum penicillins, imipenem, and aztreonam, as well as to some third- and fourth-generation cephalosporins.",
+   "source": "Pharmacology VIII-1 Q26",
+   "topic": "Medium",
+   "topic_n": 13
+  },
+  {
+   "question": "A 4-year-old boy was brought to the pediatrician by his mother because of respiratory difficulties. Medical history of the boy was significant for recurrent pulmonary infections. A Gram stain of the sputum revealed gram-positive cocci in grapelike clusters. Which of the following drugs would be an appropriate empiric treatment at this early stage?",
+   "choices": [
+    "Amoxicillin",
+    "Ampicillin",
+    "Piperacillin",
+    "Penicillin G",
+    "Dicloxacillin"
+   ],
+   "answer": 4,
+   "explanation": "The appearance of gram-positive cocci arranged in clusters suggests that the causative agent is staphylococcal. Staphylococcus aureus is the most common pathogen of staphylococcal respiratory tract disease. Because about 90% of S. aureus isolates produce penicillinase, the best initial treatment is a β-lactamase-resistant penicillin. A-C, E All of these penicillins are β-lactamase-sensitive.",
+   "source": "Pharmacology VIII-1 Q27",
+   "topic": "Easy",
+   "topic_n": 12
+  },
+  {
+   "question": "A 79-year-old female resident of a nursing facility complained of burning on urination and bladder pain. Microscopic examination of urine sediment revealed many gram-positive bacteria, and a urine culture indicated Enterococcus faecalis as the sole causative agent. Which of the following pairs of drugs would be most appropriate for the treatment of this patient?",
+   "choices": [
+    "Cefepime and amikacin",
+    "Aztreonam and gentamicin",
+    "Penicillin G and erythromycin",
+    "Cefotetan and netilmicin",
+    "Ampicillin and tobramycin"
+   ],
+   "answer": 4,
+   "explanation": "The woman most likely had a urinary tract infection. Escherichia coli is still the predominant pathogen in nosocomial acquired urinary tract infections, but other pathogens are increasingly involved, including Enterococcus faecalis. Broad-spectrum penicillins, as well as vancomycin and teicoplanin, are active against this bacterium. However, monotherapy inhibits but does not kill the enterococci. Therefore, an aminoglycoside is always given together with the first drug. A, B No cephalosporins are active against enterococci. C Most enterococcal strains are now resistant to penicillin. Macrolides are not active against enterococci. E Aztreonam is active only against gram-negative bacteria.",
+   "source": "Pharmacology VIII-1 Q28",
+   "topic": "Medium",
+   "topic_n": 14
+  },
+  {
+   "question": "A 54-year-old woman presented to her physician complaining of vaginal itching and a thick, white vaginal discharge. One week earlier, the woman had started treatment with amoxicillin because of a skin infection. Subsequent exams led to the diagnosis of candida vaginitis that the physician thought was a superinfection related to the amoxicillin treatment. Which of the following best explains why broad-spectrum penicillins can cause superinfections?",
+   "choices": [
+    "Impairment of normal microflora of the host",
+    "Selection of viral-resistant mutants",
+    "Masking disease symptoms",
+    "Impairment of normal inflammatory reaction",
+    "Impairment of host immunologic defense"
+   ],
+   "answer": 0,
+   "explanation": "Superinfections are new infections that occur during antibacterial therapy of a primary infection. Superinfection is due to removal of the inhibitory influence of the microflora that normally inhabits certain parts of the body (oropharynx, intestine, vagina, etc.). In fact, many members of the normal microflora appear to produce antibacterial substances, and they also presumably compete for essential nutrients. The broader the spectrum of an antibiotic, the greater the alteration of the normal microflora. When the normal microflora is altered, a single microorganism can become predominant, invade the host, and cause infection. A-C, E Antibiotics do not cause these actions.",
+   "source": "Pharmacology VIII-1 Q29",
+   "topic": "Easy",
+   "topic_n": 13
+  },
+  {
+   "question": "A 65-year-old woman was admitted to the emergency department with altered consciousness, fever, nausea, and vomiting. Vital signs on admission were blood pressure 90/50 mm Hg, pulse 115 bpm, respirations 20/min, temperature 103.6°F (39.8°C). Physical examination showed a patient in obvious distress with a stiff neck and positive Brudzinski sign. Pupils were equal, poorly reactive to light, and papilledema was present. An empirical intravenous therapy was started with ampicillin, ceftriaxone, and vancomycin. Which of the following best explains the mechanism of action common to all of the given drugs?",
+   "choices": [
+    "Inhibition of tetrahydrofolate synthesis",
+    "Blockade of peptidyl-transfer RNA translocation",
+    "Misreading of messenger RNA template code",
+    "Inhibition of RNA polymerization",
+    "Inhibition of peptidoglycan synthesis"
+   ],
+   "answer": 4,
+   "explanation": "The signs and symptoms of the patient strongly suggest a diagnosis of meningitis. When the patient is very ill and the offending organism is unknown, an empiric triple antibiotic therapy is usually given pending cerebrospinal fluid test results. Third-generation cephalosporins such as ceftriaxone are active against most gram-positive and -negative bacteria. Because many methicillin-resistant cocci are increasingly prevalent, vancomycin is usually added. Ampicillin is added to cover Listeria species. All of these antibiotics act by inhibiting the synthesis of peptidoglycan. Ampicillin and ceftriaxone inhibit the transpeptidation reaction, blocking cross-link formation. Vancomycin inhibits transglycosylase, blocking further elongation of peptidoglycan chains. A This is the mechanism of action of aminoglycosides. B This is the mechanism of action of trimethoprim-sulfamethoxazole. C This is the mechanism of action of rifampin. D This is the mechanism of action of macrolides.",
+   "source": "Pharmacology VIII-1 Q30",
+   "topic": "Easy",
+   "topic_n": 14
+  },
+  {
+   "question": "A 61-year-old woman with poor dentition was scheduled to have all of her remaining teeth extracted for subsequent fitting of dentures. Past medical history was significant for numerous infections of the oral cavity. The woman had been suffering from mitral stenosis with mild cardiac insufficiency for 5 years. Which of the following drugs would be the most appropriate agent to prescribe to this woman before and after the extraction?",
+   "choices": [
+    "Aztreonam",
+    "Piperacillin",
+    "Amoxicillin",
+    "Metronidazole",
+    "Gentamicin"
+   ],
+   "answer": 2,
+   "explanation": "Antibiotic prophylaxis is generally recommended for patients at risk who are undergoing procedures associated with significant bacteremia. These include any dental procedure that is likely to cause bacteremia secondary to bleeding from tissues. Because this patient is at risk of infective endocarditis as a result of the ongoing heart disease, antibiotic prophylaxis is advisable. Antimicrobial prophylaxis should be addressed to viridans streptococci, as they are the most common cause of endocarditis following dental procedures. Amoxicillin is currently recommended for prophylaxis in susceptible individuals undergoing upper respiratory tract or dental surgery, as in this case. B-D All of these antibiotics are mainly active against gram-negative bacteria and therefore not suitable to prevent streptococcal infections. E Metronidazole is not active against streptococci.",
+   "source": "Pharmacology VIII-1 Q31",
+   "topic": "Easy",
+   "topic_n": 15
+  },
+  {
+   "question": "A 5-year-old boy was brought to the clinic by his mother because of a localized, crusted lesion on his left leg. The mother reported that 3 days earlier, the boy had been bitten by his pet dog. A purulent discharge from the lesion was found to contain many small gram-negative coccobacilli. Which of the following correctly pairs the most likely offending pathogen with the appropriate treatment?",
+   "choices": [
+    "Clostridium difficile: metronidazole",
+    "Serratia marcescens: erythromycin",
+    "Staphylococcus epidermidis: oxacillin",
+    "Klebsiella pneumoniae: vancomycin",
+    "Pasteurella multocida: penicillin G"
+   ],
+   "answer": 4,
+   "explanation": "P. multocida is part of the normal oral flora of dogs and cats and therefore is the most common microorganism in human wounds inflicted by bites from these animals. It is sensitive to penicillin G, which is still the drug of first choice. A, B Staphylococcus epidermidis and Clostridium difficile are gram-positive bacteria. C, D Klebsiella pneumoniae and Serratia marcescens are enterobacteriaceae that only exceptionally infect superficial wounds. Moreover, they are not sensitive to erythromycin and vancomycin.",
+   "source": "Pharmacology VIII-1 Q32",
+   "topic": "Medium",
+   "topic_n": 15
+  },
+  {
+   "question": "A 6-year-old boy presented to his pediatrician with fever (101.3°F, 38.5°C) and sharp pain in his left ear. On physical examination, the left tympanic membrane was red, opaque, and bulging. Amoxicillin was prescribed, but 3 days later, the symptoms were not reduced. The pediatrician decided to modify the therapy and prescribed amoxicillin/potassium clavulanate. Which of the following best explains the advantage of adding potassium clavulanate to amoxicillin?",
+   "choices": [
+    "Decreased amoxicillin allergenicity",
+    "Inhibition of bacterial inactivation of amoxicillin",
+    "Extended antibacterial spectrum against Pseudomonas aeruginosa",
+    "Increased amoxicillin entry into bacteria",
+    "Inhibition of renal secretion of amoxicillin"
+   ],
+   "answer": 1,
+   "explanation": "The patient's symptoms and physical examination suggest the diagnosis of acute otitis media, one of the most common infectious diseases afflicting infants and children. The main bacteria causing otitis media in children are Streptococcus pneumoniae, Haemophilus influenzae, and Moraxella catarrhalis. Most clinicians advocate a stepped approach to the antimicrobial therapy, which involves initial treatment with amoxicillin or trimethoprim-sulfamethoxazole. If this regimen does not reduce symptoms within 3 days, amoxicillin/clavulanate or cefuroxime or ceftriaxone should be substituted for the initial therapy, as was done in this case. Potassium clavulanate is a β-lactamase inhibitor that blocks many, but not all, β-lactamase enzymes, protecting amoxicillin from inactivation by β-lactamase-producing bacteria. B Beta-lactamase inhibitors extend the antibacterial spectrum of amoxicillin, but Pseudomonas aeruginosa remains resistant. C, D Beta-lactamase inhibitors do not significantly affect the kinetics of penicillins. E Beta-lactamase inhibitors do not affect the allergenicity of β-lactam antibiotics.",
+   "source": "Pharmacology VIII-1 Q33",
+   "topic": "Easy",
+   "topic_n": 16
+  },
+  {
+   "question": "A 34-year-old man was admitted to the emergency department because of flushing, itching, nausea, sneezing, and abdominal cramps. Five days earlier, the patient was diagnosed with syphilis and started on antibiotic treatment. Vital signs on admission were blood pressure 98/56 mm Hg, pulse 125 bpm, respirations 22/min. Physical examination showed a cyanotic patient with urticaria, angioedema, and wheezing. Which of the following antibiotics most likely caused the patient's signs and symptoms?",
+   "choices": [
+    "Doxycycline",
+    "Penicillin G",
+    "Azithromycin",
+    "Metronidazole",
+    "Amikacin",
+    "Clindamycin"
+   ],
+   "answer": 1,
+   "explanation": "The signs and symptoms of the patient indicate that he was most likely suffering from an acute anaphylactic reaction to penicillin G, which is the treatment of choice in all stages of syphilis. A, B These drugs are sometimes used in the treatment of syphilis for penicillin-allergic patients, but they have a much lower risk of allergic reactions. C, E, F These drugs are not used in the treatment of syphilis because Treponema pallidum is intrinsically resistant to these antibiotics.",
+   "source": "Pharmacology VIII-1 Q34",
+   "topic": "Easy",
+   "topic_n": 17
+  },
+  {
+   "question": "A 57-year-old woman consulted her physician because of fever (101°F, 38.3°C), chills, nausea and vomiting, and pain in the upper right quadrant. Subsequent exams led to the diagnosis of acute cholecystitis. An appropriate therapy was started, including a cephalosporin that is primarily eliminated in the bile. Which of the following drugs was most likely administered?",
+   "choices": [
+    "Ceftazidime",
+    "Cefotetan",
+    "Cephalothin",
+    "Cefepime",
+    "Cefoperazone"
+   ],
+   "answer": 4,
+   "explanation": "The antibiotic therapy for acute cholecystitis is usually initiated to treat possible infection, but evidence of benefit is still modest. Empiric therapy is directed against gram-negative enteric organisms such as Escherichia coli, Klebsiella, and Enterobacter species. Cefoperazone and ceftriaxone are the two cephalosporins primarily eliminated with the bile. Both are active against the above-mentioned bacteria; therefore, cefoperazone can be appropriate for the empiric treatment of acute cholecystitis, as in this case. A, C-E These drugs are mainly eliminated by tubular secretion.",
+   "source": "Pharmacology VIII-1 Q35",
+   "topic": "Medium",
+   "topic_n": 16
+  },
+  {
+   "question": "A 33-year-old man presented to the clinic because he had noticed a red, painless nodule on the glans of his penis 1 week earlier. Three days after it appeared, the nodule became ulcerated, but only minimally painful. Physical examination showed an ulcer with an indurated base that exuded clear serum. Darkfield microscopy from the exudate showed numerous slender spiral microorganisms that were actively motile. A diagnosis was made, and a suitable therapy was prescribed. Which of the following drugs would be most appropriate for this patient?",
+   "choices": [
+    "Metronidazole",
+    "Penicillin G",
+    "Aztreonam",
+    "Ciprofloxacin",
+    "Vancomycin",
+    "Tobramycin"
+   ],
+   "answer": 1,
+   "explanation": "The signs and symptoms of the patient, as well as the darkfield exam, suggest that he is suffering from primary syphilis. Penicillin G is the drug of choice for the treatment of all stages of syphilis. A single intramuscular injection of benzathine penicillin G is appropriate for the early stage, as in this patient. If penicillin G is contraindicated, doxycycline or ceftriaxone can be used. A, B, D-F These drugs are not effective against Treponema pallidum.",
+   "source": "Pharmacology VIII-1 Q36",
+   "topic": "Easy",
+   "topic_n": 18
+  },
+  {
+   "question": "A 71-year-old diabetic man was admitted to the hospital with fever (101.2°F, 38.4°C) and a throbbing foot pain for the past 10 hours. Physical examination revealed a putrid smelling, pus-filled ulcer on the right foot. A metal probe inserted into the wound detected bone and a deep cavity. A Gram stain of the pus showed gram-positive cocci in chains, gram-negative diplococci, and gram-positive and -negative rods. Which of the following antibiotics would be most appropriate to give while blood and drainage cultures were processed?",
+   "choices": [
+    "Linezolid",
+    "Clindamycin",
+    "Metronidazole",
+    "Vancomycin",
+    "Amoxicillin/clavulanate"
+   ],
+   "answer": 4,
+   "explanation": "The signs and symptoms of the patient suggest that he was most likely suffering from acute osteomyelitis following a diabetic foot ulcer. The Gram stain was polymicrobial, and the putrid smell was specific for anaerobic microorganisms. Amoxicillin/clavulanate is a broad-spectrum antibiotic active against gram-positive cocci, gram-negative rods, and anaerobic bacteria. If the patient had a history of methicillin-resistant staphylococci, the addition of vancomycin or linezolid would be appropriate. B Clindamycin is active against gram-positive cocci and anaerobes but not against gram-negative rods. C, E Linezolid and vancomycin are active only against gram-positive cocci. D Metronidazole is active only against anaerobes.",
+   "source": "Pharmacology VIII-1 Q37",
+   "topic": "Medium",
+   "topic_n": 17
+  },
+  {
+   "question": "A 53-year-old woman presented to the clinic complaining of 3 weeks of night sweats, cough productive of foul-smelling sputum, and about 10 lb (4.5 kg) of weight loss. Physical examination showed fever (101.3°F, 38.5°C), clear lung fields, and mild clubbing. Chest radiography showed a thick-walled abscess in the left lobe. Gram stain of the sputum revealed gram-negative rods, and aerobic cultures were negative. Which of the following correctly pairs the most likely causative pathogen with the appropriate treatment?",
+   "choices": [
+    "Bacteroides fragilis: imipenem",
+    "Streptococcus pneumoniae: aztreonam",
+    "Listeria monocytogenes: ceftazidime",
+    "Actinomyces israelii: gentamicin",
+    "Legionella pneumophila: ampicillin"
+   ],
+   "answer": 0,
+   "explanation": "The putrid sputum and the negative aerobic culture point out that the offending pathogen was most likely an anaerobic bacterium. Bacteroides fragilis is the most common pathogen associated with anaerobic infections. It is very sensitive to imipenem, clindamycin, and broad-spectrum penicillins plus β-lactamase inhibitors. Other effective antibiotics are metronidazole and some cephalosporins. A Legionella pneumophila is an aerobic, gram-negative rod and is not sensitive to ampicillin. B Actinomyces israelii is an anaerobic rod, but it is gram-positive and not sensitive to gentamicin. D Streptococcus pneumoniae is an aerobic, gram-positive coccus and is not sensitive to aztreonam. E Listeria monocytogenes is an aerobic, gram-positive rod and is not sensitive to cephalosporins.",
+   "source": "Pharmacology VIII-1 Q38",
+   "topic": "Medium",
+   "topic_n": 18
+  },
+  {
+   "question": "A 31-year-old woman recently diagnosed with acute tonsillitis started a treatment with amoxicillin. Which of the following molecular actions most likely contributed to the therapeutic effect of the drug in the patient's disease?",
+   "choices": [
+    "Inhibition of transglycosylase in the bacterial cell wall",
+    "Activation of the efflux pump in bacterial cell membranes",
+    "Inhibition of DNA-dependent RNA polymerase",
+    "Activation of autolytic enzymes in the bacterial cell wall",
+    "Binding to the 30S bacterial ribosomal subunit"
+   ],
+   "answer": 3,
+   "explanation": "The mechanism of action of β-lactam antibiotics includes the following two actions: they bind to specific β-lactam receptors called penicillin-binding proteins located on the cytoplasmic membrane (these proteins are enzymes endowed with various catalytic functions that are inhibited by binding to the antibiotic; the most important enzymes inhibited are transpeptidases, which catalyze the final cross-link step in the synthesis of murein, also called peptidoglycan; because peptidoglycan layers are constituents of bacterial cell walls, the synthesis of the cell wall is blocked); and autolytic enzymes (called autolysins or murein hydrolases) are present in the cell wall and degrade the peptidoglycan — β-lactam antibiotics can activate these autolysins (apparently by blocking an autolysin inhibitor), thus promoting the lysis of bacteria. B This is the mechanism of action of tetracyclines. C This is a mechanism of resistance to antibiotics. D This is the mechanism of action of vancomycin. E This is the mechanism of action of rifampin.",
+   "source": "Pharmacology VIII-1 Q39",
+   "topic": "Easy",
+   "topic_n": 19
+  },
+  {
+   "question": "A 76-year-old man complained to his physician of a foul-smelling secretion from his left ear for the past 2 weeks. Further exams led to the diagnosis of chronic otitis media, and cultures from fluid secretions indicated Bacteroides fragilis as the main causative agent. An appropriate antibiotic treatment was started. Four days later, blood results indicated a prothrombin time of 25 seconds (normal 10-14 seconds). Which of the following drugs most likely caused this lab result?",
+   "choices": [
+    "Ciprofloxacin",
+    "Cefotetan",
+    "Clindamycin",
+    "Metronidazole",
+    "Chloramphenicol",
+    "Imipenem"
+   ],
+   "answer": 1,
+   "explanation": "Bacteroides fragilis has been isolated from up to 28% of patients with chronic otitis media. Antibiotics effective against bacteroides are metronidazole, clindamycin, and β-lactam drugs, including imipenem, broad-spectrum penicillins plus β-lactamase inhibitors, cefoxitin, and cefotetan. Hypoprothrombinemia has been associated with the use of certain cephalosporins, including cefoperazone, cefotetan, and cefamandole. The mechanism of hypoprothrombinemia is still uncertain but seems to be related to the methylthiotetrazole side chain of these cephalosporins, as this group can inhibit the carboxylation of glutamic acid, the vitamin K-dependent step in the synthesis of clotting factors. Because of this, the hypoprothrombinemia can be rapidly reversed by the administration of vitamin K. A-D These drugs are active against bacteroides, but hypoprothrombinemia is exceedingly rare. E Most quinolones have negligible activity against bacteroides.",
+   "source": "Pharmacology VIII-1 Q40",
+   "topic": "Medium",
+   "topic_n": 19
+  },
+  {
+   "question": "A 74-year-old man was recently diagnosed with pneumonia due to Pseudomonas aeruginosa. Past history of the patient was significant for a severe allergic reaction to ampicillin. A treatment was started with a β-lactam antibiotic that is highly resistant to β-lactamases and is active only against most gram-negative aerobic bacteria. Which of the following drugs was most likely given?",
+   "choices": [
+    "Cefepime",
+    "Amoxicillin",
+    "Imipenem",
+    "Aztreonam",
+    "Ceftazidime"
+   ],
+   "answer": 3,
+   "explanation": "Aztreonam is a β-lactam antibiotic with excellent activity against only most gram-negative, aerobic bacteria, including Pseudomonas aeruginosa. It has negligible allergic cross-reactivity with other β-lactam antibiotics and is therefore useful for treating gram-negative infections in patients with a history of prior allergic reaction to β-lactam drugs, as in this case. A-C, E All of these antibiotics are contraindicated in this patient because of his hypersensitivity to β-lactam drugs.",
+   "source": "Pharmacology VIII-1 Q41",
+   "topic": "Easy",
+   "topic_n": 20
+  },
+  {
+   "question": "An 11-year-old girl was taken to the clinic because of fever (102°F, 38.8°C), shortness of breath, and cough productive of purulent sputum. A chest radiograph showed several areas of infiltration with possible abscess formation. Coagulase-positive bacteria were cultured from the blood, and a susceptibility test showed that they were methicillin-resistant. Treatment with vancomycin was started. Inhibition of which of the following molecular actions most likely mediated the therapeutic effect of the drug in the patient's disease?",
+   "choices": [
+    "Activation of autolytic enzymes",
+    "Binding to ribosomal RNA",
+    "Translocation of peptidyl transfer RNA (tRNA)",
+    "Relaxation of supercoiled DNA",
+    "Elongation of peptidoglycan"
+   ],
+   "answer": 4,
+   "explanation": "The patient's signs, symptoms, and lab tests indicate that she was most likely suffering from pneumonia due to methicillin-resistant (MR) Staphylococcus aureus. The patient received vancomycin, a drug of choice for MR staphylococcal infections. Vancomycin binds to the terminus of nascent peptidoglycan pentapeptides. The binding inhibits transglycosylase, the enzyme that catalyzes the elongation of peptidoglycan chains, preventing formation of linear peptidoglycan chains. The binding also inhibits transpeptidase, but because transglycosylation precedes transpeptidation, inhibition of transglycosylase is the primary mechanism of action of the drug. B-E These actions are not inhibited by vancomycin.",
+   "source": "Pharmacology VIII-1 Q42",
+   "topic": "Easy",
+   "topic_n": 21
+  },
+  {
+   "question": "A 7-year-old boy was admitted to the hospital with fever (102°F, 38.8°C) and joint pain in his knees and wrists. He had a history of a severe sore throat for 3 weeks. Vital signs on admission were blood pressure 122/80 mm Hg, heart rate 110 bpm, respirations 24/min. Physical examination showed red, hot, and painful knees and a nonpruritic rash with distinct disklike borders on his thighs and stomach. Subcutaneous, painless nodules were present over the bone surface of his elbows and knees. Heart auscultation revealed a mitral valve regurgitation murmur. Pertinent lab results on admission were erythrocyte sedimentation rate 80/h (normal < 10/h for children), antistreptolysin-O titer 410 IU (normal < 200 IU). A diagnosis was made, and a suitable therapy was prescribed. Which of the following pairs of drugs would be most appropriate initial treatment for this patient?",
+   "choices": [
+    "Amoxicillin and erythromycin",
+    "Penicillin G and acetaminophen",
+    "Amoxicillin and ceftriaxone",
+    "Tobramycin and aspirin",
+    "Penicillin G and naproxen",
+    "Ceftriaxone and acetaminophen"
+   ],
+   "answer": 4,
+   "explanation": "The patient's clinical picture suggests that he was affected by acute rheumatic fever. The disease is a nonsuppurative complication of an infection with group A streptococci. The diagnosis of acute rheumatic fever requires two of the following major manifestations of the illness: carditis, migratory polyarthritis, chorea, erythema marginatum, and subcutaneous nodules. The patient has four such features. In acute rheumatic fever, it is appropriate to administer a therapeutic course (at least 10 days) of parenteral penicillin. In severe cases, aggressive use of antiinflammatory drugs is required. Salicylates remain the drugs of choice, but other nonsteroidal antiinflammatory drugs (NSAIDs, e.g., naproxen) can also be used in children. If a therapeutic effect has not been achieved after the fourth day, NSAIDs should be abandoned in favor of a glucocorticoid. B, C, F Amoxicillin and ceftriaxone are less effective against streptococci than penicillin G. Moreover an antiinflammatory drug must be given in acute rheumatic fever. D Aminoglycoside antibiotics are poorly effective against streptococci. E Acetaminophen is an antipyretic but not an antiinflammatory drug. Therefore, it is not useful in acute rheumatic fever, for which NSAIDs are given mainly to counteract the acute inflammatory reaction.",
+   "source": "Pharmacology VIII-1 Q43",
+   "topic": "Hard",
+   "topic_n": 3
+  },
+  {
+   "question": "A 7-year-old girl was admitted to the emergency department with fever (101.8°F, 38.8°C) and a productive cough of thick, greenish sputum. Her medical history was significant for cystic fibrosis and several episodes of pneumonia over the past 3 years. Gram stain of the sputum revealed gram-negative rods. Growth of bacteria on agar culture exhibited a blue-green pigment. Which of the following β-lactam drugs would be appropriate to include in the therapeutic regimen of this patient?",
+   "choices": [
+    "Clavulanic acid",
+    "Cephalothin",
+    "Oxacillin",
+    "Piperacillin",
+    "Penicillin G",
+    "Amoxicillin"
+   ],
+   "answer": 3,
+   "explanation": "The patient's history and the lab results suggest that she is suffering from a pulmonary infection due to Pseudomonas aeruginosa. All patients with cystic fibrosis eventually develop endobronchial colonization and infection. Commonly offending respiratory pathogens are Staphylococcus aureus, Haemophilus influenzae, and P. aeruginosa. Of these, P. aeruginosa has become the most common pathogen isolated in chronically colonized patients. For infections due to P. aeruginosa, a combination of two bactericidal antibiotics is the rule, and an antipseudomonal penicillin, such as piperacillin (or an antipseudomonal cephalosporin), plus an aminoglycoside is the most commonly used treatment. B-F None of these antibiotics are active against P. aeruginosa.",
+   "source": "Pharmacology VIII-1 Q44",
+   "topic": "Medium",
+   "topic_n": 20
+  },
+  {
+   "question": "A 32-year-old man recently diagnosed with cellulitis caused by Streptococcus pyogenes started a treatment with ampicillin. The drug acts by binding to penicillin-binding proteins. Which of the following molecular actions is catalyzed by penicillin-binding proteins?",
+   "choices": [
+    "Transpeptidation reaction",
+    "Transport of penicillins through porin channels",
+    "Binding of penicillins to the peptidoglycan layer",
+    "Breakdown of the β-lactam ring",
+    "Inhibition of murein hydrolases"
+   ],
+   "answer": 0,
+   "explanation": "Penicillin-binding proteins are specific targets for β-lactam antibiotics. They are located in the bacterial cytoplasmic membrane, and some of them are transpeptidases that catalyze the cross-linking of the peptidoglycan amino sugar chain by peptide bridges. This gives the cell wall its structural rigidity. By binding to these transpeptidase enzymes, β-lactam antibiotics block the transpeptidation reaction and therefore the synthesis of peptidoglycan. A Porin channels are aqueous channels present on the outer membrane of gram-negative bacteria. Beta-lactam antibiotics enter the cell through these channels. Penicillin-binding proteins do not affect this process. C The breakdown of the β-lactam ring is catalyzed by β-lactamases, not by transpeptidases. D Beta-lactam antibiotics can activate, not inhibit, murein hydrolases, which are enzymes able to destroy the cell wall. E Beta-lactam antibiotics bind to penicillin-binding proteins, not to the peptidoglycan layer.",
+   "source": "Pharmacology VIII-1 Q45",
+   "topic": "Medium",
+   "topic_n": 21
+  },
+  {
+   "question": "A 64-year-old homeless man was taken to the emergency department because of chills, fever, nausea and vomiting, and a laceration in his left arm. Vital signs on admission were blood pressure 100/52 mm Hg, pulse 124 bpm, respirations 32/min, temperature 102.2°F (39°C). Physical examination showed a critically ill patient with an infected wound, and microbiological tests from a wound specimen showed vancomycin-resistant Staphylococcus aureus. Emergency therapy was started. Which of the following drugs would be appropriate for this patient?",
+   "choices": [
+    "Imipenem",
+    "Daptomycin",
+    "Tobramycin",
+    "Gentamicin",
+    "Aztreonam",
+    "Cephalexin"
+   ],
+   "answer": 1,
+   "explanation": "The patient's signs, symptoms, and lab tests indicate that he was most likely suffering from sepsis due to vancomycin-resistant Staphylococcus aureus. Currently available antibiotics for vancomycin-resistant staphylococci are daptomycin, quinupristin/dalfopristin, linezolid, and tigecycline. Daptomycin is a bactericidal antibiotic active against gram-positive bacteria, including vancomycin-resistant staphylococci and enterococci. Its mechanism of action is not fully understood, but it is known that the drug binds to bacterial cell membranes via calcium-dependent insertion of its lipid tail. This likely results in formation of a pore, causing a loss of cellular potassium and resulting in rapid cell death. Because of this unique mechanism of action, there is no cross-resistance with other antibiotics, and resistance mechanisms are not known. A rare but serious adverse effect of the drug is myopathy, and creatine phosphokinase levels should be monitored. A, C, E Vancomycin-resistant staphylococci are resistant to all β-lactam drugs. B, F Aminoglycoside antibiotics are not effective against most gram-positive bacteria.",
+   "source": "Pharmacology VIII-1 Q46",
+   "topic": "Medium",
+   "topic_n": 22
+  },
+  {
+   "question": "A 49-year-old man hospitalized for bacterial endocarditis had been receiving a treatment with two drugs given intravenously. One week into therapy, a routine urinalysis showed albuminuria, microscopic hematuria, and hyaline casts. Which of the following pairs of drugs most likely caused these findings?",
+   "choices": [
+    "Erythromycin and tobramycin",
+    "Ampicillin and cephalexin",
+    "Vancomycin and gentamicin",
+    "Amikacin and tobramycin",
+    "Aztreonam and erythromycin"
+   ],
+   "answer": 2,
+   "explanation": "Treatment of bacterial endocarditis requires the use of one or most often two bactericidal antibiotics. A cell wall synthesis inhibitor plus an aminoglycoside is the first-line treatment, as a synergistic effect can be obtained (the cell wall synthesis inhibitor enhances the bacterial uptake of the aminoglycoside). In this case, vancomycin plus gentamicin was the most likely treatment because the patient showed signs of nephrotoxicity. The incidence of nephrotoxicity associated with vancomycin alone is very low, but it increases substantially (up to 20%) in patients receiving vancomycin plus an aminoglycoside, as in this case. A, E These combinations are not used for bacterial endocarditis and are not nephrotoxic. B This combination can cause nephrotoxicity, but it is irrational to use together two antibiotics with the same mechanism of action. C This combination can cause nephrotoxicity (due to the aminoglycoside), but it is not used for bacterial endocarditis. In general, a combination of a bactericidal plus a bacteriostatic antibiotic should be avoided, as an antagonistic interaction would occur in many cases.",
+   "source": "Pharmacology VIII-1 Q47",
+   "topic": "Medium",
+   "topic_n": 23
+  },
+  {
+   "question": "A 42-year-old man hospitalized for staphylococcal endocarditis developed hypotension, tachycardia, generalized pruritus, and facial flushing 15 minutes after receiving an intravenous injection of an antibiotic. Which of the following drugs most likely caused the patient's syndrome?",
+   "choices": [
+    "Oxacillin",
+    "Ampicillin",
+    "Cefazolin",
+    "Imipenem",
+    "Cefepime",
+    "Vancomycin"
+   ],
+   "answer": 5,
+   "explanation": "The patient most likely received vancomycin, a first-line agent for methicillin-resistant staphylococci. A common reaction to vancomycin is the so-called red man syndrome, which can occur after intravenous infusion of the antibiotic and includes hypotension, tachycardia, generalized pruritus, and facial flushing, as in this case. The syndrome is most likely caused by histamine release. A, C-F Although all of these antibiotics are effective against staphylococci, they do not cause histamine release.",
+   "source": "Pharmacology VIII-1 Q48",
+   "topic": "Easy",
+   "topic_n": 22
+  },
+  {
+   "question": "A 49-year-old woman recently diagnosed with an uncomplicated urinary tract infection started a treatment with an antibiotic that impairs cell wall synthesis by inhibiting enolpyruvate transferase. Which of the following drugs has this mechanism of action?",
+   "choices": [
+    "Aztreonam",
+    "Vancomycin",
+    "Fosfomycin",
+    "Cephalothin",
+    "Imipenem"
+   ],
+   "answer": 2,
+   "explanation": "Fosfomycin is an antibiotic mainly active against enterobacteriaceae, including Escherichia coli, enterococci, and Klebsiella, Enterobacter, Proteus, and Serratia species. The drug is approved for urinary tract infection due to susceptible bacteria because it is eliminated mainly by the kidney and attains high concentration in the urine. Fosfomycin acts by inhibiting enolpyruvate transferase, the enzyme that catalyzes the synthesis of N-acetylmuramic acid, an essential precursor for peptidoglycan synthesis. In this way, bacterial cell wall synthesis is inhibited. A-C, E All of these drugs can block bacterial cell wall synthesis, but they act with different mechanisms of action.",
+   "source": "Pharmacology VIII-1 Q49",
+   "topic": "Easy",
+   "topic_n": 23
+  },
+  {
+   "question": "A 53-year-old woman hospitalized for resection of breast carcinoma presented with fever (103.8°F, 39.4°C), cough, dyspnea, and viscid, currant jelly-like sputum 3 days after surgery. A Gram stain showed numerous gram-negative bacilli with large capsules. A chest radiograph showed dense right upper field infiltrates. A diagnosis of nosocomial pneumonia was made. Which of the following pairs of antibiotics would be most appropriate for the emergency therapy of this patient?",
+   "choices": [
+    "Erythromycin and nafcillin",
+    "Tetracycline and sulfamethoxazole",
+    "Cefoxitin and tobramycin",
+    "Penicillin G and gentamicin",
+    "Vancomycin and oxacillin"
+   ],
+   "answer": 2,
+   "explanation": "Nearly 1% of hospitalized patients develop pneumonia, which has a 20 to 50% mortality rate. The predominant organisms causing nosocomial pneumonia are aerobic gram-negative bacilli, including Klebsiella pneumoniae, Escherichia coli, Proteus mirabilis, and Pseudomonas aeruginosa. Less common causes are Staphylococcus aureus, Streptococcus pneumoniae, and anaerobes. The most frequent and best characterized pathogen is Klebsiella pneumoniae, which causes Friedlander pneumonia, a disease that can have a fulminant course and a mortality rate of about 50%, despite the availability of effective antibiotics. In this case, the typical appearance of the sputum (a homogeneous mixture of blood and mucus resembling currant jelly) and the results of lab tests and x-ray suggest Friedlander pneumonia. Cephalosporins are drugs of first choice against Klebsiellae. However, due to the seriousness of the disease, most authorities suggest the use of an aminoglycoside together with a cephalosporin. A, B, D, E All of the other listed options have at least one antibiotic that is not effective against Klebsiellae.",
+   "source": "Pharmacology VIII-1 Q50",
+   "topic": "Medium",
+   "topic_n": 24
+  }
+ ]
+}

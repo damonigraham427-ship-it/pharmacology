@@ -1,0 +1,475 @@
+{
+ "questions": [
+  {
+   "question": "Match each antimuscarinic or ganglionic drug with the appropriate description (each lettered option can be selected once, more than once, or not at all). This drug is currently used in bronchospastic disorders.",
+   "choices": [
+    "Atropine",
+    "Darifenacin",
+    "Homatropine",
+    "Benztropine",
+    "Ipratropium",
+    "Mecamylamine",
+    "Scopolamine",
+    "Glycopyrrolate"
+   ],
+   "answer": 4,
+   "explanation": "Matching item. Correct match: Ipratropium.",
+   "source": "Pharmacology II-5 Q1",
+   "topic": "Easy",
+   "topic_n": 1
+  },
+  {
+   "question": "Match each antimuscarinic or ganglionic drug with the appropriate description (each lettered option can be selected once, more than once, or not at all). This drug almost exclusively blocks muscarinic M3 receptors.",
+   "choices": [
+    "Ipratropium",
+    "Darifenacin",
+    "Mecamylamine",
+    "Glycopyrrolate",
+    "Benztropine",
+    "Atropine",
+    "Scopolamine",
+    "Homatropine"
+   ],
+   "answer": 1,
+   "explanation": "Matching item. Correct match: Darifenacin.",
+   "source": "Pharmacology II-5 Q2",
+   "topic": "Easy",
+   "topic_n": 2
+  },
+  {
+   "question": "Match each antimuscarinic or ganglionic drug with the appropriate description (each lettered option can be selected once, more than once, or not at all). This drug is mainly used in parkinsonism.",
+   "choices": [
+    "Scopolamine",
+    "Atropine",
+    "Ipratropium",
+    "Benztropine",
+    "Darifenacin",
+    "Homatropine",
+    "Glycopyrrolate",
+    "Mecamylamine"
+   ],
+   "answer": 3,
+   "explanation": "Matching item. Correct match: Benztropine.",
+   "source": "Pharmacology II-5 Q3",
+   "topic": "Easy",
+   "topic_n": 3
+  },
+  {
+   "question": "Match each antimuscarinic or ganglionic drug with the appropriate description (each lettered option can be selected once, more than once, or not at all). This drug can block only nicotinic neuronal receptors.",
+   "choices": [
+    "Benztropine",
+    "Ipratropium",
+    "Atropine",
+    "Glycopyrrolate",
+    "Scopolamine",
+    "Darifenacin",
+    "Homatropine",
+    "Mecamylamine"
+   ],
+   "answer": 7,
+   "explanation": "Matching item. Correct match: Mecamylamine.",
+   "source": "Pharmacology II-5 Q4",
+   "topic": "Easy",
+   "topic_n": 4
+  },
+  {
+   "question": "Match each antimuscarinic or ganglionic drug with the appropriate description (each lettered option can be selected once, more than once, or not at all). This drug is used almost exclusively to diagnose or treat eye disorders.",
+   "choices": [
+    "Glycopyrrolate",
+    "Ipratropium",
+    "Benztropine",
+    "Darifenacin",
+    "Homatropine",
+    "Mecamylamine",
+    "Scopolamine",
+    "Atropine"
+   ],
+   "answer": 4,
+   "explanation": "Matching item. Correct match: Homatropine.",
+   "source": "Pharmacology II-5 Q5",
+   "topic": "Easy",
+   "topic_n": 5
+  },
+  {
+   "question": "A 25-year-old man experienced severe motion sickness whenever he traveled by air or sea. He felt much better after using a transdermal patch to apply a drug before traveling. Blockade of which of the following receptors most likely mediated the therapeutic effect of the drug in the patient's disorder?",
+   "choices": [
+    "M1 cholinergic",
+    "5-HT3 serotoninergic",
+    "β2 adrenergic",
+    "Nn cholinergic",
+    "H1 histaminergic",
+    "D2 dopaminergic"
+   ],
+   "answer": 0,
+   "explanation": "The drug used by the patient was most likely scopolamine, the only anti-motion sickness drug that can be applied to the skin via a transdermal patch. Antimuscarinic drugs are used in certain vestibular disorders, including motion sickness and Meniere disease. Their main mechanism of action is most likely related to blockade of muscarinic M1 receptors located in the vestibular nuclei, in the chemoreceptor trigger zone, and in the solitary tract nucleus. This blockade decreases firing from these regions to the vomiting center, so nausea and vomiting are prevented. A-D See correct answer explanation.",
+   "source": "Pharmacology II-5 Q6",
+   "topic": "Medium",
+   "topic_n": 1
+  },
+  {
+   "question": "A 33-year-old woman suffering from irritable bowel syndrome was prescribed glycopyrrolate. Blockade of which of the following pairs of receptors most likely mediated the therapeutic effect of the drug in the patient's disease?",
+   "choices": [
+    "β2 and Nm",
+    "M3 and Nn",
+    "M2 and Nn",
+    "M1 and M3",
+    "α1 and M2"
+   ],
+   "answer": 1,
+   "explanation": "Glycopyrrolate is a quaternary ammonium antimuscarinic drug. Drugs of this type relax the intestinal smooth muscle and are sometimes given to patients with irritable bowel syndrome during periods of diarrhea, in order to relieve the hyperactivity of the gut. Quaternary ammonium antimuscarinic drugs mainly block muscarinic receptors but also exhibit a significant blocking activity on ganglionic Nn receptors. Both the blockade of M3 receptors in the gastrointestinal smooth muscle and the blockade of the Nn receptors in the ganglia of the myenteric and submucosal plexus likely contribute to the relaxation of the smooth muscle. A, B, D, E See correct answer explanation.",
+   "source": "Pharmacology II-5 Q7",
+   "topic": "Medium",
+   "topic_n": 2
+  },
+  {
+   "question": "A 62-year-old woman who was on vacation in Guatemala presented to the local hospital with nausea, vomiting, and profuse, watery diarrhea. The symptoms had appeared after eating raw oysters. She was prescribed atropine, which relieved her diarrhea. Which of the following molecular actions most likely mediated the therapeutic effect of atropine in the patient's disorder?",
+   "choices": [
+    "Activation of presynaptic cholinergic autoreceptors",
+    "Inhibition of histamine secretion by gastric cells",
+    "Increased firing discharge of the vagus nerve",
+    "Decreased cytosolic Ca2+ in smooth muscle cells",
+    "Opening of Na+ channels in smooth muscle cells"
+   ],
+   "answer": 3,
+   "explanation": "The history and symptoms of the patient indicate that she was most likely suffering from traveler's diarrhea, a gastroenteritis that is usually caused by bacteria endemic to local water. Atropine is still a component of many over-the-counter antidiarrheal preparations available outside the United States. Diarrhea is mediated, at least in part, by an increased activity of the parasympathetic nervous system. By activating M3 receptors, acetylcholine increases the synthesis of inositol triphosphate/diacylglycerol (IP3/DAG), which in turn increases the amount of Ca2+ available for muscle contraction. By blocking M3 receptors in the gut, atropine prevents this increase and thus relieves the diarrhea. A, C, D Atropine does not have these effects. E Atropine can block presynaptic M2 receptors, but this action would increase the release of acetylcholine, which would worsen, not relieve, the diarrhea.",
+   "source": "Pharmacology II-5 Q8",
+   "topic": "Hard",
+   "topic_n": 1
+  },
+  {
+   "question": "A 42-year-old man was hospitalized with the admitting diagnosis of myocardial infarction. Vital signs were blood pressure 100/60 mm Hg, heart rate 40 bpm, respirations 12/min. The bradycardia disappeared after an intramuscular injection of atropine. The increased heart rate was most likely due to counteraction by atropine of which of the following acetylcholine-induced actions?",
+   "choices": [
+    "Decrease in cardiac contractility",
+    "Activation of cardiac presynaptic autoreceptors",
+    "Opening of K+ channels in sinoatrial node",
+    "Opening of Na+ channels in ganglionic neurons",
+    "Release of nitric oxide"
+   ],
+   "answer": 2,
+   "explanation": "By activating M2 receptors, acetylcholine opens K+ channels in the sinoatrial (SA) node. This increases the outward K+ current, and the membrane becomes hyperpolarized. The result is a decrease in firing rate of the SA node. By blocking M2 receptors, antimuscarinic drugs counteract the acetylcholine-induced opening of K+ channels in the SA node. The firing rate of the SA node is increased, causing an increase in heart rate. A Acetylcholine-induced release of nitric oxide causes vasodilation, which could lead to reflex tachycardia. By counteracting this action, antimuscarinic drugs would decrease, not increase, the heart rate. C Antimuscarinic drugs can counteract acetylcholine-induced decrease in cardiac contractility, but this has nothing to do with the increase in heart rate. D Acetylcholine-induced opening of Na+ channels in ganglionic neurons is mediated by the activation of Nn receptors. Antimuscarinic drugs have weak or negligible blocking activity on these receptors. E The blockade of presynaptic autoreceptors increases the release of acetylcholine from cholinergic terminals. This would decrease, not increase, the heart rate.",
+   "source": "Pharmacology II-5 Q9",
+   "topic": "Hard",
+   "topic_n": 2
+  },
+  {
+   "question": "A 5-year-old girl who was on vacation in Venezuela with her parents was admitted to the local hospital with fever (103.7°F, 39.8°C), mental confusion, restlessness, and hallucinatory behavior. History revealed that the girl had eaten some honey bought from a local vendor. Physical examination revealed mydriasis; dry, hot, and red skin; and a distended abdomen. A diagnosis of atropine poisoning was made, and an appropriate therapy was started. Which of the following molecular actions most likely contributed to the atropine-induced hyperthermia in this patient?",
+   "choices": [
+    "Skin vasoconstriction",
+    "Blockade of muscarinic receptors of sweat glands",
+    "Blockade of prostaglandin synthesis in the hypothalamus",
+    "Blockade of muscarinic receptors in the hypothalamus",
+    "Uncoupling of oxidative phosphorylation in skeletal muscle"
+   ],
+   "answer": 1,
+   "explanation": "Atropine poisoning can occur from honey made from the pollen of plants from the nightshade family. Several cases have been reported in the literature. By blocking M3 receptors on sweat glands, atropine can reduce sweating enough to raise the body temperature. This occurs primarily in children, because they are especially susceptible to the toxic effects of antimuscarinic drugs. A Toxic doses of antimuscarinic drugs cause skin vasodilation. B Antimuscarinic drugs do not affect prostaglandin synthesis. Moreover, blockade of prostaglandin synthesis in the hypothalamus has an antipyretic, not a fever-inducing, effect. C Uncoupling oxidative phosphorylation in skeletal muscle can cause fever, but this is not an action of antimuscarinic drugs. Uncoupling can be caused by high doses of certain chemicals, such as dinitrophenol and salicylates. D The receptors involved in temperature regulation by the hypothalamic thermostatic center are still unknown.",
+   "source": "Pharmacology II-5 Q10",
+   "topic": "Medium",
+   "topic_n": 3
+  },
+  {
+   "question": "A 54-year-old man, recently diagnosed with chronic obstructive pulmonary disease, started a therapy with ipratropium bromide using a metered-dose inhaler. Which of the following statements best explains why drugs from the ipratropium class are the only antimuscarinic drugs used to treat bronchospastic disorders?",
+   "choices": [
+    "They have an oral bioavailability higher than that of other antimuscarinic drugs.",
+    "They have negligible effects on bronchial secretions and mucociliary clearance.",
+    "They have excellent inhalatory bioavailability.",
+    "They are more potent than other antimuscarinic drugs.",
+    "They have negligible effects on the central nervous system."
+   ],
+   "answer": 1,
+   "explanation": "In the past, antimuscarinic drugs were used to treat bronchospastic disorder. However, it was realized that most antimuscarinic drugs reduce the volume of bronchial secretions, which then become thick. This viscous material is difficult to remove from the respiratory tree and can dangerously obstruct airflow. Moreover, reduced bronchial secretions in turn decrease mucociliary clearance, an important function for the cleaning of the bronchial tree. Therefore, these drugs (except ipratropium and tiotropium) have become contraindicated in respiratory disorders. Ipratropium, for unknown reasons, has negligible effects on bronchial secretions and mucociliary clearance. Thus, its anticholinergic properties can be safely exploited in the treatment of bronchospastic disease. A Potency, or the inverse of the dose needed to get a predetermined effect, is almost never the reason for the choice of a specific drug. B These drugs are given only by the inhalatory route, so oral bioavailability is not an issue. Moreover, the oral bioavailability is very low, as these drugs are quaternary ammonium compounds and therefore cannot cross lipid membranes. C By definition, bioavailability is the fraction of drug reaching the general circulation. When given by inhalatory route, the fraction of ipratropium reaching the general circulation is negligible. E Central effects of these drugs are negligible (the drugs are poorly absorbed), but this is not the reason why these drugs are the preferred antimuscarinic agents to treat bronchospastic disorders.",
+   "source": "Pharmacology II-5 Q11",
+   "topic": "Medium",
+   "topic_n": 4
+  },
+  {
+   "question": "A 25-year-old man went to his ophthalmologist's office for a routine visit. He received one drop of homatropine in the conjunctival sac to prepare the eye for examination. Which of the following sets of effects did the drug most likely cause in the patient's eye, a few minutes after the administration? (Table columns: Pupillary Diameter / Lens Curvature / Intraocular Pressure; + = increased, − = decreased, 0 = negligible effect)",
+   "choices": [
+    "Pupillary diameter + (increased), lens curvature − (decreased), intraocular pressure + (increased)",
+    "Pupillary diameter + (increased), lens curvature − (decreased), intraocular pressure − (decreased)",
+    "Pupillary diameter + (increased), lens curvature 0 (negligible effect), intraocular pressure (cell blank in book)",
+    "Pupillary diameter 0 (negligible effect), lens curvature − (decreased), intraocular pressure 0 (negligible effect)",
+    "Pupillary diameter − (decreased), lens curvature 0 (negligible effect), intraocular pressure − (decreased)"
+   ],
+   "answer": 0,
+   "explanation": "Homatropine is an antimuscarinic drug that blocks M3 receptors in the sphincter muscle of the iris and in the ciliary muscle. The relaxation of the sphincter muscle of the iris increases pupillary diameter, thus facilitating the eye fundus inspection. The relaxation of the muscle stretches the zonula fibers, which in turn pull the lens capsule and decrease lens curvature. The relaxation of the ciliary muscle also tends to close the spaces of the trabecular meshwork, decreasing aqueous humor outflow, which in turn causes an increase in intraocular pressure. A-D See correct answer explanation.",
+   "source": "Pharmacology II-5 Q12",
+   "topic": "Medium",
+   "topic_n": 5
+  },
+  {
+   "question": "A 77-year-old woman was found to have elevated intraocular pressure during a routine eye examination. History indicated that she had recently been taking several antimuscarinic medications to treat her bladder hyperreflexia. The ophthalmologist told her that he believed the increased intraocular pressure was an adverse effect of those medications. Which of the following ocular actions most likely mediated this adverse effect?",
+   "choices": [
+    "Increased aqueous humor production",
+    "Relaxation of the tarsal muscle",
+    "Decreased episcleral aqueous humor outflow",
+    "Relaxation of the ciliary muscle",
+    "Dilation of ciliary body vessels",
+    "Relaxation of the radial muscle of the iris"
+   ],
+   "answer": 3,
+   "explanation": "Antimuscarinic drugs relax the ciliary muscle. This action compresses the trabecular meshwork and Schlemm canal, decreasing the outflow of aqueous humor. The final effect is increased intraocular pressure. B Aqueous humor production is primarily under the control of the sympathetic nervous system. C Vessel tone is primarily under the control of the sympathetic nervous system. D The radial muscle of the iris is primarily under the control of the sympathetic nervous system. E Episcleral aqueous humor outflow is primarily under the control of prostaglandins. F The tarsal is a palpebral smooth muscle and has nothing to do with the control of intraocular pressure.",
+   "source": "Pharmacology II-5 Q13",
+   "topic": "Medium",
+   "topic_n": 6
+  },
+  {
+   "question": "An 85-year-old male resident of a nursing facility complained of frequent urinary urges that often resulted in urine leakage. Darifenacin was prescribed to manage the patient's incontinence. Which of the following actions most likely mediate the therapeutic effect of the drug?",
+   "choices": [
+    "Contraction of the detrusor muscle",
+    "Relaxation of the prostate capsule",
+    "Decreased diuresis",
+    "Decreased bladder internal sphincter tone",
+    "Increased compliance of the bladder"
+   ],
+   "answer": 4,
+   "explanation": "The patient's symptoms indicate that he was suffering from urge incontinence, the most common form of urinary incontinence affecting the elderly. Darifenacin is a selective M3 antagonist. By blocking M3 receptors, the drug relaxes the smooth muscle of the bladder, so the compliance (i.e., a measure of the ease with which a hollow internal organ may be distended) of the bladder is increased. A Decreased tone of the internal sphincter of the bladder is mediated by blockade of α1 adrenoceptors. B Relaxation of the prostate capsule is mediated by blockade of α1 adrenoceptors. C Contraction of the detrusor muscle is mediated by activation of M3 receptors. D Diuresis is not under the control of M3 receptors.",
+   "source": "Pharmacology II-5 Q14",
+   "topic": "Easy",
+   "topic_n": 6
+  },
+  {
+   "question": "A 77-year-old man suffering from chronic obstructive pulmonary disease had been taking ipratropium by inhalation. Shortly after inadvertently spraying the medication on his face, which of the following effects did the patient most likely experience?",
+   "choices": [
+    "Drowsiness",
+    "Atrioventricular (AV) block",
+    "Hallucinations",
+    "Difficulty in near vision",
+    "Urge incontinence",
+    "Salivation"
+   ],
+   "answer": 3,
+   "explanation": "Ipratropium is a quaternary ammonium antimuscarinic drug. By blocking M3 receptors in the ciliary muscle, it causes cycloplegia with loss of accommodation for near vision. A Systemic effects are unlikely with local administration of the drug. Moreover, urge incontinence is due to contraction of the detrusor muscle. By blocking M3 receptors, antimuscarinic drugs would cause relaxation, not contraction, of the detrusor muscle. B, F Quaternary ammonium antimuscarinic drugs do not cross the blood-brain barrier, so these effects are unlikely. C By blocking M3 receptors, antimuscarinic drugs would cause xerostomia, not salivation. D Systemic effects are unlikely with a local administration of the drug. Moreover, by blocking M2 receptors in the heart, antimuscarinic drugs would increase AV conduction, so AV block is unlikely.",
+   "source": "Pharmacology II-5 Q15",
+   "topic": "Medium",
+   "topic_n": 7
+  },
+  {
+   "question": "An 8-year-old boy was in an ophthalmologist's office for the first time and received ophthalmic drops of a drug to prepare his eyes for measurement of refractive errors. A half hour later, he showed mental confusion, restlessness, incoherence, and hallucinatory behavior. His pulse rate was 120 bpm. Which of the following drugs most likely caused the patient's adverse effects?",
+   "choices": [
+    "Timolol",
+    "Atropine",
+    "Phenylephrine",
+    "Epinephrine",
+    "Pilocarpine"
+   ],
+   "answer": 1,
+   "explanation": "Antimuscarinic drugs are sometime used to prepare the eye for measurement of refractive errors. Even if atropine is administered topically, it can pass into the nasolacrimal duct and be absorbed from the nasal mucosa. Children are especially sensitive to the effects of antimuscarinic drugs and may exhibit the classic central and cardiovascular symptoms of atropine overdose, as in this case. A, B Phenylephrine and epinephrine can also be absorbed from the nasal mucosa and could transiently increase the heart rate, but they do not cause central effects, as they do not enter the brain. D, E Timolol and pilocarpine would cause a decrease, not an increase, in heart rate.",
+   "source": "Pharmacology II-5 Q16",
+   "topic": "Medium",
+   "topic_n": 8
+  },
+  {
+   "question": "A 73-year-old man with atrial fibrillation presented to the clinic because of dizziness, palpitations, dyspnea, and an urgent need to urinate. The man was on vacation in Mexico, and the symptoms started 1 hour after taking an over-the-counter preparation bought at a local pharmacy to treat diarrhea. Which of the following drugs most likely caused the patient's symptoms?",
+   "choices": [
+    "Phenylephrine",
+    "Epinephrine",
+    "Albuterol",
+    "Propranolol",
+    "Atropine"
+   ],
+   "answer": 4,
+   "explanation": "Atropine is still a component of many over-the-counter antidiarrheal preparations available outside the United States. By blocking M2 receptors in the heart, atropine increases atrioventricular conduction. In a patient with atrial fibrillation, this increase can cause tachycardia (more impulses originating in the atrium can reach the ventricle), which in turn stimulates the release of atrial natriuretic peptide. This explains the patient's urgent need to urinate. It is interesting to note that atropine will increase the urge to urinate while inhibiting the ability to do so. The urge to urinate is due to the increased diuresis that in turn increases filling of the bladder. The consequent increased firing from stretch receptors ascends the spinal cord to the periaqueductal gray, where it projects both to the pontine micturition center and to the cerebrum. At the same time, the anticholinergic activity of atropine tends to relax the detrusor, thus inhibiting the ability to urinate. A, B, D, E None of these drugs are used to relieve diarrhea.",
+   "source": "Pharmacology II-5 Q17",
+   "topic": "Hard",
+   "topic_n": 3
+  },
+  {
+   "question": "A 23-year-old man was admitted to the emergency department with palpitations, restlessness, and hallucinatory behavior. He admitted that he was a heroin addict and that 1 hour earlier, he had self-injected his usual dose of \"smack,\" bought from a new vendor. Physical examination showed a distressed man with the following signs: Blood pressure: 160/80 mm Hg; Pulse 135; Pupils: dilated; Skin: hot and dry; Bowel sounds: decreased. Which of the following drugs most likely caused the patient's signs and symptoms?",
+   "choices": [
+    "Neostigmine",
+    "Nicotine",
+    "Pralidoxime",
+    "Scopolamine",
+    "Bethanechol"
+   ],
+   "answer": 3,
+   "explanation": "The patient's signs and symptoms indicate he was most likely poisoned by scopolamine, a drug frequently used to \"cut\" heroin. Epidemics of poisoning caused by heroin adulterated with scopolamine have occurred in New York and the eastern United States. The most frequent symptoms of antimuscarinic poisoning are tachycardia, mild hypertension, dilated pupils, dry and hot skin, and diminished or absent bowel sounds. A, B, D, E See correct answer explanation.",
+   "source": "Pharmacology II-5 Q18",
+   "topic": "Hard",
+   "topic_n": 4
+  },
+  {
+   "question": "A 67-year-old man recently diagnosed with benign prostatic hyperplasia was scheduled for surgery. Which of the following drug classes would be absolutely contraindicated in this patient?",
+   "choices": [
+    "Beta blockers",
+    "Alpha-2 agonists",
+    "Antimuscarinics",
+    "Beta-1 agonists",
+    "Alpha-1 blockers"
+   ],
+   "answer": 2,
+   "explanation": "Antimuscarinic drugs relax the detrusor muscle, so voiding of the bladder becomes more difficult. This can be especially dangerous in patients with prostatic hyperplasia who already have difficulty in micturition, due to prostate-induced narrowing of the urethra. In these patients, antimuscarinic drugs can precipitate acute urinary retention. A Alpha-1 antagonists such as prazosin are actually indicated in prostatic hyperplasia, as they relax the internal sphincter of the bladder. C Beta-blockers tend to contract the smooth muscle, as they block β2 receptor-mediated relaxation. However, these drugs have little influence on nonvascular smooth muscles, which are mainly under parasympathetic control. D Alpha-2 agonists activate α2 receptors, which are mainly presynaptic. This activation in turn can decrease the release of norepinephrine, thereby decreasing the contractility of the internal sphincter of the bladder. E Beta-1 agonists do not affect the contractility of smooth muscle.",
+   "source": "Pharmacology II-5 Q19",
+   "topic": "Medium",
+   "topic_n": 9
+  },
+  {
+   "question": "A 55-year-old woman was admitted to the hospital with shallow breathing, wheezing, profuse rhinorrhea, lacrimation, ocular pain, and diminished vision. She reported that the symptoms started when she was in her garden spraying flowers with an insecticide containing carbaryl, a reversible cholinesterase inhibitor. Which of the following drugs would be appropriate to treat this patient's disorder?",
+   "choices": [
+    "Atropine",
+    "Terbutaline",
+    "Pralidoxime",
+    "Glycopyrrolate",
+    "Epinephrine"
+   ],
+   "answer": 0,
+   "explanation": "Atropine is always used to treat poisoning by cholinesterase inhibitors, because it is able to counteract both the central and peripheral symptoms of acetylcholine excess. A Pralidoxime rapidly regenerates the phosphorylated acetylcholinesterase and therefore is useful for the treatment of poisoning due to organophosphates (irreversible cholinesterase inhibitors). However, the drug is contraindicated when poisoning is due to reversible cholinesterase inhibitors, as in this case. In fact, pralidoxime is not able to regenerate the acetylcholinesterase blocked by carbamates; it also has weak anticholinesterase activity. B, C Sympathomimetic drugs such as terbutaline and epinephrine are useless in the treatment of poisoning by cholinesterase inhibitors. D Glycopyrrolate is a quaternary ammonium antimuscarinic drug. Therefore, it would not be able to counteract the central effects of acetylcholine excess because it does not cross the blood-brain barrier very well.",
+   "source": "Pharmacology II-5 Q20",
+   "topic": "Medium",
+   "topic_n": 10
+  },
+  {
+   "question": "A 64-year-old man complained to his physician of a recent onset of diarrhea. The physician believed the diarrhea was related to aspirin and misoprostol that the patient had started taking 1 week earlier for the treatment of joint pain due to osteoarthritis. Which of the following drugs would be most appropriate to treat the patient's diarrhea?",
+   "choices": [
+    "Ipratropium",
+    "Glycopyrrolate",
+    "Donepezil",
+    "Propranolol",
+    "Prazosin",
+    "Phenylephrine"
+   ],
+   "answer": 1,
+   "explanation": "Antimuscarinic drugs are currently used to treat diarrhea from various causes, including drug-induced diarrhea, as in this case. Quaternary ammonium compounds, such as glycopyrrolate, are sometimes preferred for two reasons: There is a clinical impression that they have a relatively greater effect on gastrointestinal activity. This has been attributed to the fact that they can also block nicotinic receptors in parasympathetic ganglia of myenteric and submucosal plexus. Because their oral bioavailability is low, when given orally, their effects are mainly limited to the gastrointestinal wall (where they are, initially, more concentrated). B Ipratropium is an antimuscarinic quaternary ammonium compound but is given only by the inhalatory route for bronchospastic disorders. A, C, E Sympathetic agonists and antagonists have little effect on the gastrointestinal system and are not used to treat diarrhea. F Donepezil is a cholinesterase inhibitor and therefore would be contraindicated in this case of diarrhea.",
+   "source": "Pharmacology II-5 Q21",
+   "topic": "Easy",
+   "topic_n": 7
+  },
+  {
+   "question": "A 63-year-old man underwent surgery to remove a laryngeal carcinoma. Before surgery, the anesthesiologist administered a drug intramuscularly to decrease bronchial secretions and to prevent bradycardia due to manipulation of the vagus nerve. Which of the following drugs would be most appropriate in this situation?",
+   "choices": [
+    "Epinephrine",
+    "Atropine",
+    "Ipratropium",
+    "Isoproterenol",
+    "Dopamine"
+   ],
+   "answer": 1,
+   "explanation": "Atropine is sometimes used to prevent vagal reflexes when surgery is performed near the location of the vagus nerve, as in this case. A Ipratropium is an antimuscarinic drug, but it is used only by inhalation for bronchospastic disorders. B, D, E Dopamine, isoproterenol, and epinephrine can increase the heart rate, but atropine is much more effective when bradycardia is due to parasympathetic activation.",
+   "source": "Pharmacology II-5 Q22",
+   "topic": "Easy",
+   "topic_n": 8
+  },
+  {
+   "question": "A 44-year-old man collapsed at work and was found to be unresponsive. When the paramedics arrived, he had ventricular fibrillation and was cardioverted successfully. He was admitted to the coronary unit, but shortly thereafter he developed asystole. Cardiopulmonary resuscitation was started, and escalating doses of epinephrine were given without success. Which of the following drugs would be most appropriately administered at this point?",
+   "choices": [
+    "Atropine",
+    "Norepinephrine",
+    "Dopamine",
+    "Neostigmine",
+    "Ipratropium"
+   ],
+   "answer": 0,
+   "explanation": "Asystole is the complete electrocardiographic absence of electrical activity. Its development usually indicates a prolonged cardiac arrest and carries a very grave prognosis. In the treatment of asystole, epinephrine is the initial agent of choice to generate a rhythm. Because enhanced parasympathetic tone, possibly also due to chest compression, may play a role in inhibiting supraventricular and ventricular pacemakers, anticholinergic drugs may be beneficial, and atropine is usually tried when epinephrine fails. A Neostigmine increases cholinergic activity and is therefore absolutely contraindicated in this setting. B, C When epinephrine does not work, the choice of other sympathomimetic drugs, such as norepinephrine and dopamine, is irrational. E Ipratropium is an anticholinergic agent but is used only by inhalation for bronchospastic disorders.",
+   "source": "Pharmacology II-5 Q23",
+   "topic": "Hard",
+   "topic_n": 5
+  },
+  {
+   "question": "In a laboratory experiment, a mecamylamine pretreatment was given intramuscularly to several dogs. One hour later, each dog received an autonomic drug, and the effect of that drug was recorded. Which of the following expected drug-induced effects was most likely best counteracted by mecamylamine pretreatment?",
+   "choices": [
+    "Epinephrine-induced tachycardia",
+    "Neostigmine-induced increase in intestinal peristalsis",
+    "Nicotine-induced contraction of skeletal muscle",
+    "Norepinephrine-induced bradycardia",
+    "Propranolol-induced hypotension"
+   ],
+   "answer": 3,
+   "explanation": "Norepinephrine increases the mean blood pressure. This increase causes a stimulation of aortic baroreceptors, which activates the baroreceptor reflex. The increased vagal discharge overcomes the direct effect of norepinephrine on the heart rate (an increase due to the activation of β1 receptors), so the final effect is a decrease in heart rate. Ganglionic blockers such as mecamylamine impair the baroreceptor reflex, thereby abolishing bradycardia. A Neostigmine is a cholinesterase inhibitor that increases the availability of acetylcholine at every cholinergic synapse. Acetylcholine activates M3 receptors in the gut and Nn receptors in the autonomic ganglia. Both actions contribute to the increase in intestinal peristalsis. A ganglionic blocker can prevent the activation of Nn receptors but has no effect on the activation of M3 receptors. Therefore, peristalsis will be decreased but not completely abolished. B Nicotine-induced contraction of skeletal muscle is due to activation of Nm receptors. Ganglionic blockers have negligible activity on these receptors. D Epinephrine-induced tachycardia is due to the activation of cardiac β1 and β2 receptors. A ganglionic blocker cannot block these receptors. E Ganglionic blockers actually cause hypotension by blocking the sympathetic discharge to the vessels. Therefore, the propranolol-induced hypotension is in fact enhanced, not prevented.",
+   "source": "Pharmacology II-5 Q24",
+   "topic": "Medium",
+   "topic_n": 11
+  },
+  {
+   "question": "A 43-year-old man came to the hospital for a radiologic examination of the colon. Before starting the exam, he received an intramuscular injection of scopolamine to relax the intestine. Which of the following adverse effects did the patient most likely experience a few minutes after the administration?",
+   "choices": [
+    "Painful erection",
+    "Abdominal pain",
+    "Salivation",
+    "Palpitations",
+    "Urge urinary incontinence"
+   ],
+   "answer": 3,
+   "explanation": "By blocking M2 receptors, antimuscarinic drugs decrease the vagal control to the heart, which is mainly on sinoatrial and atrioventricular nodes. This can lead to an increased heart rate that in turn can cause a conscious awareness of the heart beating (i.e., palpitations). A, B, D, E By blocking muscarinic receptors, atropine tends to cause effects opposite to those listed.",
+   "source": "Pharmacology II-5 Q25",
+   "topic": "Easy",
+   "topic_n": 9
+  },
+  {
+   "question": "Atropine was given intramuscularly to several dogs during a lab experiment. One hour later each dog received an intramuscular injection of an autonomic drug, and the effects of that drug were recorded. Which of the following expected drug-induced effects was most likely best antagonized by atropine pretreatment?",
+   "choices": [
+    "Physostigmine-induced sweating",
+    "Nicotine-induced skin vasoconstriction",
+    "Glycopyrrolate-induced bronchodilation",
+    "Prazosin-induced reflex tachycardia",
+    "Epinephrine-induced hypertension"
+   ],
+   "answer": 0,
+   "explanation": "Physostigmine is a cholinesterase inhibitor, and therefore it can increase the availability of acetylcholine at cholinergic neuroeffector junctions. Activation of M3 receptors in sweat glands promotes sweating. By blocking M3 receptors, atropine can counteract this action. B Epinephrine increase blood pressure by activating α1 and β1 receptors. These receptors are not affected by atropine. C Nicotine can cause skin vasoconstriction by activating Nn receptors in sympathetic ganglia. Atropine has negligible effects on Nn receptors. D Prazosin can cause reflex tachycardia by blocking α1 receptors, which in turn decreases the blood pressure. Atropine actually can cause tachycardia and therefore can increase, not counteract, the action of prazosin. E Glycopyrrolate induces bronchodilation by blocking M3 and Nn receptors. Atropine can block M3 receptors and therefore can increase, not counteract, the action of glycopyrrolate.",
+   "source": "Pharmacology II-5 Q26",
+   "topic": "Easy",
+   "topic_n": 10
+  },
+  {
+   "question": "A 23-year-old man complained to his physician of photophobia and difficulty in reading the newspaper. A few days earlier, the man had started using a nasal spray of ipratropium to manage profuse rhinorrhea associated with a cold. Which of the following molecular actions most likely mediated the adverse effects of the drug?",
+   "choices": [
+    "Blockade of β2 adrenoceptors",
+    "Blockade of α1 adrenoceptors",
+    "Activation of M3 muscarinic receptors",
+    "Activation of α1 adrenoceptors",
+    "Blockade of M3 muscarinic receptors",
+    "Activation of β2 adrenoceptors"
+   ],
+   "answer": 4,
+   "explanation": "Ipratropium nasal spray is approved by the U.S. Food and Drug Administration for the management of rhinorrhea from various causes. When given by this route, the drug can cause antimuscarinic effects on the eye. The blockade of M3 receptors on the sphincter muscle of the iris causes mydriasis, which in turn can lead to photophobia, whereas the blockade of M3 receptors in the ciliary muscle causes cycloplegia, which in turn leads to impairment of near vision. B Ipratropium blocks, not activates, M3 receptors. C-F Ipratropium has no effect on adrenoceptors.",
+   "source": "Pharmacology II-5 Q27",
+   "topic": "Easy",
+   "topic_n": 11
+  },
+  {
+   "question": "A 55-year-old man was admitted to the coronary unit following a myocardial infarction. Four hours after admission, the electrocardiogram indicated bradycardia that disappeared after an intramuscular injection of atropine. Which of the following actions most likely mediated the therapeutic effect of atropine in the patient's disorder?",
+   "choices": [
+    "Increased heart contractility",
+    "Increased atrioventricular (AV) conduction",
+    "Decreased blood pressure",
+    "Constriction of resistance vessels",
+    "Increased heart refractoriness",
+    "Dilation of capacitance vessels"
+   ],
+   "answer": 1,
+   "explanation": "Bradycardia that occurs after a myocardial infarction is often due to an AV block, which often results from increased parasympathetic tone and usually responds to atropine. Sometimes the block resolves spontaneously, but atropine is given when the heart rate is too low for sufficient cardiac output. A-C, E, F See correct answer explanation.",
+   "source": "Pharmacology II-5 Q28",
+   "topic": "Easy",
+   "topic_n": 12
+  },
+  {
+   "question": "A 25-year-old woman complained to her physician of excessive axillary sweating and a sweaty forehead, primarily when she was anxious or excited. The woman stated that the symptom were very disturbing and asked for a treatment. The physician prescribed glycopyrrolate cream, to apply to the affected areas. Blockade of which of the following receptors most likely mediated the therapeutic effect of the drug in the patient's disorder?",
+   "choices": [
+    "β2 adrenergic",
+    "Nn cholinergic",
+    "α2 adrenergic",
+    "D1 dopaminergic",
+    "M3 muscarinic"
+   ],
+   "answer": 4,
+   "explanation": "Glycopyrrolate is a quaternary antimuscarinic drug sometimes used locally to counteract excessive sweating. The drug blocks M3 receptors located in the sweat glands, thus relieving hyperhidrosis. However, relief is incomplete at best, likely because apocrine rather than exocrine glands are usually involved in the excessive sweating, and the autonomic control of apocrine glands seems adrenergic rather than cholinergic. A, C, D These receptors do not mediate sweating. B Glycopyrrolate can block Nn receptors in autonomic ganglia. This action can contribute to the final effect of relieving excessive sweating when the drug is given parenterally. However, when given locally, the drug can reach the sweat glands located in the dermis but not the sympathetic ganglia located on the spinal cord.",
+   "source": "Pharmacology II-5 Q29",
+   "topic": "Medium",
+   "topic_n": 12
+  },
+  {
+   "question": "In a clinical experimental setting, a 33-year-old healthy man received an intramuscular injection of a ganglionic blocker with a fast onset of action. A few minutes after the injection, which of the following heart rates, in beats per minute (bpm), was most likely observed in the man?",
+   "choices": [
+    "70",
+    "100",
+    "50",
+    "130",
+    "150"
+   ],
+   "answer": 1,
+   "explanation": "Ganglionic blocking drugs block Nn receptors on both sympathetic and parasympathetic ganglia. Therefore, the heart is no longer under autonomic control and goes back to its intrinsic rate, which is approximately 100 bpm. A, B, D, E See correct answer explanation.",
+   "source": "Pharmacology II-5 Q30",
+   "topic": "Easy",
+   "topic_n": 13
+  }
+ ]
+}

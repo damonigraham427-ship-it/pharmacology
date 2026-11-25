@@ -1,0 +1,647 @@
+{
+ "questions": [
+  {
+   "question": "This drug is effective in all forms of epilepsy in all age groups.",
+   "choices": [
+    "Zonisamide",
+    "Gabapentin",
+    "Carbamazepine",
+    "Topiramate",
+    "Acetazolamide",
+    "Tiagabine",
+    "Levetiracetam",
+    "Valproic acid",
+    "Felbamate",
+    "Lamotrigine",
+    "Ethosuximide",
+    "Phenytoin"
+   ],
+   "answer": 7,
+   "explanation": "Matching question; the book prints only the answer key for matching sets (key: K).",
+   "source": "Pharmacology III-6 Q1",
+   "topic": "Easy",
+   "topic_n": 1
+  },
+  {
+   "question": "This drug binds selectively to a synaptic vesicular protein, altering the synaptic release of glutamate and gamma-aminobutyric acid (GABA).",
+   "choices": [
+    "Felbamate",
+    "Valproic acid",
+    "Levetiracetam",
+    "Acetazolamide",
+    "Gabapentin",
+    "Tiagabine",
+    "Carbamazepine",
+    "Phenytoin",
+    "Topiramate",
+    "Ethosuximide",
+    "Lamotrigine",
+    "Zonisamide"
+   ],
+   "answer": 2,
+   "explanation": "Matching question; the book prints only the answer key for matching sets (key: G).",
+   "source": "Pharmacology III-6 Q2",
+   "topic": "Easy",
+   "topic_n": 2
+  },
+  {
+   "question": "This drug inhibits gamma-aminobutyric acid (GABA) reuptake in both neurons and glia, enhancing GABAergic transmission.",
+   "choices": [
+    "Ethosuximide",
+    "Tiagabine",
+    "Acetazolamide",
+    "Phenytoin",
+    "Levetiracetam",
+    "Valproic acid",
+    "Zonisamide",
+    "Carbamazepine",
+    "Felbamate",
+    "Gabapentin",
+    "Topiramate",
+    "Lamotrigine"
+   ],
+   "answer": 1,
+   "explanation": "Matching question; the book prints only the answer key for matching sets (key: I).",
+   "source": "Pharmacology III-6 Q3",
+   "topic": "Easy",
+   "topic_n": 3
+  },
+  {
+   "question": "A 28-year-old man was brought to the emergency department because of a generalized tonic-clonic seizure. History showed that the man had been suffering from epilepsy since childhood, but the seizures were only partially controlled by medication. Which of the following pairs of neurotransmitters are thought to be mainly involved in seizure disorders?",
+   "choices": [
+    "GABA and glutamate",
+    "GABA and acetylcholine",
+    "Serotonin and acetylcholine",
+    "Gamma-aminobutyric acid (GABA) and serotonin",
+    "Serotonin and glutamate"
+   ],
+   "answer": 0,
+   "explanation": "Epilepsy is a chronic recurrent disorder of cerebral function that may be characterized by repeated seizures. The essence of epilepsy is probably a chronic low seizure threshold that can be due to several mechanisms. A leading theory postulates that the cause of seizures is either the attenuation of pre- and/or postsynaptic inhibition (mainly due to a genetic or pathology-induced hypofunction of GABA neurons) or an increased effectiveness of excitatory synapses (mainly due to a genetic or pathology-induced hyperfunction of glutamate neurons). A-D, F See correct answer explanation.",
+   "source": "Pharmacology III-6 Q4",
+   "topic": "Easy",
+   "topic_n": 4
+  },
+  {
+   "question": "A 37-year-old woman was at a routine neurology clinic visit. The woman had a long history of refractory grand mal epilepsy. She was being treated with several drugs, but with poor results. The neurologist decided to prescribe phenytoin. Blockade of which of the following types of ion channels is most likely to mediate the therapeutic efficacy of the drug in the patient’s disease?",
+   "choices": [
+    "Na+ channels that open and close at low frequency",
+    "Nat channels in the resting state",
+    "K* channels in a resting state",
+    "K* channels that open and close at high frequency",
+    "Na+ channels that open and close at high frequency"
+   ],
+   "answer": 4,
+   "explanation": "Phenytoin primarily blocks inactivated voltage-gated Nat channels. This blockade is frequency-dependent (also called use-dependent). That is, channels that open and close at high frequency are more susceptible to block than channels that open and close at low frequency. This can explain why phenytoin can readily suppress the discharge from an epileptic focus (where the neurons are discharging at high frequency) with negligible effects on normal-firing neurons. A Na+ channels that are in a resting state are not significantly affected by antiseizure drugs. C See correct answer explanation. D-F Phenytoin has negligible effects on K* channels at therapeutic concentrations.",
+   "source": "Pharmacology III-6 Q5",
+   "topic": "Easy",
+   "topic_n": 5
+  },
+  {
+   "question": "A 32-year-old woman complained to her physician that two breakthrough seizures occurred last week. One month earlier the woman was diagnosed with simple partial seizure and started treatment with an antiepileptic drug. The physician increased the dose of the drug, thinking that the decreased effect was most likely because the drug is a potent enzyme inducer and can induce its own metabolism. Which of the following drugs did the patient most likely take?",
+   "choices": [
+    "Valproic acid",
+    "Clonazepam",
+    "Lamotrigine",
+    "Carbamazepine",
+    "Ethosuximide"
+   ],
+   "answer": 3,
+   "explanation": "Carbamazepine is a potent enzyme inducer and can induce its own metabolism; this appears to be mediated via its effects on the hepatic CYP3A4 isoenzyme. Onset of enzyme induction is at about 3 days, with maximum effect at about 30 days. A, C Valproic acid and lamotrigine are used to treat simple partial seizures but are not inducers of the P-450 system. D, E Ethosuximide and clonazepam are not inducers of the P-450 system and are not used to treat simple partial seizures.",
+   "source": "Pharmacology III-6 Q6",
+   "topic": "Easy",
+   "topic_n": 6
+  },
+  {
+   "question": "A 45-year-old man recently diagnosed with partial seizures came to his neurologist’s office for a routine visit. The man had been receiving an antiseizure drug for the past 3 months. An electroencephalogram showed left temporal sharp waves, and the neurologist decided to add lamotrigine to the patient’s",
+   "choices": [
+    "Clonazepam",
+    "Phenytoin",
+    "Valproic acid",
+    "regimen. A relatively low dose of lamotrigine was prescribed because the drug the patient was already taking can inhibit the metabolism of lamotrigine. Which of the following was most likely that drug?",
+    "Levetiracetam",
+    "Gabapentin",
+    "Phenobarbital"
+   ],
+   "answer": 0,
+   "explanation": "Valproic acid can inhibit CYP2C9 and glucuronosyltransferase, thus decreasing the biotransformation of many drugs, including lamotrigine, carbamazepine, phenytoin, topiramate, and felbamate. A, B Phenytoin and phenobarbital actually can induce P-450 enzymes, thus increasing, not decreasing, the biotransformation of many drugs. C, D, F Levetiracetam, clonazepam, and gabapentin do not cause relevant drug-drug interactions.",
+   "source": "Pharmacology III-6 Q7",
+   "topic": "Easy",
+   "topic_n": 7
+  },
+  {
+   "question": "A47-year-old woman complained to her physician of blurred and double vision. She had been suffering from a central nervous system disorder and had been receiving a drug treatment for 6 months. Physical examination showed mild hirsutism, broadening of her lips and nose, and thickening and bleeding of her gums. Which of the following drugs most likely caused these adverse effects?",
+   "choices": [
+    "Valproic acid",
+    "Phenytoin",
+    "Fluphenazine",
+    "Diazepam",
+    "Gabapentin",
+    "Lithium",
+    "Fluoxetine"
+   ],
+   "answer": 1,
+   "explanation": "The signs of the patient are classical adverse effects of phenytoin. Hirsutism and gingival hyperplasia occur to some degree in most patients. Blurred vision, diplopia, and broadening of the lips and nose are associated in some patients with long-term use of the drug. A-F These drugs do not cause the array of adverse effects exhibited by the patient.",
+   "source": "Pharmacology III-6 Q8",
+   "topic": "Easy",
+   "topic_n": 8
+  },
+  {
+   "question": "A 26-year-old woman discovered she was unexpectedly pregnant. She had been regularly taking an oral contraceptive medication for several years. Two months earlier, she was diagnosed with complex partial seizures and started the prescribed therapy. Which of the following drugs was she most likely taking?",
+   "choices": [
+    "Carbamazepine",
+    "Levetiracetam",
+    "Clonazepam",
+    "Lamotrigine",
+    "Valproic acid",
+    "Gabapentin"
+   ],
+   "answer": 0,
+   "explanation": "There have been several reports of reduced efficacy of oral contraceptives in patients receiving various antiseizure drugs. Carbamazepine, phenytoin, phenobarbital, and felbamate have been shown to increase the metabolism of ethinyl estradiol and progestins by inducing microsomal enzymes. This effect is not associated with other anticonvulsant drugs, including lamotrigine, valproic acid, clonazepam, gabapentin, and levetiracetam. A-E See correct answer explanation.",
+   "source": "Pharmacology III-6 Q9",
+   "topic": "Medium",
+   "topic_n": 1
+  },
+  {
+   "question": "A 41-year-old man was admitted to the hospital after he suffered a seizure with loss of consciousness while at home. Two weeks earlier, the man was involved in a car accident and had suffered from a closed head injury. A neurologic examination and an electroencephalogram led to the discovery of an epileptic focus in the patient's temporal lobe. The neurologist ordered an anticonvulsant drug that most likely acts with multiple mechanisms, including blockade of N-methylb-aspartate (NMDA) receptor-mediated excitation, blockade of T-type Ca** channels in thalamic neurons, and increased gamma-aminobutyric acid (GABA) content in the brain. Which of the following drugs was most likely prescribed?",
+   "choices": [
+    "Tiagabine",
+    "Valproic acid",
+    "Clonazepam",
+    "Ethosuximide",
+    "Levetiracetam",
+    "Gabapentin"
+   ],
+   "answer": 1,
+   "explanation": "The mechanisms of action of valproic acid have not been fully established, but they are most likely multiple, including State-dependent blockade of inactivated Na+ channels * Blockade of NMDA receptor—mediated excitation * * Blockade of T-type Ca** channels in thalamic neurons * Increased GABA content in the brain (mechanism is uncertain) * Opening K* channels (at high doses) B-F None of these drugs have all of the mechanisms mentioned in the question.",
+   "source": "Pharmacology III-6 Q10",
+   "topic": "Easy",
+   "topic_n": 9
+  },
+  {
+   "question": "A 12-year-old boy who was recently diagnosed with absence seizures started a therapy with ethosuximide. Which of the following molecular actions most likely mediated the therapeutic efficacy of the drug in the patient’s disorder?",
+   "choices": [
+    "Activation of GABA, receptors",
+    "Blockade of NMDA receptors",
+    "Blockade of ligand-gated Na+ channels",
+    "Activation of 5-HT, receptors",
+    "Blockade of T-type Ca2+ channels",
+    "Opening of voltage-gated K* channels"
+   ],
+   "answer": 4,
+   "explanation": "Ethosuximide is a first-line agent for absence seizures. It most likely acts by blocking voltage-gated T-type Ca2* channels in thalamic neurons. These channels are located on the dendrites of relay thalamic neurons, which connect the thalamus to the cortex. When these channels are activated (during sleep or, for unknown reasons, during an absence seizure), the neurons provide an oscillatory firing rate to the cortex, which has a characteristic 3-Hz spike and wave readout on an electroencephalogram. Excitatory input from the cortex in turn activates the thalamic neurons, thus reinitiating the cycle. Therefore, the absence seizure is generated by a self-sustained cycle of activity between the thalamus and the cortex. Drugs such as ethosuximide and valproic acid, which are able to block voltage-sensitive T-type Ca2* channels in the thalamus, are effective in absence seizures. A, C-F Therapeutic doses of ethosuximide do not have these actions.",
+   "source": "Pharmacology III-6 Q11",
+   "topic": "Easy",
+   "topic_n": 10
+  },
+  {
+   "question": "A 14-month-old baby boy exhibited jerkiness of the upper limbs for a few weeks. The jerks never caused him to fall but were repeated several dozens of times each day, including when falling asleep. An electroencephalogram showed that the jerks were combined in all instances with spike waves, and that there was an increase of jerks and spike waves when he fell asleep. Which of the following drugs would be most appropriate for this boy?",
+   "choices": [
+    "Acetazolamide",
+    "Valproic acid",
+    "Gabapentin",
+    "Carbamazepine Ceaphenobarbital",
+    "Phenytoin"
+   ],
+   "answer": 2,
+   "explanation": "The patient was most likely suffering from myoclonic seizures, a type of epilepsy that occurs mainly during childhood. Valproic acid is a first-line agent for myoclonic seizures and can control the symptoms in most cases. Levetiracetam, clonazepam, lamotrigine, ethosuximide, and topiramate also can be effective. A-C Phenytoin, carbamazepine, and phenobarbital can actually worsen myoclonic seizures. E, F Gabapentin and acetazolamide are not effective in myoclonic seizures.",
+   "source": "Pharmacology III-6 Q12",
+   "topic": "Medium",
+   "topic_n": 2
+  },
+  {
+   "question": "A 54-year-old woman with a previously well-controlled seizure disorder was brought to the hospital because of recurrent, generalized tonic-clonic seizures. The patient was intubated and mechanically ventilated. She was treated with intravenous diazepam and fosphenytoin but continued to exhibit intermittent seizures and did not regain consciousness between them. A diagnosis of refractory status epilepticus was made. A large dose of which of the following drugs would be appropriate to add to the patient’s therapy at this time?",
+   "choices": [
+    "Valproic acid",
+    "Clonazepam",
+    "Phenobarbital",
+    "Levetiracetam",
+    "Carbamazepine",
+    "Zonisamide"
+   ],
+   "answer": 2,
+   "explanation": "Provision of a patent airway and adequate oxygenation are the initial steps in management of status epilepticus. Emergency drugs include benzodiazepines for seizure control. The control may be short-lived, however, requiring intravenous (IV) phenytoin infusion. If refractory status epilepticus continues after initial treatment, additional IV phenobarbital or thiopental may be given, placing the patient in barbiturate coma. A-C, E, F These drugs are not used to treat status epilepticus.",
+   "source": "Pharmacology III-6 Q13",
+   "topic": "Medium",
+   "topic_n": 3
+  },
+  {
+   "question": "A 36-year-old woman recently diagnosed with simple partial seizures started a therapy with lamotrigine. Which of the following adverse effects is most likely to occur during the therapy?",
+   "choices": [
+    "Liver cirrhosis",
+    "Pancreatitis",
+    "Erythematous skin rash",
+    "Macrocytic anemia",
+    "Lupoid syndrome",
+    "Hallucinations"
+   ],
+   "answer": 2,
+   "explanation": "Lamotrigine causes a generalized erythematous skin rash in about 85% of patients taking the drug. Several antiseizure drugs can cause skin hypersensitivity reactions, but lamotrigine is by far the drug most frequently involved. The rash is usually mild, but severely affected patients may develop Stevens-Johnson syndrome. The incidence of skin rash is higher in children, and some studies suggest that a potentially life-threatening dermatitis can develop in 1 to 2% of pediatric patients. A-E The risk of these adverse reactions is negligible.",
+   "source": "Pharmacology III-6 Q14",
+   "topic": "Easy",
+   "topic_n": 11
+  },
+  {
+   "question": "A 35-year-old woman experienced an abrupt onset of unilateral clonic contractions of her finger that progressively involve her hand, then lower and upper arm. History revealed that she had sustained a brain trauma 5 months earlier. She was diagnosed with simple partial seizure, and an appropriate drug was prescribed. A drug with which of the following mechanisms of action would be appropriate for the patient's disease?",
+   "choices": [
+    "Blockade of inactivated K* channels",
+    "Blockade of inactivated Na+ channels",
+    "Decreased release of gamma-aminobutyric acid (GABA) from nerve terminals",
+    "Activation of glutamate receptor in the motor cortex",
+    "Blockade of neuromuscular transmission"
+   ],
+   "answer": 1,
+   "explanation": "A partial seizure results from synchronous, rapid, uncontrolled firing from a group of neurons and a loss of surrounding cell inhibition. Antiseizure drugs act to enhance central nervous system (CNS) inhibition (i.e., by increasing GABAergic activity or by decreasing glutamatergic activity) and prevent the spread of synchronous activity (i.e., by blocking inactivated Na+ channels, thus increasing the refractory period of nerve fibers). Several antiseizure drugs effective against partial seizures act by blocking inactivated Na+ channels. A Antiseizure drugs do not affect neuromuscular transmission. B-D All of these actions would decrease, not increase, the inhibitory activity of the CNS cells surrounding the rapidly firing neurons.",
+   "source": "Pharmacology III-6 Q15",
+   "topic": "Medium",
+   "topic_n": 4
+  },
+  {
+   "question": "A 39-year-old man diagnosed with tonic-clonic seizures 2 years ago had been receiving a drug that exhibits dosedependent elimination kinetics. Which of the following drugs did the patient most likely take?",
+   "choices": [
+    "Valproic acid",
+    "Topiramate",
+    "Carbamazepine",
+    "Phenytoin",
+    "Gabapentin",
+    "Lamotrigine"
+   ],
+   "answer": 3,
+   "explanation": "Phenytoin is one of the very few drugs that exhibit firstorder elimination kinetics at low doses but switch to zeroorder elimination kinetics at higher doses; that is, the elimination kinetics of the drug is dose-dependent. Important consequences of dose-dependent kinetics are * The clearance and the half-life of the drug are dosedependent. * The time taken to reach steady state is also dose-dependent and therefore cannot be predicted. * A slight increase in dose can have a big effect on plasma levels, leading to toxicity. A, B, D-F All of these drugs follow first-order elimination kinetics.",
+   "source": "Pharmacology III-6 Q16",
+   "topic": "Easy",
+   "topic_n": 12
+  },
+  {
+   "question": "A 54-year-old man had been receiving carbamazepine since he was diagnosed with complex partial seizures 5 years earlier. The drug was fully effective in controlling the seizures. Blockade of which of the following molecular targets most likely mediated the therapeutic effect of the drug in the patient’s disease?",
+   "choices": [
+    "Monoamine receptors",
+    "Na+ channels",
+    "k* channels F Ca2+ channels",
+    "Glutamate receptors",
+    "Acetylcholine receptors"
+   ],
+   "answer": 1,
+   "explanation": "Like phenytoin, carbamazepine causes a voltage- and frequency-dependent blockade of inactivated Na+ channels. This is most likely the primary mechanism of action of the drug. A-C, E, F Carbamazepine interactions with all of these molecular targets have been proposed, but their role in the final therapeutic effect of the drug is still uncertain.",
+   "source": "Pharmacology III-6 Q17",
+   "topic": "Easy",
+   "topic_n": 13
+  },
+  {
+   "question": "A 53-year-old man suffering from partial seizures had been receiving a high dose of carbamazepine for 6 months. Which of the following dose-related adverse effects most likely occurred during the therapy?",
+   "choices": [
+    "Ataxia",
+    "Heart failure",
+    "Stevens-Johnson syndrome",
+    "Dilutional hyponatremia",
+    "Gingival hyperplasia Boeraltgcaations"
+   ],
+   "answer": 2,
+   "explanation": "Some of the adverse effects of carbamazepine are related to cerebellar-vestibular impairment. The most common dose-related adverse effect of this kind is ataxia (up to 15% of patients). A This would be an adverse effect of phenytoin. It does not occur with carbamazepine. B, D-F All these are serious but quite rare adverse effects of carbamazepine.",
+   "source": "Pharmacology III-6 Q18",
+   "topic": "Medium",
+   "topic_n": 5
+  },
+  {
+   "question": "A 13-month-old boy was brought to the hospital after having a generalized tonic-clonic convulsion lasting approximately 4 minutes. The episode occurred in association with an upper respiratory tract infection. On admission his rectal temperature was 103°F (39.4°C). The parents reported that two similar episodes occurred 8 and 3 months ago, always in association with fever. The boy had no history of neurologic abnormality, and all laboratory and neurologic findings were normal. A presumptive diagnosis was made, and measures to reduce his elevated temperature were initiated. The parents were instructed to give a drug rectally to the boy whenever he had fever. Which of the following anticonvulsant drugs would be most appropriate for this boy?",
+   "choices": [
+    "Ethosuximide",
+    "Carbamazepine",
+    "Topiramate",
+    "Diazepam",
+    "Zonisamide",
+    "Felbamate"
+   ],
+   "answer": 3,
+   "explanation": "The history of the patient and the lack of neurologic and laboratory findings indicate that he was most likely affected by febrile seizures, which are the most common type of seizures observed in the pediatric population. Anticonvulsant therapy is usually not required if a patient has recovered from an isolated seizure, but a preventive treatment can be appropriate if the patient experiences repeated fever-related seizures, as in this case. Diazepam, given rectally as soon as a febrile illness appears and maintained until the patient is afebrile for 24 hours, can decrease the number of febrile seizures and is considered the agent of choice. A, B, D-F These drugs are not appropriate for pediatric febrile seizures.",
+   "source": "Pharmacology III-6 Q19",
+   "topic": "Easy",
+   "topic_n": 14
+  },
+  {
+   "question": "A 35-year-old woman, recently diagnosed with simple partial seizures, started the prescribed therapy. Her past history was unremarkable, but her mother was known to suffer from acute intermittent porphyria. Which of the following anticonvulsant drugs would be appropriate for this patient?",
+   "choices": [
+    "Diazepam A.",
+    "Lamotrigine",
+    "Carbamazepine",
+    "Phenytoin",
+    "Ethosuximide B.",
+    "Valproic acid"
+   ],
+   "answer": 1,
+   "explanation": "Lamotrigine is effective in simple partial seizures, as well as in generalized tonic-clonic and absence seizures. It appears to have comparable effectiveness with more traditional anticonvulsant drugs, such as valproic acid, carbamazepine, and phenytoin. The primary mechanism of action of lamotrigine most likely includes a frequency-dependent blockade of voltage-gated Na+ channels. C-E Valproic acid, carbamazepine, and phenytoin are firstchoice drugs in partial seizures, but they are contraindicated when there is a risk of acute intermittent porphyria, because they can trigger an attack. Because acute intermittent porphyria is an autosomal disorder, it is better to avoid these drugs in patients whose parents are known to suffer from the disease, as in this case. A, B Diazepam and ethosuximide are not effective in simple partial seizures.",
+   "source": "Pharmacology III-6 Q20",
+   "topic": "Hard",
+   "topic_n": 1
+  },
+  {
+   "question": "An 81-year-old male resident of a nursing facility recently developed a partial seizure disorder secondary to a stroke. The man had multiple medical problems, including liver cirrhosis, open-angle glaucoma, type 2 diabetes mellitus, and a history of kidney stones. He had been taking multiple medications for these conditions. The neurologist ordered a drug to treat the patient’s seizure disorder. Which of the following drugs would be most appropriate for this patient?",
+   "choices": [
+    "Valproic acid",
+    "Topiramate",
+    "Carbamazepine",
+    "Levetiracetam",
+    "Phenytoin",
+    "Zonisamide"
+   ],
+   "answer": 3,
+   "explanation": "Levetiracetam is an antiseizure drug approved for partial, tonic-clonic, and myoclonic seizures. The drug appears to be well tolerated and has no significant drug interactions. Several antiseizure drugs are effective in partial seizures. However, in this patient, other drugs are relatively contraindicated (see answer explanations below). B Phenytoin can decrease insulin secretion. C Because carbamazepine is a strong inducer of CYP3A4, it could increase the metabolism of several drugs the patient was taking. D The risk of valproic acid hepatitis is increased in patients with liver disease. E Topiramate can cause glaucoma. F Zonisamide can cause kidney stones.",
+   "source": "Pharmacology III-6 Q21",
+   "topic": "Hard",
+   "topic_n": 2
+  },
+  {
+   "question": "A 12-year-old boy with a long history of Lennox-Gastaut syndrome was admitted to the neurologic clinic for evaluation. In the past, the boy had been treated with several drugs, but the response to the antiepileptic therapy was rather poor. After a neurologic examination and an electroencephalogram, the neurologist decided to prescribe an antiepileptic drug with a broad spectrum of action, including partial, tonic-clonic, myoclonic, and atonic seizures, as well as infantile spasm and Lennox-Gastaut syndrome. Which of the following drugs was most likely prescribed?",
+   "choices": [
+    "Carbamazepine",
+    "Phenytoin",
+    "Zonisamide",
+    "Tiagabine",
+    "Gabapentin",
+    "Phenobarbital",
+    "Topiramate"
+   ],
+   "answer": 6,
+   "explanation": "Lennox-Gastaut syndrome is a devastating pediatric epilepsy syndrome (onset 1 to 14 years) characterized by multiple types of seizures. Topiramate is a drug with a broad spectrum of action that includes almost all types of epileptic seizures. Recently, it was approved by the U.S. Food and Drug Administration for Lennox-Gastaut syndrome. A, C-G None of these drugs have a broad spectrum of antiepileptic activity.",
+   "source": "Pharmacology III-6 Q22",
+   "topic": "Medium",
+   "topic_n": 6
+  },
+  {
+   "question": "A52-year-old man came to his neurologist’s office for a routine visit. Medical history revealed that he had a myocardial infarction 2 years ago and had been suffering from a thirddegree atrioventricular block since then. One month earlier, he was diagnosed with simple partial seizures and was prescribed lamotrigine. The seizure attacks were diminished but not completely controlled. The neurologist decided to discontinue lamotrigine and to start another drug. Which of the following drugs would be appropriate for the patient at this time?",
+   "choices": [
+    "Acetazolamide",
+    "Gabapentin",
+    "Diazepam",
+    "Ethosuximide",
+    "Carbamazepine w Pp Phenytoin"
+   ],
+   "answer": 1,
+   "explanation": "Gabapentin is a second-generation antiseizure drug that is used for patients with partial seizures who have failed the initial treatment, as in this case. In general, if the initial drug does not control seizures, a trial with another agent should be attempted before considering a multidrug regimen. A, C, D Ethosuximide, diazepam, and acetazolamide are not effective in partial seizures. E, F Carbamazepine and phenytoin are effective in partial seizures. but they are contraindicated in this patient because of atrioventricular block.",
+   "source": "Pharmacology III-6 Q23",
+   "topic": "Medium",
+   "topic_n": 7
+  },
+  {
+   "question": "A 24-year-old woman with a long history of absence seizures had been successfully managed with valproic acid for the past 5 years. The patient had recently married, and during her last office visit she expressed the desire to start a family. Which of the following drugs would be most appropriate for this patient to substitute for valproic acid therapy?",
+   "choices": [
+    "Clonazepam",
+    "Phenobarbital",
+    "Phenytoin",
+    "Ethosuximide",
+    "Carbamazepine"
+   ],
+   "answer": 3,
+   "explanation": "Valproic acid is classified by the U.S. Food and Drug Administration as pregnancy category D because it increases the risk of neural tube defects (up to 20-fold) when given during pregnancy. Ethosuximide is instead classified as pregnancy category C and is a first-line drug for absence seizures. A-C, E, F These drugs are not effective (and some of them can even be dangerous) in absence seizures.",
+   "source": "Pharmacology III-6 Q24",
+   "topic": "Medium",
+   "topic_n": 8
+  },
+  {
+   "question": "A 45-year-old man visited his physician’s office for consultation regarding his antimigraine medication. The man had a 1-month history of disabling migraine headaches occurring two or three times weekly. About 70% of his headache attacks had been aborted with one sumatriptan tablet and rest. The patient had also been suffering from idiopathic second-degree atrioventricular block diagnosed 3 years ago and from open-angle glaucoma for 4 years. Which of the following prophylactic therapies would be appropriate for this patient to reduce the frequency of migraine attacks?",
+   "choices": [
+    "Valproic acid",
+    "Atenolol",
+    "Amitriptyline",
+    "Verapamil",
+    "Felbamate",
+    "Lamotrigine"
+   ],
+   "answer": 0,
+   "explanation": "Anticonvulsant medications have emerged as an important therapeutic option for the prevention of migraine headache. Valproic acid is considered a first-line agent, as its efficacy has been demonstrated in several placebo-controlled studies. Topiramate also has been approved recently for migraine prevention. A, B Atenolol and verapamil are used for migraine prophylaxis but are contraindicated in this patient because of atrioventricular block. C Amitriptyline is effective for prevention of both migraine and tension-type headache but is contraindicated in this patient because of glaucoma. D, F Lamotrigine and felbamate are not effective for migraine prophylaxis.",
+   "source": "Pharmacology III-6 Q25",
+   "topic": "Hard",
+   "topic_n": 3
+  },
+  {
+   "question": "A 44-year-old man complained to his physician of burning and tickling in his hands and feet. The man was diagnosed with tonic-clonic seizures 3 years earlier and had been receiving a high dose of an antiseizure drug since then. Physical examination disclosed large inguinal lymph nodes, and reflex testing showed a lack of knee and ankle tendon reflexes. Further lab exams showed megaloblastic anemia. Which of the following drugs most likely caused the patient’s signs and symptoms?",
+   "choices": [
+    "Levetiracetam",
+    "Tiagabine",
+    "Gabapentin",
+    "Clonazepam",
+    "Lamotrigine",
+    "Phenytoin"
+   ],
+   "answer": 5,
+   "explanation": "The signs and symptoms of the patient indicated that he was most likely suffering from peripheral neuropathy and lymphadenopathy, which are adverse effects of long-term use of phenytoin. Megaloblastic anemia is also an adverse effect of phenytoin because the drug inhibits the enzyme conjugase, located in the brush border of the intestinal mucosa. This enzyme hydrolyzes the glutamate residues of ingested polyglutamates, thus allowing the absorption of monoglutamates. Patients taking chronic high doses of phenytoin can show megaloblastic anemia, lymphoid hyperplasia, and paresthesias. Knee and ankle tendon reflexes are absent in about 18% of these patients, as in this case. A-C, E, F None of these drugs show the combination of adverse effects exhibited by the patient.",
+   "source": "Pharmacology III-6 Q26",
+   "topic": "Medium",
+   "topic_n": 9
+  },
+  {
+   "question": "A 44-year-old woman complained to her physician of daytime sedation and diplopia. The woman had been suffering from tonic-clonic seizures for 1 year and had been treated with phenytoin. Recently, the neurologist had slightly increased the dose of the drug because the seizures were not completely controlled. The physician told the patient that her symptoms were probably due to overdose toxicity of the drug. Which of the following statements most likely explains the reason for this toxicity?",
+   "choices": [
+    "The woman developed hypersensitivity to the drug.",
+    "The clearance of the drug is dose-dependent.",
+    "The volume of distribution of the drug is very low.",
+    "The first-pass effect of the drug was unexpectedly high.",
+    "The steady state of the drug was reached too quickly."
+   ],
+   "answer": 1,
+   "explanation": "Phenytoin elimination is dose-dependent. At very low blood levels, phenytoin metabolism follows a first-order kinetics, but as blood level rises within the therapeutic range, the maximum capacity of the liver to metabolize phenytoin is approached. This means that the elimination of phenytoin is dose-dependent, so the clearance of the drug is dosedependent. In this situation, even a small increase in dosage may produce a very large increase in phenytoin concentration, thus leading to toxic effects, as in this case. A The symptoms reported by the patient are not symptoms of a hypersensitivity reaction. B This would have caused an increased elimination of the drug, making toxicity unlikely. C The volume of distribution of a drug is not related to drug elimination. E The level of the steady state, not the time to reach the steady state, is directly related to the toxicity of the drug. Moreover, when a drug follows dose-dependent kinetics, the half-life of the drug is dose-dependent; therefore, the time to reach steady state will be dose-dependent. In fact, with low doses, the steady state of phenytoin is reached in about 4 days. With high doses it may be 4 to 6 weeks before bloods levels are stable.",
+   "source": "Pharmacology III-6 Q27",
+   "topic": "Medium",
+   "topic_n": 10
+  },
+  {
+   "question": "A 10-year-old girl was brought to the neurology clinic by her mother, who reported that her daughter had two tonicclonic seizures in the past 7 days. The girl’s teacher had also noted that the girl had four episodes of “staring” in 1 day during this same time period. The girl had a history of absence seizures for which she had been taking ethosuximide for the past 2 months. Which of the following changes in the patient’s therapy would be most appropriate at this time?",
+   "choices": [
+    "Discontinue ethosuximide and substitute valproic acid.",
+    "Discontinue ethosuximide and substitute carbamazepine.",
+    "Discontinue ethosuximide and substitute phenobarbital.",
+    "Increase ethosuximide dose and add diazepam.",
+    "Increase ethosuximide dose and add phenobarbital."
+   ],
+   "answer": 0,
+   "explanation": "The patient’s symptoms indicate that she had a tonic-clonic seizure concomitant with her absence seizure. Because ethosuximide is not active against mixed seizure disorders, the best strategy is to substitute ethosuximide with another drug, such as valproic acid, that is active on both types of seizures. A-D See correct answer explanation.",
+   "source": "Pharmacology III-6 Q28",
+   "topic": "Hard",
+   "topic_n": 4
+  },
+  {
+   "question": "A 15-month-old boy was admitted to the hospital because of repeated episodes of powerful contractions of trunk and limb muscles that lasted 5 to 10 seconds. These episodes occurred in clusters, frequently upon awakening. A brain magnetic resonance image showed agenesis of the corpus callosum. An appropriate diagnosis was made, and a therapy was prescribed. Which of the following drugs would be appropriate for the treatment of this patient?",
+   "choices": [
+    "Carbamazepine",
+    "Ethosuximide",
+    "Phenobarbital",
+    "Prednisone .",
+    "Phenytoin"
+   ],
+   "answer": 3,
+   "explanation": "The boy most likely suffered from infantile spasms (also called West syndrome or salaam seizure). They are primarily generalized seizures characterized by sudden flexion of the arm, forward flexion of the trunk, and extension of the legs. Seizures last a few seconds and are repeated many times a day. They occur primarily in the first 3 years of life and are then replaced by other types of seizures. Mental retardation is usually apparent. Most patients have structural brain anomalies on neuroimaging studies, as in this case. Drugs of choice for infantile spasms are adrenocorticotropic hormone (ACTH) and corticosteroids (prednisone, dexamethasone, etc.). ACTH seems more effective, but this subject remains controversial. Alternative drugs include benzodiazepines (clonazepam), valproic acid, and vigabatrin. The therapy of infantile spasms is able to reduce the number of attacks in 40 to 50% of patients, but it rarely reduces the progression of mental retardation. A-D These drugs are not effective in infantile spasms.",
+   "source": "Pharmacology III-6 Q29",
+   "topic": "Hard",
+   "topic_n": 5
+  },
+  {
+   "question": "A50-year-old man complained of occasional episodes of excruciating unilateral facial pain that arose near the mouth, diffused toward the nostrils and eyes, and seemed to be triggered by eating or talking. The pain lasted about 1 minute. He was referred to a neurologist, who made a presumptive diagnosis and ordered an appropriate treatment. Which of the following drugs would be appropriate for this patient?",
+   "choices": [
+    "Codeine",
+    "Carbamazepine",
+    "Phenobarbital",
+    "Clonazepam",
+    "Diclofenac"
+   ],
+   "answer": 1,
+   "explanation": "The patient’s symptoms suggest that he is affected by trigeminal neuralgia, a neuropathy that usually affects only adults, especially the elderly. Carbamazepine is a drug of choice in this disease, and the benefit is often sustained. If the drug is ineffective or produces toxic reactions, other options are phenytoin, baclofen, and amitriptyline. A, B These anticonvulsants are not effective against trigeminal neuralgia. C, D Trigeminal neuralgia is a form of neuropathic pain. This type of pain is usually resistant to opioids and analgesicantipyretic drugs.",
+   "source": "Pharmacology III-6 Q30",
+   "topic": "Hard",
+   "topic_n": 6
+  },
+  {
+   "question": "A 15-year-old boy was in the neurology clinic for a routine visit. Two months earlier, the boy was diagnosed with absence seizures and started therapy with ethosuximide. He reported that the drug decreased the frequency of his seizures, but he still had some absence attacks from time to time. After further exams, the neurologist decided to add a drug that most likely acts by increasing the carbon dioxide concentration within brain neurons. Which of the following drugs was most likely prescribed?",
+   "choices": [
+    "Levetiracetam",
+    "Tiagabine",
+    "Ethosuximide",
+    "Zonisamide",
+    "Felbamate",
+    "Acetazolamide"
+   ],
+   "answer": 5,
+   "explanation": "The patient most likely received acetazolamide, the prototype drug of carbonic anhydrase inhibitors. These drugs are rarely used today, but they can be employed, primarily as an add-on therapy, in patients with absence seizures and myoclonic seizures refractory to the main treatment. The mechanism of anticonvulsant activity of carbonic anhydrase inhibitors is not fully understood, but it may depend on a direct inhibition of carbonic anhydrase in the central nervous system. Carbonic anhydrase is a ubiquitous enzyme that catalyzes the first part of the reaction that converts carbon dioxide (CO,) and water into carbonic acid. By inhibiting this reaction, carbon dioxide tension is increased; the gas can diffuse freely across neuronal cell membranes, inhibiting neuronal transmission. A-C, E, F These drugs do not affect the intracellular concentration of CO..",
+   "source": "Pharmacology III-6 Q31",
+   "topic": "Easy",
+   "topic_n": 15
+  },
+  {
+   "question": "A 10-year-old girl suffering from Lennox-Gastaut syndrome recently had felbamate added to her current therapy. Which of the following actions on brain receptors most likely mediated the therapeutic effect of the drug in the patient's disorder?",
+   "choices": [
+    "Blockade of GABA, receptors",
+    "Activation of 5-HT, receptors",
+    "Blockade of NMDA receptors E.",
+    "Blockade of 5-HT, receptors C.",
+    "Activation of GABA, receptors",
+    "Activation of AMPA receptors"
+   ],
+   "answer": 2,
+   "explanation": "Felbamate is an anticonvulsant drug approved by the U.S. Food and Drug Administration for partial seizures and Lennox-Gastaut syndrome. The drug can cause aplastic anemia and severe hepatitis at unexpectedly high rates and is therefore used only as a third-line drug for refractory cases. Nevertheless, the drug is frequently used in Lennox-Gastaut syndrome, as this type of epilepsy is often resistant to several antiepileptic drugs. The mechanism of anticonvulsant action of felbamate most likely involves the ionotropic NMDA receptors present in the central nervous system. Seizures can be initiated and propagated by stimulation of the NMDA receptors, which results in the opening of an ion channel that is nonselective to cations. Felbamate produces a usedependent block of NMDA receptors, thereby increasing the seizure threshold and preventing the spread of seizures. A Felbamate potentiates, not blocks, GABA, receptor responses. B-D, F Felbamate does not act on these receptors.",
+   "source": "Pharmacology III-6 Q32",
+   "topic": "Easy",
+   "topic_n": 16
+  },
+  {
+   "question": "A 64-year-old man was brought to the hospital after two consecutive seizures at home. On admission, he was noted to be only semiconscious, and shortly after his arrival another tonic-clonic seizure began. He was given intravenous lorazepam, and seizure activity ceased 5 minutes after the injection was completed. At this time, which of the following drugs was most likely administered for prolonged control of the patient’s seizures?",
+   "choices": [
+    "Zonisamide tO eae",
+    "Felbamate",
+    "Ethosuximide",
+    "Levetiracetam",
+    "Fosphenytoin",
+    "Tiagabine"
+   ],
+   "answer": 4,
+   "explanation": "The patient was most likely suffering from convulsive status epilepticus, a life-threatening neurologic disorder characterized by a prolonged tonic-clonic seizure or by recurrent tonic-clonic seizures without complete recovery of consciousness between attacks, as in this case. The first-line agents for the initial treatment of convulsive status epilepticus are lorazepam and diazepam. Other antiseizure drugs that can be employed for the initial treatment are fosphenytoin (a more soluble prodrug of phenytoin) and phenobarbital. The peak effect of fosphenytoin is usually delayed, so this drug is used only after the initial treatment with diazepam or lorazepam. Phenobarbital may be used in patients who cannot tolerate fosphenytoin or when fosphenytoin is not effective. A-C, E, F These drugs are not effective in status epilepticus.",
+   "source": "Pharmacology III-6 Q33",
+   "topic": "Medium",
+   "topic_n": 11
+  },
+  {
+   "question": "A 34-year-old woman complained to her neurologist of a pronounced skin rash. Two weeks earlier, the woman had been diagnosed with simple partial seizure and started treatment with lamotrigine. She reported that apparently the therapy was effective, as she had not suffered any attacks during the treatment. Physical examination showed an extensive erythematous rash over her trunk and abdomen. The neurologist was certain that the adverse effect was drugrelated. He decided to substitute the offending drug with another agent that most likely acts by blocking both Na+ channels and Ca** channels on brain neurons. Which of the following drugs was most likely prescribed?",
+   "choices": [
+    "Felbamate",
+    "Zonisamide",
+    "Phenobarbital",
+    "Carbamazepine",
+    "Clonazepam"
+   ],
+   "answer": 1,
+   "explanation": "The patient was most likely suffering from an allergic reaction to lamotrigine, a drug that frequently can cause an erythematous skin rash. When an antiepileptic drug is effective but causes an intolerable hypersensitivity reaction, it is convenient to substitute the offending drug with another agent with a different chemical structure but with a similar mechanism of action. Zonisamide, like lamotrigine, blocks both Na+ channels and Ca2+ channels and can be used appropriately in this case. Other antiepileptic drugs whose mechanisms of action most likely include blockade of both Na+ channels and Ca2+ channels are topiramate and valproic acid. A-C, E, F None of these drugs can block both Nat channels and Ca** channels.",
+   "source": "Pharmacology III-6 Q34",
+   "topic": "Medium",
+   "topic_n": 12
+  },
+  {
+   "question": "A 12-year-old girl was admitted to the hospital because of vomiting, drowsiness, lethargy, and jaundice of 6 hours’ duration. The girl had a long history of refractory absence seizure and had been receiving several drugs over the past 2 years. She was presently treated with two antiseizure agents and had no absence seizures for 5 weeks. Physical examination showed a patient in obvious distress with extensive jaundice of the skin and sclera. Significant lab results on admission were alanine aminotransferase 400 U/L (normal 10-40 U/L), total bilirubin 20 mg/dL (normal 0.3-1.0 mg/dL), and ammonia 190 pg/dL (normal for children 36-85 1g). Which of the following drugs most likely caused the patient's signs and symptoms?",
+   "choices": [
+    "Valproic acid",
+    "Zonisamide Ce Clonazepam",
+    "Levetiracetam",
+    "Lamotrigine",
+    "Ethosuximide"
+   ],
+   "answer": 0,
+   "explanation": "The signs and symptoms of the patient indicate that she was most likely suffering from acute hepatitis, which is the most serious adverse effect of valproic acid therapy. The disease is rare when valproic acid is given alone, but its occurrence is about 1/6000 when the drug is given with other antiseizure drugs, as in this case. Hepatitis is always serious, often lethal, and can have a fulminant course. The pathologic lesion consists of a microvesicular steatosis without any sign of inflammation. The cause of the disease is unknown but is most likely idiosyncratic. A, C-F Hepatic dysfunction is unusual with all of these drugs.",
+   "source": "Pharmacology III-6 Q35",
+   "topic": "Easy",
+   "topic_n": 17
+  },
+  {
+   "question": "A 6-year-old girl was diagnosed with myoclonic seizures. A brain magnetic resonance image showed no overt neurologic deficit. Her past medical history was negative for epileptic seizures. Which of the following drugs would be appropriate for this patient?",
+   "choices": [
+    "Phenytoin",
+    "Clonazepam",
+    "Haloperidol",
+    "Fluoxetine",
+    "Carbamazepine",
+    "Phenobarbital"
+   ],
+   "answer": 1,
+   "explanation": "Myoclonic seizures consist of short episodes of bilateral jerks of a limb, several limbs, or the trunk. Consciousness is not lost (unless a generalized seizure occurs). Myoclonic seizures usually occur during childhood or adolescence (in this case, they are called juvenile myoclonic epilepsy, and they are usually followed by generalized tonic-clonic seizures). Treatment options include valproic acid, clonazepam, and several second-generation drugs (lamotrigine, levetiracetam, topiramate, and zonisamide). A-E These drugs are not effective (and some of them can be dangerous) in myoclonic seizures.",
+   "source": "Pharmacology III-6 Q36",
+   "topic": "Easy",
+   "topic_n": 18
+  },
+  {
+   "question": "A 44-year-old woman came to her neurologist for a routine visit. The patient had a long history of poorly controlled simple partial seizures. Two months ago, she started therapy with valproic acid that was only partially effective. The neurologist decided to add to the ongoing therapy a recently approved drug that most likely acts with a novel mechanism of",
+   "choices": [
+    "a noncompetitive blockade of «-amino-3-hydroxy- action, 5-methylisoxazole-4-propionic acid (AMPA) receptors on brain neurons. Which of the following drugs was most likely prescribed? A. Ethosuximide",
+    "Diazepam",
+    "Lamotrigine or ae Carbamazepine",
+    "Gabapentin",
+    "Perampanel"
+   ],
+   "answer": 4,
+   "explanation": "Perampanel is the prototype of a new class of antiseizure drugs that act as noncompetitive antagonists of AMPA receptors on brain neurons. These are ionotropic transmembrane receptors that are part of a ligand-gated ion channel, which is permeable mainly to Na+ and K*. AMPA receptors mediate fast, excitatory neurotransmission and have a critical role in seizure development and spreading. By blocking these receptors, perampanel can reduce neuronal excitability. The drug has been approved for adjunct treatment of simple partial seizures and is mainly used in poorly controlled partial seizures, as in this case. A-C, E, F These drugs have no effect on AMPA receptors.",
+   "source": "Pharmacology III-6 Q37",
+   "topic": "Easy",
+   "topic_n": 19
+  },
+  {
+   "question": "A 37-year-old man recently diagnosed with generalized seizures started treatment with valproic acid, but 1 month later the frequency of seizures was not significantly reduced. His neurologist decided to add a second-generation antiepileptic drug that blocks voltage-gated Na+ and Ca** channels and may inhibit the synaptic release of glutamate. Which of the following drugs was most likely prescribed?",
+   "choices": [
+    "Felbamate",
+    "Gabapentin",
+    "Lamotrigine",
+    "Ethosuximide",
+    "Diazepam",
+    "Phenobarbital"
+   ],
+   "answer": 2,
+   "explanation": "Lamotrigine is a second-generation antiepileptic drug that likely acts with multiple mechanisms, including blockade of voltage-gated Na+ channels, blockade of voltage-gated Ca2+ channels (mainly of L, N, and P types), and inhibition of glutamate release. The drug is commonly added to valproic acid therapy in patients resistant to valproic acid alone, as it has been shown that this is the only combination that can consistently increase the efficacy of the therapy. A, C-F See correct answer explanation.",
+   "source": "Pharmacology III-6 Q38",
+   "topic": "Easy",
+   "topic_n": 20
+  },
+  {
+   "question": "A 54-year-old man was recently diagnosed with complex partial seizure. The patient had been suffering from atrioventricular block for 1 year and from nephrolithiasis for 3 years. Which of the following antiepileptic drugs would be most appropriate for this patient?",
+   "choices": [
+    "Ethosuximide Ss J Tad Zonisamide",
+    "Phenytoin",
+    "Carbamazepine",
+    "Valproic acid"
+   ],
+   "answer": 3,
+   "explanation": "All current antiepileptic drugs, with the exception of ethosuximide, can be used in the treatment of complex partial seizures. However, in this patient carbamazepine, phenytoin, and zonisamide are contraindicated (see explanations below). A, B Carbamazepine and phenytoin are contraindicated in case of atrioventricular block because the drug-induced blockade of inactivated Na+ channels can slow down the heart conduction, exacerbating the disease. D See correct answer explanation. E Zonisamide is approved for adjunctive treatment of partial seizures. However, it can cause nephrolithiasis in about 2.5% of patients and is therefore contraindicated in this case.",
+   "source": "Pharmacology III-6 Q39",
+   "topic": "Medium",
+   "topic_n": 13
+  },
+  {
+   "question": "A 45-year-old man was in the neurology clinic for a routine visit. Two months earlier, the man was diagnosed with simple partial seizure and started therapy with lamotrigine. He reported that the drug was able to decrease the frequency of his attacks, but he still had an occasional attack. The neurologist decided to add a drug that acts by opening a certain family of potassium channels on brain neurons. Which of the following drugs was most likely prescribed?",
+   "choices": [
+    "Topiramate",
+    "Felbamate",
+    "Zonisamide",
+    "Perampanel",
+    "Ezogabine",
+    "Levetiracetam"
+   ],
+   "answer": 4,
+   "explanation": "Ezogabine (the drug is called retigabine outside the United States) is the prototype of a new class of antiseizure drugs that act by opening a certain family of K* channels on brain neurons. This action hyperpolarizes the neuronal cell membrane, making the neuron less excitable. This mechanism of action is unique among antiepileptic drugs and may hold promise for the treatment of other neurologic conditions, including migraine and neuropathic pain. A-D, F These drugs have no effect on K* channels. mM™mM™mMoOOlrPm™0MoD DOOMmMo;in TO OF bunk ee mala PT en) 4 am JR om) Ceniaecd",
+   "source": "Pharmacology III-6 Q40",
+   "topic": "Easy",
+   "topic_n": 21
+  }
+ ]
+}

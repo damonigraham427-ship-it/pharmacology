@@ -1,0 +1,337 @@
+{
+ "questions": [
+  {
+   "question": "Directions for questions 1–5: Match each effect with the activation of the appropriate receptor (each lettered option can be selected once, more than once, or not at all). Mydriasis",
+   "choices": [
+    "M3 cholinergic",
+    "D1 dopaminergic",
+    "β1 adrenergic",
+    "β2 adrenergic",
+    "M2 cholinergic",
+    "Nm cholinergic",
+    "D2 dopaminergic",
+    "β3 adrenergic",
+    "Nn cholinergic",
+    "α1 adrenergic",
+    "α2 adrenergic"
+   ],
+   "answer": 9,
+   "explanation": "Matching item. Correct match: α1 adrenergic.",
+   "source": "Pharmacology II-1 Q1",
+   "topic": "Easy",
+   "topic_n": 1
+  },
+  {
+   "question": "Directions for questions 1–5: Match each effect with the activation of the appropriate receptor (each lettered option can be selected once, more than once, or not at all). Increased gluconeogenesis",
+   "choices": [
+    "Nn cholinergic",
+    "β2 adrenergic",
+    "D1 dopaminergic",
+    "α1 adrenergic",
+    "M3 cholinergic",
+    "M2 cholinergic",
+    "α2 adrenergic",
+    "β3 adrenergic",
+    "Nm cholinergic",
+    "D2 dopaminergic",
+    "β1 adrenergic"
+   ],
+   "answer": 1,
+   "explanation": "Matching item. Correct match: β2 adrenergic.",
+   "source": "Pharmacology II-1 Q2",
+   "topic": "Easy",
+   "topic_n": 2
+  },
+  {
+   "question": "Directions for questions 1–5: Match each effect with the activation of the appropriate receptor (each lettered option can be selected once, more than once, or not at all). Selective dilation of renal vessels",
+   "choices": [
+    "β1 adrenergic",
+    "D2 dopaminergic",
+    "β3 adrenergic",
+    "α1 adrenergic",
+    "β2 adrenergic",
+    "M3 cholinergic",
+    "α2 adrenergic",
+    "Nm cholinergic",
+    "M2 cholinergic",
+    "Nn cholinergic",
+    "D1 dopaminergic"
+   ],
+   "answer": 10,
+   "explanation": "Matching item. Correct match: D1 dopaminergic.",
+   "source": "Pharmacology II-1 Q3",
+   "topic": "Easy",
+   "topic_n": 3
+  },
+  {
+   "question": "Directions for questions 1–5: Match each effect with the activation of the appropriate receptor (each lettered option can be selected once, more than once, or not at all). Constriction of bladder internal sphincter",
+   "choices": [
+    "M3 cholinergic",
+    "Nm cholinergic",
+    "α2 adrenergic",
+    "M2 cholinergic",
+    "α1 adrenergic",
+    "β3 adrenergic",
+    "D2 dopaminergic",
+    "Nn cholinergic",
+    "β1 adrenergic",
+    "β2 adrenergic",
+    "D1 dopaminergic"
+   ],
+   "answer": 4,
+   "explanation": "Matching item. Correct match: α1 adrenergic.",
+   "source": "Pharmacology II-1 Q4",
+   "topic": "Easy",
+   "topic_n": 4
+  },
+  {
+   "question": "Directions for questions 1–5: Match each effect with the activation of the appropriate receptor (each lettered option can be selected once, more than once, or not at all). Decreased atrioventricular conduction",
+   "choices": [
+    "M3 cholinergic",
+    "β3 adrenergic",
+    "α1 adrenergic",
+    "β1 adrenergic",
+    "D1 dopaminergic",
+    "Nm cholinergic",
+    "α2 adrenergic",
+    "β2 adrenergic",
+    "M2 cholinergic",
+    "D2 dopaminergic",
+    "Nn cholinergic"
+   ],
+   "answer": 8,
+   "explanation": "Matching item. Correct match: M2 cholinergic.",
+   "source": "Pharmacology II-1 Q5",
+   "topic": "Easy",
+   "topic_n": 5
+  },
+  {
+   "question": "A 2.1-kg (4.6-lb) baby boy was born at 34 weeks gestation by vaginal delivery. One hour after birth, the baby appeared hypothermic and lethargic. Apgar scores were low, and blood pressure was 55/35 mm Hg. Lab tests revealed that the newborn had a genetic dopamine β-hydroxylase deficiency. Lab tests would have also shown which of the following results?",
+   "choices": [
+    "High plasma levels of epinephrine",
+    "Very low plasma levels of dopamine",
+    "Very low plasma levels of norepinephrine",
+    "Low urinary levels of homovanillic acid",
+    "High urinary levels of normetanephrine"
+   ],
+   "answer": 2,
+   "explanation": "Dopamine β-hydroxylase is the enzyme that catalyzes the conversion of dopamine into norepinephrine. Because the enzyme is lacking, plasma levels of norepinephrine will be very low. B Plasma levels of dopamine would be high, not low. C Epinephrine is synthesized from norepinephrine in the adrenal medulla. Because plasma levels of norepinephrine are low, plasma levels of epinephrine will also be low, not high. D Normetanephrine is a urinary metabolite of norepinephrine. Because plasma levels of norepinephrine are low, normetanephrine will also be low, not high. E Homovanillic acid is the main urinary metabolite of dopamine. Because plasma levels of dopamine are high, homovanillic acid will also be high, not low.",
+   "source": "Pharmacology II-1 Q6",
+   "topic": "Medium",
+   "topic_n": 1
+  },
+  {
+   "question": "A 43-year-old man recently diagnosed with pheochromocytoma (an adrenal gland tumor) started a treatment with a drug that can cause a pronounced decrease in norepinephrine and epinephrine by blocking the first rate-limiting step in catecholamine biosynthesis. Which of the following enzymes was most likely inhibited by the drug?",
+   "choices": [
+    "Phenylethanolamine methyltransferase",
+    "Tyrosine hydroxylase",
+    "Aromatic L-amino acid decarboxylase",
+    "Monoamine oxidase",
+    "Dopamine-β-hydroxylase"
+   ],
+   "answer": 1,
+   "explanation": "The hydroxylation of tyrosine to dopa is the rate-limiting step in norepinephrine biosynthesis and is catalyzed by the enzyme tyrosine hydroxylase. The inhibition of this enzyme will therefore cause a big reduction in biosynthesis of the final product. A Aromatic L-amino acid decarboxylase transforms dopa into dopamine. B Dopamine-β-hydroxylase transforms dopamine into norepinephrine. D Phenylethanolamine methyltransferase transforms norepinephrine into epinephrine. E Monoamine oxidase transforms norepinephrine and epinephrine into dihydroxymandelic acid and dopamine into dihydroxyphenylacetic acid.",
+   "source": "Pharmacology II-1 Q7",
+   "topic": "Easy",
+   "topic_n": 6
+  },
+  {
+   "question": "A 14-year-old boy with type 1 diabetes noticed symptoms of palpitations, inward trembling, sweating, hunger, weakness, and nervousness just after his participation in a basketball game. His medication included twice daily injections of insulin. Most of the boy's symptoms likely resulted from increased firing of which of the following neurons?",
+   "choices": [
+    "Somatic motor neurons",
+    "Preganglionic sympathetic neurons",
+    "Preganglionic parasympathetic neurons",
+    "Pyramidal neurons",
+    "Postganglionic parasympathetic neurons"
+   ],
+   "answer": 1,
+   "explanation": "The described symptoms are most likely due to sympathetic activation that occurs any time significant hypoglycemia is present. In insulin-dependent diabetics, hypoglycemia is common after physical exercise that increases sugar metabolism, as in the present case. Sympathetic activation includes an increased firing of preganglionic sympathetic neurons, which in turn will increase firing in postganglionic sympathetic neurons and epinephrine secretion from the adrenal medulla. A–C, E These neurons are not involved in sympathetic activation.",
+   "source": "Pharmacology II-1 Q8",
+   "topic": "Medium",
+   "topic_n": 2
+  },
+  {
+   "question": "A 55-year-old woman suffering from postural hypotension started a treatment with an α1-adrenergic drug. Which of the following is a body site where autonomic receptors are primarily α1 adrenergic?",
+   "choices": [
+    "Sphincter muscle of the iris",
+    "Purkinje fibers",
+    "Atrioventricular node",
+    "Skin vessels",
+    "Bronchial muscle"
+   ],
+   "answer": 3,
+   "explanation": "The vascular system has both α1 and β2 receptors. Alpha-1 receptors predominate in the vessels of the skin and the gastrointestinal and genitourinary systems. Beta-2 receptors predominate in the vessels of skeletal muscle and liver. Parasympathetic receptors are not widely represented in the vascular system. A Autonomic receptors in the bronchial muscle are primarily M3 and β2. B Autonomic receptors in the sphincter muscle of the iris are primarily M3. C Autonomic receptors in the atrioventricular node are primarily M2 and β1. D Autonomic receptors in Purkinje fibers are primarily β1.",
+   "source": "Pharmacology II-1 Q9",
+   "topic": "Easy",
+   "topic_n": 7
+  },
+  {
+   "question": "A 24-year-old woman admitted to the hospital after a car accident was diagnosed with neurogenic shock due to a spinal cord injury. An emergency treatment was started that included the administration of norepinephrine. Which of the following expected effects of the drug was most likely mediated by the activation of peripheral postsynaptic β1 receptors?",
+   "choices": [
+    "Decreased insulin secretion",
+    "Bronchodilation",
+    "Increased renin secretion",
+    "Increased sweating of the palms of the hands",
+    "Increased liver gluconeogenesis",
+    "Uterine relaxation"
+   ],
+   "answer": 2,
+   "explanation": "Beta-1 receptors are abundant in juxtaglomerular cells, and the activation of these receptors increases renin secretion. A Bronchodilation is due mainly to activation of bronchial β2 receptors. B Uterine relaxation is due mainly to activation of uterine β2 receptors. C Increased liver gluconeogenesis is due mainly to activation of liver β2 receptors. E Decreased insulin secretion is due mainly to activation of pancreas α2 receptors. F Increased sweating of the palms of the hands is due mainly to activation of the palms' α1 receptors.",
+   "source": "Pharmacology II-1 Q10",
+   "topic": "Easy",
+   "topic_n": 8
+  },
+  {
+   "question": "A 28-year-old woman presented to the emergency department with breathing difficulty and increasing swelling of her face, eyes, lips, and tongue. An hour earlier she had received an intramuscular injection of ampicillin to treat acute pharyngitis. A diagnosis of anaphylactic reaction was made, and an intramuscular injection of epinephrine was given. Which of the following expected effects of the drug was most likely mediated by the activation of peripheral postsynaptic α2 receptors?",
+   "choices": [
+    "Increased heart rate",
+    "Constriction of skin vessels",
+    "Dilation of skeletal muscle vessels",
+    "Increased secretion of renin",
+    "Mydriasis",
+    "Decreased secretion of insulin"
+   ],
+   "answer": 5,
+   "explanation": "Activation of α2 receptors located on pancreatic β cells inhibits insulin secretion. This is one of the actions that contribute to the final hyperglycemic effect of epinephrine. A, D These effects are due to activation of α1, not α2, receptors. C, E These effects are due to activation of β1 receptors. F This effect is due to activation of β2 receptors.",
+   "source": "Pharmacology II-1 Q11",
+   "topic": "Medium",
+   "topic_n": 3
+  },
+  {
+   "question": "A new autonomic drug was administered locally in the conjunctival sac of a healthy volunteer. Twenty minutes later, measurement of several eye parameters gave the following results: Pupillary diameter (mm): Before Drug 3.0, After Drug 3.5; Lens curvature: Before Drug Normal, After Drug Normal; Intraocular pressure (mm Hg): Before Drug 20, After Drug 15. Which of the following pairs of receptors did the drug most likely activate?",
+   "choices": [
+    "α2 and β2 adrenergic",
+    "M2 and M3 cholinergic",
+    "β1 and β2 adrenergic",
+    "α1 and α2 adrenergic",
+    "Nn and Nm cholinergic"
+   ],
+   "answer": 3,
+   "explanation": "Pupillary diameter can be increased either by the activation of α1 receptors (which contracts the radial muscle of the iris) or by the blockade of M3 receptors (which relaxes the sphincter muscle of the iris). The question asks for an activation of a receptor, so the α1 receptor must be involved. Intraocular pressure can be decreased by a decreased production or by an increased outflow of aqueous humor. A decreased production can follow either the activation of α2 receptors or the blockade of β2 receptors. The question asks for an activation of a receptor, so the α2 receptor must be involved. B Beta-2 receptor activation would cause an increased production of aqueous humor and therefore would increase, not decrease, the intraocular pressure. C Activation of Nn receptors would cause an increase in sympathetic as well as parasympathetic firing. Because in the eye the parasympathetic system is predominant, this would lead to an activation of M3 receptors in the ciliary muscle, which would increase the lens curvature and an activation of the iris sphincter muscle, which would decrease, not increase, the pupillary diameter. Activation of Nm receptors causes the contraction of skeletal muscles only and therefore can affect the extrinsic, not the intrinsic, eye muscles. D See answer explanation for item C. E See answer explanation for item B.",
+   "source": "Pharmacology II-1 Q12",
+   "topic": "Hard",
+   "topic_n": 1
+  },
+  {
+   "question": "The cardiovascular effects of a new autonomic drug that does not cross the blood–brain barrier were evaluated in a healthy volunteer. The drug was administered intravenously, and the results are presented below: Systolic BP (mm Hg): Control 120, Drug X 130; Diastolic BP (mm Hg): Control 80, Drug X 100; Heart rate (bpm): Control 70, Drug X 60. Which of the following receptors did the drug most likely activate?",
+   "choices": [
+    "α1 adrenergic",
+    "M2 cholinergic",
+    "β1 adrenergic",
+    "β2 adrenergic",
+    "D1 dopaminergic"
+   ],
+   "answer": 0,
+   "explanation": "Activation of α1 receptors contracts vascular smooth muscle. This will increase the systolic blood pressure (which is dependent on both cardiac output and total peripheral resistance [TPR]), as well as diastolic blood pressure (which is dependent mainly on TPR). The increase in mean blood pressure causes an activation of the baroreceptor reflex, which in turn will decrease the heart rate. B Activation of β2 receptors would cause a decrease, not an increase, of TPR, because β2 receptors are abundant in skeletal muscle vessels, and approximately one half of the body weight is skeletal muscle. C Activation of D1 receptors would cause a dilation of splanchnic and renal vessels; therefore, the diastolic blood pressure would decrease, not increase. D Activation of M2 receptors would decrease the heart contractility and rate, which in turn would decrease cardiac output. Therefore, the systolic blood pressure would decrease, not increase. E Activation of β1 receptors would increase, not decrease, the heart rate.",
+   "source": "Pharmacology II-1 Q13",
+   "topic": "Hard",
+   "topic_n": 2
+  },
+  {
+   "question": "A 62-year-old man suffering from postural hypotension started therapy with a drug that selectively activates α1 receptors. Which of the following postreceptor mechanisms most likely mediated the therapeutic effect of the drug in this patient?",
+   "choices": [
+    "Blockade of voltage-gated Ca2+ channels",
+    "Increased synthesis of cyclic guanosine monophosphate (cGMP)",
+    "Opening of ligand-gated K+ channels",
+    "Increased activation of phospholipase C",
+    "Decreased synthesis of inositol triphosphate (IP3) and diacylglycerol (DAG)"
+   ],
+   "answer": 3,
+   "explanation": "Alpha-1 receptor activation may initiate several postreceptor mechanisms, depending on the tissue where the receptors are located. Among these, one of the most common is the activation of phospholipase C, which in turn results in the generation of two second messengers, IP3 and DAG. IP3 stimulates the release of calcium from endoplasmic stores. DAG is a potent activator of protein kinase C, which in turn increases intracellular Ca2+. The final effect is therefore increased Ca2+ availability, which enhances smooth muscle contraction. A The synthesis of IP3 and DAG is actually increased, not decreased, by α1 receptor activation (see correct answer explanation). C Alpha-1 receptors are mainly excitatory, so the opening of K+ channels (which would lead to a hyperpolarization of the membrane) is unlikely. In fact, they can close K+ channels. D Blockade of voltage-gated Ca2+ channels is the mechanism of action of Ca2+ channel blockers. E Increased synthesis of cGMP is the postreceptor mechanism triggered by beta-, not by alpha-, receptor activation.",
+   "source": "Pharmacology II-1 Q14",
+   "topic": "Medium",
+   "topic_n": 4
+  },
+  {
+   "question": "The cardiovascular effects of a new autonomic drug that does not cross the blood–brain barrier were evaluated in a healthy male volunteer. The drug was administered intravenously, and the results are presented below: Systolic BP (mm Hg): Control 120, Drug 130; Diastolic BP (mm Hg): Control 75, Drug 55; Heart rate (bpm): Control 70, Drug 115. Which of the following pairs of receptors were most likely activated by the drug?",
+   "choices": [
+    "β1 and β2 adrenergic",
+    "Nm and Nn cholinergic",
+    "α1 and α2 adrenergic",
+    "M2 and M3 cholinergic",
+    "α1 and β1 adrenergic"
+   ],
+   "answer": 0,
+   "explanation": "The activation of β1 receptors increases cardiac contractility and rate, thus increasing cardiac output, which in turn increases systolic blood pressure. The activation of β2 receptors causes peripheral vasodilation, thus decreasing the diastolic blood pressure. The mean blood pressure (diastolic plus one third of pulse pressure [the difference between the systolic and diastolic pressure readings]) of the volunteer was 90 mm Hg under control conditions and 80 mm Hg after the drug administration. The decreased blood pressure activated the baroreceptor reflex, causing reflex tachycardia. Moreover, the activation of both β1 and β2 receptors also caused a direct increase in heart rate, so the final effect was a pronounced tachycardia. A–D Activation of none of these pairs of receptors can explain the cardiovascular actions of the autonomic drug under study.",
+   "source": "Pharmacology II-1 Q15",
+   "topic": "Hard",
+   "topic_n": 3
+  },
+  {
+   "question": "The bronchial effects of a new alpha-beta agonist that does not cross the blood–brain barrier was studied in laboratory animals. It was found that the drug caused relaxation of bronchiolar smooth muscle. The activation of which of the following pairs of adrenoceptors most likely mediated the effect of the drug?",
+   "choices": [
+    "β1 postsynaptic and α2 presynaptic",
+    "α2 postsynaptic and β3 postsynaptic",
+    "α1 presynaptic and β2 presynaptic",
+    "β2 postsynaptic and α2 presynaptic",
+    "β1 presynaptic and α1 postsynaptic"
+   ],
+   "answer": 3,
+   "explanation": "Alpha-beta agonists induce relaxation of most smooth muscles both directly, by activating postsynaptic β2 receptors, and indirectly, by activating presynaptic α2 receptors on cholinergic terminals, which in turn inhibit acetylcholine release. B–E See correct answer explanation.",
+   "source": "Pharmacology II-1 Q16",
+   "topic": "Hard",
+   "topic_n": 4
+  },
+  {
+   "question": "The metabolic effects of a new autonomic drug were studied in laboratory animals. The following results were obtained: Liver gluconeogenesis: increased; Renin secretion: unaffected; Plasma K+: decreased; Degranulation of mast cells: inhibited; Lipolysis in fat cells: increased. Which of the following pairs of receptors were most likely activated by the drug?",
+   "choices": [
+    "β2 and β3",
+    "α1 and M2",
+    "M2 and M3",
+    "β1 and β2",
+    "α1 and β1",
+    "M3 and β3"
+   ],
+   "answer": 0,
+   "explanation": "Activation of β2 receptors increases liver gluconeogenesis, inhibits degranulation of mast cells, and decreases plasma K+ (because of increased K+ uptake by skeletal muscle). Activation of β3 receptors in fat cells increases lipolysis with enhanced release of free fatty acids into the blood. C Beta-1 receptor activation is not involved, as the secretion of renin is unaffected. A, D–F These pairs of receptors can mediate some, but not all, of the effects listed.",
+   "source": "Pharmacology II-1 Q17",
+   "topic": "Hard",
+   "topic_n": 5
+  },
+  {
+   "question": "A new autonomic drug was administered locally in the conjunctival sac of a healthy volunteer during a phase 1 clinical trial. Twenty minutes later, measurement of several eye parameters gave the following results: Pupillary diameter: decreased; Lens curvature: increased; Intraocular pressure: decreased. Which of the following receptors did the drug most likely activate?",
+   "choices": [
+    "α2",
+    "α1",
+    "Nm",
+    "M3",
+    "β2"
+   ],
+   "answer": 3,
+   "explanation": "Pupillary diameter and lens curvature are mainly under the control of the parasympathetic nervous system. Activation of M3 receptors on the iris sphincter muscle causes contraction of the muscle, decreasing pupillary diameter. Activation of M3 receptors on ciliary muscle causes contraction of the muscle, which leads to (1) relaxation of the zonula fibers, which in turn increases the lens curvature, and (2) opening the pores of the trabecular meshwork, which increases the outflow of the aqueous humor, decreasing the intraocular pressure. A Activation of α1 receptors would contract the iris radial muscle, causing an increase, not a decrease, in pupillary diameter. B Activation of α2 receptors would decrease the production of the aqueous humor. This would lead to a decrease in intraocular pressure, but pupil diameter and lens curvature would not be affected. C Activation of Nm receptors would cause the contraction of skeletal muscles only and therefore would affect the extrinsic, not the intrinsic, eye muscles. E Activation of β2 receptors would cause relaxation, not contraction, of ciliary muscle.",
+   "source": "Pharmacology II-1 Q18",
+   "topic": "Medium",
+   "topic_n": 5
+  },
+  {
+   "question": "A 54-year-old woman complained to her physician of palpitations, dry mouth, blurred vision, and constipation. The woman had a long history of endogenous depression and had recently started a new antidepressant therapy. The patient's symptoms most likely resulted from a blockade of which of the following pairs of receptors?",
+   "choices": [
+    "β1 and β2",
+    "α1 and α2",
+    "M2 and M3",
+    "Nm and β2",
+    "α1 and β1"
+   ],
+   "answer": 2,
+   "explanation": "The new drug the woman was taking was most likely amitriptyline, an antidepressant medication with pronounced antimuscarinic effects. Palpitations are due to blockade of M2 receptors, whereas dry mouth, blurred vision, and constipation are due to blockade of M3 receptors. A, B, D, E Blockade of these pairs of receptors would not cause the symptoms reported by the patient.",
+   "source": "Pharmacology II-1 Q19",
+   "topic": "Hard",
+   "topic_n": 6
+  },
+  {
+   "question": "A 35-year-old farmer was brought to the emergency department with severe abdominal cramps and vomiting. He reported that he was working in the field with an organophosphate pesticide. The physician observed all of the typical symptoms of acetylcholine excess. Which of the following symptoms of the patient were most likely due to the activation of nicotinic Nm receptors only?",
+   "choices": [
+    "Bradycardia, urinary urgency",
+    "Difficulty in breathing, miosis",
+    "Salivation, decreased blood pressure",
+    "Diarrhea, sweating",
+    "Diplopia, difficulty in swallowing"
+   ],
+   "answer": 4,
+   "explanation": "Nm receptors are found only in the motor end plate; therefore, the symptoms must refer to skeletal muscles. When Nm receptors are activated by acetylcholine, the ion channel opens, allowing Na+ to enter the cell. The end-plate membrane becomes depolarized; this depolarization is called end-plate potential. If its amplitude reaches the threshold for excitation, voltage-gated Na+ channels open, generating an action potential that propagates the depolarization and causes the contraction of the skeletal muscle. The end-plate depolarization is short-lasting, as acetylcholine is rapidly metabolized. However, when an excessive amount of acetylcholine causes a persistent activation of Nm receptors, a loss of electrical excitability of the muscle cells occurs. The main reason for this loss is that, even if the membrane is still depolarized because of the activation of Nm receptors, voltage-sensitive Na+ channels become inactivated and therefore not able to open in response to a brief depolarizing stimulus. This loss of electrical excitability in the presence of a depolarized membrane is called depolarization blockade. The main consequence of this block in skeletal muscle cells is the paralysis of the muscle. It should be noted that this paralysis is not due to the blockade of Nm receptors but to the persistent activation of those receptors. When the paralysis involves the extrinsic muscles of the eye, diplopia results. The paralysis of the striated muscles of the pharynx causes difficulty in swallowing. A–D All of these effects are due to the activation of muscarinic receptors.",
+   "source": "Pharmacology II-1 Q20",
+   "topic": "Hard",
+   "topic_n": 7
+  }
+ ]
+}

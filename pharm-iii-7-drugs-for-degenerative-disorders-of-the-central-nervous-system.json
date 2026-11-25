@@ -1,0 +1,489 @@
+{
+ "questions": [
+  {
+   "question": "Acentral muscarinic receptor blocker",
+   "choices": [
+    "Memantine",
+    "Donepezil",
+    "Amantadine",
+    "Entacapone",
+    "Selegiline",
+    "Benztropine",
+    "Levodopa",
+    "Carbidopa",
+    "Bromocriptine"
+   ],
+   "answer": 5,
+   "explanation": "Matching question; the book prints only the answer key for matching sets (key: B).",
+   "source": "Pharmacology III-7 Q1",
+   "topic": "Easy",
+   "topic_n": 1
+  },
+  {
+   "question": "Acentral acetylcholinesterase inhibitor",
+   "choices": [
+    "Donepezil",
+    "Benztropine",
+    "Selegiline",
+    "Entacapone",
+    "Levodopa",
+    "Amantadine",
+    "Memantine",
+    "Carbidopa",
+    "Bromocriptine"
+   ],
+   "answer": 0,
+   "explanation": "Matching question; the book prints only the answer key for matching sets (key: E).",
+   "source": "Pharmacology III-7 Q2",
+   "topic": "Easy",
+   "topic_n": 2
+  },
+  {
+   "question": "An N-methyl-p-aspartate (NMDA) receptor blocker used in Alzheimer disease",
+   "choices": [
+    "Amantadine",
+    "Selegiline",
+    "Bromocriptine",
+    "Benztropine",
+    "Donepezil",
+    "Memantine",
+    "Carbidopa",
+    "Levodopa",
+    "Entacapone"
+   ],
+   "answer": 5,
+   "explanation": "Matching question; the book prints only the answer key for matching sets (key: H).",
+   "source": "Pharmacology III-7 Q3",
+   "topic": "Easy",
+   "topic_n": 3
+  },
+  {
+   "question": "Aselective monoamine oxygenase B (MAO B) inhibitor",
+   "choices": [
+    "Bromocriptine",
+    "Benztropine",
+    "Memantine",
+    "Carbidopa",
+    "Amantadine",
+    "Selegiline",
+    "Levodopa",
+    "Entacapone",
+    "Donepezil"
+   ],
+   "answer": 5,
+   "explanation": "Matching question; the book prints only the answer key for matching sets (key: I).",
+   "source": "Pharmacology III-7 Q4",
+   "topic": "Easy",
+   "topic_n": 4
+  },
+  {
+   "question": "A peripheral inhibitor of catechol-O-methyltransferase (COMT)",
+   "choices": [
+    "Donepezil",
+    "Entacapone",
+    "Levodopa",
+    "Benztropine",
+    "Selegiline",
+    "Carbidopa",
+    "Memantine",
+    "Amantadine",
+    "Bromocriptine"
+   ],
+   "answer": 1,
+   "explanation": "Matching question; the book prints only the answer key for matching sets (key: F).",
+   "source": "Pharmacology III-7 Q5",
+   "topic": "Easy",
+   "topic_n": 5
+  },
+  {
+   "question": "A 63-year-old man recently diagnosed with Parkinson disease started treatment with levodopa/carbidopa. Which of the following actions most likely mediated the therapeutic effect of levodopa in the patient’s disease?",
+   "choices": [
+    "Downregulation of dopaminergic receptors in the striatum",
+    "Increased synthesis of dopamine in the striatum o Inhibition of dopa decarboxylase in the striatum",
+    "Inhibition of catechol-O-methyltransferase in the substantia nigra",
+    "Increased synthesis of dopamine in the subthalamic nucleus"
+   ],
+   "answer": 1,
+   "explanation": "Dopamine cannot cross the blood-brain barrier and therefore has no therapeutic effects in parkinsonism if given into the peripheral circulation. However, levodopa, the immediate precursor of dopamine, is readily carried across the bloodbrain barrier by the neutral amino acid transporter. In the brain, levodopa is biotransformed into dopamine within the presynaptic terminals of dopaminergic neurons in the striatum. These neurons are therefore able to release more dopamine, and this balances the loss of dopaminergic neurons, which constitutes the pathologic basis of Parkinson disease. A Dopaminergic receptors are upregulated, not downregulated, due to the decreased availability of dopamine in the striatum. B Subthalamic neurons are mainly glutamatergic, not dopaminergic. D This action would decrease, not increase, the availability of dopamine in basal ganglia. E The inhibition of catechol-O-methyltransferase (COMT) would increase the availability of dopamine, but this is an action of COMT inhibitors, not of levodopa.",
+   "source": "Pharmacology III-7 Q6",
+   "topic": "Easy",
+   "topic_n": 6
+  },
+  {
+   "question": "A 79-year-old man who had been suffering from Parkinson disease for 5 years complained of a resting tremor, which presently was one of the most debilitating symptoms of his disease. His therapy with levodopa/carbidopa had resulted in improvement in rigidity, bradykinesia, and posture, as well as improvement in the “on-off” effects, but he had experienced little if any improvement in tremor. Which of the following therapeutic approaches would be appropriate to reduce the patient’s tremor?",
+   "choices": [
+    "Start brief periods of “drug holidays” during therapy.",
+    "Add benztropine to the present drug regimen.",
+    "Add propranolol to the present drug regimen.",
+    "Decrease the dose of carbidopa.",
+    "Substitute levodopa/carbidopa with pramipexole."
+   ],
+   "answer": 2,
+   "explanation": "Parkinsonian tremor is often less responsive to dopaminergic therapy than other symptoms. Tremor can be worsened by peripheral factors, such as catecholamine release, often in association with stress or anxiety. Propranolol improves parkinsonian tremor in about 50% of patients, so a trial with propranolol can be appropriate for this patient. A, B, E All of these procedures would minimally affect the patient’s tremor. C Anticholinergic drugs can improve tremor but they are usually better avoided in the elderly because of an increased risk of adverse effects.",
+   "source": "Pharmacology III-7 Q7",
+   "topic": "Medium",
+   "topic_n": 1
+  },
+  {
+   "question": "A 62-year-old man complained to his physician of facial grimacing, lip smacking, and rocking of the trunk that occurred 1 to 2 hours after taking his prescribed medication. The man, who suffered from Parkinson disease, had been receiving an antiparkinson drug for 3 years. Which of the following drugs most likely caused the adverse effects reported by the patient?",
+   "choices": [
+    "Levodopa",
+    "Selegiline",
+    "Benztropine",
+    "Amantadine",
+    "Entacapone"
+   ],
+   "answer": 0,
+   "explanation": "The adverse effects reported by the patient and the timing of the effects suggest that they are levodopa-induced dyskinesias, which occur in up to 80% of patients receiving the drug for long periods. The development of dyskinesias is dose-related, and dyskinesias are usually associated with peak striatal dopamine levels or when the level of the drug is rising or falling. The exact mechanism of these dyskinesias is not known, but simplistically it can be thought of as too much movement caused by too much striatal dopamine receptor stimulation. A, C-E Some of these drugs (selegiline and entacapone) can cause dyskinesias, but they are never used as the sole agent to treat Parkinson disease for long periods.",
+   "source": "Pharmacology III-7 Q8",
+   "topic": "Easy",
+   "topic_n": 7
+  },
+  {
+   "question": "A 75-year-old diabetic man with Parkinson disease complained of worsening of his tremor and rigidity in his arms and legs. His Parkinson disease had been responding well to a treatment with levodopa/carbidopa and amantadine, and his diabetes had been controlled by glyburide and metformin. Recently, metoclopramide was prescribed to manage diabetic gastroparesis. Which of the following drugs could have triggered the worsening of symptoms reported by the patient?",
+   "choices": [
+    "Metoclopramide",
+    "Amantadine",
+    "Metformin",
+    "Glyburide",
+    "Carbidopa"
+   ],
+   "answer": 0,
+   "explanation": "The symptoms reported by the patient point out a worsening of his Parkinson disease. Metoclopramide, a prokinetic drug used to treat diabetic gastroparesis, can block dopamine D, receptors in the brain, thus leading to a decreased levodopa effect that explains the worsening of parkinsonian symptoms. A-D See correct answer explanation.",
+   "source": "Pharmacology III-7 Q9",
+   "topic": "Easy",
+   "topic_n": 8
+  },
+  {
+   "question": "A 53-year-old man complained to his physician of persistent and annoying salivation. The man, recently diagnosed with Parkinson disease, had started treatment with levodopa/ carbidopa that significantly improved his motor symptoms. The physician decided to include another drug in the treatment. Which of the following drugs would be appropriate to add to the therapy at this time?",
+   "choices": [
+    "Pramipexole",
+    "Selegiline",
+    "Entacapone",
+    "Apomorphine",
+    "Benztropine"
+   ],
+   "answer": 4,
+   "explanation": "Autonomic dysfunction is a prominent feature of Parkinson disease, and postural hypotension, urinary urgency, and sialorrhea are common symptoms. Sialorrhea occurs in up to 55% of patients and responds to anticholinergic drugs such as benztropine. A, B, D, E These antiparkinson drugs have minimal effects on sialorrhea.",
+   "source": "Pharmacology III-7 Q10",
+   "topic": "Medium",
+   "topic_n": 2
+  },
+  {
+   "question": "A51-year-old woman complained of a resting tremor in her left hand, difficulty in writing, and a distressing sensation of inner restlessness. After careful neurologic examination, a diagnosis was made, and an appropriate therapy was ordered that included a drug acting as a partial agonist at dopamine D, receptors in the brain. Which of the following drugs was most likely prescribed?",
+   "choices": [
+    "Dopamine",
+    "Ergotamine",
+    "Selegiline",
+    "Pramipexole",
+    "Levodopa",
+    "Clozapine"
+   ],
+   "answer": 3,
+   "explanation": "The symptoms of the patient indicate that she was most likely suffering from Parkinson disease. Dopaminergic agonists such as pramipexole are often first-line agents in antiparkinson therapy, especially in younger patients, as their use seems associated with a lower incidence of response fluctuations and dyskinesias that can occur with long-term levodopa therapy. B-F These drugs are not dopaminergic agonists.",
+   "source": "Pharmacology III-7 Q11",
+   "topic": "Hard",
+   "topic_n": 1
+  },
+  {
+   "question": "A 67-year-old man presented to the clinic complaining of vague chest pains and difficulty in breathing. Medical history revealed that the patient had been diagnosed with Parkinson disease 10 years earlier and had been using several antiparkinson drugs since then. Physical examination revealed prominent breath sounds and end-inspiratory crackles, primarily at the lung bases. An x-ray showed extensive honeycombing. A diagnosis of pulmonary fibrosis was made. Which of the following drugs would have been most likely to cause the patient’s disorder?",
+   "choices": [
+    "Levodopa OM ® > Entacapone",
+    "Amantadine",
+    "Benztropine",
+    "Selegiline",
+    "Bromocriptine"
+   ],
+   "answer": 4,
+   "explanation": "Bromocriptine is an ergot-derived dopamine agonist. Ergot-derived drugs may cause connective tissue proliferation leading to fibrosis in different organs, including pulmonary, pleural, and retroperitoneal fibrosis. The exact mechanism of this adverse effect is still unknown, but bromocriptine is no longer used in Parkinson disease due to this effect. B-F These drugs do not cause pulmonary fibrosis.",
+   "source": "Pharmacology III-7 Q12",
+   "topic": "Medium",
+   "topic_n": 3
+  },
+  {
+   "question": "A 54-year-old man complained to his physician of difficulty in writing, because of unsteadiness in his right hand, and of tightness in his arms and legs. These symptoms started about 1 week earlier. Physical examination showed a wellnourished, anxious patient with a notable lack of normal changes in facial expression and with a soft, monotone voice. Tremor was present in his hands, and a festinating gait was noted. A diagnosis was made, and a single-agent pharmacotherapy was prescribed. Which of the following drugs would be appropriate for this patient?",
+   "choices": [
+    "Propranolol",
+    "Carbidopa",
+    "Entacapone",
+    "Pramipexole",
+    "Clonazepam",
+    "Benztropine"
+   ],
+   "answer": 3,
+   "explanation": "The patient presented with signs and symptoms typical of Parkinson disease (PD). The four classic features of PD, that is, tremor, rigidity (tightness in his arms and legs), bradykinesia (lack of normal changes in facial expression), and postural instability (festinating gait), are easily recognized. Pramipexole is a dopamine receptor agonist that is effective when used as monotherapy for mild parkinsonism. Dopaminergic agonist therapy of parkinsonism can be initiated with a dopamine agonist, especially in younger patients, as these drugs have a number of potential advantages over levodopa, including a lower incidence of response fluctuations and dyskinesias. A-C Currently, carbidopa, entacapone, and benztropine are not used as monotherapy, but only in addition to levodopa therapy. E, F Clonazepam and propranolol are only used adjunctively to control symptoms such as tremor (propranolol) and myoclonus (clonazepam) that, in a particular patient, are resistant to conventional therapy.",
+   "source": "Pharmacology III-7 Q13",
+   "topic": "Medium",
+   "topic_n": 4
+  },
+  {
+   "question": "A63-year-old woman with Parkinson disease had been maintained on levodopa/carbidopa with adjunctive use of a drug that acts by reducing central dopamine metabolism. Which of the following drugs was most likely the adjunctive drug?",
+   "choices": [
+    "Phenelzine",
+    "Pramipexole",
+    "Selegiline",
+    "Levodopa",
+    "Benztropine"
+   ],
+   "answer": 2,
+   "explanation": "Two isoenzymes of monoamine oxidase (MAO) metabolize monoamines. MAO-A metabolizes primarily norepinephrine and serotonin, MAO-B metabolizes primarily dopamine and is predominant in the striatum. Selegiline is a selective inhibitor of MAO-B, leading to irreversible inhibition of the enzyme, thus retarding the breakdown of dopamine in the striatum. Because MAO-B is primarily found in the brain, selegiline does not inhibit the peripheral metabolism of dopamine and can be safely taken with levodopa. A, B, E See correct answer explanation. D Because phenelzine is a nonselective inhibitor of MAO, it can reduce the metabolism of dopamine. However, it is not used in Parkinson disease because it can lead to hypertensive crises probably due to the peripheral accumulation of norepinephrine.",
+   "source": "Pharmacology III-7 Q14",
+   "topic": "Easy",
+   "topic_n": 9
+  },
+  {
+   "question": "A 57-year-old woman with Parkinson disease complained that her tremor had gradually worsened over the past 2 weeks. She had been taking a levodopa/carbidopa combination for 6 months. The neurologist decided to add benztropine to the therapeutic regimen, and 2 weeks later the tremor was well controlled. Which of the following actions most likely mediated the reduction in the patient’s tremor?",
+   "choices": [
+    "Increased GABAergic activity in the subthalamic nucleus",
+    "Inhibition of levodopa metabolism in the striatum",
+    "Activation of dopaminergic receptors in the striatum o Blockade of B, adrenoceptors in skeletal muscle",
+    "Inhibition of the abnormally high cholinergic tone in the striatum"
+   ],
+   "answer": 3,
+   "explanation": "In Parkinson disease, the loss of dopaminergic neurons results in a loss of the balance that normally exists between acetylcholine- and dopamine-mediated neurotransmission. Antimuscarinic drugs such as benztropine seem to act by blocking muscarinic receptors in the striatum, thus decreasing the abnormally high cholinergic tone, which results from lack of the inhibitory activity of dopamine. These drugs may improve tremor and rigidity but have little effect on bradykinesia. A, C-E Antimuscarinic drugs do not have these effects.",
+   "source": "Pharmacology III-7 Q15",
+   "topic": "Medium",
+   "topic_n": 5
+  },
+  {
+   "question": "A 45-year-old woman complained of blurred vision, dry mouth, palpitations, and constipation. The patient was diagnosed with Parkinson disease 4 months earlier and had been receiving a levodopa/carbidopa combination since then. Recently, her neurologist added a drug to the therapeutic regimen because of an increase in the patient’s resting tremor. Which of the following drugs most likely caused the patient’s symptoms?",
+   "choices": [
+    "Levodopa",
+    "Pramipexole",
+    "Selegiline",
+    "Benztropine Pa Carbidopa",
+    "Amantadine"
+   ],
+   "answer": 3,
+   "explanation": "The symptoms of the patient are typical adverse effects of antimuscarinic drugs, such as benztropine. These drugs had been used extensively in the past before the discovery of levodopa. Because of their undesirable adverse effect profile and poor efficacy, today they are usually reserved for the treatment of persisting resting tremor, particularly in younger patients, as in this case. A-D, F None of these drugs cause the set of symptoms reported by the patient.",
+   "source": "Pharmacology III-7 Q16",
+   "topic": "Easy",
+   "topic_n": 10
+  },
+  {
+   "question": "A 53-year-old diabetic woman complained to her physician of a recent appearance of an unpleasant, creeping discomfort in her legs when she was lying down. The sensation urged the woman to move about, and walking relieved her symptoms. She also complained of difficulty falling asleep and interrupted nocturnal sleep. A preliminary diagnosis of restless leg syndrome was made, and a therapy was prescribed. Which of the following drugs would be most appropriate for the patient’s disorder?",
+   "choices": [
+    "Imipramine",
+    "Chlorpromazine",
+    "Entacapone F.",
+    "Haloperidol",
+    "Carbidopa",
+    "Pramipexole"
+   ],
+   "answer": 5,
+   "explanation": "Restless leg syndrome is characterized by abnormal motion and sometimes sensations in the legs that interfere with sleep. The disorder can occur in isolation but is more common during pregnancy, chronic renal or liver failure, iron deficiency anemia, or diabetes, as in this case. The cause of the disorder is unclear but may involve abnormalities in dopamine neurotransmission in the central nervous system. Numerous drugs have been used to treat the disorder, but only dopaminergic therapy is specific and is the preferred treatment for restless leg syndrome. Dopamine agonists such as pramipexole have replaced levodopa as a first-line therapy. A, B, D-F These drugs are not effective in restless leg syndrome.",
+   "source": "Pharmacology III-7 Q17",
+   "topic": "Medium",
+   "topic_n": 6
+  },
+  {
+   "question": "A 59-year-old woman had been suffering from Parkinson disease for 4 years. Her disease was well controlled with a therapy that included levodopa/carbidopa. Which of the following actions most likely mediated the therapeutic efficacy of carbidopa in the patient’s disease?",
+   "choices": [
+    "Increased active transport of dopamine into the brain",
+    "Decreased dopamine metabolism in the striatum",
+    "Decreased peripheral biotransformation of levodopa",
+    "Increased peripheral biotransformation of dopamine",
+    "Decreased levodopa reuptake in the striatum"
+   ],
+   "answer": 2,
+   "explanation": "Carbidopa is a dopa decarboxylase inhibitor that cannot cross the blood-brain barrier. When levodopa is given in combination with carbidopa, the peripheral metabolism of levodopa is reduced, plasma levels of levodopa are higher, and more levodopa is available to enter the brain. Concomitant administration of levodopa and carbidopa may reduce the daily requirement for levodopa by about 75%. A-C, E Carbidopa does not cause these actions.",
+   "source": "Pharmacology III-7 Q18",
+   "topic": "Easy",
+   "topic_n": 11
+  },
+  {
+   "question": "A65-year-old man complained to his physician that recently he felt increasingly confused at times, often had vivid dreams, and sometimes saw strange objects floating in the air. The patient, suffering from Parkinson disease, had been receiving levodopa/carbidopa for 1 year, and his disease was well controlled. Which of the following actions could be implemented to reduce the occurrence of the adverse effects being experienced by the patient?",
+   "choices": [
+    "Add amantadine to the present regimen.",
+    "Add clozapine to the present regimen.",
+    "Substitute levodopa with selegiline.",
+    "Substitute levodopa with pramipexole.",
+    "Add benztropine to the present regimen."
+   ],
+   "answer": 1,
+   "explanation": "The patient’s symptoms are typical mental disturbances caused by levodopa and are more common in patients taking the drug in combination with carbidopa, presumably because higher levels are reached in the brain. Psychotic symptoms including hallucinations often respond to neuroleptic treatment, but classical neuroleptics are not indicated because they may cause marked worsening of parkinsonism, likely through the blockade of D, receptors in the striatum. Atypical neuroleptics such as clozapine have negligible blocking activity at D, receptors, do not worsen parkinsonism, and are effective in the treatment of levodopa-induced psychotic symptoms. A Selegiline has only a minor therapeutic effect on parkinsonism when given alone; therefore, the substitution of levodopa with selegiline most likely would cause a worsening of Parkinson disease. B Dopaminergic agonists such as pramipexole can cause mental disturbances very similar to those caused by levodopa, likely because both adverse effects have the same underlying mechanism. C, D Mental disturbances can be exacerbated, not alleviated, by concurrent anticholinergic or amantadine therapy.",
+   "source": "Pharmacology III-7 Q19",
+   "topic": "Medium",
+   "topic_n": 7
+  },
+  {
+   "question": "A 78-year-old woman recently diagnosed with Parkinson disease had been receiving levodopa/carbidopa for 3 weeks. Which of the following adverse effects could most likely occur in this patient?",
+   "choices": [
+    "wp",
+    "Bradykinesia",
+    "Blurred vision",
+    "Diarrhea",
+    "Postural hypotension",
+    "Bradycardia"
+   ],
+   "answer": 4,
+   "explanation": "Postural hypotension is the most common cardiovascular adverse effect of levodopa, especially in the early stage of treatment. Levodopa is a prodrug, and all of its effects are due to dopamine. Postural hypotension is most likely due both to activation of D, receptors in the renal and mesenteric vascular bed, which leads to vasodilation, and to activation of D, receptors in the proximal tubule, which causes inhibition of tubular sodium reabsorption, thus increasing diuresis. Even if peripheral adverse effects are reduced when carbidopa is given together with levodopa, the risk of postural hypotension is significant, especially in older patients, as in this case. A Dopamine has negligible effects on accommodation, so blurred vision is unlikely. B Dopamine can activate a, adrenoceptors in the gastrointestinal system. Activation of these receptors in the gastrointestinal smooth muscle causes hyperpolarization and relaxation, so diarrhea is unlikely. D Dopamine can activate B adrenoceptors in the heart, causing tachycardia, not bradycardia. E Dopamine can cause dyskinesias, but bradykinesia is a classic symptom of parkinsonism, which is in fact alleviated, not caused, by levodopa.",
+   "source": "Pharmacology III-7 Q20",
+   "topic": "Easy",
+   "topic_n": 12
+  },
+  {
+   "question": "A 52-year-old woman with a long history of Parkinson disease had been receiving levodopa/carbidopa. Which of the following adverse effects of levodopa were most likely reduced by adding carbidopa to the treatment?",
+   "choices": [
+    "Dyskinesias",
+    "Cardiac arrhythmias",
+    "Nightmares",
+    "Mood changes",
+    "Visual hallucinations"
+   ],
+   "answer": 1,
+   "explanation": "Carbidopa is an inhibitor of dopa decarboxylase that cannot cross the blood-brain barrier. When given with levodopa, it diminishes the peripheral metabolism of levodopa, increasing its availability to enter the central nervous system. Therefore, the needed dose of levodopa can be lowered by about 5-fold, and the peripheral adverse effects of levodopa are consequently reduced. A, C-E These are central adverse effects of levodopa. They are not reduced and might even be increased, as more levodopa can enter the brain.",
+   "source": "Pharmacology III-7 Q21",
+   "topic": "Easy",
+   "topic_n": 13
+  },
+  {
+   "question": "A 53-year-old woman presented to her physician complaining of a unilateral resting tremor and slowing down of all movements. Her medical history was significant for two schizophrenic episodes in her late 40s that were successfully treated with haloperidol. On examination she showed cogwheel rigidity. A presumptive diagnosis of parkinsonism was made. Which of the following drugs would be contraindicated for this patient?",
+   "choices": [
+    "Benztropine",
+    "Pramipexole",
+    "Entacapone",
+    "Carbidopa",
+    "Amantadine"
+   ],
+   "answer": 1,
+   "explanation": "Dopaminergic drugs, such as pramipexole, levodopa, and amphetamines, etc., are contraindicated, or should be used with caution, in patients with a history of psychosis, as they consistently exacerbate the symptoms of schizophrenic disorders. A, B, D-F These drugs are not contraindicated in Parkinson patients with a history of psychosis.",
+   "source": "Pharmacology III-7 Q22",
+   "topic": "Medium",
+   "topic_n": 8
+  },
+  {
+   "question": "A 62-year-old woman with Parkinson disease had been receiving levodopa/carbidopa combination therapy. Coadministration of which of the following drugs would most likely increase the availability of levodopa in the patient’s brain?",
+   "choices": [
+    "Benztropine",
+    "Bromocriptine",
+    "Entacapone",
+    "Haloperidol",
+    "Pramipexole"
+   ],
+   "answer": 2,
+   "explanation": "Entacapone is a peripheral inhibitor of catechol-O-methyltransferase (COMT). Substrates of the enzyme are levodopa and catecholamines. In the presence of a decarboxylase inhibitor (e.g., carbidopa), COMT becomes the major metabolizing enzyme for levodopa, which is transformed into 3-O-methyldopa in the gut and the liver. By inhibiting the enzyme, entacapone causes the following actions: * More levodopa becomes available for active transport into the central nervous system (CNS). * Less 3-O-methyldopa can compete with levodopa for active transport into the CNS. A, C-E These drugs do not alter the amount of levodopa in the patient’s brain.",
+   "source": "Pharmacology III-7 Q23",
+   "topic": "Medium",
+   "topic_n": 9
+  },
+  {
+   "question": "A 68-year-old patient was recently diagnosed with Parkinson disease. His medical history included benign prostatic hyperplasia for 2 years and chronic constipation for 5 years. Which of the following antiparkinson drugs would be contraindicated for this patient?",
+   "choices": [
+    "Entacapone",
+    "Pramipexole",
+    "Levodopa",
+    "Amantadine",
+    "Selegiline",
+    "Benztropine"
+   ],
+   "answer": 5,
+   "explanation": "Anticholinergic drugs such as benztropine are sometimes used in Parkinson disease but are contraindicated in case of prostatic hypertrophy, because they decrease the contraction of the detrusor muscle, and in the case of chronic constipation, as they decrease intestinal peristalsis. In addition, they are relatively contraindicated in elderly individuals (see the patient’s age) because the risk of their central adverse effects increases with age. A, C-F See correct answer explanation. _ Answers and Explanations: Ill-7 Drugs for Degenerative Disorders of the Central Nervous System",
+   "source": "Pharmacology III-7 Q24",
+   "topic": "Easy",
+   "topic_n": 14
+  },
+  {
+   "question": "A 74-year-old man who had been suffering from Parkinson disease for 4 years complained of a purplish red mottling of the skin that began on his thighs and spread to his lower legs. The eruption appeared 2 weeks after a drug was added to his therapeutic regimen. A diagnosis of livedo reticularis was made. Which of the following drugs most likely caused this skin eruption?",
+   "choices": [
+    "Pramipexole",
+    "Levodopa",
+    "Carbidopa",
+    "Amantadine",
+    "Selegiline"
+   ],
+   "answer": 3,
+   "explanation": "Livedo reticularis can occur in up to 80% of patients taking amantadine and usually clears within 1 month after drug withdrawal. The disorder is believed to be caused by local release of catecholamines that can cause vasoconstriction. A-C, E, F These drugs do not cause livedo reticularis.",
+   "source": "Pharmacology III-7 Q25",
+   "topic": "Easy",
+   "topic_n": 15
+  },
+  {
+   "question": "A 63-year-old woman complained to her physician of frequent palpitations. The woman, recently diagnosed with Parkinson disease, had been receiving levodopa/carbidopa for 3 weeks. Subsequent exams led to the diagnosis of sinus tachycardia likely due to the antiparkinson therapy. Which of the following actions most likely mediate the adverse effect reported by the patient?",
+   "choices": [
+    "Decreased acetylcholine release from cholinergic terminals",
+    "Activation of cardiac B receptors oS Blockade of cardiac M, receptors",
+    "Activation of cardiac dopamine receptors",
+    "Increased sympathetic firing from the vasomotor center"
+   ],
+   "answer": 1,
+   "explanation": "A variety of cardiac arrhythmias have been described in patients receiving levodopa. Like all levodopa-induced effects, they are due to dopamine that can activate cardiac B, and B, adrenoceptors. Concomitant administration of carbidopa reduces the likelihood of these effects, but arrhythmias are sometimes reported in patients receiving levodopa/carbidopa, as in this case. A There are no dopamine receptors in the heart that modulate cardiac rhythm. B, D, E Dopamine does not cause these actions.",
+   "source": "Pharmacology III-7 Q26",
+   "topic": "Medium",
+   "topic_n": 10
+  },
+  {
+   "question": "A 72-year-old woman recently diagnosed with Alzheimer disease started a pharmacotherapy with donepezil. Which of the following sets of adverse effects most likely occurred during the first days of treatment?",
+   "choices": [
+    "Hypertension, palpitations",
+    "Nausea, vomiting and diarrhea",
+    "Dry mouth, anhidrosis",
+    "Drowsiness, lethargy"
+   ],
+   "answer": 1,
+   "explanation": "The drugs most frequently used in Alzheimer disease are cholinesterase inhibitors, such as donepezil and rivastigmine. Although these drugs preferentially inhibit acetylcholinesterase in the central nervous system, they can cause most of the adverse effects shared by all cholinergic drugs, which are due to the activation of cholinergic receptors. Effects affecting the gastrointestinal tract (nausea, vomiting, and diarrhea) occur in about 15% of patients taking the drug. A, C-E These effects are usually caused by antimuscarinic, not cholinergic, drugs.",
+   "source": "Pharmacology III-7 Q27",
+   "topic": "Easy",
+   "topic_n": 16
+  },
+  {
+   "question": "A 74-year-old woman presented to her neurologist complaining of a recent appearance of involuntary, slow movements involving her trunk and lower extremities. The woman, suffering from Parkinson disease, had been receiving levodopa/carbidopa for 3 years. Further exams led to the diagnosis of levodopa-induced dyskinesias. Which of the following drugs could be added to the therapy to decrease the patient’s dyskinesias?",
+   "choices": [
+    "Selegiline",
+    "Amantadine",
+    "Entacapone",
+    "Pramipexole",
+    "Phenelzine"
+   ],
+   "answer": 1,
+   "explanation": "Dyskinesias are frequent adverse effects of long-term therapy with levodopa or dopamine agonists. The effects are dose- and time-dependent; dyskinesias occur in most patients receiving levodopa therapy for long periods of time. Amantadine is useful for suppressing levodopa-induced dyskinesias, and its effect is thought to be due to blockade of N-methyl-p-aspartate (NMDA) receptors. Dyskinesias caused by dopaminergic drugs are different from the movement disorders caused by Parkinson disease where tremor, bradykinesia, and akinesia are the prevalent symptoms. However, it is worth noting that even drugs that block dopamine receptors (i.e., neuroleptics) can cause dyskinesias. Because levodopa-induced dyskinesias may be triggered when the level of the drug is rising or falling, the mechanism of the effect may be related to an unequal distribution of striatal dopamine. worsen, not decrease, E These drugs would A-C, dyskinesias. 161",
+   "source": "Pharmacology III-7 Q28",
+   "topic": "Medium",
+   "topic_n": 11
+  },
+  {
+   "question": "A 78-year-old man had been showing increasing memory impairment and recognition deficits over the past 2 years. Recently, he became disoriented and confused at night. Physical examination revealed an alert person oriented to place with no focal neurologic deficits. His physician prescribed a drug that might help to slow the progression of his symptoms. Which of the following drugs would be appropriate for this patient?",
+   "choices": [
+    "Rivastigmine",
+    "Physostigmine",
+    "Haloperidol",
+    "Buspirone",
+    "Diazepam"
+   ],
+   "answer": 0,
+   "explanation": "The man was most likely in the early stages of Alzheimer disease (AD). He displayed several symptoms associated with dementia, including impaired reasoning (recognition deficits), loss of memory, confusion, and disorientation. A major approach to the treatment of AD has involved the attempt to augment the cholinergic function in the brain, because a loss of cholinergic neurons is a prominent feature of the disease. Donepezil, rivastigmine, and galantamine are cholinesterase inhibitors approved for treatment of AD. A, B, D Sedative and neuroleptic drugs are usually contraindicated in dementias. E Physostigmine is a cholinesterase inhibitor that can enter the brain but is not used in dementias because of its frequent and often serious adverse effects.",
+   "source": "Pharmacology III-7 Q29",
+   "topic": "Medium",
+   "topic_n": 12
+  },
+  {
+   "question": "A 64-year-old man with Parkinson disease complained of periods of a few minutes of complete immobility, followed by a sudden switch to involuntary movements, such as twitching, nodding, and jerking. The patient’s current medications included levodopa/carbidopa. To reduce these rapid fluctuations, the neurologist reduced the daily dose of levodopa/carbidopa and added a drug. Which of the following drugs was most likely prescribed?",
+   "choices": [
+    "Benztropine",
+    "Pramipexole a Fluoxetine",
+    "Haloperidol",
+    "Amantadine"
+   ],
+   "answer": 1,
+   "explanation": "The patient is most likely suffering from the on-off phenomenon, in which off periods of marked akinesia alternate over the course of a few hours with on periods of improved mobility and marked dyskinesia. These response fluctuations can be decreased by adjunctive drugs, including dopamine agonists such as pramipexole, catechol-O-methyltransferase (COMT) inhibitors such as entacapone, and, in some cases, selegiline. A-C, E These drugs are not useful to improve response fluctuations.",
+   "source": "Pharmacology III-7 Q30",
+   "topic": "Medium",
+   "topic_n": 13
+  },
+  {
+   "question": "A 48-year-old woman complained to her physician that the drugs she was taking caused a disturbing nausea. Medication presently taken by the patient included omeprazole for heartburn and ciprofloxacin for a urinary tract infection. One week earlier, the woman was diagnosed with Parkinson disease and started an appropriate treatment. The physician advised the patient to take the drug in divided doses immediately after meals and said that the effect should subside in a few days. Which of the following drugs most likely caused the patient’s nausea?",
+   "choices": [
+    "Ciprofloxacin",
+    "Carbidopa",
+    "Pramipexole",
+    "Benztropine",
+    "Omeprazole"
+   ],
+   "answer": 2,
+   "explanation": "Pramipexole is a dopamine D, receptor agonist often used as the starting therapy for Parkinson disease, mainly in patients younger than 60. All dopamine D, receptor agonists, as well as levodopa, can cause nausea and vomiting. When levodopa is given alone, nausea and vomiting occur in about 80% of cases. Levodopa plus carbidopa, or D, receptor agonists, cause nausea and vomiting in about 15 to 25% of cases. The effect is most likely mediated by the activation of D, receptors in the chemoreceptor trigger zone and nucleus of the tractus solitarius, two centers located in the brainstem that send signals to the vomiting center. Fortunately, tolerance to the nauseant effects develops in many patients. A, B, D, E These drugs cause nausea in less than 5% of cases.",
+   "source": "Pharmacology III-7 Q31",
+   "topic": "Medium",
+   "topic_n": 14
+  }
+ ]
+}

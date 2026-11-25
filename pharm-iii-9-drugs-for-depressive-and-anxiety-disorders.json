@@ -1,0 +1,517 @@
+{
+ "questions": [
+  {
+   "question": "A drug with pronounced anticholinergic properties",
+   "choices": [
+    "Fluoxetine",
+    "Amitriptyline",
+    "Citalopram",
+    "Mirtazapine",
+    "Phenelzine",
+    "Bupropion",
+    "Selegiline",
+    "Venlafaxine",
+    "Trazodone"
+   ],
+   "answer": 1,
+   "explanation": "Matching question; the book prints only the answer key for matching sets (key: A).",
+   "source": "Pharmacology III-9 Q1",
+   "topic": "Easy",
+   "topic_n": 1
+  },
+  {
+   "question": "Anonselective monoamine oxidase inhibitor",
+   "choices": [
+    "Fluoxetine",
+    "Amitriptyline",
+    "Bupropion",
+    "Trazodone",
+    "Mirtazapine",
+    "Phenelzine",
+    "Venlafaxine",
+    "Citalopram",
+    "Selegiline"
+   ],
+   "answer": 5,
+   "explanation": "Matching question; the book prints only the answer key for matching sets (key: F).",
+   "source": "Pharmacology III-9 Q2",
+   "topic": "Easy",
+   "topic_n": 2
+  },
+  {
+   "question": "An active metabolite of this drug has a half-life of about 10 days.",
+   "choices": [
+    "Trazodone",
+    "Selegiline",
+    "Mirtazapine",
+    "Venlafaxine",
+    "Citalopram",
+    "Amitriptyline",
+    "Fluoxetine",
+    "Bupropion",
+    "Phenelzine"
+   ],
+   "answer": 6,
+   "explanation": "Matching question; the book prints only the answer key for matching sets (key: D).",
+   "source": "Pharmacology III-9 Q3",
+   "topic": "Easy",
+   "topic_n": 3
+  },
+  {
+   "question": "This drug can prolong the electrocardiogram QT interval.",
+   "choices": [
+    "Fluoxetine",
+    "Bupropion",
+    "Venlafaxine",
+    "Phenelzine",
+    "Mirtazapine",
+    "Trazodone",
+    "Selegiline",
+    "Citalopram",
+    "Amitriptyline"
+   ],
+   "answer": 8,
+   "explanation": "Matching question; the book prints only the answer key for matching sets (key: A).",
+   "source": "Pharmacology III-9 Q4",
+   "topic": "Easy",
+   "topic_n": 4
+  },
+  {
+   "question": "Aserotonin 5-HT,, presynaptic receptor blocker",
+   "choices": [
+    "Mirtazapine",
+    "Selegiline",
+    "Amitriptyline",
+    "Citalopram",
+    "Bupropion",
+    "Fluoxetine",
+    "Venlafaxine",
+    "Phenelzine",
+    "Trazodone"
+   ],
+   "answer": 8,
+   "explanation": "Matching question; the book prints only the answer key for matching sets (key: H).",
+   "source": "Pharmacology III-9 Q5",
+   "topic": "Easy",
+   "topic_n": 5
+  },
+  {
+   "question": "A 43-year-old man recently diagnosed with major depressive disorder started a pharmacotherapy with an antidepressant drug. Which of the following is most likely the common mechanism underlying the therapeutic effectiveness of long-term therapy with most antidepressants drugs?",
+   "choices": [
+    "Upregulation of central postsynaptic adrenoceptors",
+    "Decreased hippocampal neurogenesis",
+    "Increased expression of brain-derived neurotrophic factor",
+    "Increased glutamatergic transmission",
+    "Inhibition of central monoamine metabolism"
+   ],
+   "answer": 2,
+   "explanation": "A leading hypothesis of depression suggests that the disease is associated with a loss of neurotrophic support in cortical areas, such as the hippocampus. The nerve growth factors, such as brain-derived neurotrophic factor (BDNF), are critical for this neurotrophic support, that is, for the regulation of neural plasticity and neurogenesis. All drugs used to treat depression share, at some level, primary effects on serotonergic Answers and Explanations: Ill-9 Drugs for Depressive and Anxiety Disorders and/or noradrenergic neurotransmission, as chronic treatment with these drugs increases the availability of central serotonin and/or norepinephrine. Compelling evidence suggests that sustained signaling via these neurotransmitters increases the expression of specific downstream gene products, particularly BDNF. This appears to be the ultimate mechanism of action of antidepressants. A Monoamine oxidase inhibitors, but not other antidepressants, inhibit monoamine metabolism. B Actually, downregulation, not upregulation, of central adrenoceptors was an earlier hypothesis of the mechanism of action of antidepressants. D According to the neurotrophic hypothesis, antidepressants should increase, not decrease, hippocampal neurogenesis. E Actually, some studies suggest that glutamate antagonists, not agonists, could have a role as antidepressants.",
+   "source": "Pharmacology III-9 Q6",
+   "topic": "Medium",
+   "topic_n": 1
+  },
+  {
+   "question": "A 55-year-old man suffering from severe depression was brought to the emergency department after an overdose of an unknown medication. Physical examination showed a lethargic patient with dilated pupils. Vital signs were blood pressure 95/55 mm Hg, heart rate 130 bpm, respirations 10/min. An electrocardiogram (ECG) showed tachycardia with wide QRS complex. Which of the following drugs most likely caused the patient’s signs and symptoms?",
+   "choices": [
+    "Phenelzine",
+    "Bupropion",
+    "Sertraline",
+    "Lithium",
+    "Amitriptyline SEE Te Clonazepam"
+   ],
+   "answer": 4,
+   "explanation": "The history and signs of the patient suggest that he took a toxic dose of a tricyclic antidepressant. These drugs have pronounced antimuscarinic activity (mydriasis and tachycardia) and antiadrenergic activity (low blood pressure) and prolong the QT interval on ECG by a quinidine-like action. A-D, F Poisoning by these drugs does not cause all the signs exhibited by the patient.",
+   "source": "Pharmacology III-9 Q7",
+   "topic": "Medium",
+   "topic_n": 2
+  },
+  {
+   "question": "A 45-year-old woman complained of dizziness to the point of fainting upon standing. She also felt drowsy for most of the day. The patient had been admitted to a hospital psychiatric unit 2 weeks earlier because of her third episode of major depressive disorder. She had been receiving an antidepressant therapy for the past 10 days. Which of the following drugs most likely caused the patient’s symptoms?",
+   "choices": [
+    "Paroxetine",
+    "Venlafaxine 7am we OM > Lithium",
+    "Mirtazapine",
+    "Bupropion",
+    "Amitriptyline"
+   ],
+   "answer": 4,
+   "explanation": "Amitriptyline is a tricyclic antidepressant drug. All tricyclic antidepressants block «,-adrenoceptors and therefore can cause postural hypotension, especially during the first week of treatment. Drowsiness is another common adverse effect, most likely due to central muscarinic and histaminic receptor blockade. At least partial tolerance usually develops to autonomic effects, so the symptoms tend to diminish over time. A, B, D-F These drugs very rarely cause postural hypotension.",
+   "source": "Pharmacology III-9 Q8",
+   "topic": "Medium",
+   "topic_n": 3
+  },
+  {
+   "question": "A 48-year-old man recently diagnosed with generalized anxiety disorder started an appropriate therapy with a drug that acts by increasing the availability of both norepinephrine and serotonin in the synaptic cleft of central nervous system neurons. Which of the following drugs was most likely prescribed?",
+   "choices": [
+    "Venlafaxine",
+    "Citalopram",
+    "Amitriptyline",
+    "Bupropion",
+    "Lorazepam"
+   ],
+   "answer": 0,
+   "explanation": "Venlafaxine is currently a first-line agent for anxiety disorders. The drug blocks both norepinephrine and serotonin transporters. The resulting decreased reuptake of these neurotransmitters increases their availability in the synaptic cleft of central nervous system neurons. The relationship between this molecular mechanism of action and the therapeutic efficacy of the drug in anxiety disorders is still uncertain, but contemporary hypotheses implicate dysregulation of adrenergic and/or serotonergic systems in chronic anxiety. A Tricyclic antidepressants such as amitriptyline also block monoamine transporters, but they are not used as antianxiety agents. B Citalopram blocks the serotonin transporter but not the norepinephrine transporter. D Benzodiazepines such as lorazepam do not alter monoamine reuptake. E, F These drugs block only norepinephrine transporter (bupropion) or serotonin transporter (trazodone) and are not used as antianxiety agents.",
+   "source": "Pharmacology III-9 Q9",
+   "topic": "Medium",
+   "topic_n": 4
+  },
+  {
+   "question": "A 33-year-old woman visited a psychiatrist for what she described as a very disturbing problem. The woman, who delivered a healthy boy 1 month earlier, was distraught by recurrent intrusive thoughts about stabbing her baby. After further questioning, the psychiatrist made a preliminary diagnosis and prescribed cognitive behavioral therapy and a pharmacotherapy. A drug with which of the following molecular mechanisms of action would be appropriate for this patient?",
+   "choices": [
+    "Blockade of B receptors",
+    "Inhibition of serotonin transporter",
+    "Inhibition of monoamine oxidase A",
+    "Inhibition of norepinephrine transporter",
+    "Blockade of serotonergic receptors"
+   ],
+   "answer": 1,
+   "explanation": "The patient’s symptoms indicate that she was most likely suffering from an obsessive-compulsive disorder. Drugs that inhibit the serotonin transporter have been shown to be effective in obsessive-compulsive disorders. Classes of drugs able to act with this mechanism are SSRIs, serotonin-norepinephrine reuptake inhibitors (SNRIs), and tricyclic antidepressants. SSRIs are currently considered first-line treatment for obsessive-compulsive disorders. Tricyclic antidepressants (mainly clomipramine) are used as second-choice drugs. A, B, D, E See correct answer explanation.",
+   "source": "Pharmacology III-9 Q10",
+   "topic": "Easy",
+   "topic_n": 6
+  },
+  {
+   "question": "A 75-year-old woman recently diagnosed with pancreatic cancer was sent by her family physician to a psychiatrist because she complained of significant weight loss, forgetfulness, initial insomnia, and sadness. She also reported that she was discouraged, fearful, and very anxious and that sometimes she experienced sweating with a racing heart. The woman had been suffering from paroxysmal atrial tachycardia for 5 years. Considering the clinical picture and side effect profiles, which of the following would be an appropriate therapeutic regimen for addressing these complaints?",
+   "choices": [
+    "Imipramine and chlorpromazine",
+    "Haloperidol and buspirone",
+    "Paroxetine and zaleplon",
+    "Fluphenazine and lithium",
+    "Amitriptyline and bupropion"
+   ],
+   "answer": 2,
+   "explanation": "The patient’s symptoms suggest that she was suffering from depression and anxiety, likely because of the tumor diagnosis. Pancreatic carcinoma is a type of cancer most frequently associated with depressive symptoms. Because the patient is elderly and had been suffering from an arrhythmia, tricyclic antidepressants are contraindicated. Selective serotonin reuptake inhibitors (SSRIs) such as paroxetine are best suited for depressed patients of older age with considerable attendant anxiety, as in this case. Because the patient was suffering from initial insomnia, a short-acting hypnotic such as zaleplon taken before bedtime is appropriate, as SSRIs may cause insomnia. A, B See correct answer explanation. D, E Neuroleptics are devoid of antidepressive properties.",
+   "source": "Pharmacology III-9 Q11",
+   "topic": "Hard",
+   "topic_n": 1
+  },
+  {
+   "question": "A 54-year-old woman complained to her physician of dizziness and vertigo when standing up rapidly. She had a long history of recurrent major depressive disorder and had taken various antidepressant drugs over the past several years. Recently, her psychiatrist decided to prescribe imipramine. Which of the following receptors most likely mediated the adverse effects of the drug in this patient?",
+   "choices": [
+    "5-HT, serotonergic",
+    "Nn cholinergic",
+    "Beta-1 adrenergic",
+    "Alpha-1 adrenergic",
+    "M, cholinergic",
+    "H, histaminergic"
+   ],
+   "answer": 3,
+   "explanation": "The patient’s symptoms indicate that she was most likely suffering from postural hypotension. Tricyclic antidepressants such as imipramine can cause several adverse effects due to blockade of some autonomic receptors. Blockade of a, adrenoceptors can result in substantial postural hypotension. A-C, E, F See correct answer explanation.",
+   "source": "Pharmacology III-9 Q12",
+   "topic": "Medium",
+   "topic_n": 5
+  },
+  {
+   "question": "A 25-year-old woman visited a psychiatrist because she felt very anxious when she had to eat or drink in public. She acknowledged that her ideas of being watched by others were irrational, but she could not get beyond them. She also realized that alcohol helped her cope with her anxiety, and she had started drinking two or three glasses of brandy every day. After further questioning, a preliminary diagnosis was made, and cognitive behavioral therapy was prescribed, together with a pharmacological treatment. Which of the following drugs would be appropriate for this patient?",
+   "choices": [
+    "Paroxetine",
+    "Fluphenazine",
+    "Haloperidol",
+    "Diazepam",
+    "Bupropion",
+    "Zolpidem"
+   ],
+   "answer": 0,
+   "explanation": "The patient was most likely suffering from a social anxiety disorder (SAD). Several trials have provided evidence of the efficacy of pharmacotherapy with selective serotonin reuptake inhibitors (SSRIs) or serotonin-norepinephrine reuptake inhibitors (SNRIs) in SADs. Approximately one fifth of patients with SAD also suffer from an alcohol use disorder, as in this case. Paroxetine significantly reduces social anxiety and decreases the frequency of alcohol use in patients with both disorders. A Benzodiazepines such as diazepam should be reserved as last-line agents in patients with SAD. B-D, F These drugs are not effective in SAD.",
+   "source": "Pharmacology III-9 Q13",
+   "topic": "Hard",
+   "topic_n": 2
+  },
+  {
+   "question": "A 56-year-old woman with a long history of major depressive disorder was brought unconscious to the emergency department after her husband discovered she had taken several pills of amitriptyline in a suicide attempt. Which of the following symptoms did the patient most likely show?",
+   "choices": [
+    "Hypertension",
+    "Pale skin",
+    "Hyperpnea",
+    "Mydriasis",
+    "Bradycardia",
+    "Fecal incontinence"
+   ],
+   "answer": 3,
+   "explanation": "Tricyclic antidepressant poisoning may produce any of three major toxic syndromes: * Anticholinergic syndrome: sedation, delirium, tachycardia, mydriasis, dry mucous membranes, hyperthermia, constipation, and urinary retention * Cardiovascular syndrome: hypotension, sinus tachycardia with prolongation of QT intervals, torsade de pointes (rare). Bradyarrhythmias (various degrees of atrioventricular block) can occur in severe poisoning and carry a poor prognosis. They are due to the quinidine-like activity common to all tricyclic antidepressants, which can severely impair cardiac conduction. * Convulsing syndrome: seizures may be recurrent or persistent. Depending on the dose, patients may experience some or all of these toxic effects. The patient’s coma indicates that the poisoning was severe and most likely included all three toxic syndromes. A-E Tricyclic antidepressants tend to cause symptoms opposite to those listed.",
+   "source": "Pharmacology III-9 Q14",
+   "topic": "Medium",
+   "topic_n": 6
+  },
+  {
+   "question": "A 52-year-old woman complained to her physician that the drug she was taking caused diarrhea. The woman, recently diagnosed with social anxiety disorder, had started a therapy with paroxetine 2 week earlier. Which of the following molecular actions in the enteric nervous system most likely mediated the adverse effect of this drug?",
+   "choices": [
+    "Activation of B, receptors",
+    "Activation of GABA, receptors",
+    "Increased adrenergic activity",
+    "Increased serotonergic activity",
+    "Decreased histaminergic activity",
+    "Blockade of M, receptors"
+   ],
+   "answer": 3,
+   "explanation": "By blocking serotonin reuptake, selective serotonin reuptake inhibitors (SSRIs) such as paroxetine increase serotonin availability at serotonergic synapses in both the central and enteric nervous systems. Serotonin activation of serotonin receptors (mainly 5-HT,,) is known to increase intestinal peristalsis, thus causing diarrhea, which occurs in up to 20% of patients taking SSRIs. A, C-F Paroxetine does not cause these actions. Moreover, all of these actions would lead to constipation, not diarrhea.",
+   "source": "Pharmacology III-9 Q15",
+   "topic": "Easy",
+   "topic_n": 7
+  },
+  {
+   "question": "A 37-year-old man complained to his physician of persistent, intolerable pain in his left leg that started about 2 days earlier. He reported that he had tried several over-the-counter pain medications without success. One month earlier, the patient underwent the amputation of his left leg following an accident at work. Physical examination revealed that pain could be elicited by a nonnoxious stimulus applied to the region of amputation. The physician made a preliminary diagnosis and prescribed a drug for pain. Which of the following drugs would be appropriate for this patient?",
+   "choices": [
+    "Phenobarbital",
+    "Acetaminophen",
+    "Diazepam",
+    "Clozapine",
+    "Lithium",
+    "Venlafaxine"
+   ],
+   "answer": 5,
+   "explanation": "The patient’s history and symptoms suggest he was suffering from chronic phantom limb pain, a pain that is referred to a limb that no longer exists. Phantom limb pain is a type of neuropathic pain, which is caused by damage to neural structures. Unlike nociceptive pain, which is effectively alleviated by nonsteroidal antiinflammatory drugs (NSAIDs) and opioids, neuropathic pain often responds poorly to these drugs but is relieved by antidepressants, including tricyclic antidepressants and SNRIs. Phantom limb pain is sometimes very difficult to treat, but venlafaxine and duloxetine are often effective and are the drugs most frequently used. They are equivalent to tricyclics but have the substantial advantage of fewer adverse effects. A-C, E, F These drugs are all minimally or not effective in antineuropathic pain.",
+   "source": "Pharmacology III-9 Q16",
+   "topic": "Medium",
+   "topic_n": 7
+  },
+  {
+   "question": "A 41-year-old man recently diagnosed with major depressive disorder complained to his psychiatrist that he felt drowsy for most of the day. The patient had started a treatment with paroxetine 2 months earlier, but his depressive symptoms were minimally improved. One week ago, his psychiatrist decided to shift to another antidepressant and prescribed a drug that acts by increasing the availability of both norepinephrine and serotonin in the synaptic cleft of central nervous system neurons. Which of the following drugs was most likely prescribed?",
+   "choices": [
+    "Sertraline",
+    "Bupropion",
+    "Citalopram",
+    "Amitriptyline",
+    "Trazodone"
+   ],
+   "answer": 3,
+   "explanation": "Amitriptyline is a tricyclic antidepressant drug. Drugs from this class are the most powerful inhibitors of norepinephrine and serotonin reuptake into presynaptic terminals. The resulting increased availability of those neurotransmitters in the synaptic cleft most likely mediates their antidepressant properties. Amitriptyline can cause hypersomnia in up to 88% of patients taking the drug. B Trazodone can exert a weak blockade on serotonin reuptake but has no effect on norepinephrine reuptake. C Bupropion can exert a weak blockade on norepinephrine reuptake but has no effect on serotonin reuptake. D, E Citalopram and sertraline are selective serotonin reuptake inhibitors.",
+   "source": "Pharmacology III-9 Q17",
+   "topic": "Medium",
+   "topic_n": 8
+  },
+  {
+   "question": "A 43-year-old man went to his physician complaining of difficulty in maintaining an erection during intercourse. Past history of the patient was significant for an episode of ventricular tachycardia 1 year earlier. He was recently diagnosed with major depressive disorder and started a drug treatment 2 weeks ago. Which of the following drugs most likely caused the symptom reported by the patient?",
+   "choices": [
+    "Chlorpromazine",
+    "Lithium",
+    "Fluoxetine",
+    "Bupropion",
+    "Mirtazapine",
+    "Amitriptyline"
+   ],
+   "answer": 2,
+   "explanation": "Most antidepressants can cause sexual dysfunction, but its incidence seems the highest with SSRIs/SNRIs (mainly paroxetine and fluoxetine) and the lowest with bupropion and mirtazapine. Sexual dysfunction seems to be primarily related to the increased activity of the central serotonergic system, as serotonin is mainly an inhibitory neurotransmitter in the central nervous system. A, E, F Lithium, bupropion, and mirtazapine rarely cause sexual dysfunction. B Tricyclic antidepressants such as amitriptyline frequently cause sexual dysfunction but are contraindicated in this patient because they can cause cardiac arrhythmias in patients at risk (patients with a previous episode of ventricular arrhythmia have a very high risk of recurrent arrhythmia). D Chlorpromazine is not used for depressive disorder and may cause arrhythmias in patients at risk.",
+   "source": "Pharmacology III-9 Q18",
+   "topic": "Medium",
+   "topic_n": 9
+  },
+  {
+   "question": "A 53-year-old woman with a long history of depression was admitted to the hospital because of agitation, insomnia, and tremors. She had been taking fluoxetine, lorazepam, and mirtazapine for several months. The doses of fluoxetine and mirtazapine had just been increased. Physical examination",
+   "choices": [
+    "Brain glioblastoma",
+    "Mirtazapine overdose",
+    "See Race Cerebral hemorrhage",
+    "Benzodiazepine abstinence syndrome",
+    "showed a confused patient with hyperhidrosis, hyperreflexia, and myoclonus but without focal neurologic deficits. Vital signs were blood pressure 105/60 mm Hg, heart rate 130 bpm, respirations 32/min, body temperature 103.8°F (39.8°C). Qualitative plasma tests for alcohol, opioids, benzodiazepines, and tricyclic antidepressants were negative. An electrocardiogram indicated sinus tachycardia. A brain computed tomography scan was normal. Which of the following disorders most likely caused the patient’s signs and symptoms? A. Selective serotonin reuptake inhibitor (SSRI) discontinuation syndrome",
+    "Serotonin syndrome"
+   ],
+   "answer": 5,
+   "explanation": "The history, signs, and symptoms of the patient indicate that she was most likely suffering from serotonin syndrome. This disorder is a rare but potentially fatal interaction that can be caused by several drugs either alone or in combination, when given in high doses. These include antidepressants, opioids, psychostimulants, triptans, psychedelics, and herbs (e.g., St. John’s wort, ginseng, and nutmeg). The combination of two drugs that enhance serotonin transmission (i.e., SSRIs/SNRIs with monoamine oxidase inhibitors or with tricyclic antidepressants) can be particularly dangerous. The syndrome involves mental, autonomic, and neurologic disorders of sudden onset less than 24 hours after the beginning of treatment or of an overdose. For mild cases, discontinuation of the offending drug is the only needed treatment. For more serious cases, therapy includes benzodiazepines for agitation and somatic effects, serotonin antagonists (cyproheptadine) or atypical neuroleptics with serotonin-blocking activity (e.g., olanzapine), B-blockers for tachycardia and autonomic instability, and dantrolene for hyperthermia. A, B, D-F These disorders do not cause the signs and symptoms reported by the patient.",
+   "source": "Pharmacology III-9 Q19",
+   "topic": "Medium",
+   "topic_n": 10
+  },
+  {
+   "question": "A 48-year-old woman visited a psychiatrist because for the past 2 months she had been depressed and was not interested in any of her usual activities, nor did she find anything enjoyable. She was also worried and anxious and felt very sleepy nearly every day. Her medical history was significant for exertional angina for the past 5 years. The psychiatrist made a preliminary diagnosis of major depressive disorder and prescribed cognitive behavioral therapy and a drug treatment. Which of the following drugs would be appropriate for this patient?",
+   "choices": [
+    "Amitriptyline",
+    "Trazodone",
+    "Mirtazapine",
+    "Fluoxetine",
+    "Lithium"
+   ],
+   "answer": 3,
+   "explanation": "When given in equivalent doses, all antidepressants are about equally effective in the general depressed patient population, so the choice of the drug in a specific patient is influenced mainly by the patient’s medical history, the presenting symptoms, and contraindications. Selective serotonin reuptake inhibitors (SSRIs) such as fluoxetine are currently the most used drugs for depression and are especially suited for this patient because of the presence of concomitant symptoms of anxiety. Moreover, in this patient: A Tricyclic antidepressants are contraindicated because of the exertional angina. C, D Trazodone and mirtazapine are not indicated because they have pronounced sedative properties, and the patient is suffering from hypersomnia. E, F Lithium and haloperidol are devoid of antidepressant activity.",
+   "source": "Pharmacology III-9 Q20",
+   "topic": "Medium",
+   "topic_n": 11
+  },
+  {
+   "question": "A 34-year-old man suffering from a major depressive disorder had started a therapy with paroxetine, but 1 month later his symptoms were minimally improved, and his psychiatrist decided to add a drug to the treatment. The prescribed drug has a complex molecular mechanism of action that includes a blockade of presynaptic a, receptors. Which of the following drugs was most likely given?",
+   "choices": [
+    "Clonidine",
+    "Venlafaxine",
+    "Amitriptyline",
+    "Bupropion",
+    "Trazodone",
+    "Mirtazapine"
+   ],
+   "answer": 5,
+   "explanation": "Mirtazapine can block presynaptic a, receptors, thus increasing the release of both norepinephrine and serotonin. In addition, it can also block serotonin (5-HT,, and 5-HT,,) receptors. All of these actions probably contribute to the antidepressant effect. The drug is a second-choice agent in depressive disorders, but sometimes it is highly effective. A-C, E, F See correct answer explanation.",
+   "source": "Pharmacology III-9 Q21",
+   "topic": "Easy",
+   "topic_n": 8
+  },
+  {
+   "question": "A 61-year-old woman came to her psychiatrist’s office for a routine visit. She stated that the drug she was taking improved her depressed mood, but that she was still suffering from sadness and fatigue from time to time and from heavy drowsiness, nearly every day. The woman, recently diagnosed with major depressive disorder, had started fluoxetine 1 month earlier. After further questioning, the psychiatrist decided to add to the therapy a drug that is thought to act by decreasing reuptake of both norepinephrine and dopamine by brain neurons. Which of the following drugs was most likely prescribed?",
+   "choices": [
+    "Lamotrigine",
+    "Lithium",
+    "Bupropion",
+    "Aripiprazole",
+    "Methylphenidate"
+   ],
+   "answer": 2,
+   "explanation": "Because the patient obtained partial relief from fluoxetine therapy, a reasonable next step is to add a second drug to the treatment, rather than changing the antidepressant. Bupropion has been used as augmentation therapy for many years, and its use is supported by several trials. Patients taking fluoxetine who continue to complain of fatigue and hypersomnia are good candidates for bupropion augmentation, as in this case. Bupropion is unique among all currently available antidepressants, as it has negligible activity on serotonin neurotransmission. It most likely acts by enhancing norepinephrine and dopamine activity. B Methylphenidate blocks the reuptake of catecholamines but is not active as an antidepressant. C-E These drugs are sometimes used for antidepressant augmentation therapy, but they act through different mechanisms.",
+   "source": "Pharmacology III-9 Q22",
+   "topic": "Medium",
+   "topic_n": 12
+  },
+  {
+   "question": "A 36-year-old woman presented at an outpatient psychiatric clinic complaining of extreme lethargy and depressed mood more days than not, for the past 5 weeks. On interview she also reported an intense fear of being in confined spaces, and she carefully avoided elevators and traveling by airplane. Her psychiatric history indicated two similar episodes in the past, treated, respectively, with fluoxetine and venlafaxine, but with negligible results. After further questioning, a diagnosis of depression with atypical features was made. A drug was prescribed that acts by inactivating enzymes involved in neurotransmitter metabolism. Which of the following drugs was most likely prescribed?",
+   "choices": [
+    "Entacapone",
+    "Fluoxetine",
+    "Citalopram",
+    "Amitriptyline",
+    "Phenelzine"
+   ],
+   "answer": 4,
+   "explanation": "Phenelzine is a nonselective monoamine oxidase inhibitor (MAOI). These drugs are rarely prescribed today because of frequent adverse effects and the risk of serious drug-drug and drug-food interactions. However, for the treatment of atypical depression, MAOIs are among the most effective agents available and are still prescribed for patients with this depressive subtype, usually after failure of a selective serotonin reuptake inhibitor (SSRI) therapy, as in this case. B Entacapone acts by inhibiting an enzyme involved in neurotransmitter metabolism but is an antiparkinson, not an antidepressant, drug. C-F These antidepressant drugs do not act by enzyme inhibition.",
+   "source": "Pharmacology III-9 Q23",
+   "topic": "Hard",
+   "topic_n": 3
+  },
+  {
+   "question": "A22-year-old man was sent by his physician to a psychiatrist because of the onset of a distressing and embarrassing behavior. For the previous 3 months, the man had being experiencing an irresistible urge to disinfect any object in his room and to wash his hands again and again. He was disturbed by the unreasonable amount of time spent on such activities, and he acknowledged that his behavior was totally inappropriate, but he felt he could not stop it. He denied any substance abuse or use of medications. The psychiatrist made a preliminary diagnosis and prescribed cognitive behavioral therapy and a drug treatment. Which of the following drugs would be most appropriate for this patient?",
+   "choices": [
+    "Diazepam",
+    "Clozapine F.",
+    "Fluoxetine",
+    "Be lopenac",
+    "Amitriptyline"
+   ],
+   "answer": 3,
+   "explanation": "The patient’s symptoms suggest that he is suffering from an obsessive-compulsive disorder. SSRIs are currently firstline agents for obsessive-compulsive disorders, and their effectiveness gives support to the hypothesis that these disorders are due to a dysfunction in central serotonergic transmission. A, B, D-F These drugs have minimal or no efficacy in treating obsessive-compulsive disorders.",
+   "source": "Pharmacology III-9 Q24",
+   "topic": "Medium",
+   "topic_n": 13
+  },
+  {
+   "question": "A 56-year-old man complained to his physician that he felt like he had the flu. He was dizzy, shivering, very irritable, anxious, and nauseated. The man was suffering from a major depressive disorder and had taken paroxetine for 4 months, but 3 days ago he decided to stop the drug, as his depression had been in full remission for the past month. Medical history of the patient was significant for hypertension, presently treated with losartan and hydrochlorothiazide. Which of the following disorders best explains the syndrome reported by the patient?",
+   "choices": [
+    "Serotonin syndrome",
+    "Selective serotonin reuptake inhibitor discontinuation syndrome",
+    "Poorly controlled hypertension",
+    "Paroxetine-hydrochlorotiazide interaction",
+    "Acute depressive relapse",
+    "Paroxetine-losartan interaction"
+   ],
+   "answer": 1,
+   "explanation": "Abrupt discontinuation of SSRIs or SNRIs can cause a variety of symptoms that can be distressing. These include dizziness, nausea and vomiting, flulike symptoms, irritability, and anxiety. Symptoms usually emerge 1 to 3 days after the last dose. Paroxetine and sertraline are most likely to cause the discontinuation syndrome, and they should be tapered over several weeks. A, C-F These disorders do not cause the symptoms reported by the patient.",
+   "source": "Pharmacology III-9 Q25",
+   "topic": "Easy",
+   "topic_n": 9
+  },
+  {
+   "question": "A 54-year-old man was admitted to the hospital because of generalized shaking, jerking movements of the limbs, twitching of the jaw, and clenching of the teeth. The patient had been suffering from gastrointestinal reflux disease for 2 years. Four months ago, he was diagnosed with an obsessive-compulsive disorder and started cognitive behavioral therapy and a pharmacological treatment. Three hours before admission, he took a tablet of metoclopramide given to him by a friend to decrease his heartburn. Which of the following drugs most likely interacted with metoclopramide, thus triggering the adverse effects reported by the patient?",
+   "choices": [
+    "Paroxetine",
+    "Lithium",
+    "Buspirone",
+    "Zolpidem",
+    "Bupropion",
+    "Amitriptyline"
+   ],
+   "answer": 0,
+   "explanation": "The patient’s symptoms indicate that he was suffering from an extrapyramidal adverse effect. SSRIs are inhibitors of the cytochrome P-450 enzymes and can increase the activity of other drugs given concomitantly. Specifically, paroxetine is a potent inhibitor of the CYP2D6 isozyme, which is the main isozyme that metabolizes metoclopramide. Therefore, the dopamine-blocking actions of metoclopramide are enhanced, leading to extrapyramidal effects. Moreover, SSRIs can indirectly affect dopaminergic transmission. In fact, serotonin and dopamine appear to have an inverse relationship in certain areas of the brain, whereby stimulation of central serotonin receptors results in inhibition of dopaminergic transmission. The SSRI-metoclopramide interaction is well known and occurs rapidly, within hours of metoclopramide administration, as in this case. A-C, E, F The interaction of these drugs with metoclopramide is negligible.",
+   "source": "Pharmacology III-9 Q26",
+   "topic": "Hard",
+   "topic_n": 4
+  },
+  {
+   "question": "A 25-year-old woman was admitted to the emergency department because of sudden onset of chest pain, difficulty in breathing, dizziness, and nausea. She described feeling “as if my head is going off in space and I am outside my body.” She stated that she had been under extreme stress lately, working too much, and that a similar episode had occurred, “out of the blue,” 1 month ago. Physical examination and laboratory analyses revealed no abnormalities. A preliminary diagnosis was made, and an appropriate therapy was prescribed. Which of the following drugs would be appropriate for this patient? Zolpidem Ethosuximide Clozapine Haloperidol Sertraline",
+   "choices": [
+    "Zolpidem",
+    "Sertraline",
+    "Clozapine",
+    "Haloperidol",
+    "Ethosuximide"
+   ],
+   "answer": 1,
+   "explanation": "The patient’s symptoms suggest that she was most likely suffering from a panic disorder. The disease responds to a variety of psychotropic drugs, including SSRIs, benzodiazepines, and tricyclic antidepressants. SSRIs/SNRIs are the current first-line agents for the chronic treatment of these disorders. A-D, F These drugs are not effective in treating panic disorders.",
+   "source": "Pharmacology III-9 Q27",
+   "topic": "Hard",
+   "topic_n": 5
+  },
+  {
+   "question": "A 17-year-old girl was admitted to an eating disorder clinic with a 3-month history of binge eating and vomiting and purging episodes occurring from twice per week to four times a day. After physical examination and lab tests, psychotherapy and a drug treatment were prescribed. Which of the following drugs would be appropriate for this patient?",
+   "choices": [
+    "Clozapine",
+    "Diazepam",
+    "Haloperidol",
+    "Fluoxetine",
+    "Phenobarbital",
+    "Lithium"
+   ],
+   "answer": 3,
+   "explanation": "The patient’s history and symptoms indicate that she was affected by bulimia nervosa, a chronic disorder with multiple episodes of relapse and remission that usually occurs in late adolescence. If medications are required, antidepressants are considered drugs of choice for bulimia nervosa. Selective serotonin reuptake inhibitors (SSRIs) are the preferred agents because of their tolerability and because they have been studied in the largest number of patients. B-F These drugs are not effective in treating bulimia nervosa.",
+   "source": "Pharmacology III-9 Q28",
+   "topic": "Medium",
+   "topic_n": 14
+  },
+  {
+   "question": "A 38-year-old man complained to his physician that the drug he was taking was effective in relieving his anxiety but caused a disturbing adverse effect. The patient had been recently diagnosed with a social anxiety disorder and started treatment with venlafaxine 2 weeks ago. Which of the following adverse effects did the patient most likely experience?",
+   "choices": [
+    "Dizziness and vertigo upon standing",
+    "Difficulty in near vision",
+    "Obstinate constipation",
+    "Negligible orgasm during intercourse",
+    "Urge urinary incontinence",
+    "Dry mouth, most of the day"
+   ],
+   "answer": 3,
+   "explanation": "Most antidepressants can cause sexual dysfunction, but its incidence seems the highest with SSRIs/SNRIs. Symptoms of sexual dysfunction in males include erectile dysfunction, priapism, delayed ejaculation, decreased libido, and partial or complete anorgasmia. A, C-F SNRIs do not cause these symptoms.",
+   "source": "Pharmacology III-9 Q29",
+   "topic": "Medium",
+   "topic_n": 15
+  },
+  {
+   "question": "A 54-year-old man was admitted to the hospital with severe lower abdominal discomfort and complete inability to urinate for the past 6 hours. The man reported that he needed",
+   "choices": [
+    "to urinate 5 to 7 times during the previous night. Past history of the patient was significant for hypertension, insomnia, and chronic lower back pain, as well as for recently diagnosed depression. Present medications included lovastatin, losartan, hydrochlorothiazide, amitriptyline, and lorazepam. Which of the drugs most likely triggered the patient’s anuria? A. Losartan",
+    "Hydrochlorotiazide",
+    "Amitriptyline",
+    "Lorazepam",
+    "Lovastatin"
+   ],
+   "answer": 2,
+   "explanation": "The symptoms of the patient indicate that he was suffering from obstructive uropathy, most likely due to prostatic hyperplasia. Drugs with antimuscarinic properties, such as amitriptyline, can precipitate complete anuria in patients with prostatic hyperplasia, as these patients already have a urethral obstruction, and the drug inhibits bladder contraction. A-C, E None of these drugs have antimuscarinic properties.",
+   "source": "Pharmacology III-9 Q30",
+   "topic": "Hard",
+   "topic_n": 6
+  },
+  {
+   "question": "A 67-year-old woman complained to her psychiatrist that the drug she was taking did not improve her depressed mood at all. Three months earlier, the woman had suffered a myocardial infarction, and she had been suffering from a second-degree atrioventricular block since then. Eight days ago, she was diagnosed with a depressive disorder and started an appropriate treatment. The psychiatrist advised the patient to continue the treatment, explaining that the therapeutic effects of the prescribed drug usually take 2 to 3 weeks or more to become evident. Which of the following drugs was the patient most likely taking?",
+   "choices": [
+    "Paroxetine",
+    "Bupropion",
+    "Diazepam",
+    "Phenelzine",
+    "Amitriptyline"
+   ],
+   "answer": 0,
+   "explanation": "The patient most likely started a therapy with a selective serotonin reuptake inhibitor (SSRI), such as paroxetine, drugs that are currently the most commonly used antidepressants. All antidepressant medications have a similar delayed pattern of therapeutic response. Typically, patients are informed that approximately 2 to 6 weeks must elapse before they will experience any therapeutic benefit. However, researchers in the field consider this a conservative estimate, and more rigorous studies have led to the conclusion that patients can exhibit some improvement during the first 2 weeks of treatment and a maximum improvement during the fourth week. Despite a variety of explanations for this delay, there is no consensus, and the exact reason remains unknown. A Tricyclic antidepressants are absolutely contraindicated in patients with atrioventricular block. C Bupropion can cause arrhythmias and can increase blood pressure. Therefore, it should be avoided in a patient with a recent myocardial infarction. D Phenelzine is a nonselective and irreversible monoamine oxidase inhibitor. These drugs should be avoided in patients with cardiovascular diseases. E Benzodiazepines, such as diazepam, are not used as antidepressant drugs.",
+   "source": "Pharmacology III-9 Q31",
+   "topic": "Easy",
+   "topic_n": 10
+  },
+  {
+   "question": "A 21-year-old man was brought semiconscious to the emergency department after he jumped out of a window in a suicide attempt. History revealed that the patient was suffering from Hodgkin lymphoma and had been receiving the third cycle of chemotherapy. One month earlier, he was diagnosed ees, with a depressive disorder and had been taking an appropriate pharmacotherapy since then. Which of the following drugs taken by the patient would be most likely to have increased his risk of suicide?",
+   "choices": [
+    "Vinblastine",
+    "Dacarbazine",
+    "Bleomycin",
+    "Fluoxetine",
+    "Doxorubicin",
+    "Zolpidem"
+   ],
+   "answer": 3,
+   "explanation": "Of these drugs, fluoxetine is thought to be the greatest risk for enhancing suicide potential in patients such as the one described here. All antidepressants have U.S. Food and Drug Administration (FDA) black box warnings, because apparently they increase the risk of suicide during the first 4 weeks of treatment in children and at-risk patients younger than age 24, as in this case. However, the risk of suicide seems to decrease after 12 weeks of therapy. It is worth noting that, despite the FDA’s decision, the issue of antidepressantrelated risk of suicidality remains controversial, because this risk is strongly related to severity of depression in both youths and adults, and long-term antidepressant treatment can decrease depression severity. A Zolpidem is a hypnotic drug, most likely given to the patient because insomnia is a frequent adverse effect of fluoxetine. B-E These drugs are anticancer drugs used to treat Hodgkin lymphoma.",
+   "source": "Pharmacology III-9 Q32",
+   "topic": "Medium",
+   "topic_n": 16
+  }
+ ]
+}

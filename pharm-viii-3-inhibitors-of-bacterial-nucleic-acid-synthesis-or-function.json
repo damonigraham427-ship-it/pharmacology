@@ -1,0 +1,470 @@
+{
+ "questions": [
+  {
+   "question": "A prodrug that requires bacterial activation",
+   "choices": [
+    "Trimethoprim",
+    "Ciprofloxacin",
+    "Sulfamethoxazole",
+    "Metronidazole",
+    "Sulfadiazine"
+   ],
+   "answer": 3,
+   "explanation": "Metronidazole is a prodrug that requires bacterial activation (reduction by anaerobes) to become effective. (Matching key, Questions 1-3: 1. B)",
+   "source": "Pharmacology VIII-3 Q1",
+   "topic": "Easy",
+   "topic_n": 1
+  },
+  {
+   "question": "This drug blocks the last two steps in bacterial tetrahydrofolate biosynthesis",
+   "choices": [
+    "Sulfadiazine",
+    "Sulfamethoxazole",
+    "Metronidazole",
+    "Trimethoprim",
+    "Ciprofloxacin"
+   ],
+   "answer": 3,
+   "explanation": "Trimethoprim blocks the synthesis of tetrahydrofolate by inhibiting dihydrofolate reductase. (Matching key, Questions 1-3: 2. E)",
+   "source": "Pharmacology VIII-3 Q2",
+   "topic": "Easy",
+   "topic_n": 2
+  },
+  {
+   "question": "Resistance to this drug may be due to a change in DNA gyrase",
+   "choices": [
+    "Sulfadiazine",
+    "Trimethoprim",
+    "Ciprofloxacin",
+    "Sulfamethoxazole",
+    "Metronidazole"
+   ],
+   "answer": 2,
+   "explanation": "Resistance to ciprofloxacin may be due to a change in DNA gyrase (topoisomerase II), its target enzyme. (Matching key, Questions 1-3: 3. A)",
+   "source": "Pharmacology VIII-3 Q3",
+   "topic": "Easy",
+   "topic_n": 3
+  },
+  {
+   "question": "An 83-year-old female resident in a nursing facility presented with fever (100.5°F, 38°C), dry cough, and general malaise. Further exams led to the diagnosis of hospital-acquired pneumonia due to Pseudomonas aeruginosa. Treatment was started with a drug that is effective against most gram-negative bacteria, as well as against some mycobacteria, mycoplasmas, chlamydiae, and rickettsiae. Which of the following drugs was most likely given?",
+   "choices": [
+    "Piperacillin",
+    "Ceftazidime",
+    "Erythromycin",
+    "Ciprofloxacin",
+    "Vancomycin"
+   ],
+   "answer": 3,
+   "explanation": "Ciprofloxacin is a fluoroquinolone antibiotic. These drugs have a broad antibacterial spectrum that includes some grampositive bacteria, most gram-negative bacteria, and some mycobacteria, mycoplasmas, chlamydiae, and rickettsiae. A, B Piperacillin and ceftazidime are effective against Pseudomonas aeruginosa but not against mycobacteria, mycoplasmas, chlamydiae, and rickettsiae. D Erythromycin is effective against mycobacteria, mycoplasmas, chlamydiae, and rickettsiae but not against P. aeruginosa and mycobacteria. E Vancomycin is effective only against gram-positive bacteria.",
+   "source": "Pharmacology VIII-3 Q4",
+   "topic": "Easy",
+   "topic_n": 4
+  },
+  {
+   "question": "A 53-year-old woman suffering from a urinary tract infection started a treatment with trimethoprim-sulfamethoxazole. One week later, burning upon urination was still pronounced, and the physician suspected that resistance to sulfamethoxazole had occurred. This resistance was most likely due to which of the following mechanisms?",
+   "choices": [
+    "Decreased activity of the multidrug efflux pump",
+    "Decreased sulfonamides binding to dihydrofolate reductase",
+    "Decreased sulfonamide binding to bacterial ribosomes",
+    "Increased production of para-aminobenzoic acid",
+    "Increased permeability of bacterial cell membrane"
+   ],
+   "answer": 3,
+   "explanation": "Many bacteria originally sensitive to sulfonamides are now resistant. Resistance to trimethoprim-sulfamethoxazole is less frequent than resistance to either of the agents alone, but it still occurs in several cases. When resistance develops, it is usually persistent and irreversible. Mechanisms of resistance to sulfonamides are * Decreased affinity for sulfonamides by dihydropteroate synthetase Decreased bacterial permeability to the drug Increased production of para-aminobenzoic acid (PABA). For example, some resistant staphylococci may synthesize 70 times as much PABA as do the susceptible parental strains. A, E These mechanisms would increase, not decrease, the bacterial sensitivity to sulfonamides. B Sulfonamides do not act by binding to bacterial ribosomes. D Sulfonamides do not act by binding to dihydrofolate reductase.",
+   "source": "Pharmacology VIII-3 Q5",
+   "topic": "Medium",
+   "topic_n": 1
+  },
+  {
+   "question": "A 59-year-old man complained to his physician that his skin itched all over his body. Two weeks earlier, he had begun oral antibiotic therapy for acute pharyngitis. Physical examination showed a diffuse maculopapular rash. Which of the following drugs most likely caused the patient's dermatitis?",
+   "choices": [
+    "Aztreonam",
+    "Piperacillin",
+    "Trimethoprim-sulfamethoxazole",
+    "Vancomycin",
+    "Gentamicin"
+   ],
+   "answer": 2,
+   "explanation": "The patient’s history and symptoms suggest that he had an allergic reaction to trimethoprim-sulfametoxazole. Rash is acommon adverse effect associated with sulfonamide use and is most frequently due to hypersensitivity. Moreover, Bacterial Nucleic Acid Synthesis of trimethoprim-sulfamethoxazole has been reported to cause dermatologic reactions as do sulup to three times as many fonamides alone. drugs are not currently used to treat acute A, B, D, E These pharyngitis, and they are not given orally. objective: Describe the adverse effects of fluoroLearning quinolones. E Fluoroquinolones have been associated with an increased 7. risk of tendon rupture that can occur even after short-term use of these drugs. This adverse effect has been officially reported in literally hundreds of patients. The mechanism of this action seems related to a direct cytotoxic effect of the drug on the ligament tissue. In fact, in vitro exposure of tendon tissue to ciprofloxacin resulted in a decrease in fibroblast proliferation, a decrease in collagen synthesis, and a significant increase in matrix-degrading proteolytic activity. A-D These drugs do not cause tendon rupture.",
+   "source": "Pharmacology VIII-3 Q6",
+   "topic": "Medium",
+   "topic_n": 2
+  },
+  {
+   "question": "A 50-year-old obese man complained to his physician of a sharp pain in his left calf. Medical history indicated that 1 week ago he had started an antibiotic treatment for acute prostatitis. Further exams led to the diagnosis of Achilles tendon rupture. Which of the following drugs most likely led to the patient's leg pain?",
+   "choices": [
+    "Doxycycline",
+    "Ceftriaxone",
+    "Ciprofloxacin",
+    "Ampicillin",
+    "Erythromycin"
+   ],
+   "answer": 2,
+   "explanation": "Fluoroquinolones have been associated with an increased risk of tendon rupture that can occur even after short-term use of these drugs. This adverse effect has been officially reported in literally hundreds of patients. The mechanism of this action seems related to a direct cytotoxic effect of the drug on the ligament tissue. In fact, in vitro exposure of tendon tissue to ciprofloxacin resulted in a decrease in fibroblast proliferation, a decrease in collagen synthesis, and a significant increase in matrix-degrading proteolytic activity. A-D These drugs do not cause tendon rupture.",
+   "source": "Pharmacology VIII-3 Q7",
+   "topic": "Easy",
+   "topic_n": 5
+  },
+  {
+   "question": "A 46-year-old woman with a long history of recurrent urinary tract infection complained to her physician of burning on urination and bladder pain. The woman used antacids from time to time to treat annoying heartburn. The physician prescribed ciprofloxacin for 1 week and instructed the patient to avoid the use of antacids during the therapy. Which of the following statements best explains why antacids are contraindicated in patients taking fluoroquinolones?",
+   "choices": [
+    "They increase the risk of quinolone-induced torsades de pointes.",
+    "They decrease quinolone oral bioavailability.",
+    "They increase the risk of quinolone-induced cartilage erosion.",
+    "They narrow the antibacterial activity spectrum of quinolones.",
+    "They decrease quinolone urinary excretion."
+   ],
+   "answer": 1,
+   "explanation": "Products containing divalent and trivalent cations (Mg?*, Ca2+, Zn2*, Al?*, Fe2*), such as antacids, milk products, and Fe**-containing medications, invariably cause a significant decrease in intestinal absorption of fluoroquinolones (up to 70%) because fluoroquinolones can chelate the cations, forming insoluble compounds. This may result in therapeutic failures. It is therefore imperative that clinicians question patients regarding other medications, both prescription and nonprescription, that they may be taking and instruct them to avoid certain products, as in this case. B-E See correct answer explanation.",
+   "source": "Pharmacology VIII-3 Q8",
+   "topic": "Easy",
+   "topic_n": 6
+  },
+  {
+   "question": "A 22-year-old man who was on vacation in Mexico was seen at a local clinic because of malaise, fever (103.2°F, 39.5°C), tachycardia, nausea and vomiting, abdominal cramps and six loose, unformed, and bloody stools. The symptoms started 24 hours after a dinner at a local restaurant. A presumptive diagnosis was made, and pharmacotherapy was started. Which of the following drugs would be appropriate for this patient?",
+   "choices": [
+    "Fluconazole",
+    "Vancomycin",
+    "Linezolid",
+    "Dicloxacillin",
+    "Ciprofloxacin",
+    "Cephalexin"
+   ],
+   "answer": 4,
+   "explanation": "The patient’s history and symptoms indicate that he was most likely suffering from traveler’s diarrhea, a disease defined as three or more loose stools per day plus at least one enteric symptom. The disease is due to enterobacteriaceae, with Escherichia coli being the causative agent in more than 50% of cases. Many antimicrobial agents have been shown to shorten the duration and severity of diarrhea, but because of the increasing resistance of enterobacteriaceae, currently fluoroquinolones, and to a lesser extent trimethoprim-sulfamethoxazole, are recommended for the empiric treatment of traveler’s diarrhea. A, C-F These drugs are not active against most enterobacteriaceae. Answers and Explanations: Vill-3 Inhibitors",
+   "source": "Pharmacology VIII-3 Q9",
+   "topic": "Easy",
+   "topic_n": 7
+  },
+  {
+   "question": "A 49-year-old woman recently diagnosed with urinary tract infection started treatment with combined trimethoprim-sulfamethoxazole. Which of the following best explains the main reason for combining these two drugs?",
+   "choices": [
+    "To retard the biotransformation of both drugs",
+    "To achieve longer duration of action of sulfamethoxazole",
+    "To obtain a bactericidal effect that is unlikely with either drug given alone",
+    "To decrease the risk of allergic reactions",
+    "To increase patient compliance by administering a single preparation"
+   ],
+   "answer": 2,
+   "explanation": "The trimethoprim-sulfamethoxazole combination kills sensitive bacteria, whereas sulfonamides and trimethoprim are both bacteriostatic drugs. The synergistic effect of the combination is most likely due to the inhibition of two consecutive steps in the synthesis of tetrahydrofolic acid, which is essential for the synthesis of purines and then for the synthesis of DNA. A, E The combination does not affect the pharmacokinetics of either drug. B Because both drugs can cause allergic reactions, the risk of those reactions, if anything, should be increased, not decreased. C It is well known that patient compliance is increased when fewer pills must be taken, but this is not the reason for the drug combination.",
+   "source": "Pharmacology VIII-3 Q10",
+   "topic": "Easy",
+   "topic_n": 8
+  },
+  {
+   "question": "A 64-year-old man was admitted to the hospital because of a 3-day history of fever, chest pain, cough, nausea, vomiting, and diarrhea. His past medical history was relevant for heavy cigarette smoking, surgery for prostatic hyperplasia, and intolerance to macrolide antibiotics. Vital signs were blood pressure 135/80 mm Hg, pulse 50 bpm, respirations 16/min, body temperature 102°F (38.8°C). A chest x-ray revealed a patchy infiltrate in the lower left lobe, and urinalysis showed microhematuria. Which of the following drugs would be appropriate for the therapy of the patient's disease?",
+   "choices": [
+    "Ciprofloxacin",
+    "Erythromycin",
+    "Ceftriaxone",
+    "Gentamicin",
+    "Piperacillin",
+    "Vancomycin"
+   ],
+   "answer": 0,
+   "explanation": "The patient’s signs and symptoms indicate that he was suffering from pneumonia. The associated relative bradycardia, gastrointestinal symptoms, and microhematuria suggest Legionnaires’ disease, a pneumonia caused by Legionella species (mainly Legionella pneumophila), which accounts for 1 to 3% of all pneumonias. L. pneumophila is sensitive to macrolides, fluoroquinolones, tetracyclines, trimethoprimsulfamethoxazole, and rifampin. Erythromycin, alone or with rifampin, is the treatment of choice. Fluoroquinolones such as ciprofloxacin may be useful in case of intolerance to macrolides, as in this case. A, B, C, F L. Pneumophila is not sensitive to these antibiotics. E See correct answer explanation.",
+   "source": "Pharmacology VIII-3 Q11",
+   "topic": "Medium",
+   "topic_n": 3
+  },
+  {
+   "question": "A 30-year-old man recently diagnosed with otitis media started treatment with ciprofloxacin. A 7-day course was able to completely heal the disease. Which of the following bacteria most likely caused the patient's infection?",
+   "choices": [
+    "Haemophilus influenzae",
+    "Nocardia asteroides",
+    "Borrelia burgdorferi",
+    "Leptospira interrogans",
+    "Clostridium difficile"
+   ],
+   "answer": 0,
+   "explanation": "Haemophilus influenzae can cause otitis media in adults, although Streptococcus pneumoniae and Staphylococcus aureus are more common. H. influenzae is very sensitive to fluoroquinolones, such as ciprofloxacin. A-D These bacteria do not cause otitis media and are resistant to fluoroquinolones. therapeutic uses of metronidazole.",
+   "source": "Pharmacology VIII-3 Q12",
+   "topic": "Medium",
+   "topic_n": 4
+  },
+  {
+   "question": "A 47-year-old man was admitted to the hospital because of fever (103.1°F, 39.5°C), severe headache, weakness in his right arm and leg, and increasing drowsiness. The patient had a history of chronic sinusitis treated with a variety of oral antibiotics. His last episode of sinusitis occurred 1 month ago and apparently resolved with clindamycin therapy. A computed tomography scan revealed a left frontal lesion with a small amount of surrounding cerebral edema. A diagnosis of brain abscess was made, and the patient underwent stereotactic aspiration of the abscess under local anesthesia. Which of the following antibiotics would have been most appropriately included in the initial postsurgical therapy of this patient?",
+   "choices": [
+    "Metronidazole",
+    "Erythromycin",
+    "Vancomycin",
+    "Aztreonam",
+    "Amikacin"
+   ],
+   "answer": 0,
+   "explanation": "Brain abscesses most commonly arise from a contiguous, suppurative source of infection (sinusitis, mastoiditis, and implicated dental infection), as in this case. Streptococci are 60% of cases and include both anaerobic and miin about are found in about croaerophilic streptococci. Bacteroides 40% of cases. Antibiotic therapy for brain abscess needs to to cover the most likely pathogens. A be sufficiently broad of Bacterial Nucleic Acid Synthesis or Function 463 combination of penicillin G and metronidazole is used in most cases. Metronidazole achieves abscess fluid concentration equal to or in excess of serum levels and is bactericidal against anaerobes. Moreover, in this case, the apparent good activity of clindamycin in the previous sinusitis points out that anaerobes are most likely the main bacteria of the patient’s abscess. A, C-E These antibiotics are not active against anaerobes.",
+   "source": "Pharmacology VIII-3 Q13",
+   "topic": "Medium",
+   "topic_n": 5
+  },
+  {
+   "question": "A 42-year-old man recently diagnosed with mycoplasma pneumonia started a treatment with ciprofloxacin. Which of the following molecular actions most likely mediated the therapeutic effect of the drug in the patient's disease?",
+   "choices": [
+    "Stimulation of synthesis of abnormal bacterial proteins",
+    "Stimulation of bacterial DNA-dependent RNA polymerase",
+    "Stimulation of bacterial DNA helicase",
+    "Inhibition of bacterial cell wall synthesis",
+    "Inhibition of ergosterol synthesis in bacterial cell membrane",
+    "Inhibition of relaxation of supercoiled bacterial DNA"
+   ],
+   "answer": 5,
+   "explanation": "Ciprofloxacin is a fluoroquinolone antibiotic. Fluoroquinolones inhibit bacterial DNA synthesis by blocking the following enzymes: * Topoisomerase II (also called DNA gyrase). The blockade prevents the relaxation of supercoiled DNA, which is required for normal transcription (prevalent mechanism in gram-negative bacteria). * Topoisomerase IV. The blockade interferes with separation of replicated chromosomal DNA during cell division (prevalent mechanism in gram-positive bacteria). A This is the mechanism of action of B-lactam antibiotics. C This is the mechanism of action of aminoglycosides. D This is the mechanism of action of antifungal azoles. E Helicases are enzymes involved in DNA strand separation during replication. Fluoroquinolones have no activity on these enzymes. F This is the mechanism of action of rifampin.",
+   "source": "Pharmacology VIII-3 Q14",
+   "topic": "Easy",
+   "topic_n": 9
+  },
+  {
+   "question": "A 50-year-old woman recently diagnosed with a urinary tract infection started treatment with trimethoprim-sulfamethoxazole. All symptoms disappeared after 1 week. Which of the following bacteria was most likely the cause of the patient's infection?",
+   "choices": [
+    "Pseudomonas aeruginosa",
+    "Enterococcus fecium",
+    "Escherichia coli",
+    "Bacteroides fragilis",
+    "Chlamydia trachomatis"
+   ],
+   "answer": 2,
+   "explanation": "The successful treatment indicates that the offending pathogen was sensitive to trimethoprim-sulfamethoxazole. Escherichia coli is the most common causative agent of urinary tract infection and is sensitive to trimethoprim-sulfamethoxazole, even though resistance has significantly increased in recent years. A-D All of these bacteria are resistant to trimethoprim-sulfamethoxazole.",
+   "source": "Pharmacology VIII-3 Q15",
+   "topic": "Easy",
+   "topic_n": 10
+  },
+  {
+   "question": "A 46-year-old woman complained of burning on urination and bladder pain. Her medical history was significant for recurrent urinary tract infections and for a congenital long QT syndrome detected during a routine visit 1 year ago. A clean catch midstream urine sample showed many gram-negative rods. Which of the following antibiotics would be contraindicated for this patient?",
+   "choices": [
+    "Imipenem",
+    "Aztreonam",
+    "Ceftazidime",
+    "Amoxicillin-clavulanate",
+    "Ciprofloxacin",
+    "Piperacillin"
+   ],
+   "answer": 4,
+   "explanation": "Fluoroquinolones are largely used for urinary tract infections because of their excellent activity against most gramnegative bacteria, but they are contraindicated in people with long QT interval of any cause, as they can increase QT interval, predisposing to polymorphic ventricular tachycardia. A-E All of these antibiotics are active against gram-negative rods and are not contraindicated in persons with long QT intervals. the therapeutic uses of ciprofloxacin.",
+   "source": "Pharmacology VIII-3 Q16",
+   "topic": "Easy",
+   "topic_n": 11
+  },
+  {
+   "question": "A 37-year-old woman with AIDS was admitted to the hospital because of fever (100.4°F, 38°C), drenching night sweats, poor appetite, and an 18-lb (about 8-kg) weight loss over the past 3 months. She had a past medical history of intestinal candidiasis and cryptococcal meningitis. Physical examination revealed a cachectic woman with hepatosplenomegaly. Chest radiography was unremarkable, and lab results showed a CD4+ lymphocyte count of 50 cells/mm3. A presumptive diagnosis of Mycobacterium avium complex infection was made and later confirmed by a DNA probe test. Which of the following drugs should be included in the initial therapy of this patient?",
+   "choices": [
+    "Trimethoprim-sulfamethoxazole",
+    "Ceftazidime",
+    "Piperacillin",
+    "Acyclovir",
+    "Metronidazole",
+    "Ciprofloxacin"
+   ],
+   "answer": 5,
+   "explanation": "Disseminated Mycobacterium avium complex (MAC) infection is common in end-stage AIDS patients. The risk of developing the infection is strongly associated with a CD4+ lymphocyte count of less than 100 cells/mm3. Transient bacteremia is followed by invasion of tissues resulting in organ dysfunction. Any organ can be involved, and patients often present with nonspecific symptoms, as in this case. The current recommended regimen for MAC infection includes three drugs. Clarithromycin plus ethambutol are the preferred two, and the third agent may be ciprofloxacin, rifabutin, or imipenem. A, B, D-F None of these drugs are effective against MAC.",
+   "source": "Pharmacology VIII-3 Q17",
+   "topic": "Medium",
+   "topic_n": 6
+  },
+  {
+   "question": "A 44-year-old woman presented to the clinic with fever (101°F, 38.3°C) and cough productive of a small amount of greenish, thick sputum. The woman, suffering from pemphigus, had been receiving high-dose prednisone for 6 months. Physical examination revealed coarse breath sounds in the right lower lung, and a chest x-ray showed a 4-cm (1.6-inch) nodule with central cavitation. Examination of the sputum showed long branching filaments of gram-positive, acid-fast rods. Which of the following drugs would be appropriate to treat the patient's infection?",
+   "choices": [
+    "Amphotericin B",
+    "Sulfadiazine",
+    "Erythromycin",
+    "Ketoconazole",
+    "Rifampin"
+   ],
+   "answer": 1,
+   "explanation": "The patient’s signs (a cavitary lesion seen on a chest x-ray) and lab results suggest the diagnosis of nocardiosis. Nocardia asteroides is the most common pathogen in nocardiosis, an opportunistic infection associated with several risk factors, including immunosuppression, as in this case (see the prolonged corticosteroid treatment). In nocardiosis, sulfonamides are first-line agents. Alternative drugs include penicillins, aminoglycosides, and tetracyclines (doxycycline and minocycline). A-C, E These antibiotics are not effective against Nocardia.",
+   "source": "Pharmacology VIII-3 Q18",
+   "topic": "Medium",
+   "topic_n": 7
+  },
+  {
+   "question": "A 47-year-old woman suffering from ulcerative colitis was admitted to the hospital with fever (103.5°F, 39.7°C) and severe abdominal pain. Physical examination showed an extremely ill patient with diffuse abdominal tenderness, profound dehydration, and bloody diarrhea. Further exams led to the diagnosis of fulminant colitis, and an emergency therapy was started. Which of the following antibiotics should be included in the treatment of this patient?",
+   "choices": [
+    "Trimethoprim-sulfamethoxazole",
+    "Metronidazole",
+    "Amikacin",
+    "Erythromycin",
+    "Vancomycin",
+    "Ampicillin"
+   ],
+   "answer": 1,
+   "explanation": "Fulminant colitis is a rare but severe form of pancolitis, an inflammation affecting the entire colon. Patients with pancolitis are at risk of developing toxic megacolon, and an emergency treatment must include intravenous fluid and electrolyte therapy, high-dose corticosteroids, and antibiotics. Because Bacteroides fragilis is the most abundant bacterium in the human colon, metronidazole remains a first-line agent. Fluoroquinolones, clindamycin, cefoxitin, and cefotetan may be alternatives. B-F These antibiotics are not effective against B. fragilis.",
+   "source": "Pharmacology VIII-3 Q19",
+   "topic": "Medium",
+   "topic_n": 8
+  },
+  {
+   "question": "A 36-year-old man presented to the clinic with fever (100.4°F, 38.6°C), nonproductive cough, mild dyspnea, and facial seborrheic dermatitis. The man was HIV seropositive, and his CD4 lymphocyte count was 100/mm3. A silver-stained preparation from bronchial lavage revealed a large number of cysts containing sporozoites. A diagnosis of pneumonia was made, and a treatment with trimethoprim-sulfamethoxazole for 14 days was able to cure the infection. Which of the following bacteria was most likely the cause of the patient's infection?",
+   "choices": [
+    "Treponema pallidum",
+    "Pseudomonas aeruginosa",
+    "Enterococcus faecalis",
+    "Rickettsia rickettsii",
+    "Mycoplasma pneumoniae",
+    "Clostridium difficile",
+    "Pneumocystis jiroveci"
+   ],
+   "answer": 6,
+   "explanation": "The patient’s history, the lab results, and the prescribed therapy suggest that the pneumonia was due to Pneumocystis jiroveci, a well-recognized opportunistic infection in AIDS patients. The pathogen grows extracellularly in the surfactant layer of the lung. The blockade of the oxygen exchange interface results in hypoxemia and cyanosis. The medication of choice for pneumocystis pneumonia is trimethoprimsulfamethoxazole; pentamidine is also effective and may be given as an alternate drug. A-E, G Pseudomonas aeruginosa, Clostridium difficile, mycoplasmas, rickettsiae, spirochetes, and enterococci are resistant to trimethoprim-sulfamethoxazole. the therapeutic uses of metronidazole.",
+   "source": "Pharmacology VIII-3 Q20",
+   "topic": "Medium",
+   "topic_n": 9
+  },
+  {
+   "question": "A 52-year-old woman complained to her physician of recurrent epigastric pain. Endoscopy revealed a gastric ulcer, and biopsy results were positive for Helicobacter pylori. To eradicate H. pylori, the physician prescribed a therapy that included omeprazole and two antibiotics. Which of the following pairs of antibiotics would be appropriate for this patient?",
+   "choices": [
+    "Metronidazole and vancomycin",
+    "Metronidazole and tetracycline",
+    "Amoxicillin and gentamicin",
+    "Amoxicillin and rifampin",
+    "Erythromycin and vancomycin"
+   ],
+   "answer": 1,
+   "explanation": "A variety of regimens have been used to eradicate Helicobacter pylori, each with different dosing schedules, adverse effects, and cost. Combination therapy with two or three antibiotics plus an H2 antagonist or a proton pump inhibitor is associated with the highest rate of eradication. Antibiotics effective against H. pylori are amoxicillin, clarithromycin, metronidazole, and tetracycline. A, C-E None of these pairs include two antibiotics effective against H. pylori.",
+   "source": "Pharmacology VIII-3 Q21",
+   "topic": "Easy",
+   "topic_n": 12
+  },
+  {
+   "question": "A 44-year-old man recently diagnosed with nocardiosis started a treatment with a high dose of sulfadiazine. Inhibition of which of the following bacterial enzymes most likely mediated the therapeutic effect of the drug in the patient's disease?",
+   "choices": [
+    "Topoisomerase II",
+    "Purine phosphoribosyl transferase",
+    "Transpeptidase",
+    "Dihydropteroate synthetase",
+    "Dihydrofolate reductase",
+    "RNA polymerase"
+   ],
+   "answer": 3,
+   "explanation": "Sulfonamides are competitive inhibitors of the bacterial enzyme dihydropteroate synthetase, which is responsible for the incorporation of para-aminobenzoic acid (PABA) into dihydropteroic acid, the immediate precursor of folic acid. Because bacterial cells use PABA to synthesize folic acid, the synthesis of folic acid is inhibited. This in turn inhibits the synthesis of bacterial purines that are needed for the synthesis of nucleic acids. In contrast, mammalian cells use preformed folic acid that is present in the diet and therefore are not sensitive to the action of sulfonamides. A-C, E These enzymes are not inhibited by sulfonamides.",
+   "source": "Pharmacology VIII-3 Q22",
+   "topic": "Easy",
+   "topic_n": 13
+  },
+  {
+   "question": "A 56-year-old man was admitted to the hospital with fever (101.7°F, 38.7°C), severe abdominal pain, and loose, bloody stools. Further exams led to the diagnosis of Clostridium difficile-associated colitis. Therapy with oral vancomycin was started, but 2 days later, the diarrhea was not improved. Which of the following changes in the therapy would be appropriate at this time?",
+   "choices": [
+    "Start on oral ceftazidime.",
+    "Start on oral metronidazole.",
+    "Increase the dose of vancomycin.",
+    "Start on intravenous (IV) vancomycin.",
+    "Start on IV amikacin."
+   ],
+   "answer": 1,
+   "explanation": "The oral agents most commonly used to treat pseudomembranous colitis due to C. difficile are vancomycin and metronidazole. The two drugs have comparable efficacy, but when vancomycin fails, a treatment with metronidazole is the most appropriate course of action. B, C Oral vancomycin produces fecal concentrations that are 100 times the concentration needed to inhibit C. difficile, so increasing the dose or using intravenous vancomycin are not useful options. D, E These antibiotics are not effective against C. difficile infections.",
+   "source": "Pharmacology VIII-3 Q23",
+   "topic": "Medium",
+   "topic_n": 10
+  },
+  {
+   "question": "A 54-year-old alcoholic woman complained to her physician of weakness, drowsiness, and dyspnea on exertion. Medical history indicated she was diagnosed with acute cystitis 10 days earlier and started an antibacterial therapy. Pertinent results of blood tests were red blood cell count 3.2 x 10^6/mm3 (normal, female 3.5-5.5 x 10^6/mm3), mean corpuscular volume 115 fL (normal 80-100 fL). Which of the following drugs most likely caused these lab results?",
+   "choices": [
+    "Ceftazidime",
+    "Piperacillin",
+    "Trimethoprim",
+    "Vancomycin",
+    "Doxycycline",
+    "Metronidazole",
+    "Ciprofloxacin"
+   ],
+   "answer": 2,
+   "explanation": "The patient was most likely treated with trimethoprimsulfamethoxazole, a first-line drug combination for urinary tract infection. The patient’s symptoms and the lab results indicate that she was most likely suffering from megaloblastic anemia. Trimethoprim may cause the predictable adverse effects of an antifolate drug, including megaloblastic anemia. The anemia is rare in healthy individuals but can occur in patients who are already folate-deficient from different causes, such as poor diet, malabsorption syndromes, malignancy, or alcoholism, as in this case. A-C, E-G These drugs do not affect folate metabolism. Answers and Explanations: VIII-3 Inhibitors",
+   "source": "Pharmacology VIII-3 Q24",
+   "topic": "Medium",
+   "topic_n": 11
+  },
+  {
+   "question": "A 75-year-old woman was admitted to the hospital with fever (102.6°F, 39.2°C), abdominal cramping, and foul-smelling, watery stools. A colonoscopy revealed exudative plaques attached to the surface of the inflamed colonic mucosa. The woman had been receiving high doses of ampicillin for 2 weeks to treat a urinary tract infection. Which of the following drugs would be most appropriate for this patient?",
+   "choices": [
+    "Piperacillin",
+    "Metronidazole",
+    "Ciprofloxacin",
+    "Gentamicin",
+    "Doxycycline",
+    "Erythromycin"
+   ],
+   "answer": 1,
+   "explanation": "The patient’s history and symptoms indicate that she was most likely affected by Clostridium difficile-associated pseudomembranous colitis. The disease has emerged as a major threat to elderly patients receiving certain antibiotics. Ampicillin, clindamycin, and cephalosporins are the antibiotics most commonly associated with the condition. Other drugs are | penicillins, erythromycin, trimethoprim-sulfamethoxazole, fluoroquinolones, and tetracyclines. Ampicillin was most — likely the causative antibiotic in this case. Metronidazole | | and vancomycin are the two first-line agents for C. difficile29. associated colitis. A-D, F None of these antibiotics are effective against C. difficile.",
+   "source": "Pharmacology VIII-3 Q25",
+   "topic": "Easy",
+   "topic_n": 14
+  },
+  {
+   "question": "A 36-year-old woman complained to her physician that she became dizzy and suffered flushing and vomiting after drinking a double scotch. The woman, recently diagnosed with bacterial vaginosis, started an oral antibiotic therapy 1 week ago. Which of the following drugs most likely caused this interaction with alcohol?",
+   "choices": [
+    "Clindamycin",
+    "Ceftriaxone",
+    "Levofloxacin",
+    "Metronidazole",
+    "Piperacillin",
+    "Imipenem"
+   ],
+   "answer": 3,
+   "explanation": "Bacterial vaginosis is due to a complex alteration of vaginal flora in which lactobacilli decrease and anaerobic pathogens overgrow. Topical or oral metronidazole is the agent of choice. The drug can inhibit aldehyde dehydrogenase and therefore can cause a disulfiram-like effect due to accumulation of | acetaldehyde in people drinking alcohol concomitantly. The reaction may cause flushing, throbbing headache, nausea and vomiting, hypotension, and mental confusion. A-E None of these antibiotics interact with alcohol.",
+   "source": "Pharmacology VIII-3 Q26",
+   "topic": "Easy",
+   "topic_n": 15
+  },
+  {
+   "question": "A 56-year-old Black woman complained to her physician of tiredness and fatigue. She also noticed that her urine had become dark. Medical history was significant for glucose-6-phosphate dehydrogenase deficiency and recurrent urinary tract infection. Five days earlier, the patient complained of burning sensation upon urination and started the prescribed antibiotic therapy. Urinalysis revealed bilirubin and urobilinogen. Which of the following drugs could have caused the patient's signs and symptoms?",
+   "choices": [
+    "Ciprofloxacin",
+    "Trimethoprim",
+    "Gentamicin",
+    "Piperacillin",
+    "Ceftriaxone",
+    "Sulfamethoxazole"
+   ],
+   "answer": 5,
+   "explanation": "The patient most likely received trimethoprim-sulfamethoxazole, a drug combination frequently used to treat urinary tract infection. The patient’s signs and symptoms (tiredness, dark urine) suggest that she was suffering from acute hemolytic anemia, a disease that can develop in persons with congenital deficiency of glucose-6-phosphate dehydrogenase when given oxidant chemicals. Glucose-6phosphate dehydrogenase is a key enzyme in reduction reactions, and these reactions appear to be essential for maintenance of cellular integrity. A deficiency of this enzyme results in an exaggerated sensitivity to the hemolytic effect of certain oxidant drugs such as sulfonamides, antimalarials, and certain nonsteroidal antiinflammatory drugs. These drugs do not have significant oxidant properties. A-E trimethoprim",
+   "source": "Pharmacology VIII-3 Q27",
+   "topic": "Medium",
+   "topic_n": 12
+  },
+  {
+   "question": "A 55-year-old woman complained to her physician of burning on urination, frequent urination, and bladder pain. A urine culture and susceptibility test showed that Escherichia coli was the main infecting organism and that it was resistant to ampicillin, cefotaxime, ciprofloxacin, and amikacin. Which of the following antibiotics would be most appropriate to treat the patient's infection?",
+   "choices": [
+    "Moxifloxacin",
+    "Clindamycin",
+    "Linezolid",
+    "Trimethoprim-sulfamethoxazole",
+    "Vancomycin",
+    "Amoxicillin"
+   ],
+   "answer": 3,
+   "explanation": "Trimethoprim-sulfamethoxazole is still a first-line urinary tract infection due to E. coli, even though reagainst several years. Moreover, sistance has increased over the past of Bacterial Nucleic Acid Synthesis or Function 465 the drug is effective against several enterobacteriaceae (with the exception of P aeruginosa and anaerobes) that are usually present in urinary tract infections. A, B Because the bacterium was resistant to ampicillin and ciprofloxacin, it would be illogical to use amoxicillin or moxifloxacin because cross-resistance would be likely. C, D, F These antibiotics are not effective against E. coli.",
+   "source": "Pharmacology VIII-3 Q28",
+   "topic": "Medium",
+   "topic_n": 13
+  },
+  {
+   "question": "A 34-year-old woman recently diagnosed with salpingitis due to Bacteroides fragilis started a treatment with a drug that is reduced by anaerobes to a highly reactive nitro radical anion able to damage bacterial DNA. Which of the following drugs did the patient most likely take?",
+   "choices": [
+    "Clindamycin",
+    "Cefoxitin",
+    "Imipenem",
+    "Metronidazole",
+    "Cefotetan"
+   ],
+   "answer": 3,
+   "explanation": "Metronidazole is an antibiotic active against most microaerophile and anaerobic bacteria and anaerobic protozoa. These microorganisms, unlike their aerobic counterparts, contain electron transport components called ferredoxins that can donate electrons to metronidazole. This donation forms a highly reactive nitro radical anion that damages bacterial DNA. The ultimate effect is bactericidal. A-C, E All of these antibiotics are active against Bacteroides fragilis, but they have mechanisms of action different from that of metronidazole.",
+   "source": "Pharmacology VIII-3 Q29",
+   "topic": "Easy",
+   "topic_n": 16
+  },
+  {
+   "question": "A 28-year-old woman late in her third trimester of pregnancy complained to her physician of persistent burning upon urination. The patient's medical history was significant for recurrent urinary tract infections. An antibiotic treatment was prescribed. Which of the following drugs would be contraindicated in this patient because of a risk of kernicterus in the newborn?",
+   "choices": [
+    "Ceftriaxone",
+    "Imipenem",
+    "Piperacillin",
+    "Sulfamethoxazole",
+    "Gentamicin",
+    "Ciprofloxacin"
+   ],
+   "answer": 3,
+   "explanation": "Trimethoprim-sulfamethoxazole combination is currently used for urinary tract infection, but sulfonamides have a definite risk of causing kernicterus in neonates if given to mothers during the third trimester of pregnancy. These drugs displace unconjugated bilirubin from plasma albumin, thereby allowing free bilirubin to enter the brain. The risk is high in neonates because bilirubin conjugation is already defective due to the low levels of glucuronosyl transferase. A, C, D These drugs are used in urinary tract infections and are not contraindicated in pregnancy. E, F Aminoglycosides and fluoroquinolones are relatively contraindicated in pregnancy, but not because they can cause kernicterus. Aminoglycosides can induce fetal ototoxicity, and fluoroquinolones can cause articular cartilage erosion. INHIBITORS OF BACTERIAL NUCLEIC ACID SYNTHESIS OR FUNCTION Answer key B E A c C F Cc D A F wmoman|inmwnao MOoOPYrUAF/OWYrmMN",
+   "source": "Pharmacology VIII-3 Q30",
+   "topic": "Easy",
+   "topic_n": 17
+  }
+ ]
+}

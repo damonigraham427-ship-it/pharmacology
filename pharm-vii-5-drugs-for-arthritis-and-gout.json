@@ -1,0 +1,335 @@
+{
+ "questions": [
+  {
+   "question": "An antimalarial drug used in rheumatoid arthritis",
+   "choices": [
+    "Colchicine",
+    "Leflunomide",
+    "Hydroxychloroquine",
+    "Rituximab",
+    "Azathioprine",
+    "Cyclosporine",
+    "Etanercept",
+    "Infliximab",
+    "Methotrexate",
+    "Allopurinol"
+   ],
+   "answer": 2,
+   "explanation": "Matching item. Correct match: Hydroxychloroquine.",
+   "source": "Pharmacology VII-5 Q1",
+   "topic": "Easy",
+   "topic_n": 1
+  },
+  {
+   "question": "A monoclonal antibody that binds to CD20 B lymphocytes",
+   "choices": [
+    "Leflunomide",
+    "Colchicine",
+    "Rituximab",
+    "Azathioprine",
+    "Cyclosporine",
+    "Allopurinol",
+    "Etanercept",
+    "Infliximab",
+    "Hydroxychloroquine",
+    "Methotrexate"
+   ],
+   "answer": 2,
+   "explanation": "Matching item. Correct match: Rituximab.",
+   "source": "Pharmacology VII-5 Q2",
+   "topic": "Easy",
+   "topic_n": 2
+  },
+  {
+   "question": "A monoclonal antibody that binds to tumor necrosis factor-α",
+   "choices": [
+    "Colchicine",
+    "Etanercept",
+    "Infliximab",
+    "Leflunomide",
+    "Azathioprine",
+    "Cyclosporine",
+    "Rituximab",
+    "Allopurinol",
+    "Hydroxychloroquine",
+    "Methotrexate"
+   ],
+   "answer": 2,
+   "explanation": "Matching item. Correct match: Infliximab.",
+   "source": "Pharmacology VII-5 Q3",
+   "topic": "Easy",
+   "topic_n": 3
+  },
+  {
+   "question": "This drug can inhibit the synthesis of inosinic acid.",
+   "choices": [
+    "Leflunomide",
+    "Etanercept",
+    "Cyclosporine",
+    "Infliximab",
+    "Allopurinol",
+    "Methotrexate",
+    "Hydroxychloroquine",
+    "Colchicine",
+    "Azathioprine",
+    "Rituximab"
+   ],
+   "answer": 8,
+   "explanation": "Matching item. Correct match: Azathioprine.",
+   "source": "Pharmacology VII-5 Q4",
+   "topic": "Easy",
+   "topic_n": 4
+  },
+  {
+   "question": "A 52-year-old woman recently diagnosed with mild rheumatoid arthritis started a therapy with nonsteroidal antiinflammatory drugs (NSAIDs), but 2 months later, the physician decided to add a disease-modifying antirheumatic drug (DMARD) to the therapeutic regimen. Which of the following is most likely the main advantage of DMARDs over NSAIDs in the treatment of rheumatoid arthritis?",
+   "choices": [
+    "To slow down the progression of bone and cartilage destruction",
+    "To improve symptoms after one week of therapy",
+    "To cause fewer adverse effects",
+    "To completely cure the disease, after 2 to 4 months of therapy",
+    "To completely abolish acute joint pain"
+   ],
+   "answer": 0,
+   "explanation": "NSAIDs were once considered the first-line treatment of rheumatoid arthritis, but today they are used only as needed to control pain because it has been shown that they have little effect on bone and cartilage destruction. On the contrary, Answers DMARDs can arrest, or at least slow down, the progression of the disease. They are slow-acting drugs, and their effect may take 6 weeks to 6 months to become evident. Therefore, DMARD treatment should not be delayed beyond 3 months of arthritis diagnosis for the majority of patients. A Most DMARDs can have frequent, and sometimes very serious, adverse effects. C See correct answer explanation. D There is no complete cure for rheumatoid arthritis. The progression of the disease can be arrested, but therapy must be continued indefinitely. E Acute joint pain is not quickly abolished by DMARDs. NSAIDs remain an effective treatment for acute pain.",
+   "source": "Pharmacology VII-5 Q5",
+   "topic": "Easy",
+   "topic_n": 5
+  },
+  {
+   "question": "A 33-year-old man complained to his physician of low back pain and stiffness that were greatest on awakening in the morning and gradually improved throughout the day. The intermittent use of ibuprofen had been able to improve the symptoms in the past, but recently he had no relief. Magnetic resonance imaging confirmed the diagnosis of ankylosing spondylitis. Which of the following drugs would be appropriate for the patient at this time?",
+   "choices": [
+    "Colchicine",
+    "Aldesleukin",
+    "Hydroxychloroquine",
+    "Trastuzumab",
+    "Etanercept",
+    "Naproxen"
+   ],
+   "answer": 4,
+   "explanation": "Ankylosing spondylitis is a systemic rheumatic disorder of unknown cause characterized by inflammation where ligaments attach to bone, mainly in the axial spine. The disorder is more frequent in men and usually begins between the ages of 20 and 40. In the past, the mainstay pharmacotherapy of ankylosing spondylitis was nonsteroidal antiinflammatory drugs (NSAIDs). More recently, it has been shown that antitumor necrosis factor agents such as etanercept are able to cause a rapid and sustained reduction in all clinical and laboratory measures of disease activity. NSAIDs and cyclooxygenase-2 selective inhibitors are still used in mild cases. D Because ibuprofen was not effective, the efficacy of another propionic acid derivative would be unlikely. A, B, E, F These drugs are of no value in ankylosing spondylitis.",
+   "source": "Pharmacology VII-5 Q6",
+   "topic": "Easy",
+   "topic_n": 6
+  },
+  {
+   "question": "A 50-year-old woman with rheumatoid arthritis was recently diagnosed with refractory disease, and infliximab was added to her ongoing treatment. Which of the following endogenous compounds was most likely the molecular target of the drug?",
+   "choices": [
+    "Vascular endothelial growth factor",
+    "Interleukin-1",
+    "Interleukin-10",
+    "Tumor necrosis factor-α",
+    "Epidermal growth factor"
+   ],
+   "answer": 3,
+   "explanation": "Infliximab is a monoclonal antibody that binds with high affinity to soluble and possibly membrane-bound tumor necrosis factor-α (TNF-α). TNF-α is a proinflammatory cytokine that appears to be especially important in the inflammatory processes associated with autoimmune disorders, such as rheumatoid arthritis, ankylosing spondylitis, Crohn disease, and psoriasis. TNF-α-blocking agents such as infliximab are used in rheumatoid arthritis, especially when refractory disease is diagnosed, as in this case. A-D Infliximab does not bind to these molecules.",
+   "source": "Pharmacology VII-5 Q7",
+   "topic": "Easy",
+   "topic_n": 7
+  },
+  {
+   "question": "A 48-year-old man was admitted to the emergency department with the chief complaint of an excruciating pain in his left ankle. The pain had started the previous night and increased over several hours. The patient reported that he sprained his ankle 1 week ago. On physical examination, the ankle appeared warm and tender, and the entire area was red and swollen. A synovial fluid analysis showed crystals engulfed by phagocytes. A diagnosis was made, and a pharmacotherapy was prescribed. Which of the following drugs would be most appropriate to treat the patient’s pain?",
+   "choices": [
+    "Allopurinol",
+    "Etanercept",
+    "Indomethacin",
+    "Aspirin",
+    "Codeine",
+    "Methotrexate"
+   ],
+   "answer": 2,
+   "explanation": "The patient’s signs and symptoms suggest that he is metatarsophalaning from an acute gout attack. Although the joint affected geal joint of the great toe is the most common and Explanations: VIl-5 Drugs for Arthritis and Gout 397 by gout attack, other joints can be involved. The gout attack can be precipitated by overindulgence in purine-rich foods, alcohol, infection, or minor trauma, as in this case. Systemic treatment of acute gout attacks includes oral nonsteroidal antiinflammatory drugs (NSAIDs) or colchicine. NSAIDs such as indomethacin are often preferred because of the frequent and sometimes serious adverse effects of colchicine. Glucocorticoids administered intra-articularly after joint aspiration can be an effective and safe treatment for a gout attack. A Codeine is a weak opioid analgesic devoid of antiinflammatory properties and is of no value in gout attack. C, E Methotrexate and etanercept are effective in rheumatoid arthritis but are of no value in gouty arthritis. D NSAIDs other than indomethacin have been proved effective in the treatment of acute gouty arthritis. When given in small doses, aspirin can inhibit the excretion of uric acid by the kidney, so it should not be used for analgesia in patients with gout. F Allopurinol can decrease serum uric acid levels in patients with gout but cannot relieve the pain of a gouty attack.",
+   "source": "Pharmacology VII-5 Q8",
+   "topic": "Medium",
+   "topic_n": 1
+  },
+  {
+   "question": "A 57-year-old man recently diagnosed with mild rheumatoid arthritis complained to his physician of joint pain despite ongoing therapy with ibuprofen. The man was a heavy smoker and had a history of chronic bronchitis with frequent acute exacerbations usually treated with antibiotics. The physician decided to add a disease-modifying antirheumatic drug (DMARD) to the treatment. Which of the following drugs would be most appropriate for the patient at this time?",
+   "choices": [
+    "Etanercept",
+    "Hydroxychloroquine",
+    "Leflunomide",
+    "Rituximab",
+    "Azathioprine"
+   ],
+   "answer": 1,
+   "explanation": "The therapy of mild rheumatoid arthritis usually includes nonsteroidal antiinflammatory drugs (NSAIDs) that can control symptoms of pain and swelling, but DMARD treatment is almost always added within 3 months of the arthritis diagnosis. Hydroxychloroquine seems to be the least toxic among DMARDs and is usually the initial choice. Moreover, in this patient, immunosuppressant drugs are relatively contraindicated because of his frequent respiratory tract infections. A, C-E See correct answer explanation.",
+   "source": "Pharmacology VII-5 Q9",
+   "topic": "Easy",
+   "topic_n": 8
+  },
+  {
+   "question": "A 44-year-old woman suffering from rheumatoid recently had leflunomide added to her methotrexate therlikely apy. Inhibition of which of the following enzymes most mediated the therapeutic effect of the drug in the patient's disease?",
+   "choices": [
+    "Cyclooxygenase-1",
+    "a Peptidyl transferase",
+    "Dihydrofolate reductase",
+    "Type II topoisomerase",
+    "Dihydroorotate dehydrogenase",
+    "Reverse transcriptase"
+   ],
+   "answer": 4,
+   "explanation": "Leflunomide is a disease-modifying antirheumatic drug (DMARD) immunosuppressant approved for the treatment of rheumatoid and psoriatic arthritis. Its mechanism of action involves the inhibition of dihydroorotate dehydrogenase, an enzyme involved in pyrimidine synthesis. As a consequence, there is a reduction in uridine triphosphate levels and pyrimidine synthesis in leucocytes and other rapidly dividing cells. Leflunomide is about as effective as methotrexate in rheumatoid arthritis and enhances methotrexate activity when given concomitantly. Therefore, it is often added to methotrexate therapy, as in this case. A-C, E, F See correct answer explanation.",
+   "source": "Pharmacology VII-5 Q10",
+   "topic": "Easy",
+   "topic_n": 9
+  },
+  {
+   "question": "A 55-year-old man complained to his physician that a rash had appeared the previous day on his thorax and legs. The patient was recently diagnosed with hyperuricemia and had been receiving allopurinol for 2 weeks. The physician suspected the rash was due to the ongoing pharmacotherapy and decided to discontinue allopurinol and to start a treatment with probenecid. The physician should advise the patient not to concurrently use which of the following drugs?",
+   "choices": [
+    "Acetaminophen",
+    "Diphenhydramine",
+    "Aspirin",
+    "Ibuprofen",
+    "Loratadine",
+    "Phenylephrine"
+   ],
+   "answer": 2,
+   "explanation": "In humans, uric acid elimination is handled by the through the following four active transport mechanisms located in subsequent segments of the proximal tubule: Glomerular filtration: all uric acid is freely filtered. Tubular reabsorption: 98% is reabsorbed. Tubular secretion: 50% is secreted. Postsecretory tubular reabsorption: 40% is reabsorbed. Therefore, about 10% of the filtered uric acid load is finally eliminated by the kidney. Uricosuric drugs such as salicylates and probenecid compete with uric acid for these transport mechanisms. They have a paradoxical effect because, depending on dosage, they may either decrease or increase the elimination of uric acid. It seems that the secretory mechanism is more sensitive to the blocking action of uricosuric drugs, so low doses block uric acid secretion only. Higher doses are able to block both mechanisms; therefore, as most uric acid is reabsorbed, the net result is increased elimination. Salicylates such as aspirin can completely antagonize the uricosuric action of probenecid. This interaction probably involves several mechanisms, including competition for renal tubular transport. A-C, E, F These drugs are not contraindicated in a patient receiving probenecid.",
+   "source": "Pharmacology VII-5 Q11",
+   "topic": "Easy",
+   "topic_n": 10
+  },
+  {
+   "question": "A 53-year-old woman recently diagnosed with gouty arthritis started a treatment with a drug that inhibits leukocyte migration and phagocytosis secondary to inhibition of tubulin polymerization. Which of the following drugs did the patient most likely take?",
+   "choices": [
+    "Piroxicam",
+    "Colchicine",
+    "Probenecid",
+    "Indomethacin",
+    "Allopurinol",
+    "Prednisone"
+   ],
+   "answer": 1,
+   "explanation": "Colchicine can be used to stop an acute gout attack or, most often, for the prevention of further attacks, as in this case. The drug binds to the intracellular protein, tubulin, thereby preventing its polymerization into microtubules and thus blocking mitosis in metaphase. Cells with the highest rate of division are affected early. Granulocyte migration into the inflamed area and phagocytosis of urate crystals by macrophages are inhibited, thus relieving the pain and inflammation of gouty arthritis. These actions are specific, and the drug is devoid of general analgesic or antiinflammatory effects. A, B, F These drugs are effective in gouty arthritis but have different mechanisms of actions. D, E These drugs can decrease the risk of gout attacks by decreasing the urate pool, not by inhibiting tubulin polymerization.",
+   "source": "Pharmacology VII-5 Q12",
+   "topic": "Easy",
+   "topic_n": 11
+  },
+  {
+   "question": "A 54-year-old Black woman was admitted to the hospital because of joint pain and a rash flare of erythematous maculopapular lesions on her neck, upper chest, and elbows. The patient was diagnosed with systemic lupus erythematosus 5 months earlier and had been receiving piroxicam since then. After further exams, another drug was added to her current pharmacotherapy. Which of the following drugs would be appropriate to administer at this time?",
+   "choices": [
+    "Clarithromycin",
+    "Hydroxychloroquine",
+    "Ampicillin",
+    "Indomethacin",
+    "Ciprofloxacin",
+    "Aspirin"
+   ],
+   "answer": 1,
+   "explanation": "The pharmacotherapy of SLE includes nonsteroidal antiinflammatory drugs (NSAIDs), antimalarials, immunosuppressants, and glucocorticoids. Antimalarials such as hydroxychloroquine are especially effective when the disease is mild and skin manifestations are prominent, as in this case. This drug has been shown to prevent relapses and to reduce morbidity and mortality. The mechanism of action of hydroxychloroquine is still unclear but is likely related to its antiinflammatory properties. A combination of an antimalarial and an NSAID is sometimes used in mild cases. However, a combination of glucocorticoids and immunosuppressive drugs is a first-line pharmacotherapy for treatment of severe SLE. A, B Because the patient was already receiving an NSAID, adding another drug of the same class would be irrational. C, E, F Antibiotics are of no value, unless an infection supervenes.",
+   "source": "Pharmacology VII-5 Q13",
+   "topic": "Medium",
+   "topic_n": 2
+  },
+  {
+   "question": "A 39-year-old woman complained to her physician of joint pain that had worsened over the past month. The pain was worst in the morning and prevented her from performing her household tasks for at least an hour after waking. She tried ibuprofen three times daily for 2 weeks, but relief was poor, and she stopped the medication because of epigastric pain. The woman was also suffering from chronic active hepatitis B, currently treated with lamivudine. On physical examination, the patient appeared uncomfortable with any movement. Her wrists, metacarpophalangeal joints, and knees showed bilaterally symmetrical swelling, tenderness, and warmth. Further exams confirmed the diagnosis, and a pharmacotherapy was prescribed. Which of the following drugs would be appropriate for the patient at this time?",
+   "choices": [
+    "Ciprofloxacin",
+    "Aspirin",
+    "Erythromycin",
+    "Etanercept",
+    "Methotrexate",
+    "Piperacillin"
+   ],
+   "answer": 3,
+   "explanation": "The patient’s signs and symptoms indicate that she was most likely suffering from rheumatoid arthritis. When nonsteroidal antiinflammatory drugs (NSAIDs) are poorly effective and/or poorly tolerated, pharmacotherapy with disease-modifying antirheumatic drugs (DMARDs) is indicated. Methotrexate is the initial DMARD of choice for most patients because of its efficacy and relatively rapid onset of action. However, it can have dose-related hepatotoxicity and therefore is relatively contraindicated in this patient because of the presence of active hepatitis. Etanercept, a tumor necrosis factor-α antagonist approved for the treatment of rheumatoid arthritis, would be appropriate in this case. A See correct answer explanation. B Aspirin is associated with a higher incidence of gastrointestinal bleeding than other NSAIDs and is no longer commonly used for the treatment of rheumatoid arthritis. Moreover, in this patient, ibuprofen was not effective and poorly tolerated. D-F Antibiotics are not currently used in the treatment of rheumatoid arthritis, but minocycline seems to be a useful adjunctive agent in some cases. The successful use of this drug supports the speculation that rheumatoid arthritis may have an infectious component.",
+   "source": "Pharmacology VII-5 Q14",
+   "topic": "Hard",
+   "topic_n": 1
+  },
+  {
+   "question": "A 32-year-old man diagnosed with rheumatoid arthritis had been taking methotrexate for 4 months. The disease was controlled initially, but the pain returned, and his rheumatologist decided to add a drug to the treatment regimen. The second drug is a recombinant fusion protein consisting of the extracellular portion of two tumor necrosis factor (TNF) receptor moieties. Which of the following drugs was most likely prescribed?",
+   "choices": [
+    "Etanercept",
+    "Leflunomide",
+    "Piroxicam",
+    "Infliximab",
+    "Triamcinolone",
+    "Cyclosporine"
+   ],
+   "answer": 0,
+   "explanation": "Combination therapy with disease-modifying antirheumatic drugs (DMARDs) is currently a well-accepted approach because it has been shown that many DMARDs, when added to methotrexate, show improved efficacy. Etanercept is a recombinant fusion protein consisting of two portions of the extracellular domain of the TNF-α receptor linked to a portion of human immunoglobulin G1. The drug binds with high affinity to TNF-α molecules. A, C-E All of these drugs can be effective in rheumatoid arthritis, but they have different chemical structures.",
+   "source": "Pharmacology VII-5 Q15",
+   "topic": "Easy",
+   "topic_n": 12
+  },
+  {
+   "question": "A 15-year-old girl was admitted to the emergency department because of a sudden attack of severe abdominal pain accompanied by fever (103.5°F, 39.7°C). The patient had had two similar attacks 3 and 2 weeks ago that subsided spontaneously over the course of 48 hours. Multiple other family members had similar complaints. Physical examination showed a patient in moderate distress with evidence of pleural effusion in the right lung. Genetic testing showed a mutation in a gene of chromosome 16. Which of the following drugs would most likely prevent the recurrence of the attacks in this patient?",
+   "choices": [
+    "Prednisone",
+    "> Colchicine",
+    "Etanercept",
+    "Indomethacin",
+    "Methotrexate"
+   ],
+   "answer": 1,
+   "explanation": "The patient’s history, symptoms, and lab tests suggest she was most likely suffering from familial Mediterranean fever, an inherited autosomal recessive disorder characterized by recurrent fever and serositis (mainly peritonitis but also pleuritis, arthritis, and pericarditis). Because of the chronic inflammatory process, these patients have a high incidence of amyloidosis and renal failure due to perivascular deposition of serum amyloid A protein. The use of colchicine has been associated with a dramatic reduction in the incidence of these complications. In fact, prophylactic colchicine provides complete remission or distinct improvement in about 85% of patients. The mechanism of this effect is still uncertain but is likely related to the antiinflammatory properties of the drug. A-D These drugs are not effective in familial Mediterranean fever.",
+   "source": "Pharmacology VII-5 Q16",
+   "topic": "Medium",
+   "topic_n": 3
+  },
+  {
+   "question": "A 55-year-old man recently diagnosed with gout started a treatment with allopurinol. Plasma levels of which of the following pairs of endogenous compounds most likely increased after a few days of therapy?",
+   "choices": [
+    "Adenine and inosine",
+    "Inosine and guanine",
+    "Adenine and hypoxanthine",
+    "Xanthine and hypoxanthine",
+    "Guanine and xanthine"
+   ],
+   "answer": 3,
+   "explanation": "By inhibiting the enzyme xanthine oxidase, allopurinol inhibits the transformation of hypoxanthine into xanthine and of xanthine into uric acid. Therefore, the plasma level of uric acid will decrease with a small, concomitant rise of hypoxanthine and xanthine. A, C-E See correct answer explanation.",
+   "source": "Pharmacology VII-5 Q17",
+   "topic": "Easy",
+   "topic_n": 13
+  },
+  {
+   "question": "A 44-year-old woman at a routine check-up was found to have a serum urate level of 18 mg/dL and a urine urate level of 800 mg/24 h. She started an appropriate treatment, and 3 weeks later her serum urate level was 7.2 mg/dL and urinary urate level was 530 mg/24 h. Which of the following drugs did the patient most likely take?",
+   "choices": [
+    "Indomethacin",
+    "Aspirin",
+    "Probenecid",
+    "Allopurinol",
+    "Naproxen",
+    "Furosemide"
+   ],
+   "answer": 3,
+   "explanation": "Because the patient’s urate levels are decreased after therapy both in serum and in urine, the drug must have decreased the formation of uric acid. Allopurinol inhibits the conversion of hypoxanthine to xanthine and xanthine to uric acid, thus decreasing uric acid formation. A Probenecid increases the renal excretion of uric acid and would have decreased uric acid in plasma but would have increased uric acid in the urine. B Aspirin would have decreased uric acid secretion at low/ intermediate doses (causing hyperuricemia) and would have increased secretion at high doses (causing uricosuria). C Furosemide can cause hyperuricemia. E, F These drugs have negligible effects on uric acid secretion. and Explanations: VII-5 Drugs for Arthritis and Gout 399",
+   "source": "Pharmacology VII-5 Q18",
+   "topic": "Easy",
+   "topic_n": 14
+  },
+  {
+   "question": "A 43-year-old man suffering from rheumatoid arthritis complained to his physician that his joint pain had increased recently despite current naproxen and hydroxychloroquine therapy. The patient was otherwise healthy, and his past medical history was unremarkable. Which of the following drugs would be appropriate to add to the patient’s therapy at this time?",
+   "choices": [
+    "Acetaminophen",
+    "Fentanyl",
+    "Methotrexate",
+    "Diclofenac",
+    "Carbamazepine",
+    "Amitriptyline"
+   ],
+   "answer": 2,
+   "explanation": "Methotrexate is currently a first-line treatment for most patients with rheumatoid arthritis because of its high rate of response, relatively rapid onset of action (1 to 2 months), and long sustained efficacy. Moreover, it has been shown that the drug can enhance the action of some other disease-modifying antirheumatic drugs (DMARDs), including hydroxychloroquine, so it would be an appropriate drug to add to the ongoing therapy in this case. A, B The patient was already receiving a nonsteroidal antiinflammatory drug, so the addition of another drug of the same class would be of little value. D Fentanyl is a powerful opioid drug. Opioid analgesics are used in rheumatoid arthritis only exceptionally, on an as-needed basis, when the pain is excruciating. E, F Some antidepressants, such as amitriptyline, and some anticonvulsants, such as carbamazepine, are often effective in cases of neuropathic pain, but not for treatment of nociceptive pain such as occurs in rheumatoid arthritis.",
+   "source": "Pharmacology VII-5 Q19",
+   "topic": "Easy",
+   "topic_n": 15
+  },
+  {
+   "question": "A 55-year-old man complained to his physician of blurred vision, night blindness, light flashes, and photophobia. The man was diagnosed with mild rheumatoid arthritis 6 months ago and was taking a combination therapy that included a disease-modifying antirheumatic drug (DMARD). Ophthalmoscopy disclosed a macular area of hyperpigmentation surrounded by a zone of hypopigmentation on the left retina. Which of the following drugs most likely caused the patient’s signs and symptoms?",
+   "choices": [
+    "Hydroxychloroquine",
+    "Methotrexate",
+    "Etanercept",
+    "Infliximab",
+    "Ibuprofen",
+    "Celecoxib"
+   ],
+   "answer": 0,
+   "explanation": "The patient’s signs and symptoms suggest he was most likely suffering from retinopathy, a rare adverse effect of hydroxychloroquine after long-term treatment. The drug is a disease-modifying antirheumatic drug (DMARD) used in rheumatoid arthritis, often in combination with other DMARD drugs. The drug has high affinity for pigmented (melanin-containing) structures and accumulates in the retina after long-term treatment. B-F All of these drugs can be used in rheumatoid arthritis, but they do not cause retinal damage. (Answer key)",
+   "source": "Pharmacology VII-5 Q20",
+   "topic": "Medium",
+   "topic_n": 4
+  }
+ ]
+}

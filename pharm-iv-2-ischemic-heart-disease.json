@@ -1,0 +1,470 @@
+{
+ "questions": [
+  {
+   "question": "Directions for questions 1–4: Match each antianginal drug with the appropriate description (each lettered option can be selected once, more than once, or not at all). This drug is sometimes used to treat cyanide toxicity.",
+   "choices": [
+    "Amyl nitrite",
+    "Verapamil",
+    "Diltiazem",
+    "Metoprolol",
+    "Nicardipine",
+    "Nifedipine",
+    "Nitroglycerin",
+    "Isosorbide mononitrate"
+   ],
+   "answer": 0,
+   "explanation": "Matching item. Correct match: Amyl nitrite.",
+   "source": "Pharmacology IV-2 Q1",
+   "topic": "Easy",
+   "topic_n": 1
+  },
+  {
+   "question": "Directions for questions 1–4: Match each antianginal drug with the appropriate description (each lettered option can be selected once, more than once, or not at all). This drug has no therapeutic effect on variant angina.",
+   "choices": [
+    "Diltiazem",
+    "Amyl nitrite",
+    "Isosorbide mononitrate",
+    "Verapamil",
+    "Metoprolol",
+    "Nitroglycerin",
+    "Nifedipine",
+    "Nicardipine"
+   ],
+   "answer": 4,
+   "explanation": "Matching item. Correct match: Metoprolol.",
+   "source": "Pharmacology IV-2 Q2",
+   "topic": "Easy",
+   "topic_n": 2
+  },
+  {
+   "question": "Directions for questions 1–4: Match each antianginal drug with the appropriate description (each lettered option can be selected once, more than once, or not at all). This drug has a good transdermal bioavailability.",
+   "choices": [
+    "Metoprolol",
+    "Nitroglycerin",
+    "Amyl nitrite",
+    "Verapamil",
+    "Nicardipine",
+    "Nifedipine",
+    "Diltiazem",
+    "Isosorbide mononitrate"
+   ],
+   "answer": 1,
+   "explanation": "Matching item. Correct match: Nitroglycerin.",
+   "source": "Pharmacology IV-2 Q3",
+   "topic": "Easy",
+   "topic_n": 3
+  },
+  {
+   "question": "Directions for questions 1–4: Match each antianginal drug with the appropriate description (each lettered option can be selected once, more than once, or not at all). This drug has high affinity for calcium channels of cerebral vessels.",
+   "choices": [
+    "Nicardipine",
+    "Metoprolol",
+    "Verapamil",
+    "Nifedipine",
+    "Nitroglycerin",
+    "Amyl nitrite",
+    "Diltiazem",
+    "Isosorbide mononitrate"
+   ],
+   "answer": 0,
+   "explanation": "Matching item. Correct match: Nicardipine.",
+   "source": "Pharmacology IV-2 Q4",
+   "topic": "Easy",
+   "topic_n": 4
+  },
+  {
+   "question": "A55-year-old woman recently diagnosed with variant angina started treatment with isosorbide mononitrate and diltiazem. Which of the following actions most likely mediated the therapeutic effect of nitrates in the patient's disease?",
+   "choices": [
+    "Increased blood flow in large epicardial vessels",
+    "Increased heart rate",
+    "Increased cardiac contractility",
+    "Decreased diastolic perfusion time",
+    "Increased left ventricular end-diastolic volume"
+   ],
+   "answer": 0,
+   "explanation": "Nitrates dilate large epicardial vessels, thus increasing epicardial blood flow. This action is the most important for the therapeutic effect of these drugs in variant angina, which is characterized by coronary spasm.",
+   "source": "Pharmacology IV-2 Q5",
+   "topic": "Easy",
+   "topic_n": 5
+  },
+  {
+   "question": "A59-year-old man recently diagnosed with exertional angina started treatment with verapamil, one tablet daily. Which of the following cardiac and smooth muscle Ca2+ channels is most likely the main site of action of this drug?",
+   "choices": [
+    "Ligand-gated channels in the sarcoplasmic reticulum",
+    "Voltage-gated channels in the sarcoplasmic reticulum",
+    "Ligand-gated channels in cell membranes",
+    "Store-operated channels in mitochondria",
+    "Voltage-gated channels in cell membranes"
+   ],
+   "answer": 4,
+   "explanation": "Calcium channel blockers with heart activity, such as verapamil and diltiazem, act on voltage-gated channels in cardiac and smooth muscle cell membranes. The blockade of channels in cardiac muscle leads to a reduction in cardiac contractility and rate, whereas the blockade in vascular smooth muscle causes vasodilation, which in turn reduces the afterload of the heart. Both actions are useful for the therapeutic effect of these drugs in exertional angina.",
+   "source": "Pharmacology IV-2 Q6",
+   "topic": "Medium",
+   "topic_n": 1
+  },
+  {
+   "question": "A57-year-old man complained of dizziness and palpitations shortly after taking a tablet of his prescribed medication. The man was recently diagnosed with variant angina for which he had started an appropriate therapy 4 days earlier. Which of the following actions most likely caused the patient's symptoms?",
+   "choices": [
+    "Coronary steal phenomenon",
+    "Increased venous return to the heart",
+    "Decreased myocardial contractility",
+    "Decreased total peripheral resistance",
+    "Coronary vasodilation"
+   ],
+   "answer": 3,
+   "explanation": "The prescribed drug was most likely nifedipine, a drug of choice in variant angina. The symptoms were most likely due to a decrease in total peripheral resistance that in turn can induce dizziness (due to decreased cerebral blood flow) and palpitations (due to reflex tachycardia), These are two common adverse effects of nifedipine.",
+   "source": "Pharmacology IV-2 Q7",
+   "topic": "Easy",
+   "topic_n": 6
+  },
+  {
+   "question": "A47-year-old man recently diagnosed with exertional angina started treatment with sublingual nitroglycerin, as needed, and oral isosorbide mononitrate. Which of the following is a potential detrimental effect of nitrates in the prophylactic treatment of exertional angina?",
+   "choices": [
+    "Increased ventricular end-diastolic volume",
+    "Decreased arterial pressure",
+    "Increased cardiac rate",
+    "Increased capacitance of systemic veins",
+    "Decreased ejection time"
+   ],
+   "answer": 2,
+   "explanation": "By causing peripheral vasodilation, high doses of nitrates can induce reflex tachycardia, which in turn increases oxygen consumption. This detrimental effect can be prevented by the concomitant use of a B-blocker.",
+   "source": "Pharmacology IV-2 Q8",
+   "topic": "Medium",
+   "topic_n": 2
+  },
+  {
+   "question": "A 58-year-old man complained to his physician of severe chest pain when he walked rapidly despite the therapy he had carefully followed for 3 weeks. The man was recently diagnosed with exertional angina and had started treatment with transdermal nitroglycerin and atenolol. The physician decided to add a drug and prescribed diltiazem. Which of the following effects was most likely common to all the drugs the patient was taking?",
+   "choices": [
+    "Increased ejection time",
+    "Decreased cardiac rate",
+    "Decreased arterial pressure",
+    "Increased cardiac contractility",
+    "Decreased left ventricular end-diastolic volume"
+   ],
+   "answer": 2,
+   "explanation": "Arterial pressure (AP) is equal to stroke volume (SV) by heart rate (HR) by peripheral vascular resistance (PVR): AP = SV x HR PVR. Nitrates mainly decrease SV (by dilating the large veins), calcium channel blockers mainly decrease HR and PVR, and B-blockers mainly decrease HR and SV (by decreasing heart contractility). Therefore, all can lower the blood pressure.",
+   "source": "Pharmacology IV-2 Q9",
+   "topic": "Medium",
+   "topic_n": 3
+  },
+  {
+   "question": "A 51-year-old man was admitted to the hospital in acute distress with extreme dyspnea, restlessness, and anxiety. The patient had been suffering from chronic heart failure for 3 years. Vital signs were blood pressure 115/90 mm Hg, pulse 120 bpm, respirations 22/min. A chest x-ray done immediately showed marked interstitial edema. An appropriate therapy was started that included an intravenous infusion of nitroglycerin. Which of the following actions most likely mediated the therapeutic effect of the drug in the patient's disorder?",
+   "choices": [
+    "Reflex increase in heart rate",
+    "Reflex increase in cardiac contractility",
+    "Decreased ventricular end diastolic volume",
+    "Decreased platelet aggregation",
+    "Decreased afterload",
+    "Decreased ventricular ejection time"
+   ],
+   "answer": 2,
+   "explanation": "The signs and symptoms of the patient indicate that he is suffering from pulmonary edema. By increasing cyclic guanosine monophosphate production, nitrates cause relaxation of both resistance and capacitance vessels, but relaxation of the latter (especially large veins) is more pronounced, with standard therapeutic doses, probably because the enzyme that converts nitrates to nitric oxide is more abundant in veins than in arteries. This venodilation reduces preload to the heart by pooling blood in the periphery, thus reducing ventricular end-diastolic volume. In this way, pulmonary congestion is reduced, and pulmonary edema is relieved.",
+   "source": "Pharmacology IV-2 Q10",
+   "topic": "Hard",
+   "topic_n": 1
+  },
+  {
+   "question": "A 48-year-old man was brought to the emergency department because of severe chest pain that had been ongoing for over 3 hours. The man had been suffering from chronic stable exertional angina for 1 year and from duodenal ulcer for 3 months. His current medication included isosorbide mononitrate and verapamil for angina and famotidine for duodenal ulcer. One week earlier, the patient stopped the antianginal medications because he had not had anginal attacks during the past month. Which of the following events most likely triggered the patient's present chest pain?",
+   "choices": [
+    "Chronic progression of ischemia uncovered by discontinuing therapy",
+    "Famotidine-induced inhibition of verapamil metabolism eo)",
+    "Abrupt withdrawal from nitrate therapy",
+    "Famotidine-induced inhibition of isosorbide mononitrate metabolism",
+    "Reflex tachycardia due to nitrate therapy"
+   ],
+   "answer": 2,
+   "explanation": "Long-term nitrate therapy should be discontinued gradually, as there is clinical evidence that severe myocardial ischemia may occur in persons withdrawing suddenly from long-term organic nitrate exposure.",
+   "source": "Pharmacology IV-2 Q11",
+   "topic": "Hard",
+   "topic_n": 2
+  },
+  {
+   "question": "A 48-year-old woman presented to the clinic because of chest pain on exertion for the past 2 days. Physical examination showed a woman in no apparent distress. Physical signs were blood pressure 105/60 mm Hg, pulse 85 bpm, respirations 15 breaths/min. Cardiac auscultation revealed a regular rhythm with no abnormal cardiac sounds or murmurs. An electrocardiogram after exercise stress testing confirmed the diagnosis of exertional angina, and therapy with sublingual nitroglycerin and isosorbide mononitrate was started. Which of the following adverse effects would be most likely to occur in this patient?",
+   "choices": [
+    "Methemoglobinemia",
+    "Diarrhea",
+    "Reflex bradycardia",
+    "Venous thrombosis",
+    "Cough and wheezing",
+    "Postural hypotension"
+   ],
+   "answer": 5,
+   "explanation": "Nitrates can cause postural hypotension because venodilation decreases preload. In fact, insufficient left ventricular end-diastolic volume (due to decreased venous return, hypovolemia, etc.) is the most common cause of postural hypotension. Postural hypotension is even more likely in this patient because her blood pressure is low.",
+   "source": "Pharmacology IV-2 Q12",
+   "topic": "Medium",
+   "topic_n": 4
+  },
+  {
+   "question": "A 46-year-old man complained to his physician of insomnia, nightmares, fatigue, diminished libido, and blanching of the fingers when exposed to cold. The man, recently diagnosed with exertional angina, had been taking an antianginal drug for 1 month. Which of the following drugs most likely caused the patient's symptoms?",
+   "choices": [
+    "Verapamil",
+    "Propranolol",
+    "Nifedipine",
+    "Nitroglycerin",
+    "Isosorbide mononitrate"
+   ],
+   "answer": 1,
+   "explanation": "All the symptoms reported by the patient are classic adverse effects of B-blockers. These drugs block B,-mediated vasodilation and cause a reflex vasoconstriction because of the decreased cardiac output. These actions can account for the blanching of the fingers when exposed to cold. Fatigue is likely due to decreased cardiac output. The other effects are centrally mediated, but the mechanisms are still uncertain.",
+   "source": "Pharmacology IV-2 Q13",
+   "topic": "Medium",
+   "topic_n": 5
+  },
+  {
+   "question": "A 47-year-old man complained to his physician that he experienced mild angina attacks during exertion. The patient, recently diagnosed with exertional angina, had started a therapy with a transdermal nitroglycerin preparation 2 weeks previously. He carefully applied a new patch every morning immediately after removing the old one. Anginal attacks had disappeared completely during the first week of therapy but were back thereafter. Which of the following best explains the reason for his anginal episodes?",
+   "choices": [
+    "Vasospastic angina complicating the exertional angina",
+    "Insufficient original nitroglycerin dosage",
+    "Increased metabolism of nitroglycerin",
+    "Decreased absorption of nitroglycerin from the skin",
+    "Cellular tolerance to nitroglycerin"
+   ],
+   "answer": 4,
+   "explanation": "Tolerance to nitrates does occur. Because it appears rapidly (24 hours) and disappears rapidly (6 to 10 hours), brief periods of no therapy (overnight) can be sufficient to permit recovery, but this patient was continuously receiving the drug.",
+   "source": "Pharmacology IV-2 Q14",
+   "topic": "Medium",
+   "topic_n": 6
+  },
+  {
+   "question": "A 54-year-old man had been diagnosed recently with variant angina. The patient had been suffering from a cerebellar astrocytoma for 2 years and from a second-degree atrioventricular block for 1 year. Which of the following antianginal drugs would be appropriate for this patient?",
+   "choices": [
+    "Isosorbide mononitrate",
+    "Nifedipine",
+    "Verapamil",
+    "Diltiazem",
+    "Propranolol"
+   ],
+   "answer": 1,
+   "explanation": "Calcium channel blockers are considered drugs of first choice in variant angina. Moreover, in the present case: AA brain tumor is likely to increase the intracranial pressure, So nitrates are contraindicated.",
+   "source": "Pharmacology IV-2 Q15",
+   "topic": "Hard",
+   "topic_n": 3
+  },
+  {
+   "question": "A 55-year-old woman complained to her physician of palpitations, flushing of the face, and vertigo. The woman, suffering from diabetes mellitus, was giving herself three daily doses of insulin. She had been recently diagnosed with exertional angina for which nitrate therapy was started with transdermal nitroglycerin and oral isosorbide mononitrate. After 3 weeks of therapy, her anginal attacks were less frequent but not completely prevented. Which of the following would be an appropriate next therapeutic step for this patient?",
+   "choices": [
+    "Add nifedipine",
+    "Add propranolol",
+    "Add diltiazem",
+    "Reduce the dosage of both nitrates",
+    "Stop isosorbide mononitrate"
+   ],
+   "answer": 2,
+   "explanation": "The patient's current symptoms are most likely due to nitrate therapy. The addition of a cardiac-active calcium channel blocker such as diltiazem can attenuate the nitrateinduced reflex tachycardia and reflex increase in cardiac contractility. Moreover, in this patient: A, D Because anginal attacks are not completely prevented, it is useless to reduce nitrate dosage, which would decrease adverse effects but also decrease therapeutic effects. B Beta-blockers such as propranolol are relatively contraindicated in patients receiving insulin treatment, because they can mask some symptoms of hypoglycemia and inhibit gluconeogenesis, thus impairing the body's capacity to recover from hypoglycemia. C Nifedipine could increase palpitations because it can cause reflex tachycardia.",
+   "source": "Pharmacology IV-2 Q16",
+   "topic": "Hard",
+   "topic_n": 4
+  },
+  {
+   "question": "A77-year-old woman was brought to the emergency department with an acute myocardial infarction (MI). Six months ago, she suffered from an MI and began taking propranolol, aspirin, and lovastatin. Her current medications also included captopril and hydrochlorothiazide for hypertension. Two days ago, she became nauseous and vomited, and she stopped taking all her medications. The abrupt withdrawal from which of the following drugs most likely triggered the recent MI?",
+   "choices": [
+    "Aspirin",
+    "Captopril",
+    "Lovastatin",
+    "Propranolol",
+    "Hydrochlorothiazide"
+   ],
+   "answer": 3,
+   "explanation": "Abrupt discontinuation of B-blockers such as propranolol can precipitate myocardial infarction and can increase the risk of sudden death in cardiac patients. The underlying mechanism is unclear, but it is well established that there is enhanced sensitivity to B-adrenoceptor agonists in patients who have undergone long-term treatment with B-blockers, likely due to upregulation of 8 receptors. Abrupt withdrawal from the B-blocker allows an increased number of receptors to be exposed to norepinephrine. This supersensitivity can be attenuated by tapering the dose of the B-blocker for several weeks before discontinuation.",
+   "source": "Pharmacology IV-2 Q17",
+   "topic": "Easy",
+   "topic_n": 7
+  },
+  {
+   "question": "A 48-year-old man was brought to the emergency department with an acute myocardial infarction (MI). The man regularly used sildenafil in preparation for sexual intercourse because of an erectile dysfunction. He had recently been diagnosed with exertional angina, and he had been taking an appropriate prescribed therapy. Which of the following drugs most likely caused the patient's MI?",
+   "choices": [
+    "Propranolol",
+    "Nitroprusside",
+    "Nitroglycerin",
+    "Nifedipine",
+    "Verapamil"
+   ],
+   "answer": 2,
+   "explanation": "Erection requires relaxation of the nonvascular smooth muscle of the corpora cavernosa. Sildenafil is used in erectile dysfunction because it inhibits isoform 5 of phosphodiesterase, which is found in high concentration in smooth muscle cells of the corpora cavernosa. This increases the concentration of cyclic guanosine monophosphate (cGMP), which in turn stimulates the dephosphorylation of the myosin light chain. Because of this mechanism of action, sildenafil potentiates the action of nitrates (which also cause an increase in cGMP), and severe hypotension and a few myocardial infarctions have been reported in men using both drugs.",
+   "source": "Pharmacology IV-2 Q18",
+   "topic": "Medium",
+   "topic_n": 7
+  },
+  {
+   "question": "A 54-year-old man complained to his physician of palpitations, facial flushing, and vertigo. The man had been suffering from gastroesophageal reflux disease for 3 years. Two week earlier, he was diagnosed with exertional angina and started the prescribed therapy. Which of the following drugs most likely caused the patient's symptoms?",
+   "choices": [
+    "Propranolol",
+    "Nitroglycerin",
+    "Nifedipine",
+    "Verapamil",
+    "Diltiazem"
+   ],
+   "answer": 1,
+   "explanation": "The dose of nitroglycerin given to this patient was likely too high, as the symptoms the patient is referring to are classic for nitrate toxicity.",
+   "source": "Pharmacology IV-2 Q19",
+   "topic": "Hard",
+   "topic_n": 5
+  },
+  {
+   "question": "A 50-year-old woman was admitted to the hospital with a 3-week history of early morning chest pain that caused her to awaken from sleep. The pain lasted 10 to 15 minutes and frequently radiated to her left arm. An exercise tolerance test failed to elicit precordial pain. A diagnosis of angina was made, and she was discharged from the hospital with a prescription for nifedipine. Which of the following actions most likely mediated the therapeutic effect of the drug in the patient's disease?",
+   "choices": [
+    "Decreased afterload",
+    "Decreased coronary vascular tone",
+    "Decreased preload",
+    "Increased heart rate",
+    "Increased myocardial contractility"
+   ],
+   "answer": 1,
+   "explanation": "The signs and symptoms of the patient indicate that she was most likely suffering from variant angina. Nifedipine is a dihydropyridine calcium channel blocker that causes vasodilation by blocking L-type calcium channels in smooth muscle membranes. The antianginal effect of both calcium channel blockers and nitrates in variant angina is mainly due to coronary vasodilation, which in turn increases oxygen supply to the heart. Today, calcium channel blockers are considered the drug of choice to prevent attacks of variant angina that are characterized by coronary spasms. Dihydropyridines, verapamil and diltiazem, are considered equally efficacious in this disease.",
+   "source": "Pharmacology IV-2 Q20",
+   "topic": "Medium",
+   "topic_n": 8
+  },
+  {
+   "question": "A53-year-old man was taken to the emergency department because of dizziness and chest discomfort that apparently had been ongoing for over 5 hours. His vital signs were blood pressure 165/100 mm Hg, heart rate 50 bpm, respirations 22/min. Physical examination revealed signs of severe pulmonary congestion, and an electrocardiogram was consistent with an anterior acute myocardial infarction. An appropriate therapy was instituted that included an intravenous infusion of which of the following drugs?",
+   "choices": [
+    "Verapamil",
+    "Nifedipine",
+    "Epinephrine",
+    "Nitroglycerin",
+    "Metoprolol"
+   ],
+   "answer": 3,
+   "explanation": "Recent studies have reinvestigated the use of nitrate therapy in myocardial infarction (MI) in the setting of concomitant thrombolytic therapy and aspirin administration. The pooled effects from several studies have shown a small but statistically significant decrease in mortality in patients receiving nitrates. Therefore, intravenous nitroglycerin is currently recommended for routine use during the first 24 to 48 hours in most patients with MI, particularly if they have signs of acute heart failure (impending pulmonary edema) and are hypertensive, as in this case.",
+   "source": "Pharmacology IV-2 Q21",
+   "topic": "Hard",
+   "topic_n": 6
+  },
+  {
+   "question": "A 65-year-old man suddenly collapsed in the dining room of his home. Upon arrival by ambulance at the emergency department, he regained consciousness and complained of a severe headache. Physical examination was significant for a stiff neck and mild mental confusion. A computed tomography scan revealed blood in the subarachnoid space. Which of the following drugs would be appropriate to prevent delayed cerebral ischemia in this patient?",
+   "choices": [
+    "Propranolol",
+    "Nicardipine",
+    "Isosorbide mononitrate",
+    "Clonidine",
+    "Dobutamine",
+    "Verapamil"
+   ],
+   "answer": 1,
+   "explanation": "Subarachnoid hemorrhage should always be considered in patients who present with headache and syncope. The diagnostic test of choice for this disease is computed tomography scan, which has a sensitivity greater than 90%. Delayed ischemic deficit due to vasospasm is the most common cause of morbidity and mortality following subarachnoid hemorrhage. Nicardipine is a calcium channel blocker with some affinity for cerebral blood vessels and is used by intravenous infusion to prevent cerebral vasospasm associated with subarachnoid hemorrhage or stroke. AAIl of the other calcium channel blockers, including verapamil, lack selectivity for cerebral blood vessels and therefore are not indicated in subarachnoid hemorrhage.",
+   "source": "Pharmacology IV-2 Q22",
+   "topic": "Easy",
+   "topic_n": 8
+  },
+  {
+   "question": "A 53-year-old man diagnosed with exertional angina was prescribed inhaled nitroglycerin and oral isosorbide mononitrate. Which of the following molecular actions most likely mediated the therapeutic efficacy of these drugs in the patient's disease?",
+   "choices": [
+    "Phosphorylation of myosin light chain kinase",
+    "Decreased synthesis of guanylyl cyclase",
+    "Dephosphorylation of the myosin light chain",
+    "Increased intracellular Ca** concentration",
+    "Conversion of nitrite ions into nitrous oxide (N,O)"
+   ],
+   "answer": 2,
+   "explanation": "Nitrates release free nitrite ions, which in turn are converted to nitric oxide. Nitric oxide causes the activation of guanylyl-cyclase, thereby causing an increase in cyclic guanosine monophosphate. This second messenger causes dephosphorylation of the myosin light chain. Myosin is no longer able to interact with actin, and vascular smooth muscle relaxes.",
+   "source": "Pharmacology IV-2 Q23",
+   "topic": "Easy",
+   "topic_n": 9
+  },
+  {
+   "question": "A 59-year-old man was recently diagnosed with exertional angina. The patient, who was a heavy smoker, had been suffering from chronic obstructive pulmonary disease for 15 years and from gastroesophageal reflux disease for 3 years. Which of the following drugs would be appropriate to prevent anginal attacks in this patient?",
+   "choices": [
+    "Diltiazem",
+    "Verapamil",
+    "Nifedipine",
+    "Propranolol",
+    "Isosorbide mononitrate"
+   ],
+   "answer": 4,
+   "explanation": "A long-acting nitrate, a B-blocker, or a calcium channel blocker can all be used for exertional angina prophylaxis. However, in this patient A Propranolol is contraindicated because of the chronic obstructive pulmonary disease. B, C, E Calcium channel blockers relax the lower esophageal sphincter and therefore should be avoided in the presence of gastroesophageal reflux disease.",
+   "source": "Pharmacology IV-2 Q24",
+   "topic": "Hard",
+   "topic_n": 7
+  },
+  {
+   "question": "A 47-year-old man recently diagnosed with exertional angina started treatment with transdermal nitroglycerin and oral propranolol. Which of the following was most likely a purpose for the combination therapy in this case?",
+   "choices": [
+    "To enhance nitrate-induced coronary vasodilation",
+    "To enhance propranolol-induced decrease in cardiac contractility",
+    "To prevent nitrate-induced tachycardia",
+    "To prevent nitrate-induced decrease in arterial pressure",
+    "To enhance propranolol-induced decrease in cardiac rate"
+   ],
+   "answer": 2,
+   "explanation": "Because the three classes of antianginal drugs use different mechanisms of actions, a combination of two of these agents may increase the effectiveness and reduce the incidence of adverse effects. Sometimes B-blockers are administered with nitrates in the therapy of exertional angina because Beta-blockers can offset the nitrate-induced increase in * cardiac contractility and rate. Nitrates can prevent the B-blocker-induced increase in * end-diastolic volume and ejection time.",
+   "source": "Pharmacology IV-2 Q25",
+   "topic": "Medium",
+   "topic_n": 9
+  },
+  {
+   "question": "A 50-year-old man was discharged from the hospital after recovery from an acute myocardial infarction. His postdischarge medications included propranolol. How long should the patient continue to take this drug?",
+   "choices": [
+    "Indefinitely",
+    "Two years",
+    "One year",
+    "Three months",
+    "Six months"
+   ],
+   "answer": 0,
+   "explanation": "Beta-blocker therapy after a myocardial infarction should be continued indefinitely (unless there are contraindications or adverse effects supervene) because of proven long-term morbidity and mortality benefits.",
+   "source": "Pharmacology IV-2 Q26",
+   "topic": "Easy",
+   "topic_n": 10
+  },
+  {
+   "question": "A 46-year-old man complained to his family physician of throbbing headaches and severe constipation. The man, recently diagnosed with exertional angina, had started an antianginal treatment 2 weeks ago. Which of the following pairs of drugs was he most likely taking?",
+   "choices": [
+    "Nitroglycerin and propranolol",
+    "Propranolol and verapamil",
+    "Propranolol and isosorbide mononitrate",
+    "Nitroglycerin and isosorbide mononitrate",
+    "Verapamil and isosorbide mononitrate"
+   ],
+   "answer": 4,
+   "explanation": "Calcium channel blockers sometimes are added to nitrates to attenuate the nitrate-induced tachycardia. Throbbing headache is a typical adverse effect of nitrates, and severe constipation is a typical adverse effect of verapamil.",
+   "source": "Pharmacology IV-2 Q27",
+   "topic": "Medium",
+   "topic_n": 10
+  },
+  {
+   "question": "A 24-year-old man complained to his family physician of episodes of precordial pain precipitated by exertion and relieved by rest. The man had been recently diagnosed with hypertrophic cardiomyopathy. Which of the following pairs of drugs would be appropriate for this patient?",
+   "choices": [
+    "Nitroglycerin and verapamil",
+    "Nitroglycerin and captopril",
+    "Verapamil and metoprolol",
+    "Isosorbide mononitrate and metoprolol",
+    "Isosorbide mononitrate and nifedipine",
+    "Nifedipine and captopril"
+   ],
+   "answer": 2,
+   "explanation": "Calcium channel blockers acting on the heart and B-blockers (alone or in combination) are the treatment of choice in angina associated with hypertrophic cardiomyopathy. In this disease, there is a marked hypertrophy and thickening of the upper interventricular septum below the aortic valve. During systole, the septum thickens, and the anterior leaflet of the mitral valve is sucked toward the septum, producing outflow tract obstruction. The major consequence of hypertrophy is that the stiff, noncompliant ventricle resists diastolic filling. Beta-blockers and calcium channel blockers decrease myocardial contractility. This action increases ventricular compliance and decreases outflow obstruction. Beta-blockers and calcium channel blockers acting on the heart also slow the heart rate, which allows a more complete diastolic filling.",
+   "source": "Pharmacology IV-2 Q28",
+   "topic": "Easy",
+   "topic_n": 11
+  },
+  {
+   "question": "A 48-year-old man presented to the hospital with a 5-day history of burning pain in his right hand and arm. The pain occurred mainly when he was using his hands at work and was accompanied by the middle fingers of his right hand turning cold and somewhat blue. The man was a construction worker and frequently used vibrating machinery. Several white splotches appeared when the hand was placed in cold water, and tingling was felt in the hand. Which of the following drugs would be appropriate to treat the patient's disorder?",
+   "choices": [
+    "Nitroprusside",
+    "Albuterol",
+    "Clonidine",
+    "Labetalol",
+    "Nifedipine"
+   ],
+   "answer": 4,
+   "explanation": "The signs and symptoms of the patient suggest the diagnosis of Raynaud phenomenon, a vasospasm of part of the hand in response to cold, emotional stress, or vibration (which is likely a causal factor in this case). The disorder can be primary or secondary to several pathological conditions (mostly connective tissue disorders). Nifedipine has become the arteriolar vasodilator of choice in patients with Raynaud phenomenon not controlled by conservative measures.",
+   "source": "Pharmacology IV-2 Q29",
+   "topic": "Easy",
+   "topic_n": 12
+  },
+  {
+   "question": "A 43-year old man was admitted to the hospital with a myocardial infarction (MI) and was started on a therapy that included atenolol. Which of the following actions most likely contribute to mortality reduction obtained by B-blockers in MI?",
+   "choices": [
+    "Increased systemic vascular resistance",
+    "Increased left ventricular end-diastolic pressure",
+    "Decreased atrioventricular conduction",
+    "Increased myocardial oxygen supply",
+    "Decreased myocardial remodeling"
+   ],
+   "answer": 4,
+   "explanation": "Several studies have shown that B-blockers decrease infarct-associated mortality (by about 25% when given in the first 2 days and by about 13% when given later). They reduce myocardial remodeling (an increase in myocardial mass that is enhanced by catecholamines and angiotensin II). They also decrease myocardial oxygen demand (by decreasing heart contractility and rate) and the risk of ventricular fibrillation (by decreasing heart conduction and automaticity), and they limit the infarct size, thus decreasing the risk of myocardial rupture.",
+   "source": "Pharmacology IV-2 Q30",
+   "topic": "Medium",
+   "topic_n": 11
+  }
+ ]
+}

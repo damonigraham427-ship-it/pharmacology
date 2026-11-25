@@ -1,0 +1,663 @@
+{
+ "questions": [
+  {
+   "question": "An insulin preparation with a very fast onset of action",
+   "choices": [
+    "Exenatide",
+    "Regular insulin",
+    "Pioglitazone",
+    "Sitagliptin",
+    "Insulin lispro",
+    "Glyburide",
+    "Repaglinide",
+    "Miglitol",
+    "Chlorpropamide",
+    "Metformin",
+    "Insulin glargine",
+    "NPH insulin"
+   ],
+   "answer": 4,
+   "explanation": "Matching item. The printed answer key gives E — Insulin lispro.",
+   "source": "Pharmacology V-6 Q1",
+   "topic": "Easy",
+   "topic_n": 1
+  },
+  {
+   "question": "Insulin preparation that can be used for intravenous administration",
+   "choices": [
+    "Chlorpropamide",
+    "Exenatide",
+    "Miglitol",
+    "Pioglitazone",
+    "Repaglinide",
+    "Insulin glargine",
+    "NPH insulin",
+    "Glyburide",
+    "Insulin lispro",
+    "Sitagliptin",
+    "Regular insulin",
+    "Metformin"
+   ],
+   "answer": 10,
+   "explanation": "Matching item. The printed answer key gives I — Regular insulin.",
+   "source": "Pharmacology V-6 Q2",
+   "topic": "Easy",
+   "topic_n": 2
+  },
+  {
+   "question": "A dipeptidyl peptidase inhibitor",
+   "choices": [
+    "Chlorpropamide",
+    "Repaglinide",
+    "Metformin",
+    "NPH insulin",
+    "Sitagliptin",
+    "Miglitol",
+    "Pioglitazone",
+    "Glyburide",
+    "Insulin lispro",
+    "Regular insulin",
+    "Insulin glargine",
+    "Exenatide"
+   ],
+   "answer": 4,
+   "explanation": "Matching item. The printed answer key gives N — Sitagliptin.",
+   "source": "Pharmacology V-6 Q3",
+   "topic": "Easy",
+   "topic_n": 3
+  },
+  {
+   "question": "An inhibitor of an enzyme located on the brush border of the intestinal epithelium",
+   "choices": [
+    "Metformin",
+    "Glyburide",
+    "Regular insulin",
+    "Exenatide",
+    "Repaglinide",
+    "Miglitol",
+    "Insulin lispro",
+    "Pioglitazone",
+    "Insulin glargine",
+    "Sitagliptin",
+    "Chlorpropamide",
+    "NPH insulin"
+   ],
+   "answer": 5,
+   "explanation": "Matching item. The printed answer key gives G — Miglitol.",
+   "source": "Pharmacology V-6 Q4",
+   "topic": "Easy",
+   "topic_n": 4
+  },
+  {
+   "question": "This noninsulin drug regulates transcription of several insulin-responsive genes.",
+   "choices": [
+    "Repaglinide",
+    "Insulin glargine",
+    "Glyburide",
+    "Exenatide",
+    "Regular insulin",
+    "Miglitol",
+    "Insulin lispro",
+    "Metformin",
+    "Sitagliptin",
+    "Chlorpropamide",
+    "NPH insulin",
+    "Pioglitazone"
+   ],
+   "answer": 11,
+   "explanation": "Matching item. The printed answer key gives M — Pioglitazone.",
+   "source": "Pharmacology V-6 Q5",
+   "topic": "Easy",
+   "topic_n": 5
+  },
+  {
+   "question": "A drug used to treat both diabetes mellitus and diabetes insipidus",
+   "choices": [
+    "Insulin lispro",
+    "Glyburide",
+    "Metformin",
+    "Chlorpropamide",
+    "Repaglinide",
+    "Insulin glargine",
+    "Regular insulin",
+    "Miglitol",
+    "NPH insulin",
+    "Sitagliptin",
+    "Pioglitazone",
+    "Exenatide"
+   ],
+   "answer": 3,
+   "explanation": "Matching item. The printed answer key gives A — Chlorpropamide.",
+   "source": "Pharmacology V-6 Q6",
+   "topic": "Easy",
+   "topic_n": 6
+  },
+  {
+   "question": "Insulin preparation with no peak effect",
+   "choices": [
+    "Sitagliptin",
+    "Glyburide",
+    "NPH insulin",
+    "Insulin lispro",
+    "Pioglitazone",
+    "Insulin glargine",
+    "Miglitol",
+    "Repaglinide",
+    "Metformin",
+    "Exenatide",
+    "Chlorpropamide",
+    "Regular insulin"
+   ],
+   "answer": 5,
+   "explanation": "Matching item. The printed answer key gives C — Insulin glargine.",
+   "source": "Pharmacology V-6 Q7",
+   "topic": "Easy",
+   "topic_n": 7
+  },
+  {
+   "question": "A 44-year-old man with type 1 diabetes started an intensive therapy to achieve a tight control of his diabetes. Which of the following complications will the man be at greatest increased risk of experiencing?",
+   "choices": [
+    "Allergic reactions",
+    "Nephropathy",
+    "Hypertension",
+    "Loss of vision",
+    "Hypoglycemia",
+    "Weigh loss"
+   ],
+   "answer": 4,
+   "explanation": "A large, long-term study has shown that tight control of blood glucose using multiple insulin injections or an insulin pump is associated with a lower incidence of long-term complications from diabetes. However, intensively treated patients had a threefold greater risk of hypoglycemia. A, C These pathologic conditions are decreased, not increased, in patients with tight control of blood glucose. B Hypertension is not affected by tight control of blood glucose. Another study, however, has shown that a tight control of hypertension has a beneficial effect on diabetic microvascular complications. E Tightly controlled diabetic patients have an increased risk of weight gain, not weight loss. F Allergic reactions to insulin are not dose-dependent, so it is unlikely that they are affected by tight control of blood glucose.",
+   "source": "Pharmacology V-6 Q8",
+   "topic": "Easy",
+   "topic_n": 8
+  },
+  {
+   "question": "A 22-year-old woman with type 1 diabetes was brought unconscious to the emergency department. Her blood glucose level was 395 mg/dL (normal 70-110 mg/dL). An intravenous infusion of insulin was started, and 6 hours later the patient's blood glucose decreased to a normal level. Which of the following molecular actions most likely contributed to the therapeutic effect of the drug in the patient's disorder?",
+   "choices": [
+    "Inhibition of glucose transporters in pancreas cell membranes",
+    "Phosphorylation of a tyrosine kinase-linked receptor",
+    "Stimulation of hormone-sensitive lipase",
+    "Activation of adenosine triphosphate (ATP)-sensitive K+ channels in target cells",
+    "Inhibition of liver glucokinase"
+   ],
+   "answer": 1,
+   "explanation": "Insulin binds to a specific transmembrane, tyrosine kinase-linked receptor located in the cell membranes of most tissues. The receptor consists of two α subunits linked to two β subunits. Insulin binding to the α subunits causes the activation of the β-receptor subunit, which contains tyrosine kinase. The enzyme is phosphorylated, which in turn activates a cascade of downstream signaling events that ultimately lead to a hypoglycemic effect. A, C-E All of these actions would increase, not decrease, blood glucose levels.",
+   "source": "Pharmacology V-6 Q9",
+   "topic": "Easy",
+   "topic_n": 9
+  },
+  {
+   "question": "A 17-year-old girl was admitted to the emergency department following a motor vehicle accident. She was obtunded and responded only to pain. Medical history obtained from her mother was unremarkable. Physical examination showed a patient with contusions on her face and arms but no signs of cranial trauma. Vital signs were temperature 97°F (36.1°C), blood pressure 105/70 mm Hg, pulse 112 bpm, respirations 22/min. Pertinent serum values were bicarbonate 6 mEq/L (normal 22-28 mEq/L), glucose 847 mg/dL (normal 70-110 mg/dL), creatinine 1.1 mg/dL (normal 0.6-1.2 mg/dL). Urinalysis showed the following: specific gravity 1.036, glucose 4+, ketones 4+. Which of the following correctly pairs the most likely patient disorder with the appropriate emergency treatment?",
+   "choices": [
+    "Posttraumatic liver failure/IV acetylcysteine",
+    "Diabetic hyperosmolar coma/intravenous (IV) regular insulin",
+    "Diabetic ketoacidosis/IV regular insulin",
+    "Acute renal failure/furosemide",
+    "Respiratory acidosis/IV bicarbonate infusion"
+   ],
+   "answer": 2,
+   "explanation": "Metabolic conditions may be the result of recent injuries, or they may be the cause of altered consciousness leading to the traumatic event, as in this patient. Most likely the girl had undetected diabetes that led to her involvement in the accident. The marked hyperglycemia, glycosuria, and ketosis indicate that the patient has diabetic ketoacidosis and therefore must receive intravenous (IV) regular insulin at once. A Latent diabetes can lead to hyperosmolar coma, which should be treated with IV regular insulin. However, the patient was not unconscious, and the ketotic bodies in the urine indicate that the most likely diagnosis is diabetic ketoacidosis. B Acute renal failure can result from a motor accident. However, the lab results do not indicate kidney insufficiency. C Acute liver failure can occur after trauma, but the patient has no signs or symptoms of acute liver failure. D Even if the patient is acidotic (see the very low bicarbonate level), acidosis is due to diabetes and therefore is metabolic, not respiratory. In fact, respiratory frequency is increased in this patient.",
+   "source": "Pharmacology V-6 Q10",
+   "topic": "Hard",
+   "topic_n": 1
+  },
+  {
+   "question": "A 24-year-old obese woman in her 26th week of pregnancy was diagnosed with gestational diabetes mellitus after a positive glucose tolerance test. She was otherwise healthy, and her past medical history was unremarkable. Dietary management failed to control the blood glucose, and her physician decided to prescribe antidiabetic therapy. Which of the following drugs would be most appropriate for the patient at this time?",
+   "choices": [
+    "Sitagliptin",
+    "Metformin",
+    "Glyburide",
+    "Insulin",
+    "Repaglinide"
+   ],
+   "answer": 3,
+   "explanation": "Gestational diabetes mellitus is defined as any glucose intolerance that develops or is recognized during pregnancy, regardless of severity or time of onset. Gestational diabetes affects about 4% of all pregnancies in the United States and is the most common maternal medical complication during pregnancy. Because gestational diabetes carries several risks for both the mother and the offspring, treatment is mandatory. Most gestational diabetics can control their glucose level with diet and regular exercise; drug therapy is needed only if these procedures are failing, as in this case. Insulin is the hypoglycemic drug of choice during pregnancy because it does not cross the placenta and has an established safety record for both mother and fetus. A-C, E Although recent evidence suggests that glyburide or metformin can be effective in diabetes during pregnancy, most authorities believe that oral antidiabetic agents should be used during pregnancy only in the setting of approved clinical trials.",
+   "source": "Pharmacology V-6 Q11",
+   "topic": "Easy",
+   "topic_n": 10
+  },
+  {
+   "question": "A 60-year-old woman with a long history of severe type 2 diabetes had been taking multiple daily injections of insulin, including an insulin glargine preparation. Which of the following sets of properties (from A to E) best describes the time course of effects of this preparation?",
+   "choices": [
+    "Onset of effect 0.25 h, no peak, duration of effect 3-5 h",
+    "Onset of effect 1-4 h, peak effect 6-10 h, duration of effect 12 h",
+    "Onset of effect 1-4 h, no peak, duration of effect 24 h",
+    "Onset of effect 0.25 h, peak effect 2-3 h, duration of effect 3-5 h",
+    "Onset of effect 1-2 h, peak effect 6-10 h, duration of effect 12 h"
+   ],
+   "answer": 2,
+   "explanation": "Insulin glargine is a long-acting insulin analogue that was designed to provide a broad plasma concentration plateau. It has an onset of action of 1 to 4 hours, achieves a maximum effect after 4 to 6 hours, and can maintain this effect for over 24 hours. It is usually given once daily to provide basal levels of insulin. A-D See correct answer explanation.",
+   "source": "Pharmacology V-6 Q12",
+   "topic": "Easy",
+   "topic_n": 11
+  },
+  {
+   "question": "A 7-year-old boy was brought to the emergency department by his parents because of nausea, vomiting, and persistent abdominal pain secondary to the flu. Medical history of the patient was unremarkable. Pertinent serum values on admission were fasting blood glucose 300 mg/dL (70-110 mg/dL), glycosuria 3+. Which of the following drugs would be appropriate for this patient?",
+   "choices": [
+    "Regular insulin",
+    "Glyburide",
+    "Pioglitazone",
+    "Repaglinide",
+    "Miglitol",
+    "Metformin"
+   ],
+   "answer": 0,
+   "explanation": "The age, symptoms, lab values, and history of the patient indicate that he was most likely suffering from type 1 diabetes. An acute viral illness can trigger autoimmune destruction of the pancreas in genetically susceptible individuals. Because of the markedly diminished insulin levels associated with type 1 diabetes, insulin is crucial to the survival of these patients. B-F Oral hypoglycemic agents are not useful in type 1 diabetes.",
+   "source": "Pharmacology V-6 Q13",
+   "topic": "Easy",
+   "topic_n": 12
+  },
+  {
+   "question": "An 11-year-old boy recently diagnosed with type 1 diabetes started insulin therapy. Which of the following insulin regimens (from A to E) would be appropriate for the chronic therapy of this boy? (Abbreviation: NPH, neutral protamine Hagedorn, or isophane insulin.)",
+   "choices": [
+    "Before breakfast: NPH; before lunch: Lispro; before supper: NPH; bedtime: Lispro",
+    "Before breakfast: Lispro; before lunch: Lispro; before supper: Lispro; bedtime: Glargine",
+    "Before breakfast: Lispro; before lunch: Regular; before supper: none; bedtime: Regular",
+    "Before breakfast: Regular; before lunch: none; before supper: none; bedtime: Lispro",
+    "Before breakfast: Glargine; before lunch: none; before supper: none; bedtime: none"
+   ],
+   "answer": 1,
+   "explanation": "Endocrinologists have developed a variety of insulin regimens that are intended to mimic the release of insulin from the pancreas. The general goal of these insulin regimens is to provide a basal level of insulin over 24 hours and to supply additional mealtime insulin coverage. This can be done by administering a rapid-acting insulin at meals and a long-acting insulin at bedtime to ensure basal coverage for the following 24 hours. B A regular insulin at breakfast cannot supply a basal level of insulin over 24 hours. Moreover, rapid-acting insulins such as lispro are given to control postprandial hyperglycemia; administration at bedtime is irrational. C NPH (neutral protamine Hagedorn) insulin at breakfast and lunch can supply a basal level of insulin over 24 hours but cannot control postprandial hyperglycemia. D This regimen cannot provide a basal level of insulin over 24 hours. E Insulin glargine alone cannot control postprandial hyperglycemia.",
+   "source": "Pharmacology V-6 Q14",
+   "topic": "Medium",
+   "topic_n": 1
+  },
+  {
+   "question": "A 42-year-old woman recently diagnosed with lupus erythematosus started a treatment with a high daily dose of prednisone. The woman had a history of type 1 diabetes currently controlled with two daily administrations of premixed insulin. Which of the following changes in the patient's antidiabetic regimen should be made at this time?",
+   "choices": [
+    "Add exenatide to the antidiabetic regimen.",
+    "Add sitagliptin to the antidiabetic regimen.",
+    "Add glyburide to the antidiabetic regimen.",
+    "Decrease the daily insulin dosage.",
+    "Increase the daily insulin dosage."
+   ],
+   "answer": 4,
+   "explanation": "In a diabetic patient on insulin therapy, the daily dose of insulin is often increased when a new therapy is started with a drug that can cause hyperglycemia, especially if the new drug is given in high doses, as in this case. A See correct answer explanation. C-E These drugs are approved for type 2 diabetes, as they can increase insulin synthesis and release. They are of very little value in type 1 diabetes, where the insulin synthesis is already severely decreased or absent.",
+   "source": "Pharmacology V-6 Q15",
+   "topic": "Medium",
+   "topic_n": 2
+  },
+  {
+   "question": "A 16-year-old boy suffering from type 1 diabetes was admitted to the emergency department with the chief complaint of severe right-sided chest pain. Two hours earlier, he felt feverish and experienced a teeth-chattering chill. The patient's diabetes was well controlled on two daily administrations of premixed insulin. The patient was also very compliant with his prescribed diet. After physical examination and laboratory tests, a diagnosis of atypical pneumonia was made. Which of the following changes in the patient's treatment should be appropriate at this time?",
+   "choices": [
+    "Start a course of vancomycin therapy.",
+    "Increase the daily insulin dosage.",
+    "Add a daily administration of chlorpropamide.",
+    "Start a course of ampicillin therapy.",
+    "Add a daily administration of metformin."
+   ],
+   "answer": 1,
+   "explanation": "Insulin requirement always increases in the presence of stressful situations, including acute illnesses. This is, at least in part, because of hyperglycemia brought about by the high plasma cortisol levels associated with stress. B, D These antibiotics are not effective against Mycoplasma pneumoniae or Chlamydia pneumoniae, the most frequent causative agents of atypical pneumonia. C, E Because insulin requirement is increased, the best course of action is to increase the daily insulin dosage, not to add an oral antidiabetic agent.",
+   "source": "Pharmacology V-6 Q16",
+   "topic": "Easy",
+   "topic_n": 13
+  },
+  {
+   "question": "A 55-year-old woman suffering from type 2 diabetes had started treatment with metformin, but the drug was poorly tolerated, and her physician decided to shift to repaglinide. Which of the following actions most likely mediated the therapeutic effect of repaglinide in the patient's disease?",
+   "choices": [
+    "Blockade of β2 receptors in the liver",
+    "Regulation of transcription of genes involved in glucose utilization",
+    "Stimulation of insulin release",
+    "Blockade of somatostatin receptors in the pancreas",
+    "Blockade of glucagon receptors",
+    "Decreased glucose absorption from the gastrointestinal tract"
+   ],
+   "answer": 2,
+   "explanation": "Repaglinide is a meglitinide derivative with mechanisms of action very close to those of sulfonylureas. The main mechanism is stimulation of insulin release, most likely due to the drug-induced closure of adenosine triphosphate (ATP)-dependent K+ channels. This causes a membrane depolarization, which in turn opens voltage-gated Ca2+ channels, allowing Ca2+-mediated exocytosis of insulin. A-D, F All of these actions would decrease the hyperglycemia, but they are not elicited by repaglinide.",
+   "source": "Pharmacology V-6 Q17",
+   "topic": "Easy",
+   "topic_n": 14
+  },
+  {
+   "question": "An 8-year-old girl diagnosed with type 1 diabetes began treatment with insulin. Which of the following actions on lipid metabolism most likely occurred in this patient after starting the therapy?",
+   "choices": [
+    "Decreased synthesis of lipoprotein lipase",
+    "Increased activity of hormone-sensitive lipase",
+    "Decreased triglyceride storage in fat tissue",
+    "Increased lipid breakdown by the liver",
+    "Increased triglyceride synthesis"
+   ],
+   "answer": 4,
+   "explanation": "Insulin influences lipid metabolism in both the liver and adipose tissue. In the liver, insulin favors esterification of fatty acids with glycerol, thus forming triglycerides. In adipose tissue, insulin affects lipid metabolism by the following actions: * It promotes the breakdown of glucose to α-glycerol phosphate that is used to synthesize triglycerides. It inhibits the activity of hormone-sensitive triglyceride lipase, the enzyme that mediates the conversion of stored triglycerides to fatty acids. It increases the synthesis of lipoprotein lipase, the enzyme that is transferred to endothelial cells where it cleaves triglycerides into glycerol and fatty acids. A, B, D, E Insulin elicits actions opposite to those listed.",
+   "source": "Pharmacology V-6 Q18",
+   "topic": "Easy",
+   "topic_n": 15
+  },
+  {
+   "question": "A 59-year-old man suffering from type 2 diabetes had been receiving an oral antidiabetic therapy that included a drug that closes adenosine triphosphate (ATP)-sensitive K+ channels on pancreatic B-cell membranes. Which of the following drugs most likely uses this mechanism of action?",
+   "choices": [
+    "Exenatide",
+    "Acarbose",
+    "Glyburide",
+    "Insulin",
+    "Metformin",
+    "Pioglitazone"
+   ],
+   "answer": 2,
+   "explanation": "Sulfonylureas such as glyburide act by binding to a specific receptor that is closely linked to the adenosine triphosphate (ATP)-sensitive K+ channels in pancreatic B-cell membranes. This causes a blockade of the efflux of K+, which in turn leads to membrane depolarization. Voltage-gated Ca2+ channels open in response to depolarization, thus increasing intracellular Ca2+ concentrations. This increased concentration ultimately stimulates the release of insulin by exocytosis. A, D, F Acarbose, metformin, and pioglitazone can be used in the treatment of type 2 diabetes, but none of them have the described mechanism of action. B, E Insulin and exenatide are not orally active.",
+   "source": "Pharmacology V-6 Q19",
+   "topic": "Easy",
+   "topic_n": 16
+  },
+  {
+   "question": "A 78-year-old man was brought to the emergency room exhibiting bizarre behavior and paranoid ideation. He complained of headache, mental confusion, weakness, dizziness, and blurred vision. The man was suffering from type 2 diabetes, which was being treated with an oral antidiabetic drug. Pertinent serum values on admission were creatinine 1.8 mg/dL (normal 0.6-1.2 mg/dL), glucose 50 mg/dL (normal 70-110 mg/dL). Which of the following drugs most likely caused the patient's signs and symptoms?",
+   "choices": [
+    "Acarbose",
+    "Pioglitazone",
+    "Metformin",
+    "Glyburide",
+    "Exenatide"
+   ],
+   "answer": 3,
+   "explanation": "The low glucose level indicates that the behavior and symptoms of the patient are due to hypoglycemia; that is, they are neuroglycopenic symptoms. These symptoms are more frequent in older patients under antidiabetic treatment. In fact, sulfonylureas account for almost all cases of drug-induced hypoglycemia in individuals older than 60. A, B, D These drugs are considered euglycemic, not hypoglycemic, because they do not cause hypoglycemia when given alone. E Exenatide is a glucagon-like polypeptide 1 (GLP-1) receptor agonist. It is a peptide and therefore is given by the parenteral route only. Moreover, it does not cause hypoglycemia when given alone.",
+   "source": "Pharmacology V-6 Q20",
+   "topic": "Medium",
+   "topic_n": 3
+  },
+  {
+   "question": "A 52-year-old alcoholic man was brought unconscious to the emergency department. On admission, the patient was sweating, his body temperature was 94.5°F (34.7°C), and his cardiac pulse was 135 bpm. Shortly after admission, the patient developed a tonic-clonic seizure. His wife reported the man was a diabetic on insulin therapy. Which of the following disorders most likely caused the patient's syndrome?",
+   "choices": [
+    "Hyperosmolar coma due to alcohol overdose",
+    "Hyperglycemia due to insulin resistance",
+    "Hyperglycemia due to alcohol withdrawal",
+    "Anaphylactic reaction to insulin",
+    "Hypoglycemia due to alcohol consumption",
+    "Ketoacidosis due to insufficient insulin therapy"
+   ],
+   "answer": 4,
+   "explanation": "The patient's signs (unconsciousness, sweating, hypothermia, tachycardia, and tonic-clonic seizure) and his history (alcoholic and insulin treatment) indicate that he was suffering from hypoglycemic coma. Hypoglycemia often occurs in alcoholics, likely due to a combination of starvation and impaired liver gluconeogenesis. In this case, the insulin treatment most likely made the patient even more sensitive to the hypoglycemic effects of alcohol, thus precipitating the hypoglycemic coma. A, C, D Signs of hyperglycemia and ketoacidosis are different (often opposite) to those shown by the patient. E Signs of an anaphylactic reaction are different from those shown by the patient. F Hyperosmolar coma can follow an excessive dose of alcohol. Signs of this coma are different from those shown by the patient.",
+   "source": "Pharmacology V-6 Q21",
+   "topic": "Easy",
+   "topic_n": 17
+  },
+  {
+   "question": "A 12-year-old boy diagnosed with type 1 diabetes started a treatment with insulin. Which of the following sets of effects on the liver most likely contributed to the therapeutic effect of the drug in the patient's disease?",
+   "choices": [
+    "Glycolysis increased, gluconeogenesis increased, glycogenolysis decreased",
+    "Glycolysis increased, gluconeogenesis decreased, glycogenolysis decreased",
+    "Glycolysis increased, gluconeogenesis no change, glycogenolysis decreased",
+    "Glycolysis no change, gluconeogenesis increased, glycogenolysis increased",
+    "Glycolysis decreased, gluconeogenesis no change, glycogenolysis no change"
+   ],
+   "answer": 1,
+   "explanation": "Insulin increases glycolysis and decreases glycogenolysis and gluconeogenesis in the liver. The final effect is a decrease of glucose production and an increase of glucose utilization. A, C-E See correct answer explanation.",
+   "source": "Pharmacology V-6 Q22",
+   "topic": "Easy",
+   "topic_n": 18
+  },
+  {
+   "question": "A 56-year-old man was found to have the following serum values during a routine clinic visit: fasting blood glucose 146 mg/dL (normal 70-110 mg/dL), glycated hemoglobin (HbA1c) 7.4% (normal 6%), total cholesterol 160 mg/dL (normal < 200 mg/dL). The patient had been suffering from type 2 diabetes for 6 years, and his disease was well controlled with diet and metformin until the most recent visit. The patient was otherwise healthy, and physical examination was unremarkable. All tests were confirmed in a second exam. Which of the following would be the most appropriate next step in the management of the patient's disease?",
+   "choices": [
+    "Add lovastatin to the current regimen.",
+    "Substitute metformin with insulin.",
+    "Substitute metformin with repaglinide.",
+    "Substitute metformin with pioglitazone.",
+    "Add glyburide to the current regimen."
+   ],
+   "answer": 4,
+   "explanation": "The patient's serum values indicate that the control of his diabetes was no longer adequate. When a single oral antidiabetic agent fails to control the disease, a second oral agent should be added to the therapy. Many combinations of antidiabetic agents can be used. The key is that they should have different mechanisms of action. Because the patient was on metformin, the addition of a sulfonylurea is appropriate. B, C Substitution of an oral antidiabetic agent with another usually does not produce any significant change in glycemic control. D Diabetes is a progressive condition, and most patients with type 2 diabetes eventually require insulin. However, insulin is usually added to, not substituted for, oral agents when diabetic control is not achieved. E Because the patient's total cholesterol is low, lovastatin is not needed.",
+   "source": "Pharmacology V-6 Q23",
+   "topic": "Easy",
+   "topic_n": 19
+  },
+  {
+   "question": "A 59-year-old woman recently diagnosed with type 2 diabetes started a therapy with diet and metformin. Which of the following actions most likely mediated the therapeutic effect of the drug in the patient's disease?",
+   "choices": [
+    "Blockade of adenosine triphosphate (ATP)-sensitive K+ channels",
+    "Activation of adenosine monophosphate (AMP)-activated protein kinase",
+    "Inhibition of metabolism of incretin hormones",
+    "Blockade of glucagon receptors",
+    "Activation of glucagon-like polypeptide-1 (GLP-1) receptors"
+   ],
+   "answer": 1,
+   "explanation": "Biguanides such as metformin cause activation of adenosine monophosphate (AMP)-activated protein kinase, an enzyme that acts as a sensor of cellular energy status in all eukaryotic cells. The enzyme is activated when cellular energy stores are reduced or when biguanide drugs are administered. Its activation in turn causes * Inhibition of gluconeogenesis and lipogenesis * Stimulation of glucose uptake and utilization (glycolysis) * Stimulation of fatty acid oxidation * Reduction of plasma glucagon levels The net result is increased glycogen storage in skeletal muscle, decreased glucose production by the liver, and decreased hyperglycemia. A-C, E All of these actions would decrease hyperglycemia, but they are not elicited by metformin.",
+   "source": "Pharmacology V-6 Q24",
+   "topic": "Easy",
+   "topic_n": 20
+  },
+  {
+   "question": "A 56-year-old woman was recently diagnosed with type 2 diabetes. Her medical history was significant for a serious allergic reaction to sulfamethoxazole and for recurrent urinary tract infections presently treated with ciprofloxacin. An appropriate therapy was prescribed that included a strict diet and an oral antidiabetic drug. Which of the following drugs would be contraindicated for this patient?",
+   "choices": [
+    "Pioglitazone",
+    "Glyburide",
+    "Acarbose",
+    "Metformin",
+    "Repaglinide"
+   ],
+   "answer": 1,
+   "explanation": "Glyburide is a sulfonylurea-derivative antidiabetic drug. Sulfonylureas are sulfa drugs (i.e., they have a sulfur group in their molecule), and are therefore contraindicated in patients with a history of previous severe allergic reaction to sulfonamides, as in this case. B-E These oral antidiabetic agents are not sulfa drugs.",
+   "source": "Pharmacology V-6 Q25",
+   "topic": "Easy",
+   "topic_n": 21
+  },
+  {
+   "question": "A 78-year-old woman with type 2 diabetes was brought unconscious to the emergency department. Her husband stated that the woman took several pills of her antidiabetic medication in a suicide attempt. On admission, vital signs were blood pressure 134/90, pulse 80 bpm, respirations 22/min. Laboratory data showed an anion gap of 24 mmol/L (normal < 12 mmol/L), plasma lactate of 6 mmol/L (normal 0.5-1.5 mmol/L), creatinine 3.2 mg/dL (normal 0.6-1.2 mg/dL), and arterial blood pH 7.24 (normal 7.35-7.45). Which of the following drugs most likely caused the patient's signs and symptoms?",
+   "choices": [
+    "Repaglinide",
+    "Insulin",
+    "Pioglitazone",
+    "Glucagon",
+    "Metformin",
+    "Glyburide"
+   ],
+   "answer": 4,
+   "explanation": "The patient's symptoms and the lab data indicate that she was suffering from lactic acidosis, a serious adverse effect of biguanides. Lactic acidosis is extremely rare, but it can result from metformin overdose, especially in patients with renal insufficiency (the drug is all eliminated by the kidney), as in this case. The syndrome is highly lethal (50% mortality) and seems to be due to drug-induced inhibition of gluconeogenesis, which in turn impairs the hepatic uptake of lactic acid. A, C-F Overdose of these drugs does not cause lactic acidosis.",
+   "source": "Pharmacology V-6 Q26",
+   "topic": "Easy",
+   "topic_n": 22
+  },
+  {
+   "question": "A 57-year-old obese man was diagnosed with type 2 diabetes mellitus. The patient had been suffering from chronic obstructive pulmonary disease for 5 years and from hypertension for 3 years. His current therapy included ipratropium and captopril. Which of the following antidiabetic drugs would be relatively contraindicated in this patient?",
+   "choices": [
+    "Acarbose",
+    "Sitagliptin",
+    "Glyburide",
+    "Repaglinide",
+    "Metformin"
+   ],
+   "answer": 4,
+   "explanation": "Biguanides can cause lactic acidosis and therefore are relatively contraindicated in all conditions that predispose to acidosis. This patient is suffering from chronic obstructive pulmonary disease and is under treatment with an angiotensin-converting enzyme (ACE) inhibitor. The respiratory disease predisposes to respiratory acidosis, and ACE inhibitors predispose to metabolic acidosis because they lower aldosterone serum levels. A, C-E None of these drugs are contraindicated in this patient.",
+   "source": "Pharmacology V-6 Q27",
+   "topic": "Medium",
+   "topic_n": 4
+  },
+  {
+   "question": "A 51-year-old man with a long history of severe type 2 diabetes had been on a pharmacotherapy that involved two different insulin formulations. Several available insulin formulations differ from one another primarily because of which of the following pharmacokinetic properties?",
+   "choices": [
+    "Total clearance",
+    "Rate of absorption",
+    "Volume of distribution",
+    "Elimination half-lives",
+    "Oral bioavailability"
+   ],
+   "answer": 1,
+   "explanation": "Insulin formulations differ one from another in the absorption rate of the drug from subcutaneous tissue, which in turn affects the duration of action of the drug. The variation in absorption is accomplished in the following ways: * Modification of the insulin molecule (by recombinant technology) * Conjugation of insulin with protamine in a low soluble complex. After injection, proteolytic enzymes degrade protamine, allowing absorption of insulin. * Combination of insulin with zinc to form zinc salts. After injection, the salt precipitates, and insulin is slowly released. B, C These properties refer to the elimination of the drug and therefore are not affected by variations in the rate of absorption. D The distribution of a drug is not affected by variation in absorption. E The oral bioavailability of all insulin preparations is zero.",
+   "source": "Pharmacology V-6 Q28",
+   "topic": "Easy",
+   "topic_n": 23
+  },
+  {
+   "question": "A 66-year-old man suffering from type 2 diabetes had been receiving a combination therapy with metformin and glyburide, but 2 months later lab exams indicated that the control of his diabetes was inadequate. His physician decided to add pioglitazone to the treatment regimen. Which of the following molecular actions most likely mediated the therapeutic effect of the added drug in the patient's disease?",
+   "choices": [
+    "Inhibition of incretin hormone metabolism",
+    "Slowing glucose absorption from the gastrointestinal tract",
+    "Activation of adenosine monophosphate (AMP)-activated protein kinase",
+    "Regulation of transcription of genes related to glucose utilization",
+    "Activation of glucagon-like polypeptide-1 (GLP-1) receptors",
+    "Blockade of K+ channels in pancreatic B-cell membranes"
+   ],
+   "answer": 3,
+   "explanation": "Pioglitazone is a thiazolidinedione derivative. Thiazolidinediones act by binding to a nuclear receptor called peroxisome proliferator activated receptor gamma (PPAR-γ), which is located mainly in adipose tissue, skeletal muscle, and liver. The receptor regulates the transcription of several insulin-responsive genes. The overall effect is an enhancement of tissue sensitivity to insulin (i.e., a reduction in insulin resistance). Therefore, the need for exogenous insulin is reduced. Because of this, they are called insulin sensitizers. A This is the mechanism of miglitol. B This is the mechanism of sulfonylureas C This is the mechanism of sitagliptin. D This is the mechanism of exenatide. E This is the mechanism of metformin.",
+   "source": "Pharmacology V-6 Q29",
+   "topic": "Easy",
+   "topic_n": 24
+  },
+  {
+   "question": "A 54-year-old man complained to his physician of an annoying dry cough over the past few days and an unexpected weight gain over the past few weeks. The patient had been suffering from type 2 diabetes for 3 years, presently controlled with a combination of oral antidiabetic agents. Physical examination showed evident peripheral edema, mild jugular venous distention, and rales on both lungs. Which of the following drugs most likely caused the patient's signs and symptoms?",
+   "choices": [
+    "Glyburide",
+    "Pioglitazone",
+    "Exenatide",
+    "Acarbose",
+    "Metformin"
+   ],
+   "answer": 1,
+   "explanation": "The patient's signs and symptoms indicated that he was suffering from edema, weight gain, and initial heart failure. Pioglitazone is a thiazolidinedione derivative. Most common adverse effects of these drugs are edema (up to 27%), weight gain (up to 14%), and upper respiratory tract infections (up to 15%). In addition, they can cause heart failure, mainly in at-risk patients; these patients should be closely monitored. A-C, E These drugs do not cause all of the signs and symptoms reported by the patient.",
+   "source": "Pharmacology V-6 Q30",
+   "topic": "Easy",
+   "topic_n": 25
+  },
+  {
+   "question": "A 65-year-old obese man was in his physician's office for a routine visit. The patient had been suffering from type 2 diabetes for 1 year, and the disease was reasonably well controlled with diet and metformin. Physical examination showed that body mass index was increased about 40% from the last visit, and abdominal obesity was evident. Vital signs of the patient were blood pressure 150/90 mm Hg, pulse 85 bpm, respirations 14/min. Further laboratory tests showed the following serum values: fasting glucose 155 mg/dL (normal 70-110 mg/dL), fasting insulin 60 IU/mL (normal 5-20 IU/mL), total cholesterol 340 mg/dL (normal > 200 mg/dL). The patient was most likely suffering from which of the following pathologic conditions?",
+   "choices": [
+    "Insulin resistance",
+    "Hypoglycemic reaction",
+    "Unstable angina",
+    "Lactic acidosis",
+    "Diabetic ketoacidosis"
+   ],
+   "answer": 0,
+   "explanation": "The simultaneous elevation of blood glucose and insulin levels is strongly suggestive of insulin resistance. Insulin resistance can develop especially in diabetics who have a clustering of cardiovascular risk factors, including hypertension, abdominal obesity, and dyslipidemia. The association of insulin resistance with the above-mentioned clustering has been referred to by a variety of names, including insulin resistance syndrome, metabolic syndrome, and dysmetabolic syndrome. The prevalence of this syndrome is more than 30% in the US population. An estimated 75% of patients with type 2 diabetes have metabolic syndrome, as in this case. The syndrome is strongly associated with an increased risk of cardiovascular diseases. A Metformin can cause lactic acidosis, but symptoms of this disorder (vomiting, lethargy, hyperventilation, hypotension) are absent in this patient. B Because the patient has hyperglycemia and insulin resistance, a hypoglycemic reaction is quite unlikely. C The patient is at increased risk of unstable angina, but symptoms of unstable angina are absent in this patient. D The signs and symptoms of ketoacidosis are absent in this patient.",
+   "source": "Pharmacology V-6 Q31",
+   "topic": "Easy",
+   "topic_n": 26
+  },
+  {
+   "question": "A 70-year-old man was admitted to the hospital because of anorexia, nausea and vomiting, and an unpleasant taste in his mouth for the past 12 hours. The man had been suffering from type 2 diabetes for 10 years and was being treated with metformin and sitagliptin. He also had a long history of hypertension and hypercholesterolemia, currently controlled with losartan, nifedipine, and lovastatin. Pertinent laboratory serum levels on admission were fasting blood glucose 115 mg/dL (normal 70-110), creatinine 3.4 mg/dL (normal 0.6-1.2 mg/dL), blood urea nitrogen (BUN) 42 mg/dL (normal 7-18 mg/dL), high-density lipoprotein (HDL) cholesterol 85 mg/dL (normal < 100 mg/dL). Taking into account the patient's history and symptoms, which of the following drugs should be removed from his current therapeutic regimen?",
+   "choices": [
+    "Sitagliptin",
+    "Losartan",
+    "Lovastatin",
+    "Metformin",
+    "Nifedipine"
+   ],
+   "answer": 3,
+   "explanation": "The patient's symptoms and serum values indicate that he was most likely suffering from kidney failure (see high creatinine and blood urea nitrogen [BUN] values), a frequent complication of long-standing diabetes and hypertension. Metformin is excreted as such by the kidney and is therefore absolutely contraindicated in a patient with renal failure. A-D These drugs are not contraindicated in renal failure.",
+   "source": "Pharmacology V-6 Q32",
+   "topic": "Medium",
+   "topic_n": 5
+  },
+  {
+   "question": "A 47-year-old obese woman was found to have the following serum levels during a routine clinic visit: fasting blood glucose 122 mg/dL (normal 70-110 mg/dL), triglycerides 390 mg/dL (normal < 150 mg/dL), total cholesterol 220 mg/ dL (normal < 200 mg/dL), glycated hemoglobin (HbA1c) 6.1% (normal < 6%). Past history of the patient was unremarkable, and the woman had no significant symptoms. Which of the following would be the most appropriate pharmacotherapy for this patient?",
+   "choices": [
+    "Exenatide",
+    "Metformin",
+    "Insulin",
+    "Miglitol",
+    "Glyburide"
+   ],
+   "answer": 1,
+   "explanation": "The absence of subjective symptoms and the values of fasting blood glucose and glycated hemoglobin (HbA1c; both are in the prediabetic range) indicate that the patient was most likely suffering from prediabetes, a state in which some, but not all, of the diagnostic criteria for diabetes are met. Prediabetes is also called impaired glucose tolerance (IGT) or impaired fasting glucose (IFG), depending on the test used to measure blood glucose levels. Having prediabetes puts the patient at higher risk for developing type 2 diabetes. People with prediabetes are also at increased risk for developing cardiovascular disease. Newly diagnosed prediabetic states are normally managed with diet and physical activity, but when dyslipidemia is also present, a pharmacotherapy is usually administered. Metformin can decrease serum triglycerides by 15 to 20% and serum cholesterol by 10%. In addition, it can decrease body weight and is therefore appropriate for obese patients, as in this case. A, C-E See correct answer explanation.",
+   "source": "Pharmacology V-6 Q33",
+   "topic": "Easy",
+   "topic_n": 27
+  },
+  {
+   "question": "A 7-year-old boy diagnosed with type 1 diabetes started a treatment with insulin. Which of the following actions on glucose metabolism most likely occurred in this patient after starting the therapy?",
+   "choices": [
+    "Decreased glucose-6-phosphate synthesis",
+    "Increased liver glucose uptake",
+    "Increased glycogen synthase activity",
+    "Decreased glucokinase activity",
+    "Decreased glycerol synthesis"
+   ],
+   "answer": 2,
+   "explanation": "Insulin influences glucose metabolism mainly in liver, adipose tissue, and muscle. In liver and muscle, the hormone increases glycogen synthase activity, thus increasing glycogen synthesis. A Glucose enters the hepatocyte from the blood through glucose transporter 2 (GLUT2), whose activity is not influenced by insulin. C-E Insulin elicits actions opposite to those listed.",
+   "source": "Pharmacology V-6 Q34",
+   "topic": "Easy",
+   "topic_n": 28
+  },
+  {
+   "question": "A 62-year-old woman recently diagnosed with type 2 diabetes started a therapy that included acarbose. Inhibition of which of the following enzymes most likely mediated the therapeutic effect of the drug in the patient's disease?",
+   "choices": [
+    "Glucokinase",
+    "Hormone-sensitive lipase",
+    "Acyltransferase",
+    "Alpha-glucosidase",
+    "Pyruvate carboxylase"
+   ],
+   "answer": 3,
+   "explanation": "Acarbose and miglitol are inhibitors of α-glucosidase, an enzyme located on the brush border of intestinal cells that is involved in the breakdown of starches and disaccharides into simple sugars. Inhibition of this enzyme slows the absorption of carbohydrates from the gastrointestinal tract and blunts the rate of rise of postprandial glucose. A This is a liver enzyme that catalyzes the first step in gluconeogenesis. C This is a liver enzyme that phosphorylates glucose to glucose-6-phosphate. D, E These are adipocyte enzymes involved in lipid metabolism.",
+   "source": "Pharmacology V-6 Q35",
+   "topic": "Easy",
+   "topic_n": 29
+  },
+  {
+   "question": "A 50-year-old obese woman with type 2 diabetes was found to have inadequate control of her disease 2 months after starting therapy with metformin and glyburide. The physician decided to add exenatide to the treatment regimen. Which of the following molecular actions most likely mediated the therapeutic effect of the added drug in the patient's disease?",
+   "choices": [
+    "Activation of adenosine monophosphate (AMP)-activated protein kinase",
+    "Activation of adenosine triphosphate (ATP)-sensitive K+ channels",
+    "Phosphorylation of tyrosine kinase receptor",
+    "Inhibition of α-glucosidase",
+    "Activation of glucagon-like polypeptide-1 (GLP-1) receptors",
+    "Inhibition of dipeptidyl peptidase-4"
+   ],
+   "answer": 4,
+   "explanation": "Exenatide is a glucagon-like polypeptide-1 (GLP-1) receptor agonist. GLP-1 is one of the so-called incretin hormones, a group of small intestinal peptides that are released after meals and stimulate “glucose-activated” insulin secretion. This ultimately decreases fasting and postprandial glucose excursions, thus avoiding the risk of hyper- or hypoglycemia. Other useful effects of the drug are suppression of glucagon secretion, slowing gastric emptying (thus slowing the rate of glucose entry into the circulation), and decreased appetite, which in turn can cause weight loss. Exenatide is therefore especially useful in obese diabetic patients, as in this case. A-C, E, F See correct answer explanation.",
+   "source": "Pharmacology V-6 Q36",
+   "topic": "Easy",
+   "topic_n": 30
+  },
+  {
+   "question": "A 13-year-old boy with type 1 diabetes received his morning injection of a mixture of insulin lispro and glargine. A few hours later, he was found unconscious in his room. His heart rate was 120 bpm and body temperature 94.7°F (34.8°C), and tetanic contractions of skeletal muscles were present. Which of the following would be the immediate appropriate treatment for this patient?",
+   "choices": [
+    "Oral glucose",
+    "Regular insulin intravenous",
+    "Glucagon intramuscular (IM)",
+    "Oral metformin",
+    "Epinephrine IM",
+    "Exenatide IM"
+   ],
+   "answer": 2,
+   "explanation": "The patient's history and symptoms indicate that he was suffering from hypoglycemic coma. Hypoglycemia is a serious and often life-threatening complication of diabetes management, especially in children. The major use of glucagon is for emergency treatment of severe hypoglycemic reactions when unconsciousness precludes oral feeding and intravenous glucose is not available, as in this case. The drug is usually given intramuscularly, most frequently by a patient's family member who is trained to administer the drug. Because the action of glucagon is transient, patients should be given glucose as soon they regain consciousness. A, B, D-F See correct answer explanation.",
+   "source": "Pharmacology V-6 Q37",
+   "topic": "Easy",
+   "topic_n": 31
+  },
+  {
+   "question": "A 63-year-old obese man complained to his physician of flatulence, belching, diarrhea, and abdominal pain soon after starting an appropriate oral therapy for type 2 diabetes. The disease was diagnosed after the man was found to have a fasting blood glucose level of 170 mg/dL, and subsequent lab exams revealed decreased glucose tolerance and fasting hyperglycemia. Which of the following drugs most likely caused the patient's symptoms?",
+   "choices": [
+    "Metformin",
+    "Repaglinide",
+    "Pioglitazone",
+    "Miglitol",
+    "Regular insulin",
+    "Glyburide"
+   ],
+   "answer": 3,
+   "explanation": "Miglitol is an α-glucosidase inhibitor. These drugs are approved for people with type 2 diabetes as monotherapy and in combination with other oral antidiabetic drugs. The patient's symptoms are classic adverse effects of α-glucosidase inhibitors, which occur in more than 50% of subjects at the start of the therapy. These drugs decrease the absorption of monosaccharides from the duodenum and upper jejunum by inhibiting the enzyme that is involved in the breakdown of starches into simple sugars. The adverse effects are due to fermentation of unabsorbed carbohydrates in the small intestine. A, B, D-F These drugs do not cause the collection of symptoms reported by the patient.",
+   "source": "Pharmacology V-6 Q38",
+   "topic": "Easy",
+   "topic_n": 32
+  },
+  {
+   "question": "A 48-year-old obese man complained of frequent thirst and polyuria. His past history included serious angioedema apparently due to an allergic reaction to sulfonamide therapy. In the past he tried many times to control his diet without success. A fasting plasma glucose level was found to be 180 mg/dL (normal 70-110 mg/dL). Which of the following would be an appropriate treatment for this patient?",
+   "choices": [
+    "Insulin lispro",
+    "Metformin",
+    "NPH (neutral protamine Hagedorn) insulin",
+    "Chlorpropamide",
+    "Strict dietary control"
+   ],
+   "answer": 1,
+   "explanation": "The symptoms of the patient and the lab results indicate that he is most likely suffering from type 2 diabetes mellitus, which is characterized by defects in insulin secretion, resistance to insulin action, and increased hepatic glucose production. Obese individuals constitute 60 to 90% of the type 2 diabetic population. A stepped care approach to type 2 diabetes mellitus indicates lifestyle modifications in case of a fasting plasma glucose less than 240 mg/dL and no or mild symptoms. If this goal is not achieved, monotherapy should be initiated with any oral antidiabetic drug. Metformin is the first-line agent for type 2 diabetes. Moreover, the serious allergic reaction to sulfonamides contraindicates the use of sulfonylureas in this patient. A To try strict dietary control would be useless in this patient because of the history of repeated past failures. B See correct answer explanation. D, E Insulin should be used in type 2 diabetes only when control is not achieved with oral antidiabetic drugs.",
+   "source": "Pharmacology V-6 Q39",
+   "topic": "Easy",
+   "topic_n": 33
+  },
+  {
+   "question": "A 6-year-old girl diagnosed with type 1 diabetes started a treatment with insulin. Which of the following actions on protein metabolism most likely occurred in this patient after starting the therapy?",
+   "choices": [
+    "Stimulation of protein catabolism in the liver",
+    "Decreased amino acid transport into cells",
+    "Increased conversion of keto acids into amino acids",
+    "Inhibition of protein synthesis in muscle cells",
+    "Stimulation of protein synthesis in the liver"
+   ],
+   "answer": 4,
+   "explanation": "Insulin stimulates the synthesis of proteins and simultaneously reduces the degradation of proteins within the liver. The general mechanisms of these effects are still not well defined, but they are most likely mediated by the following insulin actions: * Increased amino acid transport into cells * Phosphorylation of several insulin receptor substrate docking proteins (IRSs) in cell cytosol B-E Insulin elicits actions opposite to those listed.",
+   "source": "Pharmacology V-6 Q40",
+   "topic": "Easy",
+   "topic_n": 34
+  }
+ ]
+}

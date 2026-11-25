@@ -1,0 +1,475 @@
+{
+ "questions": [
+  {
+   "question": "A drug with high affinity for dopamine D, receptors",
+   "choices": [
+    "Haloperidol",
+    "Thioridazine",
+    "Thiotixene",
+    "Risperidone",
+    "Chlorpromazine",
+    "Clozapine",
+    "Aripiprazole",
+    "Fluphenazine"
+   ],
+   "answer": 5,
+   "explanation": "Matching question; the book prints only the answer key for matching sets (key: C).",
+   "source": "Pharmacology III-8 Q1",
+   "topic": "Easy",
+   "topic_n": 1
+  },
+  {
+   "question": "A phenothiazine that frequently causes extrapyramidal adverse effects",
+   "choices": [
+    "Risperidone",
+    "Fluphenazine",
+    "Clozapine",
+    "Thioridazine",
+    "Chlorpromazine",
+    "Thiotixene",
+    "Aripiprazole",
+    "Haloperidol"
+   ],
+   "answer": 1,
+   "explanation": "Matching question; the book prints only the answer key for matching sets (key: D).",
+   "source": "Pharmacology III-8 Q2",
+   "topic": "Easy",
+   "topic_n": 2
+  },
+  {
+   "question": "A partial agonist at central dopaminergic receptors",
+   "choices": [
+    "Clozapine",
+    "Thioridazine",
+    "Aripiprazole",
+    "Haloperidol",
+    "Thiotixene",
+    "Risperidone",
+    "Chlorpromazine",
+    "Fluphenazine"
+   ],
+   "answer": 2,
+   "explanation": "Matching question; the book prints only the answer key for matching sets (key: A).",
+   "source": "Pharmacology III-8 Q3",
+   "topic": "Easy",
+   "topic_n": 3
+  },
+  {
+   "question": "A 44-year-old woman was admitted to the psychiatric hospital for the sixth time since the age of 36. She was confused and threatening, saying that “the voices are back.” The woman had been on antipsychotic therapy for several years, but she had stopped her medications 1 month prior to this admission. Physical examination showed abnormal involuntary movements manifested by tongue protrusion, frequent blinking, and continuous writhing of her arms and legs. A druginduced primary dysfunction in which of the following brain regions was most likely responsible for the patient’s syndrome?",
+   "choices": [
+    "Cerebellum",
+    "Vestibular nuclei",
+    "Striatum",
+    "Mesolimbic pathway",
+    "Tuberoinfundibular pathway",
+    "Frontal cortex"
+   ],
+   "answer": 2,
+   "explanation": "The many years of antipsychotic therapy and the signs and symptoms of the patient indicate that she was most likely suffering from tardive dyskinesia, an extrapyramidal syndrome caused by long-term neuroleptic treatment. The cause of the syndrome is unknown, but one of the most commonly accepted hypotheses relates the syndrome to a sensitization of dopamine receptors in the caudate-putamen. A-C, E, F All of these structures can be involved in the actions of neuroleptics, but the primary dysfunction underlying tardive dyskinesia occurs in the striatum.",
+   "source": "Pharmacology III-8 Q4",
+   "topic": "Medium",
+   "topic_n": 1
+  },
+  {
+   "question": "An 82-year-old man who was a resident in a nursing facility presented with complete urinary retention. The man had a long history of hypertension and prostatic hyperplasia and was currently being treated with hydrochlorothiazide, captopril, and prazosin. Two days earlier, he became agitated and hostile, refused to cooperate, and tried to assault other residents. He received 50 mg of chlorpromazine intramuscularly and a second injection 8 hours later. Which of the following would be the most likely explanation for his urinary retention?",
+   "choices": [
+    "Decreased diuresis due to chlorpromazine",
+    "Decreased diuresis due to captopril",
+    "Prazosin-induced relaxation of the r internal sphincter of the bladder",
+    "Chlorpromazine-induced relaxation of the detrusor muscle",
+    "Prazosin-induced relaxation of the prostate capsule"
+   ],
+   "answer": 3,
+   "explanation": "Prostatic hyperplasia is the most common cause of difficulty in urination in aged men. If a drug with antimuscarinic effects, such as chlorpromazine, is given to a man with prostatic hyperplasia, the medication can trigger complete urinary retention due to relaxation of the detrusor muscle of the bladder. A Chlorpromazine has no effect on the urine formation. C Actually, captopril can increase diuresis by inhibiting aldosterone production. D, E These prazosin-induced effects would have facilitated, not hindered, the voiding of the bladder.",
+   "source": "Pharmacology III-8 Q5",
+   "topic": "Easy",
+   "topic_n": 4
+  },
+  {
+   "question": "A 34-year-old woman recently diagnosed with undifferentiated schizophrenia started treatment with haloperidol. Which of the patient’s presenting symptoms was most likely best controlled after 1 week of therapy?",
+   "choices": [
+    "Social withdrawal",
+    "Low energy",
+    "Lack of emotion",
+    "Persecutory delusions fw Affective flattening"
+   ],
+   "answer": 3,
+   "explanation": "Positive symptoms of schizophrenia (delusions, hallucinations, disorganized speech, grossly disorganized behavior, etc.) are usually better controlled by typical neuroleptic drugs than negative symptoms (alogia, avolition, affective flattening, social withdrawal, etc.). It seems that atypical neuroleptics can control negative symptoms better than typical ones. A-C, E All of these are negative symptoms of schizophrenia and are less well controlled by a typical neuroleptic like haloperidol.",
+   "source": "Pharmacology III-8 Q6",
+   "topic": "Medium",
+   "topic_n": 2
+  },
+  {
+   "question": "A 30-year-old man complained of dry mouth, constipation, and blurred vision while reading the newspaper. The man, recently diagnosed with a schizoid disorder, had started treatment with clozapine 2 weeks previously. Blockade of which of the following receptors most likely mediated the adverse effects reported by the patient?",
+   "choices": [
+    "M, cholinergic",
+    "Nm cholinergic",
+    "Alpha-1 adrenergic",
+    "H, histaminergic",
+    "5-HT, serotonergic"
+   ],
+   "answer": 0,
+   "explanation": "Some atypical neuroleptics such as clozapine have significant blocking activity on muscarinic receptors. The patient’s symptoms are classic antimuscarinic effects due to clozapine. Blockade of cholinergic M, receptors in the salivary glands causes dry mouth, in the intestinal system causes a decrease in peristalsis, and in the ciliary muscles causes a loss of accommodation for near vision. A-D See correct answer explanation.",
+   "source": "Pharmacology III-8 Q7",
+   "topic": "Easy",
+   "topic_n": 5
+  },
+  {
+   "question": "A 23-year-old healthy volunteer received a new potential neuroleptic drug intravenously during a phase | clinical trial. It was known that the drug had significant blocking activity on dopamine D,, histamine H,, and serotonin 5-HT,, receptors. The volunteer was asked about the subjective symptoms he felt during the experiment. Which of the following pairs of mental effects were most likely reported by the subject?",
+   "choices": [
+    "Euphoria, increased self-confidence",
+    "Irritability, restlessness",
+    "Dysphoria, sleepiness",
+    "Delusions, perseverations",
+    "Increased alertness, rapid flow of thought"
+   ],
+   "answer": 2,
+   "explanation": "In normally healthy people, neuroleptics do not cause euphoria, but rather a feeling of unpleasantness and discomfort, that is, dysphoria. Neuroleptic-induced dysphoria can explain, at least in part, why these drugs have no abuse liability. In addition to their antipsychotic effects, several neuroleptics have pronounced sedative properties (likely mediated by the blockade of H, and 5-HT,, receptors), which account for the sleepiness induced by these drugs. A, B, D These effects would be caused by psychostimulant drugs, such as amphetamines. E Neuroleptics decrease delusions and perseverations that are Classic psychotic symptoms.",
+   "source": "Pharmacology III-8 Q8",
+   "topic": "Medium",
+   "topic_n": 3
+  },
+  {
+   "question": "A 17-year-old boy presented with brief episodes of protruding tongue, grimacing, and spasmodic torticollis on day 2 after admission to the psychiatric emergency department. The patient was brought there by the police because of assaultive behavior toward his mother. He struck her after a heavy drinking bout because he thought she was about to kill him with a knife. A drug treatment was started to control his assaultive behavior, and he received three intramuscular injections over 24 hours. Which of the following drugs most likely caused the adverse effects reported by the patient?",
+   "choices": [
+    "Lorazepam",
+    "Clozapine",
+    "Fluoxetine",
+    "The large dose of ethanol",
+    "Haloperidol",
+    "Buspirone"
+   ],
+   "answer": 4,
+   "explanation": "The patient's assaultive behavior and persecutory delusions suggest that he was most likely suffering from a schizophrenic disorder, for which he received a neuroleptic drug. The neurologic signs of the patient indicated that he suffered from acute dystonia, an extrapyramidal symptom that usually occurs after few days of high-dose neuroleptic therapy. Acute dystonias present with a sudden onset of brief abnormal postures, such as tongue protrusion, oculogyris crisis, torticollis, and unusual positions of the trunk and limbs. The extrapyramidal adverse effects of neuroleptics occur more often with high-potency drugs, such as haloperidol and fluphenazine. B, D Sedative-hypnotic drugs, such as benzodiazepines and ethanol, have a negligible risk of acute dystonia. C, E Antidepressants, such as fluoxetine, and anxiolytics, such as buspirone, are not used to sedate an aggressive patient and have a negligible risk of acute dystonia. F Clozapine, a neuroleptic, has a much lower risk of extrapyramidal adverse effects compared to haloperidol and currently is not used to sedate an aggressive patient.",
+   "source": "Pharmacology III-8 Q9",
+   "topic": "Hard",
+   "topic_n": 1
+  },
+  {
+   "question": "A 32-year-old woman was brought to the hospital after she was found unconscious in a park on a hot summer day. The woman had been a resident in a psychiatric unit for the past year. She had a history of a chronic mental disorder, but she had recently shown improvement in her target symptoms and enjoyed outside privileges. She had left the ward to go jogging 2 hours before being found in the park. Her rectal temperature was 105°F (40.6°C), and a diagnosis of heat stroke was made. Which of the following drugs most likely contributed to the development of the patient’s heat stroke?",
+   "choices": [
+    "Clozapine",
+    "Buspirone",
+    "Amitriptyline",
+    "Lithium Sole seth Dae ae Fluoxetine",
+    "Diazepam"
+   ],
+   "answer": 0,
+   "explanation": "The ability of the body to thermoregulate is dependent upon an intact hypothalamic thermoregulatory center. High doses of neuroleptics strongly diminish the thermoregulatory function of the hypothalamus. Moreover, clozapine can also interfere peripherally with sweating because of its antimuscarinic properties. The result is poikilothermia, in which the body cannot respond to heat or cold, and patients become hypothermic or hyperthermic, depending on the surrounding temperature. Therefore, in an environment of high temperature, neuroleptics can predispose to heat stroke, especially if the person is exercising, as in this case. A, C-F None of the other listed drugs cause impairment of the hypothalamic thermoregulatory center at therapeutic doses.",
+   "source": "Pharmacology III-8 Q10",
+   "topic": "Hard",
+   "topic_n": 2
+  },
+  {
+   "question": "A 42-year-old woman who was resident in a psychiatric hospital for a chronic mental illness had been mute and immobile for the past week. She actively resisted any attempt to be moved. Occasionally, she had brief periods of unprovoked agitated and aggressive behavior. Which of the following drugs should be avoided in this patient?",
+   "choices": [
+    "Dantrolene WP Valproic acid",
+    "Olanzapine",
+    "Lorazepam",
+    "Carbamazepine",
+    "Haloperidol"
+   ],
+   "answer": 4,
+   "explanation": "The symptoms of the patient indicate that she was most likely suffering from catatonia related to a psychiatric disorder. The use of traditional neuroleptics such as haloperidol is avoided in catatonia because of the possible development of neuroleptic malignant syndrome. A, C-F All of these drugs have been used successfully in the treatment of catatonia.",
+   "source": "Pharmacology III-8 Q11",
+   "topic": "Medium",
+   "topic_n": 4
+  },
+  {
+   "question": "A 28-year-old man found wandering half-dressed in the streets complained of hearing voices cursing him, and his reported thoughts were bizarre. Upon admission to the psychiatric ward, his behavior became disruptive. He refused to cooperate and started verbal assaults that included threats of physical violence. A therapy was planned that include the intravenous injection of a drug. Which of the following drugs was most likely administered?",
+   "choices": [
+    "Fluoxetine",
+    "Lithium",
+    "Imipramine",
+    "Risperidone",
+    "Zolpidem OM Morphine"
+   ],
+   "answer": 3,
+   "explanation": "The behavior and the symptoms of the patient indicated that he was most likely affected by an acute psychotic disorder. Risperidone is an atypical neuroleptic with sedative properties. Neuroleptics with sedative properties are commonly used intravenously to sedate patients with acute psychosis and aggressive behavior. Atypical neuroleptics are sometimes preferred over older neuroleptics because of lower incidence of extrapyramidal adverse effects. A, B, D-F These drugs are not used for the acute sedation of an aggressive patient.",
+   "source": "Pharmacology III-8 Q12",
+   "topic": "Medium",
+   "topic_n": 5
+  },
+  {
+   "question": "A 39-year-old man, a resident in a psychiatric unit because of disorganized schizophrenia, presented with profound lack of motivation, remarkably blunted affect, paucity of speech, and psychomotor retardation. He had been hospitalized three times since his diagnosis, and had been treated with haloperidol, chlorpromazine, and risperidone but had only a partial response to each medication. Which of the following psychotropic drugs would be most appropriate to try at this stage?",
+   "choices": [
+    "Lithium",
+    "Clozapine",
+    "Fluoxetine C.",
+    "Thioridazine",
+    "Fluphenazine"
+   ],
+   "answer": 1,
+   "explanation": "The poor response to several neuroleptic drugs and the prevalence of negative symptoms of schizophrenia indicate that the patient is a candidate for clozapine therapy. Clozapine is the only neuroleptic approved by the U.S. Food and Drug Administration for the treatment of resistant schizophrenia. A, B Because the response to previous therapy was inadequate, it is not useful to try other neuroleptics with activity spectra similar to that of chlorpromazine (i.e., thioridazine) or haloperidol (i.e., fluphenazine). C, E Fluoxetine and lithium are not effective in treating schizophrenia.",
+   "source": "Pharmacology III-8 Q13",
+   "topic": "Medium",
+   "topic_n": 6
+  },
+  {
+   "question": "A 36-year old man complained to his physician of ity, apathy, and the appearance of flicking movements of his extremities. He was referred to a neurologic clinic, where a diagnosis of Huntington chorea was made. Which of the following drugs would be most appropriate to suppress, at least partially, his choreic movements and agitated behavior?",
+   "choices": [
+    "Triazolam",
+    "Haloperidol",
+    "Trazodone",
+    "Lithium",
+    "Buspirone",
+    "Imipramine"
+   ],
+   "answer": 1,
+   "explanation": "Huntington disease is a progressive neurodegenerative genetic disorder that affects muscle coordination and leads to cognitive decline and dementia. The disease seems to result from functional overactivity in dopaminergic nigrostriatal pathways, perhaps because of a deficiency of a neurotransmitter (likely gamma-aminobutyric acid [GABA]) that normally inhibits those pathways. The treatment of the disease is supportive. Choreic movements and agitation can be partially suppressed by neuroleptics such as haloperidol, probably because of their antidopaminergic activity. A-D These drugs are ineffective in Huntington disease. E Although the development of chorea seems related to an imbalance of GABA transmission in the basal ganglia (GABA is markedly reduced in basal ganglia of patients with Huntington disease), treatment to supplement GABA activity in the brain has been ineffective.",
+   "source": "Pharmacology III-8 Q14",
+   "topic": "Easy",
+   "topic_n": 6
+  },
+  {
+   "question": "A 37-year-old woman was brought to the hospital after assaulting a neighbor. She presented in an acute psychotic state and struck two of the psychiatric unit staff members. The patient had had generalized tonic-clonic seizures since the age of 22, but she had stopped her antiepileptic therapy 2 months previously because she had been seizure-free for 3 months. Which of the following pairs of drugs would be an appropriate therapeutic regimen for this patient?",
+   "choices": [
+    "Haloperidol and clonazepam",
+    "Thioridazine and ethosuximide",
+    "Chlorpromazine and lamotrigine",
+    "Clozapine and clonazepam",
+    "Clozapine and ethosuximide",
+    "Fluphenazine and gabapentin"
+   ],
+   "answer": 2,
+   "explanation": "Neuroleptics are the preferred drugs for the control of acute psychotic patients who exhibit aggressive and violent behavior. Neuroleptics with significant sedative properties, such as chlorpromazine, are usually preferred. Neuroleptics lower the seizure threshold, so epileptic patients are at increased risk of seizures, as in this case. For these patients, a prophylactic treatment is appropriate. Because the patient had tonic-clonic seizures, an anticonvulsant drug effective against grand mal epilepsy (e.g., lamotrigine) is appropriate. A, C-F All of the antiseizure drugs in these drug pairs are minimally or not effective in generalized tonic-clonic seizures.",
+   "source": "Pharmacology III-8 Q15",
+   "topic": "Hard",
+   "topic_n": 3
+  },
+  {
+   "question": "A 29-year-old man was admitted to the psychiatric hospital in a paranoid and hostile state. He was diagnosed with chronic paranoid schizophrenia at the age of 23 and had been rehospitalized four times in the last 2 years, secondary to medication noncompliance. His medical work-up and urine drug screen were negative. During the last hospitalization, he had been stabilized on fluphenazine without any sign of adverse effects. Which of the following treatment would be appropriate for this patient?",
+   "choices": [
+    "Rectal chlorpromazine F.",
+    "Oral risperidone",
+    "IM fluphenazine decanoate C.",
+    "Oral haloperidol",
+    "IM olanzapine",
+    "(IM) thioridazine"
+   ],
+   "answer": 2,
+   "explanation": "The clinical scenario exemplifies a classic case of noncompliance, which is a problem in many diseases but is especially prominent in psychiatric disorders. The patient responded to neuroleptic therapy but relapsed because of noncompliance. Noncompliant psychotic patients are good candidates for depot drug preparations administered by IM injection every 1 to 2 weeks. Neuroleptic depot preparations are available for fluphenazine, haloperidol, and risperidone. Because fluphenazine was effective and well tolerated, there is no need to switch to another neuroleptic. A, B, D, E See correct answer explanation.",
+   "source": "Pharmacology III-8 Q16",
+   "topic": "Medium",
+   "topic_n": 7
+  },
+  {
+   "question": "A 35-year-old man was admitted to a psychiatric hospital following a failed suicide attempt. He had a history of multiple drug abuse and was in jail for 2 months after wounding a relative. The psychiatric interview disclosed a patient with persecutory delusions, auditory hallucinations, remarkably flat affect, and social withdrawal. A presumptive diagnosis was made, and a therapy was prescribed. Which of the following drugs would be most appropriate for this patient?",
+   "choices": [
+    "Thioridazine",
+    "Clozapine",
+    "Lithium",
+    "Lorazepam",
+    "Amitriptyline",
+    "Fluoxetine"
+   ],
+   "answer": 1,
+   "explanation": "The symptoms of the patient indicated that he was most likely suffering from an acute psychotic disorder. Clozapine is not a drug of choice for first-episode patients, but it can be a first-line drug for a patient with a history of suicidality, comorbid substance abuse, and significant negative psychotic symptoms, as in this case. A-D, F See correct answer explanation.",
+   "source": "Pharmacology III-8 Q17",
+   "topic": "Medium",
+   "topic_n": 8
+  },
+  {
+   "question": "A 60-year-old man complained to his physician of obstinate constipation. The man, recently diagnosed with a schizoaffective disorder, had started treatment with olanzapine. Blockade of which of the following pairs of receptors most likely mediated the adverse effect of the drug?",
+   "choices": [
+    "Nicotinic and a,",
+    "Muscarinic and serotonergic",
+    "Dopaminergic and a,",
+    "GABAergic and muscarinic",
+    "Nicotinic and dopaminergic"
+   ],
+   "answer": 1,
+   "explanation": "Neuroleptics can have significant antimuscarinic and antiserotonergic properties in both the central and autonomic nervous systems. Atypical neuroleptics such as olanzapine can cause a substantial blockade of muscarinic and serotonergic receptors in the gut, which would explain the constipation caused by this drug. A-D In all of these items, at least one of the mentioned receptors is minimally involved in gastrointestinal motility.",
+   "source": "Pharmacology III-8 Q18",
+   "topic": "Easy",
+   "topic_n": 7
+  },
+  {
+   "question": "A 28-year-old man recently diagnosed with paranoid schizophrenia started treatment with aripiprazole. The therapeutic effect of this drug was most likely mediated by decreased dopaminergic transmission in which of the following brain structures? Tuberoinfundibular pathway Locus ceruleus Mesolimbic mesocortical pathway Nigrostriatal pathway oO. Ss Nucleus basalis of Meynert",
+   "choices": [
+    "Tuberoinfundibular pathway",
+    "Nucleus basalis of Meynert",
+    "Mesolimbic mesocortical pathway",
+    "Nigrostriatal pathway",
+    "Locus ceruleus"
+   ],
+   "answer": 2,
+   "explanation": "Aripiprazole is an atypical (also called second-generation) neuroleptic drug. The fact that all neuroleptics block dopamine receptors supports the hypothesis that their antipsychotic effect might be mediated by decreased dopaminergic transmission in mesolimbic and mesocortical pathways, two pathways of the brain dopaminergic system involved in cognition, stimulus processing, and motivational behavior. A, D These two pathways are dopaminergic, but interference with these pathways seems more related to some of the adverse effects, not to the therapeutic effect of neuroleptics. B, E Dopaminergic transmission is scarcely represented in these structures.",
+   "source": "Pharmacology III-8 Q19",
+   "topic": "Medium",
+   "topic_n": 9
+  },
+  {
+   "question": "A 24-year-old woman complained to her physician of amenorrhea of 2 months’ duration and of a white discharge from her breasts during the past week. The woman had been on haloperidol and paroxetine for 3 months to treat a schizoaffective disorder. She was medication-compliant, and her illness was well controlled. Which of the following mechanisms was most likely responsible for the patient’s symptoms?",
+   "choices": [
+    "Blockade of dopamine receptors in the pituitary",
+    "Increased serotonin availability in the pituitary",
+    "Increased serotonin availability in the striatum",
+    "Blockade of dopamine receptors in the hypothalamus"
+   ],
+   "answer": 0,
+   "explanation": "The amenorrhea and galactorrhea are adverse effects of neuroleptics that are related to their blockade of D, receptors in the anterior pituitary gland. Dopamine acts as a prolactin-inhibiting factor by activating these receptors in the pituitary. When D, receptors are blocked, prolactin secretion increases. High plasma levels of prolactin can result in amenorrhea, galactorrhea, and anovulation in women, and azoospermia, impotence, and gynecomastia can develop in men. All typical neuroleptics can cause the above-mentioned symptoms, whereas atypical neuroleptics are minimally associated with hyperprolactinemia. A-C, E See correct answer explanation.",
+   "source": "Pharmacology III-8 Q20",
+   "topic": "Medium",
+   "topic_n": 10
+  },
+  {
+   "question": "A 34-year-old man, recently diagnosed with paranoid schizophrenia, became increasingly restless, was unable to sit or lie down for more than few minutes, and stated that he wanted “to jump out of my skin.” Two weeks earlier, the patient had started therapy with fluphenazine. Which of the following drug-induced adverse effects did the patient most likely exhibit?",
+   "choices": [
+    "Akathisia",
+    "Parkinsonism",
+    "Catalonia",
+    "Acute dystonia",
+    "Complex partial seizure",
+    "Tardive dyskinesia F."
+   ],
+   "answer": 0,
+   "explanation": "Akathisia, or uncontrolled motor restlessness, is one of the dose-dependent extrapyramidal disorders that can be caused by neuroleptics. These disorders occur most frequently with butyrophenones and the piperazine side-chain phenothiazines such as fluphenazine. Akathisia is characterized by subjective feelings of restlessness and objective signs of pacing, rocking, and inability to sit or stand in one place for extended periods of time. The disorder develops within days to weeks after initiating a neuroleptic therapy. A, C, F These are other extrapyramidal disorders that can be caused by neuroleptics, but the symptoms are not those exhibited by the patient. B Rarely, neuroleptics can cause tonic-clonic seizures but not complex partial seizures. E Neuroleptics can relieve catatonic signs of schizophrenic patients.",
+   "source": "Pharmacology III-8 Q21",
+   "topic": "Medium",
+   "topic_n": 11
+  },
+  {
+   "question": "A 27-year-old man complained to his physician of feeling “real slow” and of a bilateral hand tremor that improved when he picked up his coffee cup. The man, suffering from paranoid schizophrenia, was currently treated in an outpatient program. Physical examination showed cogwheel rigidity in both arms, stooped posture, and a shuffling gait. Which of the following drugs most likely caused these adverse effects?",
+   "choices": [
+    "Haloperidol",
+    "Clozapine",
+    "Olanzapine",
+    "Aripiprazole",
+    "Metoclopramide"
+   ],
+   "answer": 0,
+   "explanation": "The signs and symptoms of the patient indicate that he was most likely suffering from neuroleptic-induced pseudoparkinsonism. The syndrome is caused by blockade of D, receptors in the caudate-putamen and is more likely with neuroleptics that have the highest affinity for D, receptors, such as fluphenazine and haloperidol. A, D, E These neuroleptics rarely cause pseudoparkinsonism. C Metoclopramide can block D, receptors but is not used to treat schizophrenia.",
+   "source": "Pharmacology III-8 Q22",
+   "topic": "Easy",
+   "topic_n": 8
+  },
+  {
+   "question": "A 78-year-old man was admitted to the hospital with multiple fractures after falling at home. Two days after admission, his behavior changed. He accused the staff of torturing him. He was not able to recall why he was admitted to the hospital, was disoriented to time and place, and tried to pull out his intravenous line. His son reported that his father was fine before the accident. Which of the following drugs would be most appropriate to treat the acute symptoms in this patient?",
+   "choices": [
+    "Trazodone",
+    "Haloperidol",
+    "Paroxetine",
+    "Lithium",
+    "Clozapine",
+    "Diazepam"
+   ],
+   "answer": 1,
+   "explanation": "The symptoms of the patient indicate that he was most likely suffering from delirium, a severe neuropsychiatric syndrome with core features of acute onset and fluctuating course, attentional deficits, and generalized severe disorganization of behavior. Neuroleptics are commonly used drugs for delirium, although they are not approved by the U.S. Food and Drug Administration for this syndrome. Those with low anticholinergic activity are more appropriate, especially for older patients. Neuroleptics can lessen agitation and psychotic symptoms, but they do not correct the underlying problem, and, though rarely, they may even exacerbate delirium. A Clozapine is not a good choice because of its relevant risk of agranulocytosis and its relevant anticholinergic properties. C Benzodiazepines can manage agitation but can worsen confusion and can cause delirium in older people. They are used mainly when delirium is caused by alcohol withdrawal. D-F These drugs are not effective for delirium.",
+   "source": "Pharmacology III-8 Q23",
+   "topic": "Hard",
+   "topic_n": 4
+  },
+  {
+   "question": "A 33-year-old woman was brought to the emergency department with increased agitation and confusion. Physical examination revealed a temperature of 104°F (40°C), pulse of 125 bpm, labile blood pressure, profuse diaphoresis, sialorrhea, and muscle rigidity. The woman, recently diagnosed with schizophrenia, had started a therapy a few days previously. Which of the following drugs most likely caused the patient’s syndrome?",
+   "choices": [
+    "Imipramine",
+    "Temazepam",
+    "Haloperidol",
+    "Lithium 7am OM WS Venlafaxine",
+    "Fluoxetine"
+   ],
+   "answer": 2,
+   "explanation": "The clinical picture is typical of neuroleptic malignant syndrome (NMS), a rare but potentially lethal complication that may present in a sudden, unpredictable fashion. The etiology of NMS is unknown, but a proposed mechanism suggests that a neuroleptic-induced, excessively rapid blockade of dopaminergic receptors in the diencephalon may play a role. It is uncertain whether NMS is a specific entity or a variant of malignant hyperthermia. This latter disorder is most commonly associated with administration of halogenated inhalational anesthetics and depolarizing muscle relaxants. It has a shorter duration (3-5 days) than NMS (5-30 days). A, B, E None of these drugs cause NMS or malignant hyperthermia. D, F Although these drugs are not used to treat schizophrenia, if given in overdose or in combination with other serotonergic drugs, they could cause serotonin syndrome, which has signs and symptoms similar to those of NMS.",
+   "source": "Pharmacology III-8 Q24",
+   "topic": "Medium",
+   "topic_n": 12
+  },
+  {
+   "question": "A 62-year-old schizophrenic woman was hospitalized because of palpitations and light-headedness of 2 hours’ duration. Physical examination showed a patient in moderate distress with the following vital signs: blood pressure 110/85 mm Hg, heart rate 158 bpm, respiration 20 breaths/min. An electrocardiogram disclosed polymorphic ventricular tachycardia. Upon questioning, the patient admitted she had recently increased the dosage of her prescribed psychotropic drug because of her augmenting agitation. Which of the following drugs most likely caused the patient’s symptoms and signs?",
+   "choices": [
+    "Thioridazine",
+    "Amitriptyline",
+    "Paroxetine",
+    "Lorazepam",
+    "Trazodone",
+    "Lithium"
+   ],
+   "answer": 0,
+   "explanation": "Because of her disease, the woman was most likely under neuroleptic therapy. Neuroleptics (mainly thioridazine and clozapine) can cause ECG changes, including prolongation of QT interval, which can lead to polymorphic ventricular tachycardia. The thioridazine effect on QT interval is dose-related and has led to a black box warning in the product labeling approved by the U.S. Food and Drug Administration. A, C, D Trazodone, amitriptyline, and paroxetine can increase the risk of polymorphic ventricular tachycardia under certain conditions, but they are not antipsychotic drugs and currently are not used in schizophrenia. E, F Lithium and lorazepam do not cause prolongation of the QT interval.",
+   "source": "Pharmacology III-8 Q25",
+   "topic": "Medium",
+   "topic_n": 13
+  },
+  {
+   "question": "A 51-year-old woman, a resident in a psychiatric unit, complained about feeling dizzy to the point of fainting upon standing up rapidly. The patient was hospitalized because over the past 3 months she had become increasingly agitated and afraid. She was convinced that people near her house were devils, plotting about stealing her money and cutting her throat. The patient started a psychotropic medication 2 weeks previously. Which of the following drugs most likely caused the patient’s symptoms?",
+   "choices": [
+    "Haloperidol",
+    "Amitriptyline",
+    "Trazodone",
+    "Lithium",
+    "Risperidone",
+    "Buspirone"
+   ],
+   "answer": 4,
+   "explanation": "The symptoms of the patient indicate that she was most likely suffering from postural hypotension. Atypical neuroleptics (with the exception of clozapine) have become firstline agents for the treatment of an acute psychotic episode, mainly because of few or no acutely occurring extrapyramidal side effects. Most atypical neuroleptics have significant blocking activity on a, receptors, so postural hypotension is a frequent adverse effect, as in this case. A Haloperidol is used to treat an acute psychotic episode, but postural hypotension is a rare adverse effect, as it has minimal blocking activity on a, receptors. C-F These drugs are devoid of antipsychotic properties.",
+   "source": "Pharmacology III-8 Q26",
+   "topic": "Easy",
+   "topic_n": 9
+  },
+  {
+   "question": "A 34-year-old man complained to his physician that during intercourse, erection was difficult to achieve, and ejaculation was delayed. The man, recently diagnosed with paranoid schizophrenia, was treated initially with haloperidol, but he was switched to another drug because of the appearance of symptoms of pseudoparkinsonism. Which of the following drugs most likely caused the patient’s symptoms?",
+   "choices": [
+    "Amitriptyline",
+    "Paroxetine",
+    "Trazodone",
+    "Fluoxetine",
+    "Thioridazine",
+    "Fluphenazine"
+   ],
+   "answer": 4,
+   "explanation": "Thioridazine is recognized as the most common cause of neuroleptic-induced sexual dysfunction. Sexual adverse effects, however, have also been reported with other typical and atypical neuroleptics. The cause of neuroleptic-induced sexual dysfunction is related to a number of factors, including hyperprolactinemia (via dopamine blockade), a-adrenergic and muscarinic blockade, and sedative effects. A Because haloperidol caused symptoms of pseudoparkinsonism, the prescription of another neuroleptic with a high potential for extrapyramidal side effects is unlikely. B, C, E, F All of these drugs can cause sexual dysfunction, but they are devoid of antipsychotic properties and are not used to treat schizophrenia.",
+   "source": "Pharmacology III-8 Q27",
+   "topic": "Medium",
+   "topic_n": 14
+  },
+  {
+   "question": "A 57-year-old man was admitted to the hospital because he did not urinate for the past 10 hours. The man was diagnosed with chronic undifferentiated schizophrenia 8 years ago and had taken many different antipsychotic drugs since then. Recently, insomnia became a problem, and his psychiatrist HeCn Og to Brees the therapy. One week ago, the man contributed to the patient’s acute urinary retention?",
+   "choices": [
+    "Fluphenazine",
+    "Amitriptyline",
+    "Haloperidol",
+    "OlsnZane",
+    "Venlafaxine",
+    "Benztropine"
+   ],
+   "answer": 3,
+   "explanation": "Olanzapine was most likely prescribed because it has significant sedative effects. The drug, however, also has significant muscarinic-blocking activity and therefore can cause urinary retention if given to a man with prostatic hyperplasia, as in this case. A, B These neuroleptics have minimal antimuscarinic activity. D-F These drugs have more or less pronounced antimuscarinic activity but are devoid of antipsychotic properties.",
+   "source": "Pharmacology III-8 Q28",
+   "topic": "Medium",
+   "topic_n": 15
+  },
+  {
+   "question": "A 29-year-old man complained to his psychiatrist of abnormal growth of his breast. The man had been receiving a psychotropic drug for 6 months to treat paranoid schizophrenia.",
+   "choices": [
+    "Amitriptyline",
+    "Haloperidol",
+    "Venlafaxine",
+    "Fluoxetine",
+    "Diazepam",
+    "gia He was medication-compliant, and his illness was well controlled. Which of the following drugs most likely caused the adverse effect reported by the patient? A. Clozapine"
+   ],
+   "answer": 1,
+   "explanation": "The history and the symptoms of the patient indicate that he was most likely suffering from gynecomastia due to a neuroleptic with D, antagonist activity, such as haloperidol. By blocking D, receptors, neuroleptics prevent the inhibitory effect of dopamine on prolactin secretion, thus causing hyperprolactinemia. High prolactin plasma levels can in turn cause amenorrhea/galactorrhea in women and gynecomastia in men. A Clozapine has low blocking activity on D, receptors and therefore does not usually cause hyperprolactinemia. B, D-F These drugs are not used to treat paranoid schizophrenia.",
+   "source": "Pharmacology III-8 Q29",
+   "topic": "Easy",
+   "topic_n": 10
+  },
+  {
+   "question": "A 41-year-old man was admitted to a psychiatric hospital because of worsening of his psychosis. The man was recently diagnosed with paranoid schizophrenia and had been treated with risperidone and aripiprazole without success. A new treatment was started. One week later, a blood test gave the following results: * White blood cell count: 1200/mm3? (normal 4500-1 1,000/",
+   "choices": [
+    "Chlorpromazine",
+    "mm?) ¢ Neutrophils 12% (normal 54-62%) * Red blood cell count: 4.3 million/mm? (normal 4.0-5.5 million/mm?) * Platelet count: 145,000/mm? (normal 150,000-400,000/ mm?) * Hemoglobin (Hb): 15 g/dL (normal >12 g/dL) Which of the following drugs did the patient most likely receive as the new treatment? A. Clozapine",
+    "Haloperidol",
+    "Fluphenazine",
+    "Diazepam",
+    "Fluoxetine"
+   ],
+   "answer": 1,
+   "explanation": "The low white blood cell count and the low neutrophil percentage indicate that the man was most likely suffering from drug-induced agranulocytosis. Agranulocytosis is the most fatal adverse drug reaction, accounting for 26% of all drug-related deaths. Clozapine can cause agranulocytosis in about 0.8% of patients (a rate lower than the original estimate of 1 to 2%). The onset of the disorder is variable, as it can occur a few days after starting the treatment or even several years after a daily chronic treatment. However, the first 6 months of clozapine therapy is the period of greatest risk. Discontinuation of the drug usually results in correction of neutrophil count within 30 days. B, D Phenothiazines can cause agranulocytosis, but the risk is only 1/10 that of clozapine. C, E, F Agranulocytosis due to these drugs can occur, but it is exceptionally rare. C D A D B C E E (c",
+   "source": "Pharmacology III-8 Q30",
+   "topic": "Medium",
+   "topic_n": 16
+  }
+ ]
+}

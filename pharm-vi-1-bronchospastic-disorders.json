@@ -1,0 +1,548 @@
+{
+ "questions": [
+  {
+   "question": "A long-acting β2 adrenoceptor agonist",
+   "choices": [
+    "Codeine",
+    "Zileuton",
+    "Dornase alfa",
+    "Dextromethorphan",
+    "Zafirlukast",
+    "Salmeterol",
+    "Albuterol",
+    "Theophylline",
+    "Omalizumab",
+    "Ipratropium",
+    "Beclomethasone",
+    "Acetylcysteine"
+   ],
+   "answer": 5,
+   "explanation": "Matching item. Correct match: Salmeterol.",
+   "source": "Pharmacology VI-1 Q1",
+   "topic": "Easy",
+   "topic_n": 1
+  },
+  {
+   "question": "An opioid derivative with no addiction liability, used as an antitussive",
+   "choices": [
+    "Acetylcysteine",
+    "Beclomethasone",
+    "Zafirlukast",
+    "Ipratropium",
+    "Salmeterol",
+    "Codeine",
+    "Dextromethorphan",
+    "Omalizumab",
+    "Zileuton",
+    "Albuterol",
+    "Theophylline",
+    "Dornase alfa"
+   ],
+   "answer": 6,
+   "explanation": "Matching item. Correct match: Dextromethorphan.",
+   "source": "Pharmacology VI-1 Q2",
+   "topic": "Easy",
+   "topic_n": 2
+  },
+  {
+   "question": "A bronchodilator drug that can block Nn acetylcholine receptors",
+   "choices": [
+    "Acetylcysteine",
+    "Albuterol",
+    "Zileuton",
+    "Theophylline",
+    "Zafirlukast",
+    "Codeine",
+    "Dornase alfa",
+    "Omalizumab",
+    "Beclomethasone",
+    "Ipratropium",
+    "Dextromethorphan",
+    "Salmeterol"
+   ],
+   "answer": 9,
+   "explanation": "Matching item. Correct match: Ipratropium.",
+   "source": "Pharmacology VI-1 Q3",
+   "topic": "Easy",
+   "topic_n": 3
+  },
+  {
+   "question": "A drug that blocks high-affinity immunoglobulin E (IgE) receptors of sensitized mast cells",
+   "choices": [
+    "Zileuton",
+    "Acetylcysteine",
+    "Zafirlukast",
+    "Omalizumab",
+    "Salmeterol",
+    "Beclomethasone",
+    "Codeine",
+    "Theophylline",
+    "Ipratropium",
+    "Albuterol",
+    "Dextromethorphan",
+    "Dornase alfa"
+   ],
+   "answer": 3,
+   "explanation": "Matching item. Correct match: Omalizumab.",
+   "source": "Pharmacology VI-1 Q4",
+   "topic": "Easy",
+   "topic_n": 4
+  },
+  {
+   "question": "A 51-year old man was admitted to the hospital with an asthmatic attack. The man had been suffering from seasonal asthma for 1 year. On questioning, he reported that he took two aspirin tablets the previous evening for a headache. A diagnosis of drug hypersensitivity was made, an appropriate therapy was instituted, and later he was discharged from the hospital. Which of the following treatments would be most appropriate for his postdischarge therapy?",
+   "choices": [
+    "Oral triamcinolone",
+    "Parenteral ipratropium",
+    "Oral theophylline",
+    "Oral zafirlukast",
+    "Parenteral salmeterol"
+   ],
+   "answer": 3,
+   "explanation": "Leukotriene inhibitors and antagonists have demonstrated the important role of leukotrienes in aspirin-induced asthma. Some asthmatic patients are very sensitive to aspirin as well as to all nonsteroidal antiinflammatory drugs, and even small doses can cause profound bronchoconstriction, flushing, and abdominal cramping. The syndrome is not allergic in nature but seems to be related to the inhibition of cyclooxygenase, which most likely causes a shift of arachidonic acid metabolism to the leukotriene pathway (leukotrienes are powerful bronchoconstricting agents) and decreased synthesis of prostaglandin E2 (PGE2), which is an endogenous bronchodilator, very important in maintaining airway patency for most asthmatics. Leukotriene antagonists such as zafirlukast and montelukast are the drugs most frequently used for maintenance therapy in patients with aspirin-induced asthma. B, D: Systemic glucocorticoids and theophylline are used only in case of severe asthma that is resistant to other pharmacotherapies. C, E: These drugs are used only by inhalation.",
+   "source": "Pharmacology VI-1 Q5",
+   "topic": "Medium",
+   "topic_n": 1
+  },
+  {
+   "question": "A 34-year-old woman who has been suffering from persistent asthma for 4 years was admitted to the emergency department because of impending respiratory failure. She was treated with oxygen, nebulized albuterol, intravenous (IV) theophylline, and IV hydrocortisone. A half hour later, a substantial clinical improvement was noted. Blockade of which of the following receptors most likely contributed to the bronchodilating effect of theophylline in this patient?",
+   "choices": [
+    "Prostaglandin I2",
+    "Thromboxane A2",
+    "M3 cholinergic",
+    "Beta-2 adrenergic",
+    "Leukotriene B4",
+    "Adenosine A1"
+   ],
+   "answer": 5,
+   "explanation": "The molecular basis for the antiasthmatic action of methylxanthines is still uncertain. Although the primary mechanism of the bronchodilating effect most likely involves the inhibition of phosphodiesterase enzymes, an additional mechanism seems related to the blockade of adenosine A1 receptors. Adenosine acts as both an autacoid and a transmitter with myriad biological actions, including bronchoconstriction, mainly in patients with bronchospastic disease. A, C-F: Theophylline does not block these receptors.",
+   "source": "Pharmacology VI-1 Q6",
+   "topic": "Medium",
+   "topic_n": 2
+  },
+  {
+   "question": "A 34-year-old asthmatic man was brought to the emergency department with a severe asthma exacerbation. The patient's forced expiratory volume in 1 second (FEV1) did not improve upon administration of inhaled albuterol, and the attending physician decided to administer parenteral triamcinolone. Which of the following would be the most likely benefit provided by parenteral glucocorticoids in this setting?",
+   "choices": [
+    "Increased bronchial responsiveness to albuterol",
+    "Direct bronchodilation",
+    "Decreased sympathetic tone of airway smooth muscle",
+    "Improved diaphragmatic performance",
+    "Increased mucociliary clearance"
+   ],
+   "answer": 0,
+   "explanation": "Systemic corticosteroids are given in cases of severe asthma exacerbation for two main reasons: they improve the responsiveness of β2 receptors, and they inhibit many phases of the inflammatory responses. The antiinflammatory activity of corticosteroids is delayed for 4 to 6 hours after administration. However, the restoration of responsiveness to endogenous catecholamines, as well as to exogenous β2 agonists, occurs within 1 hour of glucocorticoid administration in severe chronic asthmatics. This restoration is therefore the main potential benefit of intravenous administration of corticosteroids to a patient with severe asthma exacerbation under treatment with β2 agonists. A-C, E: Corticosteroids do not have these effects.",
+   "source": "Pharmacology VI-1 Q7",
+   "topic": "Medium",
+   "topic_n": 3
+  },
+  {
+   "question": "A 51-year-old woman with a long history of chronic obstructive pulmonary disease was admitted to the hospital for an acute exacerbation of her disease. The patient's medications on admission were inhaled ipratropium and oral theophylline. Which of the following molecular actions on bronchial smooth muscle most likely contributed to the bronchodilating effect of theophylline in this patient?",
+   "choices": [
+    "Activation of adenosine receptors",
+    "Inhibition of catecholamine release",
+    "Inhibition of phosphodiesterase 4 (PDE4)",
+    "Stimulation of nitric oxide release",
+    "Activation of β2 adrenoceptors"
+   ],
+   "answer": 2,
+   "explanation": "The molecular basis for methylxanthine actions is still uncertain, but the bronchodilating action seems to be primarily due to inhibition of phosphodiesterase enzymes, mainly phosphodiesterase 4 (PDE4). The inhibition causes a rise in the intracellular cyclic adenosine monophosphate (cAMP) and cyclic guanosine monophosphate (cGMP) concentrations, which in turn leads to smooth muscle relaxation. B: Methylxanthines stimulate, not inhibit, catecholamine release from adrenergic terminals. C, D: Methylxanthines do not cause these effects. E: See correct answer explanation.",
+   "source": "Pharmacology VI-1 Q8",
+   "topic": "Easy",
+   "topic_n": 5
+  },
+  {
+   "question": "A 3-day-old baby girl born after 30 weeks of pregnancy had five episodes of apnea. The episodes lasted about 30 seconds and required oxygen administration. Between apneic spells, the neonate appeared well, and physical examination and lab tests were normal for gestational age. An appropriate therapy was started that included intravenous administration of theophylline. Which of the following actions most likely mediated the therapeutic effect of the drug in this patient?",
+   "choices": [
+    "Inhibition of mucociliary clearance",
+    "Stimulation of diaphragm contractility",
+    "Inhibition of catecholamine release",
+    "Bronchodilation",
+    "Stimulation of the medullary respiratory center"
+   ],
+   "answer": 4,
+   "explanation": "Methylxanthines, specifically theophylline and caffeine, are widely accepted as the initial pharmacological approach for the treatment of idiopathic apnea of prematurity. Methylxanthines stimulate the respiratory center in the medulla, increasing respiratory drive. These central effects may be mediated by adenosine receptor blockade. Adenosine is a known inhibitor of the respiratory center, and methylxanthines are competitive antagonists at adenosine receptors. A, D: These actions may contribute to the improvement of apneic episodes but are not the primary mechanism of the therapeutic effect of xanthines in infant apnea. B, E: Methylxanthines cause effects opposite to those listed.",
+   "source": "Pharmacology VI-1 Q9",
+   "topic": "Medium",
+   "topic_n": 4
+  },
+  {
+   "question": "A 69-year-old man complained to his physician of a cough that had been increasing over the past few days. The man had a 40-pack-year history of cigarette smoking and had been suffering from chronic obstructive pulmonary disease for 10 years. He was currently on ipratropium and albuterol. The physician decided to add theophylline to the regimen, but he knew that in this patient the clearance of theophylline would probably be increased. Which of the following factors most likely caused an increased theophylline clearance in this patient?",
+   "choices": [
+    "Concomitant albuterol treatment",
+    "Chronic lung diseases",
+    "Age over 65",
+    "Smoking",
+    "Concomitant ipratropium treatment"
+   ],
+   "answer": 3,
+   "explanation": "The clearance of theophylline can be affected by many conditions; some decrease the clearance, and some increase it. Factors that can increase clearance are smoking, and concomitant treatment with drugs that induce the P-450 system, such as barbiturates and rifampin. Theophylline clearance is also higher in children than in adults. A, B: These factors actually can decrease, not increase, the clearance of theophylline. C, E: These drugs do not affect theophylline clearance.",
+   "source": "Pharmacology VI-1 Q10",
+   "topic": "Easy",
+   "topic_n": 6
+  },
+  {
+   "question": "A 43-year-old woman with a long history of severe persistent asthma was admitted to the emergency department with serious labored respiration. Physical examination showed a distressed patient with dyspnea and severe cyanosis. Vital signs were blood pressure 140/90 mm Hg, heart rate 130 bpm, respirations 30/min. The patient's cyanosis indicated a serious ventilation/perfusion mismatch, and inhaled albuterol, given immediately, was able to improve cyanosis and to decrease dyspnea. Which of the following actions most likely mediated these drug effects in the patient's disorder?",
+   "choices": [
+    "Increased mucociliary clearance",
+    "Decreased pulmonary perfusion",
+    "Increased bronchial secretions",
+    "Increased pulmonary ventilation",
+    "Decreased pulmonary artery pressure"
+   ],
+   "answer": 3,
+   "explanation": "In severe bronchospastic disorders, the ventilation/perfusion ratio is decreased because the narrowing of bronchial lumen decreases ventilation. By dilating the bronchial musculature, β2 agonists such as albuterol increase ventilation, thus increasing the ratio. A high ratio increases the partial pressure of oxygen, which in turn decreases cyanosis and dyspnea. A, E: Beta-2 agonists can have these actions, but they are not the cause of the beneficial effect of albuterol in this patient. B: Because activation of β2 receptors causes vasodilation, albuterol actually increases, not decreases, pulmonary perfusion. D: Albuterol-induced vasodilation can decrease pulmonary artery pressure, but this would decrease, not increase, the ventilation/perfusion ratio.",
+   "source": "Pharmacology VI-1 Q11",
+   "topic": "Easy",
+   "topic_n": 7
+  },
+  {
+   "question": "A 45-year-old man had been suffering from chronic obstructive pulmonary disease that was not adequately controlled by inhaled salmeterol and ipratropium. His physician decided to add a third drug that is thought to act by multiple mechanisms, including inhibition of phosphodiesterase 4 in inflammatory cells and enhancement of histone deacetylation. Which of the following drugs was most likely added to the patient's therapeutic regimen?",
+   "choices": [
+    "Zileuton",
+    "Ipratropium",
+    "Theophylline",
+    "Salmeterol",
+    "Zafirlukast"
+   ],
+   "answer": 2,
+   "explanation": "The antiasthmatic action of theophylline seems to result from both bronchodilating and nonbronchodilating actions. The inhibition of phosphodiesterase 4 (PDE4) in smooth muscle most likely explains the bronchodilating activity. Proposed nonbronchodilating mechanisms involve inhibition of PDE4 in inflammatory cells, which most likely reduces the release of inflammatory cytokines and enhances histone deacetylation (acetylation of histone is needed for activation of inflammatory gene transcription). A, B: Ipratropium and salmeterol are bronchodilators but are devoid of antiinflammatory actions. C, D: Zileuton and zafirlukast have antiinflammatory actions but are devoid of bronchodilating activity.",
+   "source": "Pharmacology VI-1 Q12",
+   "topic": "Easy",
+   "topic_n": 8
+  },
+  {
+   "question": "A 59-year-old man with a long history of chronic obstructive pulmonary disease recently had theophylline added to his therapeutic regimen. Which of the following actions most likely occurred during the first days of the new therapy?",
+   "choices": [
+    "Increased gastric secretion",
+    "Decreased diuresis",
+    "Dilation of cerebral blood vessels",
+    "Depression of the respiratory center",
+    "Decreased cardiac contractility"
+   ],
+   "answer": 0,
+   "explanation": "Methylxanthines stimulate gastric secretion, which can explain the abdominal discomfort that frequently occurs after the administration of theophylline. The effect on gastric secretion is most likely due to theophylline-induced inhibition of phosphodiesterase, which in turn increases intracellular cyclic adenosine monophosphate (cAMP), thus causing an activation of H+/K+ ATPase. A-C, E: Theophylline causes effects opposite to those listed.",
+   "source": "Pharmacology VI-1 Q13",
+   "topic": "Medium",
+   "topic_n": 5
+  },
+  {
+   "question": "A 45-year-old man with a long history of chronic severe asthma was admitted to the emergency department with extreme dyspnea and wheezing. His medical history was significant for a recently diagnosed duodenal ulcer. Current medications included inhaled albuterol, beclomethasone, and ipratropium on a chronic basis. Vital signs were heart rate 130 bpm, blood pressure 140/90 mm Hg, respirations 30/min. An electrocardiogram showed sinus tachycardia with occasional premature ventricular contractions. Which of the following two events most likely contributed to the patient's arrhythmia?",
+   "choices": [
+    "Ipratropium dosage and the hypertensive effect of beclomethasone",
+    "Albuterol dosage and duodenal ulcer",
+    "Ipratropium dosage and the disease-induced hypoxemia",
+    "Duodenal ulcer and the hypertensive effect of beclomethasone",
+    "Albuterol dosage and the disease-induced hypoxemia"
+   ],
+   "answer": 4,
+   "explanation": "The patient's severe asthma most likely caused hypoxemia, which by itself can predispose to arrhythmias. Moreover, the patient was likely receiving a high dose of β agonists, as the increased dyspnea prompted him to increase the number of puffs taken daily. Tachycardia is a common adverse effect of β2 agonists, likely due to activation of β2 receptors in the heart, as well as to reflex effects that stem from β2 receptor-mediated vasodilation. A, B, D: Ipratropium and glucocorticoids very seldom cause systemic effects when taken by the inhaled route. C: Duodenal ulcer is not a risk factor for arrhythmias.",
+   "source": "Pharmacology VI-1 Q14",
+   "topic": "Hard",
+   "topic_n": 1
+  },
+  {
+   "question": "A 54-year-old woman with chronic obstructive pulmonary disease (COPD) was diagnosed with an upper respiratory tract infection, and erythromycin was prescribed. Her COPD was reasonably well controlled on oral theophylline and inhaled albuterol. Which of the following would be an appropriate change in the patient's therapeutic regimen at this time?",
+   "choices": [
+    "Add inhaled ipratropium.",
+    "Decrease the dose of theophylline.",
+    "Add inhaled salmeterol.",
+    "Add inhaled dexamethasone.",
+    "Increase the dose of albuterol."
+   ],
+   "answer": 1,
+   "explanation": "Erythromycin has been reported to inhibit the cytochrome P-450-mediated metabolism of several drugs, including theophylline. Because theophylline has a narrow therapeutic index, it is appropriate to decrease the dosage of the drug for the duration of the erythromycin therapy to avoid overdose toxicity. A-C, E: Because the patient's asthma is well controlled, there is no need to change the therapeutic regimen.",
+   "source": "Pharmacology VI-1 Q15",
+   "topic": "Easy",
+   "topic_n": 9
+  },
+  {
+   "question": "A 60-year-old man was admitted to the emergency department because of nausea, vomiting, headache, tremor, nervousness, tinnitus, and atrial tachycardia for the past 4 hours. The man, who had been suffering from chronic obstructive pulmonary disease for 3 years, recently had a new drug added to his therapeutic regimen. Which of the following drugs most likely caused the patient's adverse effects?",
+   "choices": [
+    "Prednisone",
+    "Theophylline",
+    "Ipratropium",
+    "Albuterol",
+    "Zileuton"
+   ],
+   "answer": 1,
+   "explanation": "The signs and symptoms of the patient suggest theophylline overdose toxicity. Methylxanthine overdose can cause nausea and vomiting (likely due to stimulation of the chemoreceptor trigger zone), headache, tremor, nervousness, tinnitus (likely due to stimulation of many areas of the central nervous system), and tachycardia (likely due to increased cyclic adenosine monophosphate [cAMP] and blockade of adenosine receptors). A-D: These drugs do not cause the effects from which the patient was suffering.",
+   "source": "Pharmacology VI-1 Q16",
+   "topic": "Easy",
+   "topic_n": 10
+  },
+  {
+   "question": "A 58-year-old woman complained to her physician of increasing dyspnea and cough over the past few days. The woman had a 22-pack-year history of cigarette smoking and had been suffering from chronic obstructive pulmonary disease for 5 years. She was currently on inhaled ipratropium and albuterol. Her physician decided to add a drug that acts by selectively inhibiting phosphodiesterase 4 in bronchial muscle. Which of the following drugs was most likely prescribed?",
+   "choices": [
+    "Beclomethasone",
+    "Roflumilast",
+    "Zafirlukast",
+    "Zileuton",
+    "Omalizumab"
+   ],
+   "answer": 1,
+   "explanation": "Roflumilast is a selective phosphodiesterase 4 inhibitor in bronchial smooth muscle that has been approved by the U.S. Food and Drug Administration for chronic obstructive pulmonary disease. Inhibition of phosphodiesterase results in higher concentrations of intracellular cyclic adenosine monophosphate (cAMP). In comparison to theophylline, roflumilast has lower overdose toxicity and less potential for drug-drug interactions. A, B, D, E: See correct answer explanation.",
+   "source": "Pharmacology VI-1 Q17",
+   "topic": "Easy",
+   "topic_n": 11
+  },
+  {
+   "question": "A 30-year-old woman recently diagnosed with moderate intermittent asthma started a treatment with inhaled albuterol as needed. Which of the following effects on pulmonary function testing most likely occurred soon after drug administration?",
+   "choices": [
+    "Decreased forced vital capacity",
+    "Increased residual volume",
+    "Decreased peak expiratory flow",
+    "Increased total lung capacity",
+    "Increased forced expiratory volume"
+   ],
+   "answer": 4,
+   "explanation": "Albuterol is a β2 agonist currently used as a bronchodilator in treating asthma. By dilating the bronchial tree, all bronchodilators can increase the forced expiratory volume in 1 second (FEV1). The FEV1 is the most useful parameter in diagnosing and monitoring patients with obstructive pulmonary disease. A: Total lung capacity (TLC) is the amount of air in the lungs after maximum inflation. TLC is normal or increased in obstructive disorders. Bronchodilators do not significantly affect TLC. B: Peak expiratory flow (PEF) is the highest forced respiratory flow measured by a peak flow meter. PEF is decreased in obstructive respiratory disorders. All bronchodilators increase, not decrease, PEF. C: Forced vital capacity (FVC) is the maximum amount of air forcibly expired after maximum inspiration. FVC is normal or decreased in obstructive respiratory disorders. All bronchodilators can increase, not decrease, FVC. D: Residual volume (RV) can be expressed as RV = TLC - FVC. RV is normal or increased in obstructive respiratory disorders. All bronchodilators decrease, not increase, RV.",
+   "source": "Pharmacology VI-1 Q18",
+   "topic": "Medium",
+   "topic_n": 6
+  },
+  {
+   "question": "A 78-year-old female resident of a rehabilitation center exhibited Cheyne-Stokes breathing from time to time and suffered from urge urinary incontinence and spasticity in her left limb. The woman had suffered from an ischemic stroke 2 months earlier. Which of the following drugs should be included in the pharmacological therapy of this patient?",
+   "choices": [
+    "Ipratropium",
+    "Bromocriptine",
+    "Theophylline",
+    "Neostigmine",
+    "Metoclopramide",
+    "Albuterol"
+   ],
+   "answer": 2,
+   "explanation": "Cheyne-Stokes breathing, which occurs in various disease states, including following stroke, is a type of periodic breathing in which periods of hyperpnea alternates with periods of apnea. Methylxanthines such as theophylline and caffeine have been shown to improve Cheyne-Stokes respiration, probably because of their stimulant effect on the respiratory center. A: Neostigmine actually can worsen urge incontinence, because it increases urinary bladder contractility. C-F: These drugs have no effect on Cheyne-Stokes breathing, urge urinary incontinence, or limb spasticity.",
+   "source": "Pharmacology VI-1 Q19",
+   "topic": "Hard",
+   "topic_n": 2
+  },
+  {
+   "question": "A 15-year-old boy with a 10-year history of asthma was admitted to the hospital for evaluation. The patient complained of increasing respiratory difficulty and awakening from sleep five to seven times per night. Present medications were high-dose inhaled fluticasone and salmeterol. Pulmonary function testing indicated a forced expiratory volume (FEV1) 30% of predicted, and laboratory exams showed total serum immunoglobulin E (IgE) level of 615 IU/mL (normal > 120 IU/mL). Which of the following would be appropriate to add to the patient's treatment at this time?",
+   "choices": [
+    "Oral zileuton",
+    "Oral zafirlukast",
+    "Inhaled beclomethasone",
+    "Inhaled albuterol",
+    "Subcutaneous omalizumab"
+   ],
+   "answer": 4,
+   "explanation": "Omalizumab is a monoclonal anti-immunoglobulin E (IgE) antibody that binds to free IgE in the serum, preventing binding of IgE to high-affinity receptors on mast cells, blocking initiation of the allergic inflammatory cascade. Omalizumab is effective in reducing asthma exacerbations and the inhaled and oral dose requirement for glucocorticoids in patients with severe asthma. It is administered subcutaneously every 2 to 3 weeks. Potentially serious adverse effects include anaphylaxis, which can occur after any dose, even if previous doses had been well tolerated, and may occur as long as 1 day after administration. A, B: The patient is already receiving a β agonist and a glucocorticoid, so the addition of other drugs with the same mechanism of action would be irrational. C, D, F: These drugs are usually minimally effective in severe asthma.",
+   "source": "Pharmacology VI-1 Q20",
+   "topic": "Medium",
+   "topic_n": 7
+  },
+  {
+   "question": "A 46-year-old man with a long history of chronic severe asthma was admitted to the hospital with extreme dyspnea and impending respiratory failure. Emergency therapy was started with inhaled albuterol, glucocorticoids, and oxygen, but the patient's response to the treatment was poor. It was decided to initiate intravenous theophylline. The goal was to reach an immediate therapeutic plasma concentration of 15 mg/L. Knowing that the volume of distribution of theophylline is about 0.5 L/kg, which of the following loading doses (in milligrams) was most likely given?",
+   "choices": [
+    "85",
+    "525",
+    "110",
+    "435",
+    "600"
+   ],
+   "answer": 1,
+   "explanation": "The loading dose of a drug given intravenously can be calculated as follows: LD = Vd × Cp, where LD = loading dose, Vd = volume of distribution, and Cp = plasma concentration. Because theophylline does not distribute into adipose tissue, the ideal body weight (70 kg) can be used to calculate the LD. Therefore, LD = 0.5 × 70 × 15 = 525 mg. B-E: See correct answer explanation.",
+   "source": "Pharmacology VI-1 Q21",
+   "topic": "Easy",
+   "topic_n": 12
+  },
+  {
+   "question": "A 50-year old man was admitted to the hospital because of severe dyspnea and coughing that had been increasing over the past few days. The man had been suffering from persistent severe asthma for 10 years and from diabetes for 8 years. Current medications included insulin, inhaled beclomethasone, and inhaled ipratropium. Spirometry showed a forced expiratory volume (FEV1) 40% of the predicted value. The patient was intubated and was given high-dose albuterol therapy by continuous nebulization. Which of the following adverse effects would most likely be associated with this treatment?",
+   "choices": [
+    "Bradycardia",
+    "Hypertension",
+    "Hypokalemia",
+    "Sleepiness",
+    "Hypoglycemia"
+   ],
+   "answer": 2,
+   "explanation": "Beta-2 agonists promote the uptake of potassium into the cells, likely by stimulating Na+/K+ ATPase. High doses of these drugs can cause hypokalemia, and these drugs are sometimes used in the therapy of hyperkalemic states. In this case, hypokalemia is even more likely because of the earlier treatment with insulin (insulin tends to cause hypokalemia, as it promotes potassium entry into cells). A: Both hypertension and hypotension can be adverse effects of albuterol, but in this patient, hypotension is more likely due to the hypokalemia. B-D: Beta-2 agonists tend to cause effects opposite to those listed.",
+   "source": "Pharmacology VI-1 Q22",
+   "topic": "Medium",
+   "topic_n": 8
+  },
+  {
+   "question": "A 25-year-old woman was seen at a clinic because of episodes of shortness of breath and cough that had occurred almost every day since she had an upper respiratory infection 2 months earlier. The woman also stated that several times weekly she awoke at night with the same symptoms. Spirometry showed a forced expiratory volume (FEV1) 62% of the predicted value. Which of the following drugs would be most appropriate to be included in the patient's treatment at this time?",
+   "choices": [
+    "Aspirin",
+    "Theophylline",
+    "Isoproterenol",
+    "Propranolol",
+    "Salmeterol"
+   ],
+   "answer": 4,
+   "explanation": "Forced expiratory volume (FEV1) is one of the best indicators of the severity of a bronchospastic disorder. FEV1 between 60 and 80% of the predicted value indicates moderate disease. Because the patient's symptoms occurred daily, her asthma can be classified as moderate persistent. The preferred treatment for moderate persistent asthma is a low to medium dose of inhaled corticosteroids and a long-acting inhaled β2 agonist such as salmeterol daily, plus a short-acting inhaled β2 agonist such as albuterol, as needed. A: Theophylline is very rarely used today for the therapy of asthma. B: This drug, used in the past, is now obsolete. D: Beta-blockers are contraindicated in asthmatics. E: Aspirin is relatively contraindicated in asthmatics.",
+   "source": "Pharmacology VI-1 Q23",
+   "topic": "Medium",
+   "topic_n": 9
+  },
+  {
+   "question": "A 52-year-old woman had been on a ventilator for 5 days because of ventilatory failure due to polymyositis when the physician noted increasing endotracheal secretions and decreased oximetry. A bronchoscopy showed abundant mucus plugs filling the bronchial lumen. Suctioning of the bronchial tree was performed, and a drug was given to improve mucociliary clearance. Which of the following drugs was most likely administered?",
+   "choices": [
+    "Zafirlukast",
+    "Dexamethasone",
+    "Albuterol",
+    "Zileuton",
+    "Ipratropium",
+    "Epinephrine"
+   ],
+   "answer": 2,
+   "explanation": "A patient who is artificially ventilated cannot clear bronchial secretions, mainly because effective cough cannot be performed. Beta-2 agonist drugs improve mucociliary clearance and are therefore often given to patients on artificial ventilation to decrease airway resistance and to remove secretions from bronchial mucosa. A: Epinephrine, by activating β2 receptors, can improve mucociliary clearance but would cause several adverse effects in this patient due to its cardiovascular actions. C: Ipratropium has bronchodilating activity but does not improve mucociliary clearance, although, unlike other anticholinergic drugs, it does not reduce bronchial secretions and therefore does not affect mucociliary clearance. D-F: Corticosteroids and leukotriene pathway inhibitors have no effect on mucociliary clearance.",
+   "source": "Pharmacology VI-1 Q24",
+   "topic": "Medium",
+   "topic_n": 10
+  },
+  {
+   "question": "A 57-year-old man complained to his physician that his chronic mucoid cough had gotten worse, and he had increasing breathing difficulty. The man had a long history of smoking and currently smoked one pack daily. Spirometry showed a forced expiratory volume (FEV1) of 50% the predicted value. The physician decided to start a therapy with a drug that can block acetylcholine-mediated increase in Ca2+ availability in bronchial smooth muscle. Which of the following drugs was most likely administered?",
+   "choices": [
+    "Ipratropium",
+    "Atropine",
+    "Theophylline",
+    "Albuterol",
+    "Beclomethasone"
+   ],
+   "answer": 0,
+   "explanation": "Ipratropium is an antimuscarinic drug. By blocking M3 acetylcholine receptors in the bronchial tree, these drugs prevent the increased synthesis of inositol triphosphate, which in turn triggers the release of Ca2+ from storage vesicles. A, C, D: These drugs do not block muscarinic receptors. E: Like ipratropium, atropine can block M3 acetylcholine receptors in the bronchial tree, thus counteracting the acetylcholine-mediated increase in Ca2+ availability. However, anticholinergics (except ipratropium and tiotropium) are usually contraindicated in bronchospastic disorders because they decrease bronchial secretion and mucociliary clearance.",
+   "source": "Pharmacology VI-1 Q25",
+   "topic": "Easy",
+   "topic_n": 13
+  },
+  {
+   "question": "A 44-year-old man presented to his physician complaining of increasing cough producing yellow sputum and moderate shortness of breath on exertion. The man had a long history of heavy cigarette smoking and had suffered from an episode of sustained ventricular tachycardia 1 year ago. Physical examination showed a patient with shallow breathing and a barrel chest. Auscultation demonstrated wheezing and distant heart sounds. An inhalation therapy was prescribed. A drug with which of the following mechanisms of action would be most appropriate for this patient?",
+   "choices": [
+    "Activation of adenosine receptors",
+    "Inhibition of phospholipase A2",
+    "Activation of β2 adrenoceptors",
+    "Blockade of Nn and M3 acetylcholine receptors",
+    "Blockade of leukotriene receptors"
+   ],
+   "answer": 3,
+   "explanation": "The patient's history and symptoms indicate that he was most likely suffering from chronic obstructive pulmonary disease (COPD). Ipratropium is a first-line agent in COPD because its action in these patients is equal or superior to that achieved by β2 agonists. Ipratropium is a quaternary ammonium antimuscarinic drug. Unlike tertiary amines, quaternary ammonium antimuscarinic drugs mainly block muscarinic receptors but also have a significant blocking activity on nicotinic Nn receptors. Therefore, inhaled ipratropium can block both M3 receptors on bronchial smooth muscle and Nn receptors located in small parasympathetic ganglia within the bronchial tree. Both actions can contribute to the final bronchodilating effect of the drug. A: This activation would cause bronchoconstriction, not bronchodilation. B: This is a mechanism of action of glucocorticoids. These drugs are not bronchodilators, and they are used only in patients with advanced COPD and frequent exacerbations. C: This is the mechanism of action of β2 agonists. These drugs are contraindicated in this patient because of the history of ventricular tachycardia. Patients who have survived an episode of sustained ventricular tachycardia or ventricular fibrillation have an extraordinarily high risk of experiencing a recurrent arrhythmia. E: Leukotriene receptor blockers are not bronchodilators and are not used in COPD.",
+   "source": "Pharmacology VI-1 Q26",
+   "topic": "Medium",
+   "topic_n": 11
+  },
+  {
+   "question": "A 63-year old woman complained to her physician of recurrent wheezing that caused frequent nocturnal awakening. She also noted that wheezing occurred when she was anxious and tense. The woman had been suffering from allergic rhinitis for 4 years and from atrial fibrillation for 1 year. A diagnosis of mild allergic asthma was made. Which of the following drug treatments would be most appropriate for relief of her bronchospasm?",
+   "choices": [
+    "Oral zileuton",
+    "Inhaled salmeterol",
+    "Oral glucocorticoids",
+    "Inhaled ipratropium",
+    "Oral theophylline"
+   ],
+   "answer": 3,
+   "explanation": "Accepted guidelines for the treatment of asthma indicate a short-acting β2 agonist as needed in all patients. In this case, however, the patient's atrial fibrillation contraindicates the use of β2 agonists. In general, when drugs are given by inhalation, only 10 to 20% of the dose can reach the target site of action (lower airways); the rest is swallowed and can be absorbed by the intestine, causing systemic effects. Ipratropium is an effective bronchodilator agent, and the swallowed dose is not absorbed by the intestine (the drug is a quaternary ammonium compound). Moreover, in this patient the bronchospasm was triggered by emotional upset, and it has been shown that inhaled anticholinergic drugs can block this response; the nocturnal awakening indicates that the bronchospasm is triggered by a prevalence of the parasympathetic system (which is predominant during the night), so an antimuscarinic drug is appropriate. A, E: These drugs are not bronchodilators and cannot be used for relief of bronchospasm. B: Oral sustained-release theophylline is an effective bronchodilator, but it has the potential to cause more adverse effects, may interfere with sleep, and is less effective than ipratropium. D: See correct answer explanation.",
+   "source": "Pharmacology VI-1 Q27",
+   "topic": "Medium",
+   "topic_n": 12
+  },
+  {
+   "question": "A 13-year-old boy recently diagnosed with asthma started a therapy that included inhaled fluticasone. Which of the following molecular actions most likely contributed to the therapeutic effect of the drug in the patient's disease?",
+   "choices": [
+    "Inhibition of phospholipase A2",
+    "Activation of α2 adrenoceptors",
+    "Activation of β1 adrenoceptors",
+    "Blockade of leukotriene receptors",
+    "Inhibition of lipocortin biosynthesis",
+    "Blockade of M3 acetylcholine receptors"
+   ],
+   "answer": 0,
+   "explanation": "Current therapeutic strategies available for the treatment of asthma include inhibition of eicosanoid biosynthesis (glucocorticoids), inhibition of leukotriene biosynthesis (zileuton), activation of β2 receptors (β2 agonists), and blockade of leukotriene receptors (zafirlukast). The glucocorticoid-induced inhibition of eicosanoid biosynthesis is mediated by the inhibition of phospholipase A2, the enzyme that releases arachidonic acid from membrane-bound phospholipids. A: This would be the mechanism of action of ipratropium. B: This would be the mechanism of action of zafirlukast. D, E: These receptors are not involved in bronchodilation. F: Activation (not inhibition) of lipocortin biosynthesis mediates the glucocorticoid-induced inhibition of phospholipase A2.",
+   "source": "Pharmacology VI-1 Q28",
+   "topic": "Easy",
+   "topic_n": 14
+  },
+  {
+   "question": "A 43-year-old woman with mild persistent asthma started a daily treatment with low-dose inhaled glucocorticoids. Which of the following adverse effects was most likely to occur in this patient?",
+   "choices": [
+    "Osteoporosis",
+    "Hypokalemia",
+    "Weight gain",
+    "Restlessness",
+    "Increased heart rate",
+    "Oral candidiasis"
+   ],
+   "answer": 5,
+   "explanation": "Local adverse effects of inhaled glucocorticoids include cough, dysphonia, and oral candidiasis. Candida albicans is a fungal organism that is a normal constituent of oral flora, but it can cause infection when cellular immunity is compromised due to corticosteroids. A, B, D-F: All of these adverse effects can occur with oral glucocorticoids but are extremely rare with inhaled glucocorticoids.",
+   "source": "Pharmacology VI-1 Q29",
+   "topic": "Easy",
+   "topic_n": 15
+  },
+  {
+   "question": "A 21-year-old man with severe persistent asthma had been on daily inhaled salmeterol, inhaled beclomethasone, and oral zafirlukast for 2 months, with inhaled albuterol as needed. However, his asthma was poorly controlled, and his physician decided to add another drug to the current treatment. Which of the following drugs would be most appropriate for the patient at this time?",
+   "choices": [
+    "Inhaled omalizumab",
+    "Inhaled theophylline",
+    "Oral ipratropium",
+    "Oral triamcinolone",
+    "Oral zileuton"
+   ],
+   "answer": 3,
+   "explanation": "Oral steroids are usually administered to treat severe asthma that is not controlled by other antiasthmatic drugs. Corticosteroids have potent antiinflammatory activity, and although they are not direct bronchodilators, they can relieve bronchial obstruction by improving the responsiveness of β2 receptors to β2 agonists. B: Ipratropium is not administered by the oral route. C: Omalizumab is a monoclonal anti-immunoglobulin E (IgE) antibody approved for the treatment of allergic asthma. It is not given by inhalation. D: Theophylline is not given by inhalation. E: Because a leukotriene antagonist (zafirlukast) was not effective, it is unlikely that an inhibitor of leukotriene synthesis (zileuton) would be effective.",
+   "source": "Pharmacology VI-1 Q30",
+   "topic": "Medium",
+   "topic_n": 13
+  },
+  {
+   "question": "An 11-year-old boy was recently diagnosed with mild seasonal asthma. The boy was otherwise healthy and was a member of his school basketball team. Which of the following drugs would be most appropriate for the initial treatment of the patient's disease?",
+   "choices": [
+    "Inhaled albuterol",
+    "Inhaled ipratropium",
+    "Inhaled salmeterol",
+    "Oral zafirlukast",
+    "Oral triamcinolone"
+   ],
+   "answer": 0,
+   "explanation": "Inhaled short-acting β2 agonists are considered first-line drugs for the treatment of asthma. According to current guidelines, a short-acting β2 agonist should be given as needed to all patients with asthma. Because the patient's asthma is mild, inhaled albuterol as needed is most likely the preferred drug. B: Oral steroids are administered only in case of severe asthma that is not controlled by other antiasthmatic drugs. C: Ipratropium alone is not used for the treatment of asthma. It can be used with albuterol in severely ill patients where it has been shown to improve pulmonary function. D: Zafirlukast is an antiinflammatory, not a bronchodilating, drug. Therefore, it is never used alone to treat asthma. E: Salmeterol is a long-acting β2 agonist. Monotherapy treatment of asthma with long-acting β2 agonists is contraindicated because it was found that this therapy increases the risk of asthma-related events (i.e., asthma-related hospitalization, asthma-related intubation, and asthma-related death). A black box warning about monotherapy is required by the U.S. Food and Drug Administration. However, combination products containing a long-acting β2 agonist with an inhaled steroid can retain current indications, including asthma, as an increased risk of asthma-related complications was not demonstrated with this combination.",
+   "source": "Pharmacology VI-1 Q31",
+   "topic": "Easy",
+   "topic_n": 16
+  },
+  {
+   "question": "A 45-year-old man with moderate persistent asthma was in the chest clinic for evaluation of his clinical state. His asthma was only partially controlled on daily inhaled salmeterol and beclomethasone. Recently, zafirlukast was added to the therapy with significant improvement of the disease, but it was withdrawn 10 days later because of the appearance of a severe headache. Physical examination showed diffuse expiratory wheezes, and pulmonary function testing revealed a peak expiratory flow rate 70% of predicted. Which of the following drugs would be appropriate to add to the patient's regimen at this time?",
+   "choices": [
+    "Inhaled theophylline",
+    "Inhaled albuterol",
+    "Oral zileuton",
+    "Oral montelukast",
+    "Parenteral omalizumab"
+   ],
+   "answer": 2,
+   "explanation": "The patient improved when zafirlukast was added to the therapy, but the drug caused a disturbing adverse effect. When a drug is effective but causes an adverse effect, a good therapeutic strategy is to change the drug with another that has a similar effect but different chemical structure. Zileuton is a lipoxygenase inhibitor. Its final effect is similar to that of zafirlukast (i.e., to decrease leukotriene activity), but its mechanism of action is different. The clinical use of zileuton is limited due to the potential for elevated liver enzymes and liver injury, and immediate-release tablets were discontinued in the United States. Extended-release tablets are still available and can be used in specific cases, as in this one. A: The patient was already using salmeterol. There is no need to add an inhaled β2 agonist. C: Theophylline is not used by inhalation. D: Omalizumab is given only in cases of severe refractory asthma. E: Montelukast is close chemically to zafirlukast and has the same mechanism of action. Therefore, the risk of headache would be significant in this patient.",
+   "source": "Pharmacology VI-1 Q32",
+   "topic": "Medium",
+   "topic_n": 14
+  },
+  {
+   "question": "A 9-year-old girl with a long history of cystic fibrosis presented to the hospital because of worsening of respiratory symptoms. An appropriate therapy was prescribed that included inhaled dornase alfa. Which of the following best explains the mechanism of action of dornase alfa in the patient's disease?",
+   "choices": [
+    "Stimulates the cystic fibrosis transmembrane regulator",
+    "Inhibits the neutrophil migration into lung tissue",
+    "Releases nitric oxide from airway epithelium",
+    "Depolymerizes the DNA of purulent airways secretions",
+    "Supports bactericidal activity against Pseudomonas aeruginosa"
+   ],
+   "answer": 3,
+   "explanation": "The principal source of DNA in the sputum of cystic fibrosis patients is from the nuclei of degenerating neutrophils that accumulate in the lung because of chronic bacterial infections. DNA is the principal factor that increases the viscosity of the sputum in these patients. Dornase alfa is a recombinant human deoxyribonuclease that is administered by inhalation. It degrades the DNA, which has been shown to significantly decrease the viscosity of sputum, thus reducing obstruction and the severity of respiratory infections. A, B, D, E: See correct answer explanation.",
+   "source": "Pharmacology VI-1 Q33",
+   "topic": "Easy",
+   "topic_n": 17
+  },
+  {
+   "question": "A 43-year-old man complained to his physician that the therapy he was taking improved his breathing, but that he still had an annoying cough from time to time. He asked the physician for a cough suppressant. Two weeks earlier, the man was diagnosed with moderate persistent asthma and started a therapy with inhaled albuterol and fluticasone. Which of the following drugs would be appropriate to treat the patient's cough?",
+   "choices": [
+    "Codeine",
+    "Fentanyl",
+    "Theophylline",
+    "Dornase alfa",
+    "Dextromethorphan",
+    "Ipratropium"
+   ],
+   "answer": 4,
+   "explanation": "Opioids are among the most effective drugs available for the suppression of cough. Their action is primarily due to the depression of the respiratory neurons in the brainstem, but the receptors involved in the antitussive effect appear to differ from those associated with other actions of opioids. For example, dextromethorphan, a stereoisomer of a levorphanol derivative, has lost the analgesic, sedative, and addictive properties of the parent compound but is an effective cough suppressant with potency nearly equal to that of codeine. The drug can be an appropriate cough suppressant in asthmatic patients. A: Codeine is the most commonly used cough suppressant but is not indicated in asthmatic patients because opioids can cause respiratory depression even when given in subanalgesic doses. This respiratory depression does not occur with dextromethorphan. B, D: Theophylline and ipratropium are not used as antitussives. E: Dornase alfa is a mucolytic drug. Mucolytics can help the expectoration but cannot depress the respiratory neurons. F: Strong opioids are not used as antitussives.",
+   "source": "Pharmacology VI-1 Q34",
+   "topic": "Medium",
+   "topic_n": 15
+  }
+ ]
+}

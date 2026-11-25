@@ -1,0 +1,334 @@
+{
+ "questions": [
+  {
+   "question": "A dopaminergic receptor partial agonist effective in bipolar disorders",
+   "choices": [
+    "Risperidone",
+    "Lamotrigine",
+    "Carbamazepine",
+    "Quetiapine",
+    "Lithium",
+    "Valproic acid",
+    "Aripiprazole"
+   ],
+   "answer": 6,
+   "explanation": "Matching question; the book prints only the answer key for matching sets (key: A).",
+   "source": "Pharmacology III-10 Q1",
+   "topic": "Easy",
+   "topic_n": 1
+  },
+  {
+   "question": "This drug can increase the risk of spina bifida in the newborn when given during pregnancy.",
+   "choices": [
+    "Lamotrigine",
+    "Aripiprazole",
+    "Quetiapine",
+    "Lithium",
+    "Risperidone",
+    "Carbamazepine",
+    "Valproic acid"
+   ],
+   "answer": 6,
+   "explanation": "Matching question; the book prints only the answer key for matching sets (key: G).",
+   "source": "Pharmacology III-10 Q2",
+   "topic": "Easy",
+   "topic_n": 2
+  },
+  {
+   "question": "This drug is effective for the treatment of both acute mania and all types of epilepsy.",
+   "choices": [
+    "Carbamazepine",
+    "Lamotrigine",
+    "Quetiapine",
+    "Valproic acid",
+    "Risperidone",
+    "Aripiprazole",
+    "Lithium"
+   ],
+   "answer": 3,
+   "explanation": "Matching question; the book prints only the answer key for matching sets (key: G).",
+   "source": "Pharmacology III-10 Q3",
+   "topic": "Easy",
+   "topic_n": 3
+  },
+  {
+   "question": "The hepatic clearance of this drug is zero.",
+   "choices": [
+    "Quetiapine",
+    "Aripiprazole",
+    "Lamotrigine",
+    "Lithium",
+    "Carbamazepine",
+    "Risperidone",
+    "Valproic acid"
+   ],
+   "answer": 3,
+   "explanation": "Matching question; the book prints only the answer key for matching sets (key: D).",
+   "source": "Pharmacology III-10 Q4",
+   "topic": "Easy",
+   "topic_n": 4
+  },
+  {
+   "question": "A 45-year-old man with a long history of bipolar disorder had been stable on a maintenance lithium treatment for the past year. Which of the following best describes a current working hypothesis about the molecular mechanism of action of lithium?",
+   "choices": [
+    "Decreased synthesis of inositol triphosphate (IP,) and diacylglycerol (DAG)",
+    "Increased synthesis of adenylyl cyclase",
+    "Increased glutamatergic activity",
+    "Upregulated B-adrenoceptors",
+    "Increased synthesis of inositol monophosphatase",
+    "Increased serotonin reuptake into serotonergic terminals"
+   ],
+   "answer": 0,
+   "explanation": "Lithium inhibits inositol monophosphatase, an enzyme involved in the phosphatidylinositol pathway. This leads to depletion of phosphatidylinositol 4,5-bisphosphate (PIP,), which is the precursor of both IP, and DAG. Therefore, the synthesis of IP, and DAG is inhibited, and the activity of many receptors that are IP,/DAG linked is depressed. This may cause an inhibition of overactive circuits in mania. A-D, F Lithium tends to cause actions opposite to those listed.",
+   "source": "Pharmacology III-10 Q5",
+   "topic": "Medium",
+   "topic_n": 1
+  },
+  {
+   "question": "A 68-year-old man was admitted to a psychiatric hospital because of depression, hopelessness about his condition, sleep disturbances, and poor appetite. He had a long history of previous hospitalizations for manic or depressive episodes and had experienced five mood swings in the past year, including episodes of depression and hypomania. Despite adequate plasma levels, he had not responded to lithium. Which of the following drugs would be appropriate for the patient at this time?",
+   "choices": [
+    "Fluphenazine",
+    "Bupropion",
+    "Amitriptyline",
+    "Haloperidol",
+    "Diazepam",
+    "Quetiapine"
+   ],
+   "answer": 5,
+   "explanation": "The man was most likely affected by a bipolar disorder resistant to lithium therapy and was suffering from an acute depressive episode. Because the patient experienced five mood swings over the past year, he meets the criteria for rapid cycling, defined as occurrence of four or more mood swings or episodes of mania or depression in a year. About 70 to 80% of rapid cyclers have poor response to lithium. Quetiapine and a combination of olanzapine and fluoxetine are the drugs approved by the U.S. Food and Drug Administration for the treatment of acute episodes of depression in bipolar disorder. A, C Typical neuroleptics, such as haloperidol and fluphenazine, could be used in the acute manic phase of bipolar disorders, but not in the depressive phase. B, E These drugs are not effective in bipolar disorders. F Tricyclic antidepressants are used only exceptionally in bipolar disorders. Moreover, they are contraindicated in elderly persons, as in this case.",
+   "source": "Pharmacology III-10 Q6",
+   "topic": "Medium",
+   "topic_n": 2
+  },
+  {
+   "question": "A 34-year-old man was admitted to a psychiatric hospital during an acute manic attack. The man had his first manic attack at the age of 27 and had had three other manic attacks since then. A diagnosis of acute mania was made, and a therapy was prescribed that included a drug that acts by blocking D, and 5-HT, receptors in the brain. Which of the following drugs was most likely prescribed?",
+   "choices": [
+    "Lithium",
+    "Trazodone",
+    "Olanzapine",
+    "Valproic acid",
+    "Lamotrigine",
+    "Clomipramine"
+   ],
+   "answer": 2,
+   "explanation": "An acute manic attack often requires treatment with a twoor three-drug combination, usually lithium plus an anticonvulsant plus an atypical neuroleptic. All neuroleptics most likely act by blocking D, receptors in mesolimbic and mesocortical pathways. In addition, they block 5-HT, receptors, and this action may contribute to their clinical effects. Atypical neuroleptics such as olanzapine seem to have a higher affinity for 5-HT, receptors than for D, receptors. A-C, E, F None of these drugs block both D, and 5-HT, receptors.",
+   "source": "Pharmacology III-10 Q7",
+   "topic": "Easy",
+   "topic_n": 5
+  },
+  {
+   "question": "A 36-year-old woman complained to her physician that she felt tired, suffered from constipation, and had gained weight in recent weeks. She also complained of feeling cold and of absence of menses during the last 3 months. The woman had been suffering from a bipolar disorder and had been maintained successfully on lithium therapy for 1 year. In addition to lithium, her present medication included cimetidine for duodenal ulcer and loratadine for hay fever. Which of the following was the most likely cause of the patient’s symptoms?",
+   "choices": [
+    "Lithium-induced hypothyroidism",
+    "Cimetidine-induced decrease in lithium metabolism Adverse effects of cimetidine",
+    "Central depressant effects of loratadine",
+    "Worsening of the disease due to inadequate lithium dosage"
+   ],
+   "answer": 0,
+   "explanation": "Lithium likely decreases thyroid function in most patients, but few of them show symptoms of hypothyroidism. However, in this case, the symptoms are most likely due to hypothyroidism. The effect is due to inhibition of thyroid hormone synthesis. The mechanism of this effect is likely related to lithium-induced inhibition of adenylyl cyclase, which in turn inhibits thyrotropin-induced production of cyclic adenosine monophosphate (cAMP) in thyroid cells. B Lithium is not metabolized and is excreted as such by the kidney. C Cimetidine does not cause the pattern of adverse effects exhibited by the patient. D Central effects of loratadine are negligible, as the drug does not cross the blood-brain barrier. E See correct answer explanation.",
+   "source": "Pharmacology III-10 Q8",
+   "topic": "Medium",
+   "topic_n": 3
+  },
+  {
+   "question": "A57-year-old woman complained to her physician of tremor, polyuria, mental confusion, and speech disturbances. The woman had a diagnosis of bipolar disorder and had been receiving lithium for 7 months. Two weeks ago, she was found to have successive high blood pressure readings, and her physician started an antihypertensive treatment with hydrochlorothiazide and losartan. Which of the following was most likely the reason for the adverse effects reported by the patient?",
+   "choices": [
+    "Thiazide-induced dilutional hypernatremia",
+    "Losartan-induced hyperkalemia",
+    "Decreased hepatic metabolism of lithium",
+    "Decreased renal elimination of lithium",
+    "Thiazide-induced hypokalemia"
+   ],
+   "answer": 3,
+   "explanation": "The patient’s symptoms indicate that she was most likely suffering from adverse effects due to an excessive plasma concentration of lithium. The patient was treated with hydrochlorothiazide, and it is known that the clearance of lithium is reduced about 25% by thiazides. Lithium is 80% reabsorbed in the proximal tubule by the same mechanism as Na+ and competes with Na+ for reabsorption. Therefore, lithium retention can be increased by Na+ loss related to some illnesses or to diuretic use, as in this case. A Thiazides tend to induce hyponatremia, not hypernatremia. C The hepatic metabolism of lithium is zero. D, E See correct answer explanation.",
+   "source": "Pharmacology III-10 Q9",
+   "topic": "Medium",
+   "topic_n": 4
+  },
+  {
+   "question": "A 30-year-old woman was brought to a psychiatric hospital by her parents because she had been in bed most of the day for the last 2 weeks. The woman was admitted to the hospital 4 months ago because of an acute manic episode and was discharged on valproic acid with a favorable response. On questioning, she said she discontinued her therapy 2 week ago because she felt cured, but now she admitted she was depressed most of the time and wanted to die. The patient was dismissed from the hospital 1 week later with an appropriate maintenance therapy. Which of the following drugs would be appropriate for the patient at this time?",
+   "choices": [
+    "Amitriptyline",
+    "Buspirone",
+    "Zolpidem",
+    "Lithium",
+    "Haloperidol",
+    "Lorazepam"
+   ],
+   "answer": 3,
+   "explanation": "The history and symptoms of the patient indicate that she was most likely suffering from the depressive phase of a bipolar disorder. The depression is often difficult to control and puts patients at significant risk of suicide. Lithium (alone or in combination) remains the first-line agent for maintenance therapy of bipolar disorder. A Antidepressant use in bipolar depression is controversial, and current guidelines suggest that they can be used (together with lithium) in the severe acute phase of bipolar depression. However, tricyclics are contraindicated in patients with suicidal ideation, as in this case. B, C Lorazepam and haloperidol are indicated in the acute manic phase of bipolar disorder, not in the depressive phase. D, F Anxiolytic and hypnotic drugs are not indicated in bipolar disorders.",
+   "source": "Pharmacology III-10 Q10",
+   "topic": "Medium",
+   "topic_n": 5
+  },
+  {
+   "question": "A 49-year-old woman visited her physician complaining of a fine hand tremor and of an increasing need to urinate. The woman, recently diagnosed with a psychiatric disorder, had been taking a psychotropic drug for 3 weeks. Physical examination disclosed cystic acne with folliculitis over the trunk and thorax. Which of the following drugs was most likely to have caused the patient’s symptoms and signs?",
+   "choices": [
+    "Haloperidol",
+    "Trazodone",
+    "Valproic acid",
+    "Fluphenazine",
+    "Fluoxetine",
+    "Lithium"
+   ],
+   "answer": 5,
+   "explanation": "The symptoms of the patient suggest that she was likely suffering from adverse effects of lithium. Tremor is an adverse effect of lithium that is dose-dependent and may occur in up to 60% of patients receiving high doses. When tremor is not disturbing, treatment is not necessary. Otherwise a concomitant treatment with a B-blocker can help. Polyuria, acne, and folliculitis are other adverse effects of lithium that usually subside with the discontinuation of the drug. A, B, D-F These drugs do not cause all the adverse effects reported by the patient.",
+   "source": "Pharmacology III-10 Q11",
+   "topic": "Easy",
+   "topic_n": 6
+  },
+  {
+   "question": "A 49-year-old woman was discharged from a psychiatric hospital after an episode of acute mania. Over the past 2 years, the patient had had five previous hospitalizations for major manic or depressive episodes. Her postdischarge therapy included lithium. How long should the patient continue to take lithium?",
+   "choices": [
+    "For 9 months",
+    "Indefinitely",
+    "For 1 year",
+    "For 3 months",
+    "For 6 months"
+   ],
+   "answer": 1,
+   "explanation": "The duration of maintenance therapy with lithium in major bipolar disorder is at least 9 months. A period of successful maintenance therapy means that the individual is controlled, not cured, as most patients that stop lithium therapy eventually relapse. Furthermore, as individuals experience successive episodes, they tend to recover less completely. Therefore, in a case of serious and repeated episodes of bipolar disorder, as in this case, the person may require lithium for the rest of his or her life. A-D See correct answer explanation.",
+   "source": "Pharmacology III-10 Q12",
+   "topic": "Medium",
+   "topic_n": 6
+  },
+  {
+   "question": "A 33-year-old woman suffering from a bipolar disorder had been maintained successfully on lithium therapy. Now she planned to become pregnant. Her psychiatrist decided to stop lithium and to start another medication. Which of the following drugs would be appropriate for this patient?",
+   "choices": [
+    "Carbamazepine",
+    "Valproic acid",
+    "Quetiapine",
+    "Clozapine EO Gee ae Amitriptyline",
+    "Haloperidol"
+   ],
+   "answer": 2,
+   "explanation": "Lithium is classified by the U.S. Food and Drug Administration (FDA) in pregnancy risk category D and therefore must be avoided during pregnancy. Some anticonvulsants (valproic acid, lamotrigine, and carbamazepine) and some atypical antipsychotics (aripiprazole, olanzapine, quetiapine, and risperidone) have become good alternative and adjunctive treatments to lithium for maintenance therapy of bipolar disorder. Among atypical antipsychotics, quetiapine has the lowest ratio of umbilical cord to maternal plasma concentration and does not seem to cause significant teratogenic risk to the fetus. Therefore, it is a rational choice for maintenance therapy in a pregnant woman with bipolar disorder. A, B Carbamazepine and valproic acid are effective in maintenance therapy of bipolar disorder but are contraindicated during pregnancy because of a substantial teratogenic risk (both are classified by FDA in the pregnancy risk category D). D-F These drugs have no proven efficacy for maintenance therapy of bipolar disorder.",
+   "source": "Pharmacology III-10 Q13",
+   "topic": "Medium",
+   "topic_n": 7
+  },
+  {
+   "question": "A 57-year-old man complained to his physician that he was always thirsty and had frequent and profuse micturition. The man, recently diagnosed with bipolar disorder, had been receiving lithium for 3 weeks. Which of the following was most likely the cause of the patient’s symptoms?",
+   "choices": [
+    "Increased plasma glucose levels So Stimulation of the thirst center in the hypothalamus",
+    "Blockade of vasopressin secretion from the pituitary",
+    "Blockade of Na+ reabsorption in the thick ascending loop of Henle",
+    "Blockade of vasopressin-induced increase of cAMP in the collecting tubule"
+   ],
+   "answer": 3,
+   "explanation": "Polyuria and polydipsia are common adverse effects of lithium due, at least in part, to inhibition of the vasopressin-induced increase of cAMP in the kidney (lithium inhibits adenylyl cyclase). Circulating levels of vasopressin are normal or elevated, but there is a lack of responsiveness of the collecting tubule (i.e., nephrogenic diabetes insipidus). A Lithium has no effect on renal reabsorption of sodium in this part of the nephron. C Lithium has no effect on plasma glucose levels. D Stimulation of the thirst center in the hypothalamus is the consequence, not the cause, of polyuria. E In nephrogenic diabetes insipidus, vasopressin secretion is normal or stimulated, not blocked.",
+   "source": "Pharmacology III-10 Q14",
+   "topic": "Easy",
+   "topic_n": 7
+  },
+  {
+   "question": "A 43-year-old woman recently diagnosed with major depressive disorder had started a therapy with sertraline, but 1 month later her condition had not changed appreciably, and her psychiatrist decided to add a second medication (augmentation therapy). He prescribed a drug with multiple mechanisms of action, including an inhibition of glycogen synthase kinase 3. Which of the following drugs was most likely prescribed?",
+   "choices": [
+    "Buspirone",
+    "Bupropion",
+    "Triiodothyronine",
+    "Lithium",
+    "Lamotrigine",
+    "Olanzapine"
+   ],
+   "answer": 3,
+   "explanation": "The two main proposed mechanisms of action of lithium are related to inhibition of two signal transduction pathways, that is, inositol and glycogen synthase kinase 3 signaling. The inhibition of this enzyme causes suppression of the expression of proapoptotic genes and increased expression of antiapoptotic genes. The ultimate effect is neuroprotection, which may underlie the long-term mood stabilization. A-E All of these drugs have been used in augmentation therapy, but they do not have the above-mentioned mechanism of action.",
+   "source": "Pharmacology III-10 Q15",
+   "topic": "Medium",
+   "topic_n": 8
+  },
+  {
+   "question": "A 55-year-old man suffering from bipolar disorder started a maintenance therapy with lithium. Which of the following adverse effects is most likely to occur during the first days f th ?",
+   "choices": [
+    "Insomnia",
+    "Weight loss",
+    "Edema",
+    "; ; A. Constipation",
+    "Hypertension"
+   ],
+   "answer": 2,
+   "explanation": "Edema is a frequent adverse effect of lithium, especially during the first 5 to 7 days of therapy. Edema is likely due to increased Na+ in the extracellular fluid, as lithium is not pumped out by Na+/K*-ATPase and therefore tends to accumulate inside the cells, displacing Na’. A-D Lithium tends to cause adverse effects opposite to those listed.",
+   "source": "Pharmacology III-10 Q16",
+   "topic": "Easy",
+   "topic_n": 8
+  },
+  {
+   "question": "A 20-year-old man was accompanied to the clinic by his mother, who stated that her son had been exhibiting very unusual behavior over the past few weeks. He was euphoric most of the day, stayed up later and later at night, and frequently awakened his parents shouting and screaming. Recently, he experienced problems at work. Upon arriving at the clinic, he had trouble sitting still or listening and became increasingly irritable throughout the examination. He repeatedly said he heard a voice telling him he had a superpower. Which of the following pairs of drugs would be most helpful for the patient’s condition?",
+   "choices": [
+    "Imipramine and haloperidol",
+    "Fluoxetine and risperidone",
+    "Imipramine and lithium",
+    "Fluoxetine and haloperidol",
+    "Risperidone and lithium"
+   ],
+   "answer": 4,
+   "explanation": "The signs and symptoms of the patient suggest that he is suffering from an acute manic disorder. General guidelines for acute mania suggest a two- or three-drug combination that includes lithium, as it reduces both the frequency and the magnitude of mood swings. However, it has a slow onset of action, taking as long as 1 to 2 weeks to fully exert its therapeutic effects. Therefore, an adjunctive medication is used during the first days of therapy. Benzodiazepines are often given for agitation and insomnia, but second-generation neuroleptics with substantial sedative properties, such as risperidone, are preferred when there are delusions or hallucinations, as in this case. A-D All of these combinations have at least one drug that is not effective in treating manic disorders.",
+   "source": "Pharmacology III-10 Q17",
+   "topic": "Hard",
+   "topic_n": 1
+  },
+  {
+   "question": "A 44-year-old woman reported to her psychiatrist that the prescribed drug improved her feelings, but that she was still somewhat depressed and lethargic almost every day. The woman, recently diagnosed with major depressive disorder, had been taking venlafaxine for 2 months. The psychiatrist decided to add a second drug to the present regimen. Which of the following drugs would be appropriate for the patient at this time?",
+   "choices": [
+    "Amitriptyline",
+    "Valproic acid",
+    "Diazepam",
+    "Mirtazapine",
+    "Lithium",
+    "Haloperidol"
+   ],
+   "answer": 4,
+   "explanation": "More than 40% of patients with major depressive disorder do not achieve remission even after two antidepressant trials. An accepted strategy used when dealing with negligible or poor antidepressant response is to add another agent to the therapy (augmentation therapy). Drugs used effectively for augmentation therapy include lithium, bupropion, buspirone, lamotrigine, and triiodothyronine. A, B Currently, antidepressants are not used in augmentation therapy. Moreover, amitriptyline and mirtazapine have sedating activity that could worsen the patient’s sleepiness. C, E, F These drugs are not effective for antidepressant augmentation therapy.",
+   "source": "Pharmacology III-10 Q18",
+   "topic": "Hard",
+   "topic_n": 2
+  },
+  {
+   "question": "A 46-year-old man complained to his physician of a fine hand tremor, diarrhea, and frequent need to urinate. The man had",
+   "choices": [
+    "F 100",
+    "been receiving lithium therapy for 1 month to treat bipolar disorder, Routine lab tests showed normal renal function mEq/L. Lithium has a volume and a plasma lithium level of 3 of distribution of about 45 L and a half-life of about 20 hours. How many hours should the physician withhold lithium in ;",
+    "Cc. 30",
+    "order to reach a safer, yet likely therapeutic level of 0.75 mEq/L? A. 10 B. 20",
+    "40",
+    "80"
+   ],
+   "answer": 4,
+   "explanation": "By definition, the plasma concentration of a drug halves every half-life. Therefore, the plasma level will be 1.5 mEq/L after one half-life and 0.75 mEq/L after two half-lives (i.e., after 40 hours). A-C, E, F See correct answer explanation.",
+   "source": "Pharmacology III-10 Q19",
+   "topic": "Easy",
+   "topic_n": 9
+  },
+  {
+   "question": "A 34-year-old woman who had been treated for an episode of acute mania was no longer overtly manic. However, because she had had past episodes of depression and mania, her psychiatrist decided to institute prophylactic therapy and prescribed a drug that appears to affect primarily the inositol second messenger system. Which of the following drugs was most likely prescribed?",
+   "choices": [
+    "Lamotigrine",
+    "Valproic acid",
+    "Aripiprazole",
+    "Risperidone",
+    "Quetiapine",
+    "Lithium"
+   ],
+   "answer": 5,
+   "explanation": "Maintenance therapy with lithium reduces the frequency and severity of episodes of both mania and depression in patients with bipolar disorder. The drug appears to act mainly by inhibiting the inositol second messenger system, as it inhibits inositol monophosphatase, the rate-limiting enzyme in inositol recycling. A-C, E, F All of these drugs are effectively used in maintenance therapy of mania, but they do not have the abovementioned mechanism of action.",
+   "source": "Pharmacology III-10 Q20",
+   "topic": "Easy",
+   "topic_n": 10
+  },
+  {
+   "question": "A 63-year-old man complained to his physician that he had a constant, strong desire to drink and had frequent and profuse micturition. The man was otherwise healthy, but 2 months earlier he was diagnosed with a psychiatric disorder and had been taking an appropriate pharmacotherapy since then. Further exams indicated that the patient’s daily urine output was about 12 to 15 L. His urine osmolarity was 216 mOsm/kg under control conditions and 225 mOsm/kg after the administration of desmopressin. The physician decreased the dose of the drug the patient was taking for his psychiatric disorder and prescribed another drug to cure the patient’s urinary symptoms. Which of the following drugs would be most appropriate to treat the patient’s urinary symptoms at this time?",
+   "choices": [
+    "Furosemide",
+    "Hydrochlorothiazide",
+    "Amiloride",
+    "Spironolactone",
+    "Conivaptan movements could be related to the child’s therapy. Which of the following drugs might have caused these adverse effects? A. Fluphenazine B. Methylphenidate C. Atomoxetine D. Ethosuximide E. Paroxetine"
+   ],
+   "answer": 2,
+   "explanation": "The patient’s history and symptoms indicate that he was most likely suffering from lithium-induced nephrogenic diabetes insipidus, the most common complication of chronic lithium therapy. In the collecting tubule, lithium (Li*) is reabsorbed through the Na+ channels and is therefore concentrated inside the principal cells. This high concentration blocks the action of vasopressin, likely by inhibiting adenylyl cyclase, and causes nephrogenic diabetes insipidus. Amiloride is a K*-sparing diuretic that blocks Na+ channels in the late distal tubule and collecting duct, inhibiting the reabsorption of Li* through those channels. It is therefore the first-line agent for the therapy of lithium-induced diabetes insipidus. A, B These diuretics are dangerous in patients taking lithium because they tend to cause Na+ depletion. Because Na+ and Li* go through the same channels, Na+ depletion promotes a clinically important degree of lithium retention D Spironolactone cannot affect Lit reabsorption because it does not block Na+ channels in the late distal tubule and collecting duct. E Conivaptan is a vasopressin antagonist and therefore would increase, not decrease, the patient’s polyuria.",
+   "source": "Pharmacology III-10 Q21",
+   "topic": "Medium",
+   "topic_n": 9
+  }
+ ]
+}

@@ -1,0 +1,784 @@
+{
+ "questions": [
+  {
+   "question": "Covalent binding with nucleophilic groups on DNA bases",
+   "choices": [
+    "Asparaginase",
+    "Trastuzumab",
+    "Etoposide",
+    "Hydroxyurea",
+    "Paclitaxel",
+    "Fluorouracil",
+    "Carmustine",
+    "Methotrexate",
+    "Imatinib",
+    "Vincristine"
+   ],
+   "answer": 6,
+   "explanation": "Carmustine, an alkylating agent (nitrosourea), acts by covalent binding with nucleophilic groups on DNA bases. (Matching key, Questions 1-4: 1. B)",
+   "source": "Pharmacology VIII-9 Q1",
+   "topic": "Easy",
+   "topic_n": 1
+  },
+  {
+   "question": "Inhibition of ribonucleotide reductase",
+   "choices": [
+    "Etoposide",
+    "Paclitaxel",
+    "Asparaginase",
+    "Imatinib",
+    "Trastuzumab",
+    "Methotrexate",
+    "Vincristine",
+    "Hydroxyurea",
+    "Carmustine",
+    "Fluorouracil"
+   ],
+   "answer": 7,
+   "explanation": "Hydroxyurea acts by inhibition of ribonucleotide reductase. (Matching key, Questions 1-4: 2. E)",
+   "source": "Pharmacology VIII-9 Q2",
+   "topic": "Easy",
+   "topic_n": 2
+  },
+  {
+   "question": "Inhibition of thymidylate synthetase",
+   "choices": [
+    "Vincristine",
+    "Hydroxyurea",
+    "Fluorouracil",
+    "Imatinib",
+    "Etoposide",
+    "Asparaginase",
+    "Trastuzumab",
+    "Methotrexate",
+    "Carmustine",
+    "Paclitaxel"
+   ],
+   "answer": 2,
+   "explanation": "Fluorouracil acts by inhibition of thymidylate synthetase (through its metabolite fluorodeoxyuridine monophosphate). (Matching key, Questions 1-4: 3. D)",
+   "source": "Pharmacology VIII-9 Q3",
+   "topic": "Easy",
+   "topic_n": 3
+  },
+  {
+   "question": "Inhibition of a mutated tyrosine kinase present in certain cancer cells",
+   "choices": [
+    "Imatinib",
+    "Trastuzumab",
+    "Carmustine",
+    "Fluorouracil",
+    "Vincristine",
+    "Paclitaxel",
+    "Hydroxyurea",
+    "Methotrexate",
+    "Asparaginase",
+    "Etoposide"
+   ],
+   "answer": 0,
+   "explanation": "Imatinib acts by inhibition of a mutated tyrosine kinase (BCR-ABL) present in certain cancer cells. (Matching key, Questions 1-4: 4. F)",
+   "source": "Pharmacology VIII-9 Q4",
+   "topic": "Easy",
+   "topic_n": 4
+  },
+  {
+   "question": "A 63-year-old woman complained to her physician of intermittent back pain that was worse at night. History revealed that the woman had undergone a modified radical mastectomy 2 years earlier for infiltrating ductal carcinoma of the breast that turned out to be HER-2 (human epidermal growth factor receptor 2) positive. A computed tomography scan revealed bone metastases, and she was scheduled for high-dose combination chemotherapy. Which of the following drugs was most likely included in her treatment regimen?",
+   "choices": [
+    "Asparaginase",
+    "Flutamide",
+    "Leuprolide",
+    "Trastuzumab",
+    "Clomiphene",
+    "Finasteride"
+   ],
+   "answer": 3,
+   "explanation": "Trastuzumab is a monoclonal antibody against a surface protein called human epidermal growth factor receptor 2 (HER-2), which may be overexpressed in primary breast carcinoma. The drug binds with high affinity to this receptor, thus preventing the binding of HER to the same receptor. In this way, tumor growth is inhibited. Trastuzumab is used in HER-2 positive, metastasized breast cancer, alone or in combination with paclitaxel. A, B, D-F These drugs are not used in breast cancer chemotherapy.",
+   "source": "Pharmacology VIII-9 Q5",
+   "topic": "Easy",
+   "topic_n": 5
+  },
+  {
+   "question": "A 15-year-old boy suffering from acute lymphoblastic leukemia received a consolidation anticancer therapy that included high-dose methotrexate. Leucovorin was also given after methotrexate. Which of the following concepts specifically underlies this therapeutic strategy?",
+   "choices": [
+    "Pulsing",
+    "Combined modality strategy",
+    "Recruitment",
+    "log kill",
+    "Rescue therapy"
+   ],
+   "answer": 4,
+   "explanation": "Rescue therapy is a strategy aimed at alleviating some adverse effects of anticancer chemotherapy by the use of drugs that can “rescue” the normal cells exposed to the anticancer drug. Leucovorin (formyl tetrahydrofolate, also called folinic acid) is accumulated more readily by normal cells than by neoplastic cells. The administration of this drug results in rescue of the normal cells, as the drug bypasses the two steps in the purine synthesis that are blocked by methotrexate (i.e., folate to dihydrofolate and dihydrofolate to tetrahydrofolate). A Log kill is a rule that states that a given dose of an anticancer drug kills a constant proportion of the tumor cell population. B Recruitment refers to a strategy that involves initial use of cell cycle nonspecific (CCNS) anticancer drugs to achieve a significant cell kill. This kill “enrolls” previously resting cells in the G1 phase of the cell cycle. At this stage, cell cycle specific (CCS) anticancer drugs are given. Because these drugs are active against dividing cells, maximal cell kill may be achieved. C Pulsing is a strategy that involves cycles of treatment with very high doses of an anticancer drug. Between cycles, normal cells can recover from the cytotoxic effects of the drug. D Combination therapy is the rule in anticancer treatment and is usually done with drugs having different mechanisms of action and (when possible) different toxic effects.",
+   "source": "Pharmacology VIII-9 Q6",
+   "topic": "Easy",
+   "topic_n": 6
+  },
+  {
+   "question": "A 52-year-old woman recently diagnosed with malignant glioblastoma received radiation therapy followed by a cycle of combination therapy that included carmustine. Which of the following statements best explains why carmustine is most often used to treat central nervous system neoplasms?",
+   "choices": [
+    "It is taken up into neurons by the amine pump.",
+    "It has a very long half-life (10 days).",
+    "It inhibits only neuronal tumor cells.",
+    "It has negligible neurologic adverse effects.",
+    "It can easily enter the brain."
+   ],
+   "answer": 4,
+   "explanation": "Carmustine belongs to the nitrosoureas group of drugs. These alkylating agents have a high lipophilicity that facilitates their entry into the brain. In fact, their concentration in cerebrospinal fluid is 15 to 70% of the concurrent plasma values. Because of this, nitrosoureas are the main chemotherapeutic agents used in the treatment of brain tumors. A Nitrosoureas are alkylating agents that actually can kill both neoplastic and nonneoplastic cells. C Carmustine actually can cause encephalopathy when given in high doses. D The amine pump is specific for monoamines. Nitrosoureas are not monoamines. E The half-life of carmustine is actually short, about 15 to 30 minutes.",
+   "source": "Pharmacology VIII-9 Q7",
+   "topic": "Easy",
+   "topic_n": 7
+  },
+  {
+   "question": "A 61-year-old woman with advanced Hodgkin lymphoma began chemotherapy with the ABVD (doxorubicin, bleomycin, vinblastine, and dacarbazine) regimen. Which of the following molecular actions most likely mediated the therapeutic effect of doxorubicin in the patient's disease?",
+   "choices": [
+    "It blocks the synthesis of both ribonucleotides and deoxynucleotides.",
+    "It prevents microtubule disassembly into tubulin monomers.",
+    "It prevents assembly of tubulin dimers into microtubules.",
+    "It intercalates between DNA strands and inhibits topoisomerase II.",
+    "It alkylates nucleophilic groups on DNA bases."
+   ],
+   "answer": 3,
+   "explanation": "Doxorubicin is an anthracycline antibiotic, thus the A in the ABVD acronym; alternatively, the A may be considered to stand for Adriamycin, a brand name for doxorubicin. These anticancer drugs likely act with multiple mechanisms, including intercalation between adjacent base pairs of DNA, thus causing blockade of DNA replication; blockade of topoisomerase II, the enzyme that catalyzes DNA repair (it breaks and then reseals DNA strands); and generation of free radicals that can oxidize DNA bases. The end result of these multiple mechanisms is cell apoptosis. B This is the mechanism of action of taxanes. C This is the mechanism of action of vinca alkaloids. D This is the mechanism of action of alkylating drugs. E This is the mechanism of action of methotrexate.",
+   "source": "Pharmacology VIII-9 Q8",
+   "topic": "Easy",
+   "topic_n": 8
+  },
+  {
+   "question": "A 47-year-old man with non-Hodgkin lymphoma was admitted to the hospital to receive his fourth cycle of CHOP (cyclophosphamide, doxorubicin, vincristine, and prednisone) regimen plus rituximab. Physical examination revealed tachycardia, shortness of breath that worsened soon after lying flat, neck vein distention, pulmonary rales, and ankle edema. Which of the following drugs most likely caused these adverse effects?",
+   "choices": [
+    "Rituximab",
+    "Doxorubicin",
+    "Cyclophosphamide",
+    "Vincristine",
+    "Prednisone"
+   ],
+   "answer": 1,
+   "explanation": "In the CHOP acronym, C stands for cyclophosphamide; H for hydroxydaunorubicin, which is another name for doxorubicin; O is for Oncovin, which is a brand name for vincristine; and P is for prednisone or prednisolone. The CHOP regimen has been considered the best treatment for the initial therapy of patients with diffuse non-Hodgkin lymphoma. Recently, it has been shown that the combination of CHOP with rituximab can improve response rates, disease-free survivals, and overall survivals compared with CHOP chemotherapy alone. The signs and symptoms of the patient suggest the diagnosis of cardiac failure. Anthracyclines (doxorubicin, daunorubicin, idarubicin, etc.) are the anticancer drugs that have the highest risk of cardiac toxicity. They can cause a dose-dependent dilated cardiomyopathy associated with a potentially fatal cardiac failure. This toxicity appears to result from increased production of free radicals within the myocardium. A, C-E These drugs have a low (cyclophosphamide) or negligible risk of cardiac toxicity. Other anticancer drugs that can cause cardiac toxicity are fluorouracil, paclitaxel, and trastuzumab.",
+   "source": "Pharmacology VIII-9 Q9",
+   "topic": "Easy",
+   "topic_n": 9
+  },
+  {
+   "question": "A 13-year-old boy was admitted to the hospital with a 10-day history of fever, general malaise, dizziness, and nosebleed. He had a 1-week history of an upper respiratory tract infection. A blood test revealed normochromic, normocytic anemia, and a differential white blood cell count showed 11% lymphoblasts. A bone marrow biopsy showed 95% lymphoblasts. Which of the following pairs of drugs would be most appropriate for the patient at this time?",
+   "choices": [
+    "Fluorouracil and cisplatin",
+    "Tamoxifen and anastrozole",
+    "Flutamide and goserelin",
+    "Cisplatin and etoposide",
+    "Vincristine and prednisone"
+   ],
+   "answer": 4,
+   "explanation": "The patient's bone marrow biopsy confirmed the diagnosis of acute lymphoblastic leukemia. A combination of vincristine and prednisone (plus asparaginase) is a current therapy of choice to induce remission, as none of these agents is myelosuppressive to normal bone marrow elements. Over 90% of children enter complete remission with this treatment. A This combination is currently used for lung and testicular cancers. B This combination is currently used for prostate cancer. D These drugs are used to treat breast cancer. E This combination is currently used for head and neck cancers.",
+   "source": "Pharmacology VIII-9 Q10",
+   "topic": "Medium",
+   "topic_n": 1
+  },
+  {
+   "question": "A 61-year-old man was found to have recurrent colon cancer. The primary tumor was removed 8 months previously, at which time adjuvant chemotherapy with fluorouracil and carboplatin was begun. The oncologist suspected that the cancer recurrence was related to resistance to fluorouracil. Which of the following mechanisms best explains the resistance to this drug?",
+   "choices": [
+    "Decreased activity of thymidylate synthase",
+    "Decreased activity of topoisomerase",
+    "Decreased ability to phosphorylate pyrimidines",
+    "Decreased activity of the cell efflux pump",
+    "Increased intracellular concentration of a reduced folate"
+   ],
+   "answer": 2,
+   "explanation": "Fluorouracil is a prodrug that is converted within cells to fluoro-deoxyuridine-monophosphate, which inhibits thymidylate synthase, thus causing a “thymineless death” of cells. A decreased ability of cancer cells to phosphorylate pyrimidines prevents the activation of the prodrug, thus causing drug resistance. B-E All these mechanisms would decrease, not increase, the resistance to fluorouracil.",
+   "source": "Pharmacology VIII-9 Q11",
+   "topic": "Easy",
+   "topic_n": 10
+  },
+  {
+   "question": "A 24-year-old man was admitted to the hospital because of abdominal discomfort and shortness of breath. The man was diagnosed with testicular cancer 16 months earlier, for which he underwent a radical inguinal orchiectomy. An abdominal computed tomography revealed a 10-cm mass, and a chest radiograph showed multiple nodules in the lung. The first course of a three-drug combination chemotherapy was started. Which of the following drugs was most likely included in the patient's combination chemotherapy?",
+   "choices": [
+    "Methotrexate",
+    "Carmustine",
+    "Asparaginase",
+    "Cytarabine",
+    "Mercaptopurine",
+    "Cisplatin"
+   ],
+   "answer": 5,
+   "explanation": "Testicular cancer is the most common malignancy in men between ages 15 and 35 years. The x-ray and computed tomography results indicate metastatic testicular cancer, and the patient should receive systemic chemotherapy. The combination of cisplatin, etoposide, and bleomycin commonly controls the tumor long term and is widely used today. A Carmustine is mainly used for brain tumors. B, C, E Methotrexate, cytarabine, and mercaptopurine are mainly used for hematologic malignancies.",
+   "source": "Pharmacology VIII-9 Q12",
+   "topic": "Easy",
+   "topic_n": 11
+  },
+  {
+   "question": "A 26-year-old man complained of numbness in his fingers and the soles of his feet. Three weeks previously, he had started chemotherapy for acute lymphoblastic leukemia. Physical examination showed loss of ankle jerk and depression of deep tendon reflexes. Which of the following drugs most likely caused the patient's signs and symptoms?",
+   "choices": [
+    "Prednisone",
+    "Methotrexate",
+    "Mercaptopurine",
+    "Doxorubicin",
+    "Vincristine"
+   ],
+   "answer": 4,
+   "explanation": "The patient's paresthesias and loss of reflexes are signs of vincristine peripheral neuropathy, which often appears within the first few weeks of therapy. Areflexia is common in patients treated with high cumulative doses. Vinca alkaloids have certain toxicities in common (i.e., nausea and vomiting, diarrhea, alopecia), but other adverse effects differ. Vincristine causes a dose-limiting neurotoxicity but is a mild myelosuppressant, whereas vinblastine causes negligible neurotoxicity but gives rise to a severe, dose-limiting myelosuppression. B-E The risk of peripheral neuropathy with these drugs is negligible.",
+   "source": "Pharmacology VIII-9 Q13",
+   "topic": "Easy",
+   "topic_n": 12
+  },
+  {
+   "question": "A 44-year-old man recently diagnosed with Hodgkin lymphoma was about to receive his first MOPP (mechlorethamine, vincristine, procarbazine and prednisone) regimen. Which of the following components of this regimen is given intravenously and has vesicant activity that may cause tissue necrosis and sloughing in case of extravasation?",
+   "choices": [
+    "Vincristine",
+    "Prednisone",
+    "Procarbazine",
+    "Mechlorethamine"
+   ],
+   "answer": 3,
+   "explanation": "The MOPP acronym is derived from: M for mustargen, also known as mechlorethamine; O for Oncovin, a brand name for vincristine; P for procarbazine; and P for prednisone. Mechlorethamine is an alkylating agent. All alkylating agents are strongly cytotoxic and can damage tissues at the site of injection. This is because they can form covalent bonds with many cell constituents, leading to cell death. A-C Prednisone, vincristine, and procarbazine are devoid of vesicant properties.",
+   "source": "Pharmacology VIII-9 Q14",
+   "topic": "Easy",
+   "topic_n": 13
+  },
+  {
+   "question": "A 47-year-old woman recently diagnosed with acute myelogenous leukemia started remission chemotherapy with daunorubicin and cytarabine. Which of the following molecular actions most likely mediated the therapeutic effect of cytarabine in the patient's disease?",
+   "choices": [
+    "Inhibition of topoisomerase II",
+    "Inhibition of microtubule disassembly",
+    "Inhibition of microtubule assembly",
+    "Inhibition of DNA chain elongation",
+    "Inhibition of adenosine deaminase"
+   ],
+   "answer": 3,
+   "explanation": "The standard treatment for acute myelogenous leukemia includes remission therapy with an anthracycline and cytarabine. Cytarabine is activated to a compound that is incorporated at the terminal position of a growing DNA chain, thus impairing elongation of DNA strands. A This is the mechanism of action of etoposide. C This is the mechanism of action of pentostatin. D This is the mechanism of action of vinca alkaloids. E This is the mechanism of action of taxanes.",
+   "source": "Pharmacology VIII-9 Q15",
+   "topic": "Easy",
+   "topic_n": 14
+  },
+  {
+   "question": "A 4-year-old boy diagnosed with Wilms tumor underwent surgery, followed by 18 weeks of vincristine and dactinomycin therapy. Which of the following molecular actions most likely mediated the therapeutic effect of dactinomycin in the patient's disease?",
+   "choices": [
+    "Alkylation of nucleophilic groups on RNA bases",
+    "Inhibition of dihydrofolate reductase",
+    "Inhibition of free radical formation",
+    "Inhibition of pyrimidine biosynthesis",
+    "Inhibition of tyrosine kinases",
+    "Binding to double-stranded DNA"
+   ],
+   "answer": 5,
+   "explanation": "Dactinomycin is a cytotoxic anthracycline antibiotic. The main mechanism of anticancer action of these drugs involves binding to double-helical DNA, thus preventing DNA transcription. The action is similar to that of alkylating drugs, but anthracyclines bind double-helical DNA by intercalation, not by alkylation. Dactinomycin is used mainly in Wilms tumor, a kidney tumor that is the most common intra-abdominal tumor of childhood and accounts for about 6% of all childhood malignancies. A This is the mechanism of action of alkylating drugs. B This is the mechanism of action of methotrexate. C This is the mechanism of action of pyrimidine analogues. E The formation, not the inhibition, of free radicals is one of the postulated mechanisms of action of some anticancer drugs, including doxorubicin and bleomycin. F This is the mechanism of action of imatinib.",
+   "source": "Pharmacology VIII-9 Q16",
+   "topic": "Easy",
+   "topic_n": 15
+  },
+  {
+   "question": "A 55-year-old man presented to his physician with complaints of swollen lymph nodes, occasional fevers, and night sweats. The biopsy of a supraclavicular lymph node led to the diagnosis of diffuse B-cell lymphoma. A standard therapeutic regimen was implemented with cyclophosphamide, doxorubicin, vincristine, and prednisone. Which of the following molecular actions most likely mediated the therapeutic effect of cyclophosphamide in the patient's disease?",
+   "choices": [
+    "Formation of covalent bonds with DNA bases",
+    "Inhibition of microtubule assembly",
+    "Prevention of DNA chain elongation",
+    "Prevention of DNA resealing",
+    "Inhibition of thymidylate synthase"
+   ],
+   "answer": 0,
+   "explanation": "Cyclophosphamide is an alkylating agent. These drugs act by intramolecular cyclization to form either an ethyleneimonium or a carbonium ion which are strongly electrophilic (i.e., electron attracting). These intermediates can alkylate, that is they can transfer alkyl groups to various cellular constituents by formation of covalent bonds with nucleophile (i.e., electron donor) groups of these constituents. Alkylation of guanine of a single strand of the DNA molecule results in miscoding or in depurination by excision of guanine residues. Alkylation of guanines in both strands of the DNA molecule results in cross-linking, which appears to be of major importance to the cytotoxic action of alkylating agents. B This is the mechanism of action of cytarabine. C This is the mechanism of action of fluorouracil. D This is the mechanism of action of topoisomerase II inhibitors. E This is the mechanism of action of vinca alkaloids.",
+   "source": "Pharmacology VIII-9 Q17",
+   "topic": "Easy",
+   "topic_n": 16
+  },
+  {
+   "question": "A 59-year-old woman recently diagnosed with stage IV adenocarcinoma of the lung started the first cycle of anticancer chemotherapy. The regimen included a drug that binds to tubulin and prevents microtubule disassembly. Which of the following drugs has this mechanism of action?",
+   "choices": [
+    "Trastuzumab",
+    "Methotrexate",
+    "Asparaginase",
+    "Paclitaxel",
+    "Hydroxyurea",
+    "Cytarabine"
+   ],
+   "answer": 3,
+   "explanation": "Although adenocarcinoma of the lung is less sensitive than small cell lung cancer to chemotherapy, combination therapy can improve survival. A widely used first-line regimen includes a platinum compound (e.g., cisplatin), and a taxane (e.g., paclitaxel). Taxanes bind to tubulin and inhibit tubulin depolymerization, thus preventing microtubule disassembly. A, B, D-F These drugs are not used for lung cancer and they do not bind to tubulin.",
+   "source": "Pharmacology VIII-9 Q18",
+   "topic": "Easy",
+   "topic_n": 17
+  },
+  {
+   "question": "A 53-year-old man recently diagnosed with small cell lung cancer started chemotherapy with cisplatin and etoposide. Which of the following molecular actions most likely mediated the therapeutic effect of etoposide in the patient's disease?",
+   "choices": [
+    "Inhibition of thymidylate synthase",
+    "Alkylation of nucleophilic groups on RNA bases",
+    "Prevention of resealing of nicked strands of DNA",
+    "Inhibition of microtubule disassembly",
+    "Inhibition of dihydrofolate reductase"
+   ],
+   "answer": 2,
+   "explanation": "Small cell lung carcinoma is one of the four main types of lung cancer and accounts for 15 to 20% of primary lung tumors. Because small cell lung carcinoma disseminates early in the disease, surgery is almost never indicated. Most chemotherapeutic regimens include high-dose cisplatin with etoposide. Etoposide inhibits topoisomerase II, one of the enzymes that reseals double-stranded DNA breaks. As a result, DNA breaks accumulate and lead to cell death. It is worth noting that quinolones are also able to inhibit topoisomerase II. However, quinolones inhibit only the bacterial cell enzyme and are therefore harmless to eukaryotic cells, whereas etoposide inhibits only eukaryotic cell enzymes and is therefore devoid of antibacterial activity. A This is the mechanism of action of methotrexate. B This is the mechanism of action of fluorouracil. D This is the mechanism of action of alkylating drugs. E This is the mechanism of action of taxanes.",
+   "source": "Pharmacology VIII-9 Q19",
+   "topic": "Easy",
+   "topic_n": 18
+  },
+  {
+   "question": "A 60-year-old man was admitted to the hospital with fever (100.1°F, 38.4°C), dyspnea, and nonproductive cough. Two weeks earlier, the patient had completed five courses of chemotherapy with cyclophosphamide, doxorubicin, vincristine, prednisone, and bleomycin for large-cell lymphoma. Chest x-ray showed diffuse bilateral infiltrates, and a lung biopsy revealed inflammation and fibrosis with no evidence of lymphoma. Bacterial, fungal, and viral cultures were negative. Which of the drugs administered to the patient most likely caused his pulmonary disorder?",
+   "choices": [
+    "Doxorubicin",
+    "Prednisone",
+    "Bleomycin",
+    "Cyclophosphamide",
+    "Vincristine"
+   ],
+   "answer": 2,
+   "explanation": "The patient was at risk for several processes that could produce his symptoms, but the exam results ruled out bacterial infections and the progression of lymphoma. Therefore, pulmonary toxicity resulting from one or more of the drugs he received is the most likely hypothesis. Among the anticancer drugs, bleomycin most commonly causes pulmonary toxicity, mainly interstitial pneumonitis followed by pulmonary fibrosis. The mortality associated with bleomycin pulmonary toxicity is very high (about 50%). A Cyclophosphamide may cause pulmonary toxicity, but the risk is much lower than that of bleomycin. B-D The risk of pulmonary toxicity with these drugs is very low.",
+   "source": "Pharmacology VIII-9 Q20",
+   "topic": "Easy",
+   "topic_n": 19
+  },
+  {
+   "question": "A 59-year-old woman with inoperable lung cancer had been receiving combination chemotherapy. Lab tests revealed the following plasma levels: creatinine 5.5 mg/dL (normal 0.6-1.2 mg/dL), blood urea nitrogen (BUN) 45 mg/dL (normal 7-18 mg/dL), Mg2+ 0.2 mmol/L (normal 1.5-2.0 mmol/L). Which of the following drugs most likely caused these lab results?",
+   "choices": [
+    "Cisplatin",
+    "Doxorubicin",
+    "Fluorouracil",
+    "Vincristine",
+    "Paclitaxel"
+   ],
+   "answer": 0,
+   "explanation": "The patient's lab results suggest the diagnosis of renal failure. Cisplatin is the anticancer drug with the highest risk of nephrotoxicity, and hypomagnesemia is the most common electrolyte abnormality caused by cisplatin. However, the routine use of hydration and diuresis has largely reduced cisplatin-induced nephrotoxicity. A-C, E These drugs very rarely cause nephrotoxicity.",
+   "source": "Pharmacology VIII-9 Q21",
+   "topic": "Easy",
+   "topic_n": 20
+  },
+  {
+   "question": "A 6-year-old boy suffering from acute lymphoblastic leukemia started combination maintenance therapy. One of the administered drugs is inactive in its parent form and must be metabolized by the enzyme hypoxanthine-guanine phosphoribosyl transferase into a monophosphate nucleotide. Which of the following drugs undergoes this activation?",
+   "choices": [
+    "Doxorubicin",
+    "Asparaginase",
+    "Fluorouracil",
+    "Methotrexate",
+    "Cytarabine",
+    "Mercaptopurine"
+   ],
+   "answer": 5,
+   "explanation": "Maintenance therapy of acute lymphoblastic leukemia is usually performed for 2.5 to 3 years after remission, since early trials have shown that without maintenance, most children will relapse within 1 or 2 months. Impressive improvements in disease-free survival and cure rates are achieved with various maintenance regimens. Methotrexate and mercaptopurine are the drugs most often included in these regimens. Mercaptopurine is an antimetabolite anticancer drug that is inactive in its parent form and must be metabolized by the enzyme hypoxanthine-guanine phosphoribosyl transferase into the monophosphate nucleotide 6-thioinosinic acid, which in turn inhibits several enzymes of de novo purine nucleotide biosynthesis. The monophosphate form is eventually transformed into the triphosphate form which can get incorporated into both DNA and RNA, blocking DNA and RNA synthesis. A-E See correct answer explanation.",
+   "source": "Pharmacology VIII-9 Q22",
+   "topic": "Easy",
+   "topic_n": 21
+  },
+  {
+   "question": "A 60-year-old man underwent surgery to remove an adenocarcinoma of the colon. Because the regional lymph nodes showed evidence of tumor involvement, adjuvant therapy was initiated after surgery. Which of the following drugs would be most appropriately included in the therapeutic regimen of this patient?",
+   "choices": [
+    "Hydroxyurea",
+    "Cytarabine",
+    "Fludarabine",
+    "Fluorouracil",
+    "Asparaginase"
+   ],
+   "answer": 3,
+   "explanation": "Because of significant relapse rate in patients with extensive colon cancer, adjuvant therapy is usually performed in those patients who underwent potentially curative surgery. It has been shown that this therapy improves disease-free survival. The currently used adjuvant chemotherapy regimens contain fluorouracil and leucovorin. Other drugs that can be used in combinations include oxaliplatin and capecitabine. A-D These drugs are all cell cycle specific and are mainly used in tumors with a high growth fraction. Currently, they are not used to treat colon cancer, a tumor with low growth fraction.",
+   "source": "Pharmacology VIII-9 Q23",
+   "topic": "Easy",
+   "topic_n": 22
+  },
+  {
+   "question": "A 45-year-old man recently diagnosed with small cell lung cancer started his first course of combination chemotherapy with cisplatin, topotecan, and etoposide. Which of the following peripheral blood cells most likely decreased first in this patient?",
+   "choices": [
+    "Granulocytes",
+    "Monocytes",
+    "Platelets",
+    "Erythrocytes",
+    "Lymphocytes"
+   ],
+   "answer": 0,
+   "explanation": "The decrease of peripheral blood cells after cancer chemotherapy depends upon the life span of that cell line. The life span of granulocytes, once released from the bone marrow, is 4 to 5 hours in the blood and another 4 or 5 days in the tissues. Platelets survive about 10 days. Therefore myelosuppression first results in granulocytopenia followed by thrombocytopenia. A Lymphocytes continually circulate throughout the body and have life spans of weeks, months or even years. B See correct answer explanation. C Monocytes, once in the tissues, become macrophages and can live for months or even years. E Erythrocytes have a life span of about 120 days.",
+   "source": "Pharmacology VIII-9 Q24",
+   "topic": "Medium",
+   "topic_n": 2
+  },
+  {
+   "question": "A 50-year-old woman underwent surgery to remove an ovarian carcinoma. Following surgery, she started her first course of combination chemotherapy in order to eradicate the remaining tumor cells. Which of the following pairs of drugs were most likely included in her combination regimen?",
+   "choices": [
+    "Methotrexate and hydroxyurea",
+    "Mercaptopurine and asparaginase",
+    "Cisplatin and paclitaxel",
+    "Cytarabine and prednisone",
+    "Methotrexate and tamoxifen"
+   ],
+   "answer": 2,
+   "explanation": "Ovarian cancer is the fifth most common cause of cancer and cancer death in women. Because the cancer is relatively asymptomatic, it usually has extended beyond the pelvis at the time of diagnosis. Chemotherapy is therefore indicated after surgery. Cisplatin or carboplatin plus paclitaxel are first-line regimens most commonly used in ovarian cancer. A-D These drugs are not used to treat ovarian cancer.",
+   "source": "Pharmacology VIII-9 Q25",
+   "topic": "Easy",
+   "topic_n": 23
+  },
+  {
+   "question": "A 10-year-old boy suffering from acute lymphoblastic leukemia started maintenance therapy that included high dose methotrexate. Two weeks later, a blood test with differential showed a white blood cell count of 1800/mm3 (normal 4500-11,000/mm3). The oncologist believed the result was related to an excessive dose of methotrexate and ordered an antidote agent. Which of the following drugs would be appropriate for the patient at this time?",
+   "choices": [
+    "Pyridoxine",
+    "Vitamin B12",
+    "Vitamin B3",
+    "Leucovorin",
+    "Folic acid"
+   ],
+   "answer": 3,
+   "explanation": "Leucovorin can be given to counteract the adverse effects that methotrexate has on normal cells. Leucovorin (formyl tetrahydrofolate, also called folinic acid) is accumulated more readily by normal cells than by neoplastic cells. The administration of this drug results in rescue of the normal cells, because the drug bypasses the step in the purine synthesis that is blocked by methotrexate (i.e., dihydrofolate to tetrahydrofolate). A-D See correct answer explanation.",
+   "source": "Pharmacology VIII-9 Q26",
+   "topic": "Easy",
+   "topic_n": 24
+  },
+  {
+   "question": "A 49-year-old man presented to the clinic with increasing fatigue, anorexia, weight loss and widespread ecchymoses. A blood test revealed a white blood cell count of 70,000/mm3 with 90% myeloblasts, and a bone marrow biopsy showed blast cells that made up about 40% of the nucleated cells in the marrow (normal < 5%). A diagnosis was made and a pharmacotherapy was prescribed. Which of the following drugs should be included in the initial treatment of this patient?",
+   "choices": [
+    "Cytarabine",
+    "Cisplatin",
+    "Paclitaxel",
+    "Fluorouracil",
+    "Bleomycin"
+   ],
+   "answer": 0,
+   "explanation": "The blood exam and the bone marrow biopsy are consistent with the diagnosis of acute myelogenous leukemia. This leukemia primarily affects adults (the incidence increases with age) and is characterized by the neoplastic proliferation of myeloblasts. The single most active agent for acute myeloid leukemia is cytarabine. For remission therapy, cytarabine is currently used together with an anthracycline. A-C, E These drugs are not currently used for remission therapy of acute myelogenous leukemia.",
+   "source": "Pharmacology VIII-9 Q27",
+   "topic": "Medium",
+   "topic_n": 3
+  },
+  {
+   "question": "A 32-year-old man recently diagnosed with acute myelogenous leukemia received standard remission chemotherapy with daunorubicin and cytarabine. Drug dosage was maximized to a toxicity limit of a 2-log decrease in blood platelets. Which of the following represents the percentage of platelets killed by the drug regimen?",
+   "choices": [
+    "99%",
+    "80%",
+    "70%",
+    "90%",
+    "99.9%"
+   ],
+   "answer": 0,
+   "explanation": "The therapeutic strategy adopted in this case is based on the “log kill” rule. This rule states that a given dose of an anticancer drug will kill a constant proportion (not a constant number) of the tumor cell population as well as of sensitive normal cell populations. In other words, killing by anticancer drugs is a first order process, and the curve representing the number of killed cells with increasing dose of an anticancer drug is an exponential curve. This curve can be transformed into a straight line by plotting the logarithm of the number of killed cells against the dose. Remembering that the logarithm is the exponent required to produce a given number, it follows that 1 is the log of 10^1, 2 is the log of 10^2 (that is 100), 3 is the log of 10^3 (that is 1000) and so on. Therefore if a population of 10^3 tumor cells is reduced to 10^2 tumor cells it can be said that it is reduced by 1 log. This means that 900 cells are killed by the drug, resulting in a 90% decrease of cell number. Accordingly, a 2 log decrease means that 99% of the cells are killed, a 3 log decrease that 99.9% of the cells are killed, and so on. Usually a 2 log decrease is the strategy most often used, as a higher decrease would produce unacceptable toxicity to healthy dividing cells. A, C-E See correct answer explanation.",
+   "source": "Pharmacology VIII-9 Q28",
+   "topic": "Medium",
+   "topic_n": 4
+  },
+  {
+   "question": "A 10-year-old hospitalized boy complained of tinnitus and hearing loss. The boy had been diagnosed with neuroblastoma and was receiving his first course of combination chemotherapy. Which of the following drugs most likely caused the patient's symptoms?",
+   "choices": [
+    "Cisplatin",
+    "Vincristine",
+    "Cyclophosphamide",
+    "Dactinomycin",
+    "Doxorubicin"
+   ],
+   "answer": 0,
+   "explanation": "Ototoxicity, characterized by a progressive hearing loss, commonly occurs with cisplatin and appears to be more pronounced in children. It most likely results from a direct toxic effect on the cochlea. The reversibility of this ototoxicity is questionable and seems substantial only with early cessation of cisplatin. Ototoxicity does not appear to be associated with other platinum analogues (carboplatin and oxaliplatin). A-D The risk of ototoxicity with these drugs is negligible.",
+   "source": "Pharmacology VIII-9 Q29",
+   "topic": "Easy",
+   "topic_n": 25
+  },
+  {
+   "question": "A 42-year-old man with stage III Hodgkin lymphoma received six courses of chemotherapy with the ABVD (doxorubicin, bleomycin, vinblastine, and dacarbazine) regimen. Which of the drugs in this regimen acts mainly in the G2 phase of the tumor cell cycle?",
+   "choices": [
+    "Bleomycin",
+    "Doxorubicin",
+    "Vinblastine",
+    "Dacarbazine"
+   ],
+   "answer": 0,
+   "explanation": "Bleomycin is the only cytotoxic antibiotic that is cell cycle specific (CCS). It has been shown that the drug causes accumulation of cells in the G2 phase of the cell cycle. A, D These drugs are cell cycle nonspecific (CCNS). The A in the ABVD acronym stands for Adriamycin, a brand name for doxorubicin. C Vinblastine is CCS but acts in the M phase of the cell cycle.",
+   "source": "Pharmacology VIII-9 Q30",
+   "topic": "Medium",
+   "topic_n": 5
+  },
+  {
+   "question": "A 6-year-old hospitalized child complained of pain when urinating. A urine sample was cloudy and red. The child, diagnosed with neuroblastoma, had begun a chemotherapy program 5 days earlier. Which of the following drugs most likely caused the patient's symptoms?",
+   "choices": [
+    "Topotecan",
+    "Cyclophosphamide",
+    "Doxorubicin",
+    "Paclitaxel",
+    "Cisplatin",
+    "Vincristine"
+   ],
+   "answer": 1,
+   "explanation": "The patient presented with gross hematuria, which can be either painless or painful. Whereas the former can have many causes, painful hematuria is usually due to inflammatory disease of the urogenital tract (cystitis and prostatitis), renal infarction, or nephrolithiasis. Renal infarction and renal calculi are unusual in a very young child. Cyclophosphamide can cause bladder mucosa edema, ulcerations, and minor to severe hemorrhage. This toxicity is believed to be due to metabolites of cyclophosphamide, including chlorethylaziridine and acrolein, which are formed by hepatic microsomes and excreted in the urine. They can concentrate in the bladder and cause mucosal damage. The incidence of hemorrhagic cystitis from cyclophosphamide administered at conventional doses is unknown, but in patients receiving high-dose regimens, it is about 10%. A-C Adverse effects of these drugs do not include nephrotoxicity. D, E Cisplatin and, very rarely, doxorubicin can cause nephrotoxicity, but hemorrhagic cystitis has not been reported.",
+   "source": "Pharmacology VIII-9 Q31",
+   "topic": "Medium",
+   "topic_n": 6
+  },
+  {
+   "question": "A 7-year-old girl was seen by her pediatrician because of a 1-week history of upper respiratory tract infection, increasing weakness, and bleeding gums. Physical examination revealed hepatosplenomegaly. A blood test with differential showed a white blood cell count of 65,000/mm3 (normal 4500-11,000/mm3) with 43% lymphoblasts. A bone marrow biopsy revealed 92% lymphoblasts. A diagnosis was made, and the girl received a therapy that included the intrathecal administration of a drug. Which of the following drugs was most likely injected intrathecally?",
+   "choices": [
+    "Bleomycin",
+    "Etoposide",
+    "Paclitaxel",
+    "Cisplatin",
+    "Methotrexate",
+    "Chlorambucil"
+   ],
+   "answer": 4,
+   "explanation": "The blood test and the bone marrow biopsy are consistent with the diagnosis of acute lymphoblastic leukemia. Before central nervous system (CNS) preventive therapy was routine, the CNS was the most common site of leukemic relapse in children with acute lymphoblastic leukemia. Today, preventive therapy is performed with intracranial irradiation and intrathecal administration of anticancer drugs. Methotrexate with or without cytarabine and corticosteroids is the most common drug administered intrathecally to prevent relapse. B-F These drugs are not currently used to treat acute lymphoblastic leukemia and are not administered intrathecally.",
+   "source": "Pharmacology VIII-9 Q32",
+   "topic": "Medium",
+   "topic_n": 7
+  },
+  {
+   "question": "A 36-year-old woman recently diagnosed with Hodgkin lymphoma started her first cycle of ABVD (doxorubicin, bleomycin, vinblastine, and dacarbazine) chemotherapy. Which of the following molecular actions most likely mediated the therapeutic effect of bleomycin in the patient's disease?",
+   "choices": [
+    "Inhibition of thymidylate biosynthesis",
+    "Formation of free radicals that cause DNA fragmentation",
+    "Inhibition of tetrahydrofolate biosynthesis",
+    "DNA alkylation that blocks DNA strand scission",
+    "Inhibition of tubulin polymerization"
+   ],
+   "answer": 1,
+   "explanation": "Bleomycin binds to DNA. The bleomycin-DNA complex reduces molecular oxygen to free oxygen radicals, which in turn causes DNA fragmentation. B This is the mechanism of action of vinca alkaloids. C This is the mechanism of action of fluorouracil. D This is the mechanism of action of alkylating drugs. E This is the mechanism of action of methotrexate.",
+   "source": "Pharmacology VIII-9 Q33",
+   "topic": "Easy",
+   "topic_n": 26
+  },
+  {
+   "question": "A 40-year-old woman recently diagnosed with lymphoblastic T-cell lymphoma received her first combination chemotherapeutic regimen that included cyclophosphamide, vincristine, doxorubicin, and prednisone. From which of the following adverse effects was the patient most likely to suffer during the first day of treatment?",
+   "choices": [
+    "Neuropathy",
+    "Hemorrhagic cystitis",
+    "Nausea and vomiting",
+    "Pulmonary fibrosis",
+    "Congestive heart failure"
+   ],
+   "answer": 2,
+   "explanation": "Nausea and vomiting are among the most common complications of chemotherapy administration. It has been shown that on the first day of chemotherapy, nausea is present in about 50% and vomiting in about 25% of patients. The most important factor influencing the frequency of nausea and vomiting is the emetogenic potential of the drug. Among the drugs administered to this patient, cyclophosphamide and doxorubicin are highly emetogenic, whereas the emetogenic potential of vincristine is low. Corticosteroids, by contrast, are effective antiemetics mainly in chemotherapy-induced nausea and vomiting, but the basis for this effect is unknown. A-D All of these listed adverse effects can occur (neuropathy with vincristine, hemorrhagic cystitis and, rarely, pulmonary fibrosis with cyclophosphamide, congestive heart failure with doxorubicin), but they are much less frequent than nausea and vomiting and are not acute adverse effects.",
+   "source": "Pharmacology VIII-9 Q34",
+   "topic": "Easy",
+   "topic_n": 27
+  },
+  {
+   "question": "A 46-year-old woman who had undergone a radical mastectomy for infiltrating ductal carcinoma started adjuvant combination therapy with the CMF (cyclophosphamide, methotrexate, and fluorouracil) regimen. Which of the following was the initial molecular action that most likely mediated the therapeutic effect of methotrexate in the patient's disease?",
+   "choices": [
+    "Inhibition of single-stranded DNA resealing",
+    "Inhibition of DNA chain elongation",
+    "Inhibition of microtubule assembly",
+    "Inhibition of purine biosynthesis",
+    "DNA fragmentation through free radical formation"
+   ],
+   "answer": 3,
+   "explanation": "Methotrexate is a folic acid antagonist that inhibits dihydrofolate reductase, the enzyme responsible for the reduction of dihydrofolate to tetrahydrofolate. The drug is biotransformed intracellularly to polyglutamated derivatives that are selectively retained within cancer cells and have a higher inhibitory effect on the enzyme. The inhibition of dihydrofolate reductase leads to decreased synthesis of tetrahydrofolate, which is a one-carbon unit carrier. These one-carbon units are used in the synthesis of purines, which in turn are essential for the synthesis of DNA and RNA. B This is the mechanism of action of cytarabine. C This is the mechanism of action of topotecan. D This is the mechanism of action of bleomycin. E This is the mechanism of action of vinca alkaloids.",
+   "source": "Pharmacology VIII-9 Q35",
+   "topic": "Easy",
+   "topic_n": 28
+  },
+  {
+   "question": "A 47-year-old man presented to the clinic because of a 1-week history of low-grade fever, anorexia, increasing weakness, and weight loss. A blood test showed a white blood cell count of 90,000/mm3 (normal 4500-11,000/mm3) with 90% neutrophils and a platelet count of 500,000/mm3 (normal 150,000-400,000/mm3). Chromosomal studies on a bone marrow aspirate found the presence of the Philadelphia chromosome. A diagnosis was made, and a therapy was started. Which of the following drugs would be most appropriate to include in the patient's therapeutic regimen?",
+   "choices": [
+    "Erythropoietin",
+    "Asparaginase",
+    "Hydroxyurea",
+    "Etoposide",
+    "Fluorouracil",
+    "Oprelvekin"
+   ],
+   "answer": 2,
+   "explanation": "The white blood cell count and the presence of the Philadelphia chromosome confirm the diagnosis of chronic myelogenous leukemia. The disease, which is associated with the Philadelphia chromosome in over 90% of cases, is characterized by increased granulocytes in peripheral blood and often increased platelets in early stages, as in this case. The goal of chemotherapy in newly diagnosed patients with very high leukocyte counts is to reduce leukocytosis and its associated symptoms. Hydroxyurea is still the most common agent used for initial leucocyte reduction. However, interferon-alfa and imatinib give better results in terms of remission and 5-year survival. B, C These drugs are hematopoietic growth factors. D-F These anticancer drugs are not used in chronic myelogenous leukemia.",
+   "source": "Pharmacology VIII-9 Q36",
+   "topic": "Medium",
+   "topic_n": 8
+  },
+  {
+   "question": "An 8-year-old girl recently diagnosed with acute lymphoblastic leukemia started her first cycle of remission chemotherapy. The antineoplastic regimen included a drug that acts by depleting the body of an amino acid that can be synthesized by normal cells but not by neoplastic cells. Which of the following drugs has this mechanism of action?",
+   "choices": [
+    "Asparaginase",
+    "Daunorubicin",
+    "Vincristine",
+    "Cytarabine",
+    "Prednisone",
+    "Methotrexate"
+   ],
+   "answer": 0,
+   "explanation": "Asparaginase is an enzyme that hydrolyzes circulating asparagine. Because tumor cells in acute lymphoblastic leukemia have very low levels of asparagine synthetase, they require an exogenous source of asparagine for growth. Asparaginase depletes the existing supply of asparagine, inhibiting protein synthesis in the tumor cells. In contrast, normal cells can synthesize asparagine and are therefore less susceptible to the cytotoxic action of asparaginase. An increased asparagine synthetase activity of tumor cells is the cause of resistance to asparaginase. A, C-F All of these drugs can be used in acute lymphoblastic leukemia, but they have different mechanisms of action.",
+   "source": "Pharmacology VIII-9 Q37",
+   "topic": "Easy",
+   "topic_n": 29
+  },
+  {
+   "question": "A 69-year-old woman diagnosed with colon cancer started adjuvant chemotherapy with intravenous fluorouracil following surgery to remove the primary tumor. Which of the following drugs was most likely given concomitantly with the fluorouracil to increase its cytotoxic activity?",
+   "choices": [
+    "Leucovorin",
+    "Folic acid",
+    "Trastuzumab",
+    "Tamoxifen",
+    "Sargramostim",
+    "Asparaginase"
+   ],
+   "answer": 0,
+   "explanation": "Fluorouracil is converted in cells to fluorodeoxyuridine monophosphate, which inhibits thymidylate synthase and causes a “thymineless death” of cells. Leucovorin is 5-formyltetrahydrofolate. By increasing the intracellular concentration of a reduced folate (i.e., leucovorin), the formation of a stable complex between the active fluorouracil metabolite, the reduced folate, and the enzyme thymidylate synthase is favored, thus increasing the cytotoxicity of fluorouracil. A Folic acid is not a reduced folate and does not increase the formation of the stable complex described above. B, D-F See correct answer explanation.",
+   "source": "Pharmacology VIII-9 Q38",
+   "topic": "Medium",
+   "topic_n": 9
+  },
+  {
+   "question": "A 62-year-old man with testicular cancer was undergoing his first cycle of combination chemotherapy (cisplatin, vinblastine, and neomycin). Two years earlier, the patient had suffered from myocardial infarction. Which of the following procedures should be implemented to counteract the most common organ toxicity of cisplatin?",
+   "choices": [
+    "Short therapy cycles",
+    "Administration of prednisone",
+    "Administration of sargramostim",
+    "Vigorous hydration and furosemide",
+    "Administration of leucovorin"
+   ],
+   "answer": 3,
+   "explanation": "Cisplatin can cause nephrotoxicity, but this adverse effect has been largely abrogated by vigorous pretreatment with hydration and administration of diuretics. Loop diuretics are required in patients with compromised cardiac reserve, as in this case. A, C-E See correct answer explanation.",
+   "source": "Pharmacology VIII-9 Q39",
+   "topic": "Easy",
+   "topic_n": 30
+  },
+  {
+   "question": "A 5-year-old girl was found to have a lung nodule during a scheduled follow-up visit. The girl had undergone surgery for stage III Wilms tumor and then had been receiving a triple therapy with vincristine, doxorubicin, and dactinomycin for 10 weeks. The oncologist concluded that the tumor had become multidrug resistant. Which of the following mechanisms most likely mediated the simultaneous resistance to doxorubicin, vincristine, and dactinomycin in this patient?",
+   "choices": [
+    "Enhanced activity of an outward transport system",
+    "Decreased cellular uptake of the drug",
+    "Loss of enzymes needed for drug activation",
+    "Decreased activity of DNA repairing pathways",
+    "Decreased sensitivity of a target enzyme"
+   ],
+   "answer": 0,
+   "explanation": "Antineoplastic drug resistance can develop to a single drug or to a variety of drugs of different structures after the exposure to a single agent. Multidrug resistance is most likely due to increased efflux of the drug from the cells, due to increased expression of a normal gene that encodes for a surface transporter glycoprotein (P-170) that uses the energy of adenosine triphosphate (ATP) to expel a variety of foreign molecules. This is the most common mechanism of multidrug resistance. Increased DNA repair, due to increased activity of topoisomerase enzymes, is another mechanism. A DNA repair is increased, not decreased, in cases of multidrug resistance. B-D These mechanisms can explain resistance to single drugs but cannot account for multidrug resistance.",
+   "source": "Pharmacology VIII-9 Q40",
+   "topic": "Easy",
+   "topic_n": 31
+  },
+  {
+   "question": "A 53-year-old woman recently diagnosed with ovarian cancer started her first cycle of combination chemotherapy with paclitaxel, cisplatin, and cyclophosphamide. Which of the following drugs should also be administered to counteract a specific adverse effect of cyclophosphamide?",
+   "choices": [
+    "Mercaptoethane sulfonate",
+    "Acetylcysteine",
+    "Erythropoietin",
+    "Vitamin K",
+    "Leucovorin"
+   ],
+   "answer": 0,
+   "explanation": "Cyclophosphamide can cause hemorrhagic cystitis, which seems to be due mainly to acrolein, an active metabolite that is excreted in high concentration in the urine. Prevention consists of providing adequate intravenous hydration and administration of 2-mercaptoethane sulfonate (MESNA). This agent contains a free thiol group that can neutralize acrolein in the bladder. MESNA can prevent the bladder toxicity completely, so its use is the current standard of care. A, B, D, E None of these drugs can prevent cyclophosphamide-induced hemorrhagic cystitis.",
+   "source": "Pharmacology VIII-9 Q41",
+   "topic": "Medium",
+   "topic_n": 10
+  },
+  {
+   "question": "A 65-year-old man presented to his family physician with a persistent cough. A routine complete blood count showed the following: hemoglobin 9 g/dL (normal, male 13.5-17.5 g/dL), white blood cell count 40,000/mm3 (normal 4500-10,500/mm3) with 85% lymphocytes (normal 25-33%), platelet count 90,000/mm3 (normal 150,000-400,000/mm3). Bone marrow examination revealed normal cellularity with 45% of nucleated cells lymphocytes. A diagnosis of leukemia was confirmed. Which of the following anticancer drug regimens would be most appropriate for this patient?",
+   "choices": [
+    "Methotrexate and paclitaxel",
+    "Vincristine and cisplatin",
+    "Etoposide and asparaginase",
+    "Hydroxyurea and topotecan",
+    "Chlorambucil and prednisone"
+   ],
+   "answer": 4,
+   "explanation": "The lab results suggest that the patient was suffering from chronic lymphocytic leukemia, the most common form of leukemia in adults over age 50, which occurs twice as often in men as in women. The disease is high risk when lymphocytosis is accompanied by anemia and thrombocytopenia, as in this case. In the past, chlorambucil with or without prednisone had been the standard initial treatment of chronic lymphocytic leukemia, but today fludarabine gives better results. However, the combination of chlorambucil and prednisone can be useful in elderly patients with anemia and thrombocytopenia, as in this case. A-D These anticancer drug combinations are not used in case of chronic lymphocytic leukemia.",
+   "source": "Pharmacology VIII-9 Q42",
+   "topic": "Hard",
+   "topic_n": 1
+  },
+  {
+   "question": "A 54-year-old man recently diagnosed with inoperable lung cancer started induction chemotherapy that included a drug that acts by forming both inter- and intrastrand cross-links in the DNA molecule. Which of the following drugs was most likely given?",
+   "choices": [
+    "Vincristine",
+    "Fluorouracil",
+    "Etoposide",
+    "Cisplatin",
+    "Paclitaxel"
+   ],
+   "answer": 3,
+   "explanation": "Cisplatin is the prototype of platinum analogues. These drugs have broad antineoplastic activity and are currently used for treatment of ovarian, head and neck, bladder, esophagus, lung, and colon cancers. Platinum analogues are activated inside cells, yielding positively charged and highly reactive molecules. These molecules can react with various sites on DNA, forming both inter- and intrastrand cross-links, which in turn block DNA replication. A-C, E See correct answer explanation.",
+   "source": "Pharmacology VIII-9 Q43",
+   "topic": "Easy",
+   "topic_n": 32
+  },
+  {
+   "question": "A 35-year-old man diagnosed with malignant testicular teratoma was hospitalized to receive his fourth cycle of the BEP (bleomycin, etoposide, and cisplatin) regimen. The patient was most likely at increased risk of which of the following adverse effects as a result of his therapy?",
+   "choices": [
+    "Pulmonary embolism",
+    "Chronic myelogenous leukemia",
+    "Polymorphic ventricular tachycardia",
+    "Syndrome of inappropriate antidiuretic hormone (SIADH) secretion",
+    "Pneumonitis leading to lung fibrosis"
+   ],
+   "answer": 4,
+   "explanation": "Among the chemotherapeutic drugs, bleomycin has the highest risk of pulmonary toxicity. It can cause an interstitial pneumonitis followed by pulmonary fibrosis. The disease is very serious and is lethal in about 50% of cases. The main factor associated with the development of pulmonary toxicity is the cumulative dose of bleomycin. The higher the cumulative dose, the higher the risk. A Acute leukemias have been associated with cancer chemotherapy, but chronic myelogenous leukemia is not related to the previous use of anticancer drugs. B-D The drugs taken by the patient do not increase the risk of these diseases.",
+   "source": "Pharmacology VIII-9 Q44",
+   "topic": "Medium",
+   "topic_n": 11
+  },
+  {
+   "question": "An 8-year-old girl suffering from acute lymphoblastic leukemia completed her remission chemotherapy with a multidrug regimen and started maintenance therapy with a regimen that included a cell cycle-specific anticancer drug administered daily, for 7 days every 4 weeks. Which of the following drugs did the patient most likely take for maintenance therapy?",
+   "choices": [
+    "Carmustine",
+    "Cisplatin",
+    "Daunorubicin",
+    "Mercaptopurine",
+    "Doxorubicin"
+   ],
+   "answer": 3,
+   "explanation": "Maintenance therapy of acute lymphoblastic leukemia is usually performed for 2.5 to 3 years after remission because early trials have shown that without maintenance, most children will relapse within 1 or 2 months. Impressive improvements in disease-free survival and cure rates are achieved with various maintenance regimens. Methotrexate and mercaptopurine are the drugs most often included in these regimens. Mercaptopurine is effective and well tolerated orally when administered daily. A, B, D, E All of these are cell cycle-nonspecific anticancer drugs, and they are not currently used in postinduction regimens for acute lymphoblastic leukemia.",
+   "source": "Pharmacology VIII-9 Q45",
+   "topic": "Easy",
+   "topic_n": 33
+  },
+  {
+   "question": "A 7-year-old boy recently diagnosed with Wilms tumor started a combination anticancer therapy that included vincristine. Inhibition of which of the following functions in cancer cells most likely mediated the therapeutic effect of the drug in the patient's disease?",
+   "choices": [
+    "Resealing of double-stranded DNA",
+    "Purine biosynthesis",
+    "Tubulin polymerization",
+    "Resealing of single-stranded DNA",
+    "RNA biosynthesis"
+   ],
+   "answer": 2,
+   "explanation": "Vincristine and vinblastine are vinca alkaloids. These drugs bind specifically to β-tubulin, the structural proteins that form microtubules, and block β-tubulin polymerization with α-tubulin, thus preventing microtubule assembly. In this way, they cause an arrest of the mitotic cycle in metaphase. B-E See correct answer explanation.",
+   "source": "Pharmacology VIII-9 Q46",
+   "topic": "Easy",
+   "topic_n": 34
+  },
+  {
+   "question": "A 53-year-old woman recently diagnosed with ovarian cancer started a treatment that included paclitaxel. The patient was most likely at increased risk of which of the following adverse effects as a result of her therapy?",
+   "choices": [
+    "Liver failure",
+    "Kidney failure",
+    "Tuberculosis",
+    "Urinary tract infection",
+    "Peripheral neuropathy"
+   ],
+   "answer": 4,
+   "explanation": "Paclitaxel is the prototype of taxane derivatives. Peripheral neuropathy is a common adverse effect of taxanes, affecting more than 50% of patients under treatment. The effect is dose-dependent and cumulative. A, B The risk of these adverse effects is very low. D, E Paclitaxel causes a profound myelosuppression, which in turn increases the risk of opportunistic infections. These include candidiasis, cryptosporidiosis, cryptococcosis, and Mycobacterium avium-intracellulare infection, but urinary tract infections and tuberculosis have not been reported.",
+   "source": "Pharmacology VIII-9 Q47",
+   "topic": "Medium",
+   "topic_n": 12
+  },
+  {
+   "question": "A 56-year-old woman with a long history of heavy smoking presented with cough, fever, chest pain, and bloody sputum. A chest x-ray revealed a 3.5-cm (1.4-in.) hilar mass, and a transbronchial biopsy showed infiltrating groups of anaplastic small cells with hyperchromatic nuclei and no nucleoli. Which of the following drugs was most likely appropriately included in the therapeutic regimen of this patient?",
+   "choices": [
+    "Ceftazidime",
+    "Isoniazid",
+    "Cytarabine",
+    "Etoposide",
+    "Asparaginase",
+    "Streptomycin"
+   ],
+   "answer": 3,
+   "explanation": "The patient's symptoms and the bronchial biopsy are consistent with the diagnosis of a small-cell lung cancer. Although the risk of developing any type of lung cancer increases with cigarette smoking, the relative risk of small-cell lung cancer is among the highest. The cells of these cancers, also called “oat cell” carcinomas, contain a scanty amount of cytoplasm and rarely have nucleoli. These malignancies are of neuroendocrine origin, which may cause a variety of paraneoplastic syndromes due to the synthesis and secretion of hormones such as adrenocorticotropic hormone (ACTH) and serotonin. Small-cell lung cancers carry a poor prognosis because they metastasize early and are already spread at the time of diagnosis. Etoposide, given together with a platinum compound, has been shown to significantly improve survival and is currently a drug of choice in this disease. A-C Isoniazid, ceftazidime, and streptomycin are antimicrobial agents and are therefore of no value in lung cancer. D, E Asparaginase and cytarabine are not used in small-cell lung cancer.",
+   "source": "Pharmacology VIII-9 Q48",
+   "topic": "Medium",
+   "topic_n": 13
+  },
+  {
+   "question": "A 56-year-old man recently had a routine blood test during his annual checkup. The test showed a white blood cell count of 42,000/mm3 (normal 4500-11,000/mm3). The only pertinent physical finding was splenomegaly. A bone marrow aspirate revealed hypercellular marrow with 15% blasts, and cytogenetic analysis found the presence of the Philadelphia chromosome. A diagnosis was made, and a therapy was started. Which of the following drugs would be most appropriate to include in the patient's therapeutic regimen?",
+   "choices": [
+    "Asparaginase",
+    "Bleomycin",
+    "Methotrexate",
+    "Etoposide",
+    "Trastuzumab",
+    "Imatinib"
+   ],
+   "answer": 5,
+   "explanation": "Imatinib is the prototype of a new class of anticancer agents called tyrosine kinase inhibitors. These drugs specifically inhibit the tyrosine kinase activity of BCR-ABL (breakpoint cluster region-Abelson murine leukemia), the fusion product of the Philadelphia chromosome. BCR-ABL is a constitutively active protein kinase supporting cell proliferation; inhibition of the enzyme by imatinib blocks the kinase activity and downstream activation of cellular proliferation. Tyrosine kinase inhibitors cause apoptosis in cells that express the enzyme but do not affect normal cells. They are currently first-line agents in chronic myelogenous leukemia. They are not curative but can prolong survival and can achieve a complete hematologic remission. A-E These anticancer drugs are not used in chronic myelogenous leukemia.",
+   "source": "Pharmacology VIII-9 Q49",
+   "topic": "Medium",
+   "topic_n": 14
+  },
+  {
+   "question": "A 10-year-old girl recently diagnosed with acute lymphoblastic leukemia received her first cycle of induction chemotherapy, which included asparaginase. Risk of which of the following adverse effects was most likely increased because of the administration of this drug?",
+   "choices": [
+    "Renal failure",
+    "Hypoglycemia",
+    "Heart failure",
+    "Myelosuppression",
+    "Hypersensitivity reactions"
+   ],
+   "answer": 4,
+   "explanation": "Asparaginase is an enzyme that catalyzes the hydrolysis of plasma asparagine to aspartic acid and ammonia. Because it is a foreign protein, it has antigenic properties, and hypersensitivity reactions are common (up to 20%). They are usually mild, but fatal anaphylactic reactions have been reported. A-D The risk of these adverse effects after asparaginase administration is negligible.",
+   "source": "Pharmacology VIII-9 Q50",
+   "topic": "Easy",
+   "topic_n": 35
+  }
+ ]
+}

@@ -1,0 +1,496 @@
+{
+ "questions": [
+  {
+   "question": "Directions for questions 1–4: Match each drug affecting hemostasis with the appropriate description (each lettered option can be selected once, more than once, or not at all). Abciximab Alteplase Aminocaproic acid Aspirin Clopidogrel Desmopressin Enoxaparin Factor VIII Heparin Protamine sulfate Vitamin K Tho ami elec lh — Pa ea Dn Warfarin Difficulty level: Easy 1. This drug binds noncompetitively to glycoprotein IIb/IIIa receptor complex. Difficulty level: Easy 2. This drug increases the activity of factor VIII. Difficulty level: Easy 3. This drug blocks the conversion of plasminogen to plasmin. Difficulty level: Easy 4. This drug catalyzes the conversion of plasminogen into active plasmin. Difficulty level: Medium 30. A 54-year-old man suffering from familial hypercholesterolemia started treatment with lovastatin and cholestyramine. Which of the following actions most likely mediated the therapeutic effect of both drugs in the patient's disease? This drug binds noncompetitively to glycoprotein IIb/IIIa receptor complex.",
+   "choices": [
+    "Alteplase",
+    "Warfarin",
+    "Abciximab",
+    "Desmopressin",
+    "Aminocaproic acid",
+    "Enoxaparin",
+    "Vitamin K",
+    "Protamine sulfate",
+    "Clopidogrel",
+    "Aspirin",
+    "Factor VIII",
+    "Heparin"
+   ],
+   "answer": 2,
+   "explanation": "Matching item. Correct match: Abciximab.",
+   "source": "Pharmacology IV-7 Q1",
+   "topic": "Easy",
+   "topic_n": 1
+  },
+  {
+   "question": "Directions for questions 1–4: Match each drug affecting hemostasis with the appropriate description (each lettered option can be selected once, more than once, or not at all). Abciximab Alteplase Aminocaproic acid Aspirin Clopidogrel Desmopressin Enoxaparin Factor VIII Heparin Protamine sulfate Vitamin K Tho ami elec lh — Pa ea Dn Warfarin Difficulty level: Easy 1. This drug binds noncompetitively to glycoprotein IIb/IIIa receptor complex. Difficulty level: Easy 2. This drug increases the activity of factor VIII. Difficulty level: Easy 3. This drug blocks the conversion of plasminogen to plasmin. Difficulty level: Easy 4. This drug catalyzes the conversion of plasminogen into active plasmin. Difficulty level: Medium 30. A 54-year-old man suffering from familial hypercholesterolemia started treatment with lovastatin and cholestyramine. Which of the following actions most likely mediated the therapeutic effect of both drugs in the patient's disease? This drug increases the activity of factor VIII.",
+   "choices": [
+    "Enoxaparin",
+    "Warfarin",
+    "Desmopressin",
+    "Vitamin K",
+    "Clopidogrel",
+    "Heparin",
+    "Factor VIII",
+    "Aminocaproic acid",
+    "Aspirin",
+    "Abciximab",
+    "Alteplase",
+    "Protamine sulfate"
+   ],
+   "answer": 2,
+   "explanation": "Matching item. Correct match: Desmopressin.",
+   "source": "Pharmacology IV-7 Q2",
+   "topic": "Easy",
+   "topic_n": 2
+  },
+  {
+   "question": "Directions for questions 1–4: Match each drug affecting hemostasis with the appropriate description (each lettered option can be selected once, more than once, or not at all). Abciximab Alteplase Aminocaproic acid Aspirin Clopidogrel Desmopressin Enoxaparin Factor VIII Heparin Protamine sulfate Vitamin K Tho ami elec lh — Pa ea Dn Warfarin Difficulty level: Easy 1. This drug binds noncompetitively to glycoprotein IIb/IIIa receptor complex. Difficulty level: Easy 2. This drug increases the activity of factor VIII. Difficulty level: Easy 3. This drug blocks the conversion of plasminogen to plasmin. Difficulty level: Easy 4. This drug catalyzes the conversion of plasminogen into active plasmin. Difficulty level: Medium 30. A 54-year-old man suffering from familial hypercholesterolemia started treatment with lovastatin and cholestyramine. Which of the following actions most likely mediated the therapeutic effect of both drugs in the patient's disease? This drug blocks the conversion of plasminogen to plasmin.",
+   "choices": [
+    "Vitamin K",
+    "Abciximab",
+    "Protamine sulfate",
+    "Alteplase",
+    "Desmopressin",
+    "Enoxaparin",
+    "Warfarin",
+    "Aminocaproic acid",
+    "Heparin",
+    "Aspirin",
+    "Factor VIII",
+    "Clopidogrel"
+   ],
+   "answer": 7,
+   "explanation": "Matching item. Correct match: Aminocaproic acid.",
+   "source": "Pharmacology IV-7 Q3",
+   "topic": "Easy",
+   "topic_n": 3
+  },
+  {
+   "question": "Directions for questions 1–4: Match each drug affecting hemostasis with the appropriate description (each lettered option can be selected once, more than once, or not at all). Abciximab Alteplase Aminocaproic acid Aspirin Clopidogrel Desmopressin Enoxaparin Factor VIII Heparin Protamine sulfate Vitamin K Tho ami elec lh — Pa ea Dn Warfarin Difficulty level: Easy 1. This drug binds noncompetitively to glycoprotein IIb/IIIa receptor complex. Difficulty level: Easy 2. This drug increases the activity of factor VIII. Difficulty level: Easy 3. This drug blocks the conversion of plasminogen to plasmin. Difficulty level: Easy 4. This drug catalyzes the conversion of plasminogen into active plasmin. Difficulty level: Medium 30. A 54-year-old man suffering from familial hypercholesterolemia started treatment with lovastatin and cholestyramine. Which of the following actions most likely mediated the therapeutic effect of both drugs in the patient's disease? This drug catalyzes the conversion of plasminogen into active plasmin.",
+   "choices": [
+    "Vitamin K",
+    "Abciximab",
+    "Clopidogrel",
+    "Factor VIII",
+    "Protamine sulfate",
+    "Warfarin",
+    "Aspirin",
+    "Heparin",
+    "Desmopressin",
+    "Enoxaparin",
+    "Alteplase",
+    "Aminocaproic acid"
+   ],
+   "answer": 10,
+   "explanation": "Matching item. Correct match: Alteplase.",
+   "source": "Pharmacology IV-7 Q4",
+   "topic": "Easy",
+   "topic_n": 4
+  },
+  {
+   "question": "A 54-year-old woman suffering from asthma was brought to the emergency department because of a sudden onset of leftside paralysis. Imaging studies confirmed the diagnosis of thromboembolic stroke, and the patient started a treatment that included a drug that acts by blocking platelet adenosine diphosphate (ADP) receptors. Which of the following drugs has this mechanism of action?",
+   "choices": [
+    "Heparin",
+    "Aspirin",
+    "Warfarin",
+    "Alteplase",
+    "Clopidogrel",
+    "Aminocaproic acid"
+   ],
+   "answer": 4,
+   "explanation": "Clopidogrel is an antiplatelet drug that causes an irreversible inhibition of adenosine diphosphate (ADP) receptors, thereby inhibiting ADP-mediated platelet aggregation. The drug is used to prevent recurrence of ischemic stroke mainly in people who are at risk of aspirin hypersensitivity, such as the asthmatic patient in this case.",
+   "source": "Pharmacology IV-7 Q5",
+   "topic": "Easy",
+   "topic_n": 5
+  },
+  {
+   "question": "A 34-year-old man admitted to the emergency department with a presumptive diagnosis of pulmonary thromboembolism started a treatment that included a drug that acts by accelerating the binding between antithrombin III and clotting factor proteases. Which of the following drugs has this mechanism of action?",
+   "choices": [
+    "Aspirin",
+    "Alteplase",
+    "Aminocaproic acid",
+    "Clopidogrel",
+    "Heparin",
+    "Warfarin"
+   ],
+   "answer": 4,
+   "explanation": "The activity of antithrombin III inhibits clotting factor proteases by forming equimolar stable complexes with them. Heparin strongly accelerates this reaction, which is the basis of its anticoagulant activity.",
+   "source": "Pharmacology IV-7 Q6",
+   "topic": "Easy",
+   "topic_n": 6
+  },
+  {
+   "question": "A 30-year-old woman presented to her family physician complaining of black, tarry stools. The woman had had a prosthetic valve replacement 4 months earlier for severe aortic stenosis secondary to rheumatic disease and had been receiving daily oral anticoagulant therapy since then. Physical examination revealed subconjunctival hemorrhage and bruises on her arms and legs. Which of the following drugs most likely caused the patient's signs and symptoms?",
+   "choices": [
+    "Bivalirudin",
+    "Heparin",
+    "Streptokinase",
+    "Warfarin",
+    "Aspirin",
+    "Aminocaproic acid"
+   ],
+   "answer": 3,
+   "explanation": "The primary approach to prevent valvular thrombosis and systemic thromboembolism associated with mechanical prosthetic valve replacement is long-term anticoagulation with warfarin. Most likely, the dose of warfarin was too high, so bleeding occurred, as pointed out by the signs and symptoms of the patient.",
+   "source": "Pharmacology IV-7 Q7",
+   "topic": "Medium",
+   "topic_n": 1
+  },
+  {
+   "question": "A 42-year-old woman suffering from systemic lupus erythematosus presented to the clinic with substernal, nonradiating pain that awakened her from sleep. Physical examination showed a patient in moderate distress, complaining of chest pain that was worsened by thoracic motion. Vital signs included temperature 103°F (39.4°C), pulse 90 bpm, blood pressure 150/90 mm Hg, respirations 18/min. Auscultation revealed a precordial systolic and diastolic friction rub. Which of the following drug classes would be absolutely contraindicated for this patient?",
+   "choices": [
+    "Nonsteroidal antiinflammatory drugs",
+    "Opioids",
+    "Fibrinolytic drugs",
+    "Glucocorticoids",
+    "Antibiotics"
+   ],
+   "answer": 2,
+   "explanation": "The patient's signs and symptoms suggest that she was most likely suffering from acute pericarditis. In the current era of thrombolytic therapy for acute coronary occlusion, the distinction between myocardial infarction (MI) and acute pericarditis is crucial. If pericarditis is misdiagnosed as MI, thrombolytic drugs may cause pericardial hemorrhage and cardiac tamponade. Usually pericardial pain can be distinguished from ischemic coronary pain because the latter is not aggravated by chest motion. When present, a precordial friction rub is diagnostic, as in this case. Pericarditis may be caused by inflammation, trauma, or neoplasm. Sometimes it accompanies systemic diseases, as in this case. Most often, however, the etiology of acute pericarditis cannot be identified and is referred to as idiopathic.",
+   "source": "Pharmacology IV-7 Q8",
+   "topic": "Hard",
+   "topic_n": 1
+  },
+  {
+   "question": "A 55-year-old man complained to his physician of red blood in his stools and pink urine. Two weeks earlier, the man had started a treatment with warfarin for recurrent deep vein thrombosis. On physical examination, the patient appeared pale and diaphoretic. Vital signs were blood pressure 85/55 mm Hg, heart rate 105 bpm, respirations 20/min. An appropriate therapy was started. Which of the following drugs was most likely administered intravenously to the patient?",
+   "choices": [
+    "Fresh frozen plasma",
+    "Aminocaproic acid",
+    "Vitamin K",
+    "Protamine sulfate",
+    "Alteplase"
+   ],
+   "answer": 0,
+   "explanation": "The symptoms of the patient strongly suggest a hemorrhagic complication of warfarin therapy. The standard treatment of warfarin overdose would be vitamin K, but the patient is diaphoretic and hypotensive, suggesting that bleeding is life-threatening. In this case, the action of vitamin K is too slow to be useful (onset is delayed for 6 hours and is complete by 24 hours). Fresh frozen plasma (which contains prothrombin and factors VII, IX, and X) or activated clotting factors should be administered in case of severe acute bleeding due to anticoagulant therapy.",
+   "source": "Pharmacology IV-7 Q9",
+   "topic": "Medium",
+   "topic_n": 2
+  },
+  {
+   "question": "A 32-year-old man suffering from hemophilia A was at his dentist's office for a tooth extraction. In preparation for minor surgery, the patient received a subcutaneous injection of desmopressin, a drug that was effective for him in the past. Which of the following statements best explains why desmopressin was an appropriate therapy for the patient?",
+   "choices": [
+    "It inhibits the activity of antithrombin III.",
+    "It has a pronounced antifibrinolytic activity.",
+    "It increases the plasma levels of factor VIII.",
+    "It increases the intestinal absorption of vitamin K.",
+    "ER aes, It inhibits the activity of proteins C and S."
+   ],
+   "answer": 2,
+   "explanation": "Vasopressin and desmopressin increase plasma levels of factor VIII and von Willebrand factor, presumably by V, receptor-mediated release from storage sites in vascular endothelium. Because of this, desmopressin is sometimes used after minor trauma or before elective dental surgery in patients with mild hemophilia A who have demonstrated responsiveness.",
+   "source": "Pharmacology IV-7 Q10",
+   "topic": "Medium",
+   "topic_n": 3
+  },
+  {
+   "question": "A 72-year-old man recently diagnosed with atrial fibrillation started a treatment that included dabigatran. The inhibition of which of the following molecular actions most likely mediated the therapeutic effect of the drug in this patient?",
+   "choices": [
+    "Antithrombin III activity",
+    "Plasminogen synthesis",
+    "Prothrombin synthesis",
+    "Thromboxane A, activity",
+    "Thrombin activity"
+   ],
+   "answer": 4,
+   "explanation": "Dabigatran is a new oral anticoagulant that acts by binding reversibly to thrombin, thus blocking thrombin activity. Unlike warfarin, this direct thrombin inhibitor has a rapid onset of action, does not interact with P-450-interacting drugs, and gives a predictable anticoagulant response, making routine anticoagulant monitoring unnecessary.",
+   "source": "Pharmacology IV-7 Q11",
+   "topic": "Easy",
+   "topic_n": 7
+  },
+  {
+   "question": "A 62-year-old woman complained to her physician of nose bleeds and red eyes. The woman had been receiving warfarin for 1 month because of deep venous thrombosis. Four days earlier, she had started treatment with erythromycin for acute pharyngitis. Which of the following drug-induced changes was most likely responsible for the patient's symptoms?",
+   "choices": [
+    "Warfarin-induced decreased of vitamin K production by intestinal flora",
+    "Erythromycin-induced inhibition of clotting factors synthesis",
+    "Erythromycin-induced decrease of intestinal absorption of vitamin K",
+    "Warfarin-induced thrombosis of the nasal mucosal microvasculature",
+    "Erythromycin-induced inhibition of warfarin metabolism"
+   ],
+   "answer": 4,
+   "explanation": "Macrolide antibiotics can inhibit warfarin metabolism, resulting in increased plasma levels of the drug. This interaction is well established, and prolongation of prothrombin time may occur even with small doses of erythromycin.",
+   "source": "Pharmacology IV-7 Q12",
+   "topic": "Medium",
+   "topic_n": 4
+  },
+  {
+   "question": "A 56-year-old man admitted to the hospital with a myocardial infarction underwent a percutaneous coronary angioplasty for the revascularization of his left coronary. Which of the following drugs was most likely given intravenously during the procedure?",
+   "choices": [
+    "Abciximab",
+    "Clopidogrel",
+    "Warfarin",
+    "Protamine",
+    "Aminocaproic acid",
+    "Recombinant factor Vlla wD"
+   ],
+   "answer": 0,
+   "explanation": "Various anticoagulation regimens are always performed before, during, and after angioplasty to reduce the incidence of thrombosis. Heparin (not listed) and abciximab are the two drugs given intravenously for this purpose.",
+   "source": "Pharmacology IV-7 Q13",
+   "topic": "Medium",
+   "topic_n": 5
+  },
+  {
+   "question": "A 64-year-old man was admitted to the emergency department with the presumptive diagnosis of pulmonary embolism. He was started on an appropriate emergency therapy. Three days later, his fingers became discolored, and laboratory tests showed the following: white blood cell count (WBC) 10.2 x 103/mm3 (normal 4.3-10.8 x 10?/mm?), red blood cell count (RBC) 4.8 x 10°/mm# (normal 3.5-5.0 x 10°/ mm3), platelets 75 x 103/mm+3 (normal 140-440 x 103/mm?). Which of the following drugs most likely caused the patient's signs and symptoms?",
+   "choices": [
+    "Alteplase",
+    "Aminocaproic acid",
+    "Aspirin",
+    "Warfarin",
+    "Heparin",
+    "Vitamin K"
+   ],
+   "answer": 4,
+   "explanation": "The lab results indicate that the patient was most likely suffering heparin-induced thrombocytopenia (HIT). The disorder can be asymptomatic (type I) or associated with peripheral vascular occlusion, which can cause stroke, myocardial infarction, tissue gangrene, or even death (type II). In fact, the mortality rate of type II HIT can be as high as 40%. HIT occurs in about 1 to 5% of patients receiving unfractionated heparin. The pathogenesis of HIT is still uncertain, but it appears that heparin-dependent immunoglobulin G (IgG) antibodies activate platelets that aggregate intravascularly. Consequently, platelet-fibrin thrombi may form, leading to vascular occlusion.",
+   "source": "Pharmacology IV-7 Q14",
+   "topic": "Medium",
+   "topic_n": 6
+  },
+  {
+   "question": "A 63-year-old man told his physician that in the morning he discovered his urine was cloudy and red. The man was suffering from persistent atrial fibrillation and had been stabilized on warfarin therapy for 1 month. Three days earlier, he had started taking an over-the-counter preparation containing cimetidine for heartburn. Which of the following statements best explains the cause of the patient's symptoms?",
+   "choices": [
+    "Decreased renal clearance of warfarin",
+    "Warfarin displacement from plasma protein-binding sites",
+    "Decreased intestinal absorption of vitamin K",
+    "Inhibition of hepatic metabolism of warfarin",
+    "Anticoagulant effect of cimetidine"
+   ],
+   "answer": 3,
+   "explanation": "Cimetidine is a potent inhibitor of the cytochrome P-450 system and can thereby increase the plasma level of several drugs, including warfarin. Blood in urine is often the first sign of bleeding from anticoagulant therapy.",
+   "source": "Pharmacology IV-7 Q15",
+   "topic": "Easy",
+   "topic_n": 8
+  },
+  {
+   "question": "A71-year-old woman who underwent hip replacement was discharged from the hospital with an appropriate postdischarge therapy that included daily subcutaneous injection of regular heparin. Which of the following lab exams should be performed frequently during the heparin treatment?",
+   "choices": [
+    "Bleeding time",
+    "Fibrinolysis time",
+    "Plasma Na+ level",
+    "Plasma K* level",
+    "Red blood cell count (RBC)",
+    "Platelet count"
+   ],
+   "answer": 5,
+   "explanation": "Because heparin-induced thrombocytopenia (HIT) is a serious adverse effect of heparin, a platelet count should be performed weekly during heparin treatment. Any thrombocytopenia appearing during treatment should be considered suspicious for HIT.",
+   "source": "Pharmacology IV-7 Q16",
+   "topic": "Medium",
+   "topic_n": 7
+  },
+  {
+   "question": "A 50-year-old man was brought to the emergency department by ambulance for management of severe, unrelenting chest pain for the past hour. The man had been suffering from exertional angina for 5 years. Physical examination revealed a middle-aged man in obvious distress with the following vital signs: blood pressure 165/100 mm Hg, heart rate 110 bpm, respirations 22/min. An electrocardiogram showed ST-segment depression in multiple leads. Which of the following pairs of drugs should be included in the immediate treatment of this patient?",
+   "choices": [
+    "Abciximab and warfarin",
+    "Heparin and aspirin",
+    "Clopidogrel and aminocaproic acid",
+    "Sel oP",
+    "Aspirin and desmopressin",
+    "Alteplase and warfarin",
+    "Aminocaproic acid and abciximab"
+   ],
+   "answer": 1,
+   "explanation": "The patient was most likely suffering from unstable angina (see the symptoms and the electrocardiogram). Unstable angina is a medical emergency to be treated in a cardiac care unit. The immediate challenge is relief of pain and control of all ischemic episodes. Pain relief is usually accomplished with intravenous infusion of nitroglycerin, which has the advantage of fast onset of action and rapid reversibility. Opioids should be used to control pain only when it is not adequately relieved by anti-ischemic medication. To reduce intracoronary clotting, oral aspirin and intravenous heparin should be instituted immediately (these drugs have been shown to reduce the incidence of subsequent myocardial infarction).",
+   "source": "Pharmacology IV-7 Q17",
+   "topic": "Medium",
+   "topic_n": 8
+  },
+  {
+   "question": "A67-year-old woman presented to the clinic because of progressive swelling and soreness of the left calf. After physical examination and lab exams, a diagnosis of deep venous thrombosis was made, and a treatment with enoxaparin was started. Which of the following is the main advantage of this drug over the standard unfractionated heparin?",
+   "choices": [
+    "Inhibitions of a larger number of coagulation factors",
+    "Lower incidence of drug-induced thrombocytopenia",
+    "Complete absence of bleeding complications",
+    "Pronounced antiplatelet activity",
+    "Good oral bioavailability"
+   ],
+   "answer": 1,
+   "explanation": "High-molecular-weight heparin (HMWH) causes transient thrombocytopenia in up to 15% of patients and severe thrombocytopenia (which is antibody-mediated) in up to 5% of patients. Enoxaparin is low-molecular-weight heparin (LMWH). LMWH-induced thrombocytopenia is seen in less than 1% of patients.",
+   "source": "Pharmacology IV-7 Q18",
+   "topic": "Easy",
+   "topic_n": 9
+  },
+  {
+   "question": "A 65-year-old man developed sudden dyspnea and chest pain 2 days after surgery to remove a gastric carcinoma. Physical examination revealed an anxious man in severe respiratory distress with the following vital signs: temperature 99.5°F (37.5°C), pulse 120 bpm, blood pressure 90/50 mm Hg, respirations 28 breaths/min. A computed tomography scan showed complete obstruction of a branch of the left pulmonary artery. Which of the following drugs should be included in the acute parenteral treatment of this patient?",
+   "choices": [
+    "Aspirin",
+    "Nitroglycerin",
+    "Warfarin",
+    "Heparin",
+    "Clopidogrel",
+    "Alteplase"
+   ],
+   "answer": 3,
+   "explanation": "The sudden dyspnea, hypotension, and pleuritic chest pain, particularly in a high-risk setting (gastric cancer), would suggest the diagnosis of massive pulmonary embolism, which is confirmed by the computed tomography scan. Heparin is a drug of choice to prevent further thrombus formation and embolization.",
+   "source": "Pharmacology IV-7 Q19",
+   "topic": "Hard",
+   "topic_n": 2
+  },
+  {
+   "question": "A 48-year-old woman who had been suffering from breast cancer for 2 years was admitted to the hospital with a diagnosis of deep venous thrombosis. An intravenous (IV) loading dose of heparin was administered, followed by an IV infusion. After 6 hours of heparin therapy, the patient's activated partial thromboplastin time (aPTT) had not increased relative to her heparin pretreatment levels. Which of the following statements best explains this finding?",
+   "choices": [
+    "The patient had high plasma levels of antithrombin III.",
+    "The patient's therapy included a vitamin K supplement.",
+    "Heparin has a very short half-life (2 to 4 minutes).",
+    "Heparin effects are delayed at least 12 hours after administration.",
+    "The patient had high plasma levels of heparin-binding proteins."
+   ],
+   "answer": 4,
+   "explanation": "The lack of action of heparin in this case was most likely due to heparin resistance. Heparin can bind to different plasma proteins, including platelet factor 4, fibrinogen, and factor VIII. As many heparin-binding proteins are acutephase reactants, the phenomenon of heparin resistance is often encountered in acutely ill patients or in patients with malignancy, as in this case.",
+   "source": "Pharmacology IV-7 Q20",
+   "topic": "Medium",
+   "topic_n": 9
+  },
+  {
+   "question": "A 63-year-old man suddenly collapsed at home and was brought unconscious to the emergency department. Physical examination showed a comatose patient with flaccid paralysis on both left extremities. Vital signs were blood pressure 132/70 mm Hg, pulse 90 bpm, respirations 8 breaths/ min. A diffusion magnetic resonance imaging (MRI) scan disclosed complete occlusion of the right internal carotid artery. Emergency therapy was ordered. Which of the following drugs was most likely included in the emergency treatment of this patient?",
+   "choices": [
+    "Aminocaproic acid",
+    "Warfarin",
+    "Alteplase",
+    "Dabigatran",
+    "Bivalirudin",
+    "Desmopressin"
+   ],
+   "answer": 2,
+   "explanation": "The signs and symptoms of the patient suggest that he is most likely suffering from an ischemic stroke due to the occlusion of a cerebral artery. The guidelines of the American Stroke Association indicate that alteplase, administered within 3 hours of onset, can reduce the ultimate disability caused by the ischemic stroke.",
+   "source": "Pharmacology IV-7 Q21",
+   "topic": "Medium",
+   "topic_n": 10
+  },
+  {
+   "question": "A 69-year-old obese man presented to the clinic because of left calf swelling and pain of 1-day duration. He stated that a few days before the onset of symptoms, he had arrived home after a 14-hour flight from India. Duplex scanning was performed and revealed clot formation in the patient's left calf. The patient did not exhibit signs of pulmonary embolism. Which of the following pairs of drugs were most likely prescribed to the patient?",
+   "choices": [
+    "Heparin and abciximab",
+    "Alteplase and abciximab",
+    "Alteplase and warfarin",
+    "Warfarin and abciximab",
+    "Heparin and warfarin",
+    "Alteplase and heparin"
+   ],
+   "answer": 4,
+   "explanation": "The standard therapy for uncomplicated deep venous thrombosis (DVT) is an intravenous injection of unfractionated heparin followed by a short course (4 or 5 days) of subcutaneous heparin. Warfarin is started the first or second day of heparin therapy and continued for months.",
+   "source": "Pharmacology IV-7 Q22",
+   "topic": "Medium",
+   "topic_n": 11
+  },
+  {
+   "question": "A50-year-old woman admitted to the coronary unit because of a myocardial infarction received an appropriate multidrug therapy. The next day she complained of an abrupt headache, followed shortly by vomiting and loss of consciousness. A computed tomography scan of the brain confirmed the diagnosis of stroke due to cerebral hemorrhage. Which of the following drugs most likely contributed to the appearance of the patient's stoke?",
+   "choices": [
+    "Warfarin",
+    "Alteplase",
+    "Nitroglycerin",
+    "Propranolol",
+    "Aspirin"
+   ],
+   "answer": 1,
+   "explanation": "The standard therapy of myocardial infarction (MI) includes an intravenous thrombolytic drug (alteplase, reteplase, etc.), which is most effective in the first few hours after onset. Bleeding (most common in cerebral vessels) is the most frequent adverse effect of these drugs.",
+   "source": "Pharmacology IV-7 Q23",
+   "topic": "Medium",
+   "topic_n": 12
+  },
+  {
+   "question": "A 55-year-old woman recently diagnosed with atrial flutter started a treatment that included warfarin. The time of onset of the anticoagulant effect of this drug mainly depends on the half-life of which of the following endogenous compounds?",
+   "choices": [
+    "Vitamin K",
+    "Already formed factor II",
+    "Circulating fibrinogen",
+    "Already-formed factor VII",
+    "Circulating antithrombin"
+   ],
+   "answer": 1,
+   "explanation": "Warfarin has no effect on the activity of already formed clotting factors II, VII, IX, and X in the circulation. Because warfarin inhibits the synthesis of new clotting factors but not the metabolism of the already formed clotting factors, its effect depends on the time taken for the degradation of these factors, or their half-lives. Additionally, because thrombin (i.e., factor II) has the longest half-life (about 60 hours), its half-life is the main determinant of the onset of action of warfarin.",
+   "source": "Pharmacology IV-7 Q24",
+   "topic": "Medium",
+   "topic_n": 13
+  },
+  {
+   "question": "A 68-year-old man with no past medical history was admitted to the emergency department because of severe substernal crushing chest pain with radiation to the left arm for the past 2 hours. An electrocardiogram confirmed the diagnosis of acute anterior myocardial infarction. Which of the following pairs of drugs were most likely immediately given intravenously to the patient?",
+   "choices": [
+    "Dobutamine and aspirin",
+    "Dobutamine and milrinone",
+    "Clopidogrel and heparin wD",
+    "Alteplase and heparin",
+    "Aspirin and warfarin",
+    "Alteplase and warfarin"
+   ],
+   "answer": 3,
+   "explanation": "All patients with myocardial infarction (MI) who seek medical care within the first 12 hours after symptom onset should be considered for urgent reperfusion of the infarctrelated artery, but the earlier therapy is begun, the greater the benefit. The definitive therapies for reperfusion are fibrinolysis or percutaneous coronary intervention (PCI). The fibrinolytic drugs most often used are tissue plasminogen activators (e.g., alteplase), as it has been shown that they are \"fibrin-specific\"; that is, they preferentially activate plasminogen bound to fibrin. Tissue plasminogen activators clearly open coronary arteries more rapidly than nonspecific activators. Heparin should be administered to all patients with acute MI, unless a contraindication exists. Heparin given with alteplase improves the rapidity with which patency is induced and is essential for maintaining the patency, thus avoiding reocclusion, which is a problem with fibrinolytic therapy.",
+   "source": "Pharmacology IV-7 Q25",
+   "topic": "Medium",
+   "topic_n": 14
+  },
+  {
+   "question": "A 64-year-old woman was diagnosed with hypothyroidism and started on levothyroxine replacement therapy. For the previous 8 months, she had been receiving warfarin therapy for the treatment of recurrent deep venous thrombosis. Her warfarin dose was adjusted to maintain her international normalized ratio (INR) between 2 and 3. When she started thyroxine replacement therapy, her physician reduced the dosage of warfarin by 50% and advised her that her INR would need to be monitored on a weekly basis until a new appropriate dose of warfarin was determined. Which of the following statements best explains why the warfarin dose was reduced?",
+   "choices": [
+    "Levothyroxine increases the intestinal absorption of warfarin.",
+    "Levothyroxine increases the catabolism of clotting factors.",
+    "Levothyroxine decreases hepatic clearance warfarin.",
+    "Warfarin decreases the renal clearance of levothyroxine.",
+    "Warfarin decreases the hepatic clearance of levothyroxine."
+   ],
+   "answer": 1,
+   "explanation": "Thyroid hormones increase the catabolism of many endogenous compounds, including clotting factors. This action results in a decreased coagulability of blood, so the effects of anticoagulants are enhanced. In this case, the woman's initial warfarin dose was appropriate to provide a safe level of anticoagulation therapy for her hypothyroid state, but when her thyroid level was raised to normal, the warfarin dose needed to be adjusted to adapt to the increased catabolic rate of clotting factors that would occur in the presence of higher thyroxine levels. Monitoring must be carried out to reestablish the appropriate new, lower dose of warfarin.",
+   "source": "Pharmacology IV-7 Q26",
+   "topic": "Hard",
+   "topic_n": 3
+  },
+  {
+   "question": "A67-year-old man recently diagnosed with atrial fibrillation started a treatment that included warfarin. Which of the following molecular actions most likely mediated the efficacy of the drug in the patient's disease?",
+   "choices": [
+    "Stimulation of the metabolism of factors II, VII, IX, and X in the liver",
+    "Potentiation of the activity of antithrombin III in the blood",
+    "Blockade of the reduction of vitamin K epoxide",
+    "Activation of endogenous anticoagulant proteins in the liver",
+    "Blockade of the synthesis of vitamin K in the liver"
+   ],
+   "answer": 2,
+   "explanation": "Vitamin K is an essential cofactor for converting precursor proteins into the active coagulation factors in the liver. Vitamin K quinone is the active form. Oxidation of this quinone to vitamin K epoxide is coupled with activation of coagulation factors II, VII, IX, and X, as well as the anticoagulant factors proteins C and S. Epoxide is then reconverted to quinone, and warfarin blocks this reductive conversion.",
+   "source": "Pharmacology IV-7 Q27",
+   "topic": "Easy",
+   "topic_n": 10
+  },
+  {
+   "question": "A 65-year-old man with congestive heart failure presented to the clinic complaining of several days of fatigue and fast heart rate. On physical examination, his pulse was irregular, and his heart rate was 130 bpm. After doing an electrocardiogram, a diagnosis of atrial fibrillation was made, and cardioversion was planned for this patient in 6 weeks. Which of the following drugs did the patient most likely receive during the 6 weeks before cardioversion?",
+   "choices": [
+    "High-dose aspirin",
+    "Heparin",
+    "Warfarin oS",
+    "Streptokinase",
+    "Abciximab"
+   ],
+   "answer": 2,
+   "explanation": "Chronic anticoagulant therapy is always given before cardioversion in order to prevent thromboembolism. In fact, one of the most feared consequences of atrial fibrillation is the development of atrial thrombi, with subsequent embolization. This is most likely to occur once the normal sinus rhythm is restored, due to the more effective contraction of the atria.",
+   "source": "Pharmacology IV-7 Q28",
+   "topic": "Medium",
+   "topic_n": 15
+  },
+  {
+   "question": "A 57-year-old man was admitted to the emergency department because of unrelenting chest pain for the past 3 hours. After physical examination and lab tests, a diagnosis of unstable angina was made, and the patient received an emergency therapy that included abciximab. Which of the following steps of thrombus formation was most likely inhibited by this drug?",
+   "choices": [
+    "Activation of factor X",
+    "Binding of adenosine diphosphate (ADP) to its platelet receptor",
+    "Activation of factor IX",
+    "Synthesis of factor II",
+    "Synthesis of thromboxane A,",
+    "Binding of fibrinogen to platelet surface"
+   ],
+   "answer": 5,
+   "explanation": "Abciximab is a humanized monoclonal antibody directed against the IIb/IIIa receptor complex. This complex functions as a receptor mainly for fibrinogen but also for von Willebrand factor and can be activated (directly or indirectly) by most of the other mentioned molecules, including adenosine diphosphate (ADP), thrombin, collagen, and thromboxane A,. The binding of fibrinogen to the IIb/IIla receptor results in cross-linking between platelets and is the final common pathway in platelet aggregation. By blocking the platelet glycoprotein IIb/IIIa receptor complex, these drugs prevent platelet aggregation induced by any aggregating substance.",
+   "source": "Pharmacology IV-7 Q29",
+   "topic": "Easy",
+   "topic_n": 11
+  },
+  {
+   "question": "A 65-year-old man leaving the hospital after a myocardial infarction received an appropriate postdischarge therapy that included aspirin, one low-dose tablet daily. Which of the following actions most likely mediated the therapeutic effect of the drug in the patient's disease?",
+   "choices": [
+    "Irreversible acetylation of cyclooxygenase",
+    "Irreversible blockade of adenosine diphosphate (ADP) receptors",
+    "Activation of the glycoprotein IIb/IIla receptor complex",
+    "Blockade of the synthesis of prostaglandin La( PGs prostacyclin)",
+    "Competitive inhibition of cyclooxygenase",
+    "Competitive inhibition of lipoxygenase"
+   ],
+   "answer": 0,
+   "explanation": "Aspirin inhibits the synthesis of thromboxane A, (TXA,) through the irreversible acetylation of cyclooxygenase I. TXA, is a potent platelet aggregator and is released from platelets during aggregation. Because platelets do not synthesize new proteins, the action of aspirin on platelet cyclooxygenase is permanent, lasting for the life of the platelet (4 to 10 days). Complete inactivation of the enzyme is achieved with doses of 160 to 300 mg per day. Higher doses do not improve efficacy and are potentially less effective for the following reason: cyclooxygenase blockade reduces both the platelet-mediated production of TXA,, which promotes aggregation, and the endothelial cell-mediated production of prostaglandin I,, or prostacyclin (PGI,), which inhibits aggregation. However, endothelial cells produce new cyclooxygenase in a matter of hours, whereas platelets cannot manufacture the enzyme. With low doses, then, only prolonged inhibition of TXA, synthesis occurs. If the dose of aspirin is increased, prostacyclin synthesis can be inhibited for a longer time, thus counteracting the effects of TXA, synthesis inhibition. AF See correct answer explanation.",
+   "source": "Pharmacology IV-7 Q30",
+   "topic": "Easy",
+   "topic_n": 12
+  }
+ ]
+}

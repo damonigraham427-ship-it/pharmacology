@@ -1,0 +1,498 @@
+{
+ "questions": [
+  {
+   "question": "Anirreversible inhibitor of cyclooxygenase",
+   "choices": [
+    "Indomethacin",
+    "Diclofenac",
+    "Naproxen",
+    "Acetaminophen",
+    "Mesalamine",
+    "Salicylic acid",
+    "Ketorolac",
+    "Aspirin",
+    "Celecoxib",
+    "Piroxicam"
+   ],
+   "answer": 7,
+   "explanation": "Matching item. Correct match: Aspirin.",
+   "source": "Pharmacology VII-3 Q1",
+   "topic": "Easy",
+   "topic_n": 1
+  },
+  {
+   "question": "A salicylate derivative mainly used in inflammatory bowel disease",
+   "choices": [
+    "Mesalamine",
+    "Piroxicam",
+    "Ketorolac",
+    "Naproxen",
+    "Aspirin",
+    "Indomethacin",
+    "Salicylic acid",
+    "Celecoxib",
+    "Acetaminophen",
+    "Diclofenac"
+   ],
+   "answer": 0,
+   "explanation": "Matching item. Correct match: Mesalamine.",
+   "source": "Pharmacology VII-3 Q2",
+   "topic": "Easy",
+   "topic_n": 2
+  },
+  {
+   "question": "Aselective inhibitor of cyclooxygenase-2",
+   "choices": [
+    "Naproxen",
+    "Acetaminophen",
+    "Piroxicam",
+    "Indomethacin",
+    "Ketorolac",
+    "Mesalamine",
+    "Diclofenac",
+    "Aspirin",
+    "Celecoxib",
+    "Salicylic acid"
+   ],
+   "answer": 8,
+   "explanation": "Matching item. Correct match: Celecoxib.",
+   "source": "Pharmacology VII-3 Q3",
+   "topic": "Easy",
+   "topic_n": 3
+  },
+  {
+   "question": "This drug follows zero-order kinetics when given at intermediate to high doses.",
+   "choices": [
+    "Ketorolac",
+    "Indomethacin",
+    "Salicylic acid",
+    "Aspirin",
+    "Diclofenac",
+    "Mesalamine",
+    "Piroxicam",
+    "Naproxen",
+    "Acetaminophen",
+    "Celecoxib"
+   ],
+   "answer": 2,
+   "explanation": "Matching item. Correct match: Salicylic acid.",
+   "source": "Pharmacology VII-3 Q4",
+   "topic": "Easy",
+   "topic_n": 4
+  },
+  {
+   "question": "This drug can inhibit both cyclooxygenase and phospholipase A,.",
+   "choices": [
+    "Salicylic acid",
+    "Aspirin",
+    "Ketorolac",
+    "Mesalamine",
+    "Acetaminophen",
+    "Celecoxib",
+    "Diclofenac",
+    "Indomethacin",
+    "Naproxen",
+    "Piroxicam"
+   ],
+   "answer": 7,
+   "explanation": "Matching item. Correct match: Indomethacin.",
+   "source": "Pharmacology VII-3 Q5",
+   "topic": "Easy",
+   "topic_n": 5
+  },
+  {
+   "question": "The analgesic effect of this drug is primarily mediated by central impairment of pain transmission.",
+   "choices": [
+    "Ketorolac",
+    "Mesalamine",
+    "Aspirin",
+    "Naproxen",
+    "Piroxicam",
+    "Salicylic acid",
+    "Diclofenac",
+    "Celecoxib",
+    "Indomethacin",
+    "Acetaminophen"
+   ],
+   "answer": 9,
+   "explanation": "Matching item. Correct match: Acetaminophen.",
+   "source": "Pharmacology VII-3 Q6",
+   "topic": "Easy",
+   "topic_n": 6
+  },
+  {
+   "question": "The long half-life of this drug (more than 50 hours) permits once-daily dosing.",
+   "choices": [
+    "Celecoxib",
+    "Indomethacin",
+    "Ketorolac",
+    "Salicylic acid",
+    "Piroxicam",
+    "Aspirin",
+    "Mesalamine",
+    "Acetaminophen",
+    "Diclofenac",
+    "Naproxen"
+   ],
+   "answer": 4,
+   "explanation": "Matching item. Correct match: Piroxicam.",
+   "source": "Pharmacology VII-3 Q7",
+   "topic": "Easy",
+   "topic_n": 7
+  },
+  {
+   "question": "The mother of a 17-month-old girl took the baby to the pediatrician because she found that her daughter’s rectal temperature was 103.1°F (39.5°C). After physical examination, the pediatrician said the fever was most likely due to a viral infection and prescribed ibuprofen. Which of the following molecular actions most likely mediated the antipyretic effect of the drug in this patient?",
+   "choices": [
+    "Blockade of prostaglandin receptors in the hypothalamus",
+    "Decreased interleukin concentration in the hypothalamus",
+    "Inhibition of cyclooxygenase in peripheral tissues",
+    "Inhibition of phospholipase A2 in the hypothalamus",
+    "Blockade of oxidative phosphorylation in skeletal muscle",
+    "Decreased concentration of prostaglandins in the hypothalamus"
+   ],
+   "answer": 5,
+   "explanation": "Ibuprofen is an NSAID of the propionic acid derivative class that is approved for children younger than 2 years. All NSAIDs inhibit prostaglandin biosynthesis by blocking cyclooxygenase both in the peripheral tissues and in the central nervous system. The release of prostaglandins (PGE1, PGE2) in the hypothalamus seems to be the ultimate factor that adjusts the hypothalamic thermoregulatory mechanism to maintain body temperature at a higher than normal level. By inhibiting prostaglandin synthesis, NSAIDs promote the return of the hypothalamic thermostat to the normal set point. Once the normal set point is restored, the temperature-regulating mechanisms operate (by dilation of superficial blood vessels, sweating, etc.) to reduce temperature. A-C All of these actions can lead to an antipyretic effect, but NSAIDs do not have these actions. E The inhibition of cyclooxygenase in peripheral tissues can lead to an antiinflammatory effect that can reduce fever. However, the main mechanism of the antipyretic effect of NSAIDs is central rather than peripheral. F Blockade of oxidative phosphorylation in skeletal muscle leads to hyperthermia, not to an antipyretic effect.",
+   "source": "Pharmacology VII-3 Q8",
+   "topic": "Easy",
+   "topic_n": 8
+  },
+  {
+   "question": "A 66-year-old man complained to his physician that urinated very little over the past 24 hours. The man was being treated with digoxin, furosemide, and captopril for congestive heart failure, and the therapy had improved his cardiac conditions. Two days ago, the patient had pain on movement of his left leg that got better with two ibuprofen tablets. The physician found no clinical signs of intravascular volume depletion and increased the dose of furosemide, but 6 hours later, urination was not improved. Which of the following actions most likely mediated the patient’s oliguria?",
+   "choices": [
+    "Furosemide-induced hypokalemia",
+    "Digoxin-mediated decrease of the glomerular filtration rate",
+    "Ibuprofen-mediated decrease of the glomerular filtration rate",
+    "Furosemide-mediated decrease of renin secretion",
+    "Worsening of cardiac failure despite the therapy"
+   ],
+   "answer": 2,
+   "explanation": "Normal glomerular filtration rate (GFR) is maintained by a fine balance between prostaglandin-mediated dilation of afferent arterioles and angiotensin II-mediated vasoconstriction of efferent arterioles. Drugs that interrupt this homeostatic mechanism can cause renal failure. Because of the therapy with captopril, the angiotensin [I-mediated vasoconstriction of the efferent arterioles was already lost. When a nonsteroidal antiinflammatory drug (NSAID) was added to the patient’s regimen, his kidneys no longer had control of the afferent or efferent arteriolar tone, and renal failure ensued. In addition, it has been shown that NSAIDs can inhibit the diuretic effect of most diuretic agents, which can explain why in this patient even an increase in furosemide dosage had no effect. B Worsening of cardiac failure may be associated with oliguria, but this is unlikely in this case because the patient did show improvement with therapy. C Furosemide can increase, not decrease, renin secretion secondary to inhibition of Na+ and CI transport into the macula densa. D In patients with cardiac failure, digoxin usually increases, not decreases, GFR secondary to the increased cardiac output. E Severe hypokalemia impairs the concentrating ability of the kidney and therefore tends to cause polyuria, not oliguria. due to salicylate",
+   "source": "Pharmacology VII-3 Q9",
+   "topic": "Medium",
+   "topic_n": 1
+  },
+  {
+   "question": "A 45-year-old alcoholic woman, brought to the emergency department by her husband, was disoriented, combative, and complained of headache, vertigo, and “ringing in my ears.” The husband reported that she recently said she wanted to commit suicide. Vital signs were temperature 103.8°F, pulse 108 bpm, respirations 6/min, blood pressure 85/60. Pertinent lab data on admission were arterial blood pH 7.25, creatinine 2.2 mg/dL (normal 0.9-1.2 mg/dL), bicarbonate 18 mEq/L (normal 22-26 mEq/L), glucose 170 mg/dL (normal 70-110 mg/dL). Arterial blood gases were PaCO2 48 mm Hg (normal 35-45 PaCO2), PaO2 75 mm Hg (normal > 80 P05) Which of the following drugs most likely caused the patient’s poisoning?",
+   "choices": [
+    "Celecoxib",
+    "Ethanol",
+    "Ibuprofen",
+    "Diphenhydramine",
+    "Aspirin",
+    "Propranolol"
+   ],
+   "answer": 4,
+   "explanation": "The patient's symptoms, the marked hyperthermia, and the respiratory depression suggest severe poisoning by salicylates. This is supported by the lab results indicating mixed respiratory and metabolic acidosis (low pH, increased PaCO2, and decreased plasma bicarbonate content). This acid-base disturbance is typical of a high salicylate content in blood. In salicylate poisoning, the initial event (when salicylate concentration in blood is not yet high) is respiratory alkalosis caused by salicylate-induced stimulation of the respiratory center. Partial compensation is achieved, as usual, by increased renal excretion of bicarbonate. Therefore, the initial phase of poisoning (or when the poisoning is mild) is characterized by respiratory alkalosis (high pH, decreased levels of PaCO2 and bicarbonate). In a later phase, when salicylate blood levels become quite high, the respiratory center becomes depressed, and respiratory acidosis supervenes. This acidosis is uncompensated because a significant amount of bicarbonate has already been eliminated. Moreover, salicylates cause uncoupling of mitochondrial oxidative phosphorylation (which leads to hyperthermia) and inhibits the enzymes of the Krebs cycle, resulting in increased pyruvic and lactic acids. Lipolysis, gluconeogenesis, and glycolysis are also stimulated, leading to hyperglycemia and production of keto acids. Therefore, the final picture is mixed respiratory and metabolic acidosis, as in this case. A Acute alcohol poisoning can cause combative behavior, but hypothermia and hypoglycemia are typical signs of alcohol poisoning, and tinnitus is usually absent. B, C Poisoning by nonsteroidal antiinflammatory drugs other than salicylates does not usually cause profound impairment of the acid-base balance. D, F Poisoning by these drugs does not cause the set of symptoms showed by the patient.",
+   "source": "Pharmacology VII-3 Q10",
+   "topic": "Medium",
+   "topic_n": 2
+  },
+  {
+   "question": "A 48-year-old woman was brought to the emergency department because of serious breathing difficulty. Two hours earlier, she had taken a drug for a headache. The patient had been suffering from sinusitis and nasal polyps for 6 months. Physical examination showed severe bronchospasm. Which of the following drugs most likely caused the patient's signs and symptoms?",
+   "choices": [
+    "Ergotamine",
+    "Sumatriptan",
+    "Cyproheptadine",
+    "Acetaminophen",
+    "Acetylsalicylic acid"
+   ],
+   "answer": 4,
+   "explanation": "The patient’s history and symptoms suggest that the culprit drug was aspirin and that she was affected by aspirin hypersensitivity, a syndrome that can occur in 20 to 25% of middle-aged patients with asthma, chronic urticaria, or nasal polyps, as in this case. The reaction does not appear to be immunologic in nature, but instead seems to be a pseudoallergic reaction. The mechanism is not known, but it is likely related to the formation of increased amounts of leukotrienes and other products of the lipoxygenase pathway due to inhibition of the cyclooxygenase pathway. Patients with this syndrome experience a high degree of cross-sensitivity to other NSAIDs, which supports the conclusion that this reaction represents an abnormal response to a common pharmacological action. A, D Bronchospasm induced by these drugs is exceedingly rare. B, E These drugs do no not cause bronchospasm.",
+   "source": "Pharmacology VII-3 Q11",
+   "topic": "Medium",
+   "topic_n": 3
+  },
+  {
+   "question": "A 32-year-old man suffering from hemophilia had been recently diagnosed with tension headache. The headaches occurred two to four times weekly, usually toward the end of his workday. The pain was constant, dull in character, and usually lasted the rest of the day with variable intensity. Which of the following analgesic drugs would be appropriate for this patient?",
+   "choices": [
+    "Acetaminophen",
+    "Aspirin",
+    "Naproxen",
+    "Piroxicam",
+    "Ketorolac",
+    "Indomethacin"
+   ],
+   "answer": 0,
+   "explanation": "Because the patient is suffering from hemophilia, all nonsteroidal antiinflammatory drugs (NSAIDs) are contraindicated because they can decrease platelet aggregation and can provoke gastrointestinal bleeding. Acetaminophen is free from the above-mentioned effects and can be used as an analgesic in this patient. A, C-F See correct answer explanation.",
+   "source": "Pharmacology VII-3 Q12",
+   "topic": "Easy",
+   "topic_n": 9
+  },
+  {
+   "question": "A 20-year-old man, diagnosed with acute rheumatic fever, started high-dose salicylate treatment. A few days later, laboratory values indicated increased blood pH, decreased PaCO2, and decreased plasma bicarbonate content. Which of the following acid-base disturbances was most likely caused by salicylate treatment?",
+   "choices": [
+    "Mixed acidosis",
+    "Respiratory acidosis",
+    "Metabolic alkalosis",
+    "Respiratory alkalosis",
+    "Metabolic acidosis"
+   ],
+   "answer": 3,
+   "explanation": "The lab values indicate that the acid-base disturbance was respiratory alkalosis, which is an effect of high therapeutic doses of salicylates. These drugs stimulate respiration both directly (by a direct effect on the respiratory center in the medulla) and indirectly (by increased production of carbon dioxide due to increased oxygen consumption). Compensation is achieved by increased renal excretion of bicarbonate. Unless toxic doses are given, this stage seldom proceeds further. A, C-E See correct answer explanation.",
+   "source": "Pharmacology VII-3 Q13",
+   "topic": "Medium",
+   "topic_n": 4
+  },
+  {
+   "question": "A 54-year-old man presented to the emergency department with nausea, headache, dizziness, tinnitus, difficulty in hearing, and sweating. His body temperature was 103.1°F (39.5°C). The patient was suffering from osteoarthritis and had been overtreating himself with aspirin for 4 days in an attempt to relieve severe pain in his right hip. Which of the following actions most likely mediated the drug-induced hyperthermia in this patient?",
+   "choices": [
+    "Increased release of interleukin-10",
+    "Resetting the hypothalamic thermostat",
+    "Inflammatory reaction in the joints",
+    "Metabolic alkalosis",
+    "Uncoupling oxidative phosphorylation in skeletal muscle"
+   ],
+   "answer": 4,
+   "explanation": "The patient’s signs and symptoms indicate he was suffering from salicylate overdose toxicity. Although salicylates have an antipyretic action, they can cause hyperthermia when given in too-high doses. This seems to be primarily due to the uncoupling of oxidative phosphorylation in skeletal muscle; that is, oxidation proceeds without phosphorylation, thus producing heat. This action is similar to that produced by dinitrophenol. A-C, E See correct answer explanation.",
+   "source": "Pharmacology VII-3 Q14",
+   "topic": "Hard",
+   "topic_n": 1
+  },
+  {
+   "question": "A 42-year-old woman had been recovering from breast cancer surgery. Because her postoperative pain was severe, she received an intravenous injection of ketorolac that was able to reduce the pain. Which of the following molecular actions most likely mediated the analgesic effect of the drug?",
+   "choices": [
+    "Drug binding to prostaglandin receptors in the surgical area",
+    "Lowering of anxiety, fear, and suffering evoked by pain",
+    "Decreased oxygen radical production in the surgical area",
+    "Decreased concentration of prostaglandins in the surgical area",
+    "Inhibition of prostaglandin biosynthesis in the central nervous system"
+   ],
+   "answer": 3,
+   "explanation": "Prostaglandins are endogenous compounds that are released from damaged tissues and can sensitize nociceptors, causing pain. By inhibiting prostaglandin biosynthesis in the damaged area, NSAIDs cause an analgesic effect. Ketorolac is an effective analgesic but only a moderately effective antiinflammatory drug. Its analgesic efficacy seems greater than that of most other NSAIDs. A NSAIDs do not act on prostaglandin receptors. C, E NSAIDs do not cause these effects. D Inhibition of prostaglandin biosynthesis in the central nervous system can occur and could contribute to the analgesic effect, but the effect is mainly a peripheral one.",
+   "source": "Pharmacology VII-3 Q15",
+   "topic": "Medium",
+   "topic_n": 5
+  },
+  {
+   "question": "A 60-year-old man recently diagnosed with osteoarthritis asked his physician for an analgesic drug because of intermittent pain in both hips. Past history of the patient was significant for myocardial infarction 2 years ago and for pronounced aspirin hypersensitivity. Which of the following would be the best advice to give to this patient at this time?",
+   "choices": [
+    "To use indomethacin",
+    "To take aspirin with misoprostol",
+    "To avoid all nonsteroidal antiinflammatory drugs",
+    "To use a propionic acid derivative like naproxen",
+    "To take only very low doses of aspirin"
+   ],
+   "answer": 2,
+   "explanation": "The history of the patient indicated aspirin hypersensitivity. This syndrome occurs in 0.3% of patients, but it can occur in 20 to 25% of middle-aged patients with asthma, nasal polyps, or chronic urticaria. The syndrome is not dose-related (it can occur with small amounts of aspirin) and does not appear to be immunologic in nature. Because there is a high degree of cross-sensitivity between aspirin and other NSAIDs, severe aspirin hypersensitivity is a contraindication to the use of any NSAIDs. A-D See correct answer explanation.",
+   "source": "Pharmacology VII-3 Q16",
+   "topic": "Easy",
+   "topic_n": 10
+  },
+  {
+   "question": "A 28-year-old man was admitted to the emergency department because of persistent nausea and vomiting, general malaise, and diaphoresis for the past 6 hours. The man had been overtreating himself for 4 days with an analgesic medication to relieve severe pain from a neck injury. Two days earlier, he had gotten drunk at a party. Physical exam showed a slightly confused and dehydrated patient with icterus and a flapping tremor. Pertinent lab results on admission were alanine aminotransferase 300 U/L (normal 8-20 U/L), aspartate aminotransferase 480 U/L (normal 8-20 U/L). The patient had most likely taken an excessive dose of which of the following drugs?",
+   "choices": [
+    "Ibuprofen",
+    "Indomethacin",
+    "Aspirin",
+    "Ketorolac",
+    "Acetaminophen"
+   ],
+   "answer": 4,
+   "explanation": "The patient’s history and symptoms suggest that he was most likely suffering from acetaminophen poisoning. This poisoning is due to toxic metabolites (mainly N-acetyl-pbenzoquinone) that accumulate when glutathione is not available for conjugation. Usually these metabolites are rapidly conjugated with glutathione, but in the absence of glutathione, they react with cellular proteins, resulting in hepatotoxicity. This occurs after the ingestion of toxic doses or when alcohol is taken together with acetaminophen, as in both cases glutathione is depleted faster than it can be generated. The alcohol-acetaminophen syndrome occurs in a clinical setting in which acute, sometimes fulminant, hepatic necrosis develops after large doses of acetaminophen are taken during an alcoholic binge or a period of chronic, excessive alcohol intake. Peculiar to the alcohol-acetaminophen syndrome are the extremely high serum transaminase levels, as in this case. Early treatment consists of the administration of N-acetylcysteine, although at 48 hours or more after the ingestion, its use remains controversial. A, B, D, E Overdose of all of the other listed drugs does not cause a significant increase in serum transaminase levels. 4",
+   "source": "Pharmacology VII-3 Q17",
+   "topic": "Easy",
+   "topic_n": 11
+  },
+  {
+   "question": "A 65-year-old man had been recently diagnosed with osteoarthritis. Six months ago, the patient suffered from peptic ulcer disease that healed after triple antiulcer therapy. Which of the following nonsteroidal antiinflammatory drugs would be most appropriate for this patient?",
+   "choices": [
+    "Ibuprofen",
+    "Ketorolac",
+    "Celecoxib",
+    "Piroxicam",
+    "Aspirin",
+    "Indomethacin"
+   ],
+   "answer": 2,
+   "explanation": "Celecoxib is a selective inhibitor of cyclooxygenase-2. Drugs of this class (sometimes called coxibs) have analgesic, antipyretic, and antiinflammatory actions. However, they lack action on platelet aggregation and have lower adverse effects on the gastric mucosa than nonselective inhibitors of cyclooxygenases. These drugs are therefore preferred in patients at risk of peptic ulcer disease, as in this case. A-D, F See correct answer explanation.",
+   "source": "Pharmacology VII-3 Q18",
+   "topic": "Easy",
+   "topic_n": 12
+  },
+  {
+   "question": "A 32-year-old man called his physician because of fever (102.2°F, 39.0°C) for the past 4 hours. Past medical history of the patient was significant for a serious allergic reaction to sulfonamides. A diagnosis of flu was made. Which of the following antipyretic drugs would be contraindicated in this patient?",
+   "choices": [
+    "Naproxen",
+    "Celecoxib",
+    "Ibuprofen",
+    "Aspirin",
+    "Acetaminophen"
+   ],
+   "answer": 1,
+   "explanation": "Celecoxib is a selective cyclooxygenase-2 (COX-2) inhibitor with antipyretic, analgesic, and antiinflammatory effects similar to those of other nonsteroidal antiinflammatory drugs (NSAIDs). It is a sulfa derivative and therefore is relatively contraindicated in this patient because of his previous serious allergic reaction to sulfonamides, even though the risk of an allergic reaction after administration of a sulfa derivative in a patient with sulfonamide hypersensitivity appears to be very low. A, C-E See correct answer explanation.",
+   "source": "Pharmacology VII-3 Q19",
+   "topic": "Easy",
+   "topic_n": 13
+  },
+  {
+   "question": "A 59-year-old obese woman presented to the emergency department because of severe colicky pain in the right lumbar region. The patient had a long history of osteoarthritis and experienced frequent episodes of strong arthritic pain for which she had been taking several different pain killers daily for the past year. Current medications included atorvastatin and ezetimibe for hyperlipidemia and hydrochlorothiazide for mild hypertension. A renal biopsy confirmed the diagnosis of papillary necrosis and tubulointerstitial inflammation of the kidney. Which of the following drugs most likely caused the patient's disease?",
+   "choices": [
+    "Tramadol",
+    "Codeine",
+    "Diclofenac",
+    "Atorvastatin",
+    "Ezetimibe",
+    "Hydrochlorotiazide"
+   ],
+   "answer": 2,
+   "explanation": "The culprit drug was most likely an NSAID such as diclofenac. Chronic use (6 to 8 months or more) of antipyretic analgesics can cause a nephropathy that is characterized by renal papillary necrosis (the primary lesion) and chronic interstitial nephritis. The cause of the disease is still uncertain, but it seems to be related, at least in part, to the chronic inhibition of prostaglandin biosynthesis, as prostaglandins play important roles in regulating renal function. The risk increases with the use of analgesic combinations, as in this case. A, B The risk of nephropathy with chronic use of these analgesics is negligible. D-F See correct answer explanation.",
+   "source": "Pharmacology VII-3 Q20",
+   "topic": "Hard",
+   "topic_n": 2
+  },
+  {
+   "question": "A 32-year-old woman had been suffering severe pain during menses. The only relevant history was that she had undergone conization 6 months earlier for a fibroid of the cervix. Ibuprofen as needed was able to relieve the menstrual pain. Which of the following molecular actions most likely mediated the analgesic effect of the drug in the patient’s disorder?",
+   "choices": [
+    "Decreased production of prostaglandins by the endometrium",
+    "Antiinflammatory action of the drug in the pelvic area",
+    "Inhibition of prostaglandin biosynthesis in the spinal cord",
+    "Binding of the drug to prostaglandin receptors in the myometrium",
+    "Decreased production of leukotrienes by the endometrium"
+   ],
+   "answer": 0,
+   "explanation": "The pain occurring during menses (dysmenorrhea) is thought to result from uterine contractions and ischemia, likely mediated by prostaglandins produced by the secretory endometrium. Contributing factors may include an extremely tight cervical os because of thermocautery or conization, as in this case. Pain occurs when the uterus attempts to expel tissue through the os. The analgesic effects of NSAIDs such as ibuprofen in the treatment of dysmenorrhea are mainly due to the inhibition of prostaglandin biosynthesis in the endometrium. A NSAIDs do not act on prostaglandin receptors. C Even if a central action (inhibition of prostaglandin biosynthesis in the central nervous system [CNS]) may contribute to the analgesic effect of NSAIDs, the effect is mainly peripheral. Acetaminophen is the only analgesic-antipyretic drug whose analgesic effect is thought to be primarily mediated by the inhibition of pain transmission in the CNS. D Pelvic inflammatory disease may cause diffuse, continuous, low abdominal pain. In this case, however, the pain is present only during menses, so it is unlikely that it is due to pelvic inflammatory disease. E Leukotrienes can increase nociceptive nerve ending sensitivity, but NSAIDs do not affect leukotriene synthesis.",
+   "source": "Pharmacology VII-3 Q21",
+   "topic": "Medium",
+   "topic_n": 6
+  },
+  {
+   "question": "A 6-year-old boy suffering from influenza received an antipyretic drug for 4 days. On the fifth day, he lapsed into a coma and died. The autopsy disclosed diffuse microvescicular fatty infiltration of the liver, heart, and kidneys, as well as cerebral edema. Which of the following antipyretics most likely caused the patient’s death?",
+   "choices": [
+    "Aspirin",
+    "Ibuprofen",
+    "Ketorolac",
+    "Indomethacin",
+    "Piroxicam",
+    "Acetaminophen"
+   ],
+   "answer": 0,
+   "explanation": "The results of the autopsy and the syndrome. The synsuggest that the cause of death was Reye degenerdrome consists of acute encephalopathy with fatty almost ation of the viscera. It is exceedingly rare and occurs exclusively in children younger than 18 years. Lethality is estimated to be about 20%. The cause of the syndrome is unknown, but risk factors involve use of salicylates in viral infections, as in this case. A-E These drugs do not cause Reye syndrome.",
+   "source": "Pharmacology VII-3 Q22",
+   "topic": "Medium",
+   "topic_n": 7
+  },
+  {
+   "question": "A 58-year-old man complained to his physician of morning stiffness in the hip and knee and some joint stiffness after inactivity. Past medical history of the patient was significant for a myocardial infarction 6 months earlier. Further exams led to the diagnosis of osteoarthritis, and an analgesic pharmacotherapy was prescribed. Which of the following analgesic drugs would be contraindicated for this patient?",
+   "choices": [
+    "Piroxicam",
+    "Celecoxib",
+    "Ibuprofen",
+    "Acetaminophen",
+    "Diclofenac"
+   ],
+   "answer": 1,
+   "explanation": "Pain from osteoarthritis is usually treated initially with nonsteroidal antiinflammatory drugs. However, clinical data suggest that cyclooxygenase-2 (COX-2) inhibitors such as celecoxib are more likely to cause arterial thrombotic events, probably because they do not inhibit platelet aggregation that is mediated by thromboxane produced by the COX-1 enzyme. Therefore, COX-2-selective analgesics are contraindicated in patients with a history of previous thromboembolic disease, as in this case. A, B, D, E See correct answer explanation.",
+   "source": "Pharmacology VII-3 Q23",
+   "topic": "Easy",
+   "topic_n": 14
+  },
+  {
+   "question": "A 14-year-old girl was seen in the clinic because of severe abdominal pain secondary to her menstrual periods. The pain began with the onset of her menstrual flow and had occurred monthly since her first menstrual period at age 13. Her physical examination was unremarkable. A diagnosis of primary dysmenorrhea was made. Which of the following drugs would be most appropriate for this patient?",
+   "choices": [
+    "Dinoprostone",
+    "Ergonovine",
+    "Misoprostol",
+    "Albuterol",
+    "Acetaminophen",
+    "Ibuprofen"
+   ],
+   "answer": 5,
+   "explanation": "Primary dysmenorrhea is cyclic pain associated with menses during ovulatory cycles but without demonstrable lesions affecting the reproductive cycle. The pain is thought to result from uterine contraction and ischemia, most likely mediated by the actions of prostaglandins produced by the secretory endometrium. NSAIDs taken 2 days before menses and continued for 2 or 3 days or as needed represents the first-line pharmacotherapy. Propionic acid derivatives are very effective in dysmenorrhea for many patients; in a variety of clinical trials, good to complete pain relief was reported for 40 to 100% of women using ibuprofen. A Although acetaminophen is advertised as an analgesic for dysmenorrhea, it is much less effective than NSAIDs because it is a very poor inhibitor of cyclooxygenase in peripheral tissues. B Beta-2 agonists can relax the uterus, but their action is much less effective than that of NSAIDs in dysmenorrhea, where prostaglandins play the main role. C, E, F These drugs would increase, not decrease, uterine contractions. Answers and",
+   "source": "Pharmacology VII-3 Q24",
+   "topic": "Easy",
+   "topic_n": 15
+  },
+  {
+   "question": "A 10-year-old boy was brought to the clinic with fever (102.2°F, 39.0°C), general malaise, and the characteristic rash of a measles infection. Past medical history was significant for an episode of hemolytic anemia, most probably related to his congenital deficiency of red blood cell glutathione synthase. Which of the following drugs would be a suitable antipyretic for this boy?",
+   "choices": [
+    "Sulfinpyrazone",
+    "Prednisone",
+    "Acetaminophen",
+    "Ibuprofen",
+    "Indomethacin",
+    "Aspirin"
+   ],
+   "answer": 3,
+   "explanation": "Ibuprofen has been approved for use as an antipyretic in children and is currently available over the counter, Because most nonsteroidal antiinflammatory drugs have antipyretic activity, the initial choice is often based on specific patientrelated contraindications. In this patient: A Aspirin is contraindicated because of the risk of Reye syndrome. This serious disorder mainly affects children or young adults, and predisposing factors include viral infection and salicylate therapy. B Indomethacin is not indicated for general use as an analgesic or antipyretic because of its toxicity. C Acetaminophen is contraindicated in this patient because of his congenital deficiency of red blood cell glutathione synthase. Acetaminophen is partially metabolized to N-acetyl-p-benzoquinoneimine, which is rapidly conjugated with glutathione. If glutathione stores are deficient, the metabolite reacts with hepatocyte macromolecules, resulting in hepatotoxicity. Patients with congenital deficiency of glutathione synthase are therefore at increased risk of acetaminophen toxicity. E, F These drugs are not used as antipyretics.",
+   "source": "Pharmacology VII-3 Q25",
+   "topic": "Easy",
+   "topic_n": 16
+  },
+  {
+   "question": "A 58-year-old man complained to his physician of dull, continuous bone pain that had been increasing over the past few days. The patient had been suffering from prostatic carcinoma for 2 years. Past history was significant for an episode of hemolytic anemia, ascribed to his congenital glucose-6-phosphate dehydrogenase (G6PD) deficiency, and for erythema multiforme, apparently due to an allergic reaction to naproxen. Which of the following would be an appropriate analgesic drug for this patient?",
+   "choices": [
+    "Piroxicam",
+    "Ibuprofen",
+    "Acetaminophen",
+    "Aspirin",
+    "Amitriptyline"
+   ],
+   "answer": 0,
+   "explanation": "The symptoms and the history of the patient suggest the pain was caused by bone metastases, which are the most frequent metastases in prostatic carcinoma. Osseous metastases induce an inflammatory reaction with the production of prostaglandins that may cause osteolysis and sensitize free nerve endings, augmenting pain perception. Nonsteroidal antiinflammatory drugs (NSAIDs) effectively decrease prostaglandin and endoperoxide production and therefore can be useful for an initial treatment of metastatic bone pain. Piroxicam is a long-acting, nonselective, competitive inhibitor of cyclooxygenase that also inhibits polymorphonuclear cell migration and decreases oxygen radical production. All NSAIDs could be useful as analgesics, and the superiority of any particular drug for a particular patient cannot be predicted. Therefore, the initial choice is often based on specific patient-related contraindications. In this patient: A Aspirin is contraindicated because of his congenital glucose-6-phosphate dehydrogenase (G6PD) deficiency (sathis licylates can cause hemolytic anemia in patients with deficiency). cyclooxygen- B Acetaminophen is a very weak inhibitor of peroxide that ase in the presence of high concentrations of are found in inflammatory lesions. Explanations: Vil-3. Nonsteroidal Antiinflammatory Drugs 391 D All propionic acid derivatives are contraindicated because of the serious allergic reaction to naproxen. E Tricyclic antidepressants such as amitriptyline are sometimes useful analgesics in neoplastic disorders when the pain is neuropathic (i.e., due to the damage of neuronal structures) but not when the pain is nociceptive (i.e., pain transmitted over intact neural pathways), as in this case.",
+   "source": "Pharmacology VII-3 Q26",
+   "topic": "Hard",
+   "topic_n": 3
+  },
+  {
+   "question": "An 850-g (1.87-lb) baby boy, prematurely born at 27 weeks’ gestational age, was intubated immediately and placed on positive pressure assisted ventilation. On the third day of life, his nurse noticed that he had tachycardia and a widened pulse pressure. Color Doppler echocardiography showed reverse pulmonary artery flow in diastole. A treatment with intravenous indomethacin was started. Which of the following best explains the reason for that therapy?",
+   "choices": [
+    "To increase lung surfactant formation",
+    "To close the patent ductus arteriosus",
+    "To speed up the maturation of the lungs",
+    "To decrease atrial contractility",
+    "To prevent thrombi on cardiac valves"
+   ],
+   "answer": 1,
+   "explanation": "The patient’s symptoms and the echocardiography results suggest he had a patent ductus arteriosus, which can occur in up to 80% of premature infants with a birth weight less than 1200 g (2.65 Ib). Patency of the ductus arteriosus is maintained in utero by the low partial pressure of oxygen and high concentration of prostaglandins, mainly PGE2 and PGE1, which have vasodilatory actions. Because of this, nonsteroidal antiinflammatory drugs have been found to speed up the closure of the ductus arteriosus in newborn babies. Indomethacin given intravenously is the treatment of choice and can achieve closure in more than 70% of neonates. A-D See correct answer explanation.",
+   "source": "Pharmacology VII-3 Q27",
+   "topic": "Easy",
+   "topic_n": 17
+  },
+  {
+   "question": "A 51-year-old woman complained to her physician of fatigue and shortness of breath. The woman, who was vegetarian, realized she had recently developed an unexplained desire to eat ice and also noted that her stools had become dark. She had been receiving piroxicam for 6 months to treat her rheumatoid arthritis. Physical examination was unremarkable. Which of the following disorders most likely caused the patient’s symptoms?",
+   "choices": [
+    "Analgesic nephropathy",
+    "Iron deficiency anemia",
+    "Aspirin hypersensitivity",
+    "Respiratory alkalosis",
+    "Reye syndrome"
+   ],
+   "answer": 1,
+   "explanation": "The patient’s history and symptoms suggest that she was affected by iron deficiency anemia. Dark stools (due to gastric bleeding) and pica (craving to eat nonedible substances) are symptoms of iron deficiency anemia. Chronic occult bleeding is the most common cause of iron deficiency anemias in adults. It is present in up to 30% of patients chronically treated with NSAIDs. Iron deficiency from an inadequate diet can also contribute to the anemia, as may be relevant in this case (see the vegetarian habit of the patient). B-E See correct answer explanation.",
+   "source": "Pharmacology VII-3 Q28",
+   "topic": "Medium",
+   "topic_n": 8
+  },
+  {
+   "question": "A 63-year-old woman recently diagnosed with osteoarthritis started treatment with ibuprofen. The biosynthesis of which of the following pairs of endogenous compounds was most likely inhibited by the drug?",
+   "choices": [
+    "Thromboxanes and leukotrienes",
+    "Prostacyclin and thromboxanes",
+    "Prostaglandins and bradykinin",
+    "Thromboxanes and bradykinin",
+    "Prostaglandins and leukotrienes",
+    "Prostacyclin and leukotrienes"
+   ],
+   "answer": 1,
+   "explanation": "Ibuprofen is an NSAID of the propionic acid derivative class. By inhibiting cyclooxygenases, these drugs impair the biosynthesis of both prostacyclin (prostaglandin I2) and thromboxanes. A, B, D-F All of these options have at least one endogenous compound whose biosynthesis is not inhibited by NSAIDs. peptic ulcer forma-",
+   "source": "Pharmacology VII-3 Q29",
+   "topic": "Easy",
+   "topic_n": 18
+  },
+  {
+   "question": "A 62-year-old man complained to his physician of stomach pain. The man had been taking several ibuprofen tablets a day for the past 2 weeks because of arthritic pain. Endoscopy disclosed two superficial ulcers near the stomach antrum. Increased gastric secretion of which of the following compounds most likely contributed to the patient's disorder?",
+   "choices": [
+    "Gastrin",
+    "Hydrochloric acid",
+    "Cholecystokinin",
+    "Gastric mucus",
+    "Bicarbonate secretion"
+   ],
+   "answer": 1,
+   "explanation": "Erosive gastritis, bleeding, and peptic ulcer are well recognized adverse effects of NSAIDs. The effects are the consequence of both systemic and local actions. Systemic actions are related to inhibition of prostaglandin biosynthesis, which in turn leads to increased gastric acid secretion (prostaglandins decrease this secretion by inhibiting cyclic adenosine monophosphate (cAMP)-mediated activation of the proton pump) and decreased bicarbonate and mucus secretion by gastric mucosa (which is increased by prostaglandins). Local actions occur via an ion-trapping mechanism. Most NSAIDs are weak acids with an acid dissociation constant (pKa) less than 5. Therefore, they are mainly nonionized (lipid soluble) in the stomach lumen and can cross the cell membrane by lipid diffusion. In the neutral environment of the cytoplasm, they become ionized (i.e., water soluble) and are trapped inside the cell, causing cell damage. A, E Gastrin and cholecystokinin secretions are not affected by NSAIDs. C, D See correct answer explanation.",
+   "source": "Pharmacology VII-3 Q30",
+   "topic": "Easy",
+   "topic_n": 19
+  }
+ ]
+}

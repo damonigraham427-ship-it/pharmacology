@@ -1,0 +1,352 @@
+{
+ "questions": [
+  {
+   "question": "A 68-year-old man recently diagnosed with atrial fibrillation started therapy with atenolol, a β-receptor blocker. Which of the following changes most likely occurred in cardiac myocytes during the first 2 weeks of therapy?",
+   "choices": [
+    "Most β receptors became phosphorylated.",
+    "Spare β receptors became activated.",
+    "The G-protein number decreased.",
+    "The ability to respond to intracellular cyclic adenosine monophosphate (cAMP) declined.",
+    "The β-receptor number increased."
+   ],
+   "answer": 4,
+   "explanation": "When receptors are chronically blocked, the number of those receptors may increase over time, a process called receptor upregulation. The effector response will be greater than usual if the blockade is abruptly removed. A By definition, spare receptors are not involved in receptor activation or blockade. B G-protein synthesis is not under β-receptor control. Blockade of β receptors prevents the activation, not the synthesis, of G proteins. D Phosphorylation desensitizes the receptor. This can occur after repeated activation of the receptor, not after repeated blockade. E Beta-receptor blockade can affect the synthesis of cAMP but not the ability of the cell to respond to cAMP that has already been synthesized.",
+   "source": "Pharmacology I-2 Q1",
+   "topic": "Medium",
+   "topic_n": 1
+  },
+  {
+   "question": "A new drug was tested in an in vitro system. It was found that only one enantiomer of the racemic pair bound substantially to a specific receptor, whereas the other enantiomer showed negligible binding. Which of the following terms best defines this property?",
+   "choices": [
+    "Variability",
+    "Stereoselectivity",
+    "Affinity",
+    "Potency",
+    "Intrinsic activity",
+    "Maximal efficacy"
+   ],
+   "answer": 1,
+   "explanation": "A peculiar property of receptors is stereoselectivity, meaning that they often bind only one enantiomer of a racemic pair. A Intrinsic activity refers to the ability of a drug (once bound to a receptor) to initiate changes that lead to a biologic response. B Affinity refers to the strength of drug binding to a receptor. D Potency refers to the dose of a drug required to produce a given effect. E Variability refers to the fact that the number of receptors can vary with time. F Maximal efficacy refers to the maximal effect that can be produced by a drug.",
+   "source": "Pharmacology I-2 Q2",
+   "topic": "Easy",
+   "topic_n": 1
+  },
+  {
+   "question": "A 14-year-old girl suffering from seasonal rhinitis started a therapy with loratadine, a drug that binds to H1 histamine receptors. Which of the following terms describes a characteristic of loratadine binding to the H1 receptor?",
+   "choices": [
+    "Affinity",
+    "Potency",
+    "Intrinsic activity",
+    "Maximal efficacy",
+    "Receptor activation"
+   ],
+   "answer": 0,
+   "explanation": "Affinity is the tendency of a drug to bind to a receptor. According to the occupation theory, binding to a receptor is driven by the law of mass action; that is, the number of bound receptors increases when the number of available drug molecules increases. Suppose that 100 receptors are exposed to 1000 molecules of drug A or to 1000 molecules of drug B. Also suppose that, in this instance, 40 molecules of drug A are found to be bound to the receptors, but only 10 molecules of drug B are bound to the receptors. It can be concluded that receptor affinity of drug A is greater than that of drug B. A Intrinsic activity (often intrinsic efficacy is used as a synonym) refers to the ability of a drug (once bound to a receptor) to initiate changes that lead to a biologic response. B Potency refers to the dose of a drug required to produce a given effect. The lower the dose required to produce the effect, the higher the potency. C Maximal efficacy refers to the maximum effect produced by the drug. E Receptor activation is related to the drug's intrinsic activity (the higher the intrinsic activity of a drug, the higher the amount of receptor activation brought about by that drug).",
+   "source": "Pharmacology I-2 Q3",
+   "topic": "Easy",
+   "topic_n": 2
+  },
+  {
+   "question": "Two new drugs were tested in laboratory animals. Which of the following drug parameters was most likely recorded to estimate the relative potency of both drugs?",
+   "choices": [
+    "The graded log dose-response curve of both drugs",
+    "The maximal responses produced by each drug",
+    "The volume of distribution of both drugs",
+    "The therapeutic index of both drugs",
+    "The clearance of both drugs"
+   ],
+   "answer": 0,
+   "explanation": "By definition, potency refers to the dose needed to produce a given effect. In a graded log dose-response curve, potency can be readily estimated by reading the dose on the abscissa (x-axis) corresponding to a given effect read on the ordinate (y-axis). Potency is inversely proportional to the dose needed to produce a given effect; the lower the dose, the greater the potency. A Unless the toxic doses of the two drugs are the same, therapeutic index can tell nothing about the relative potency of the two drugs. B The maximal response of each drug is termed its maximal efficacy. Potency and efficacy are independent variables. D, E Volume of distribution and clearance are pharmacokinetic variables. Potency is a pharmacodynamic variable.",
+   "source": "Pharmacology I-2 Q4",
+   "topic": "Easy",
+   "topic_n": 3
+  },
+  {
+   "question": "A 65-year-old man suffering from osteoarthritis has been taking naproxen, 500 mg daily for 1 month. The drug was effective, but the patient suffered from nausea and heartburn. The physician decided to try another nonsteroidal antiinflammatory drug (NSAID) and prescribed celecoxib, a drug ~5 times more potent than naproxen, with negligible gastrointestinal side effects. Which of the following would be the most appropriate daily dose of celecoxib (in mg) to prescribe to the patient?",
+   "choices": [
+    "1000",
+    "25",
+    "50",
+    "10",
+    "100",
+    "75"
+   ],
+   "answer": 4,
+   "explanation": "Because naproxen was therapeutically effective, it is rational to start the therapy with an equieffective dose of the new drug. Celecoxib is ~5 times more potent than naproxen, so a dose 5 times lower, or 100 mg, should be equieffective. A-D, F See correct answer explanation.",
+   "source": "Pharmacology I-2 Q5",
+   "topic": "Medium",
+   "topic_n": 2
+  },
+  {
+   "question": "A 2-year-old boy was admitted to the emergency department after a generalized tonic-colonic seizure. His mother reported that the boy apparently ingested several tablets of propranolol, a β-blocker, which he had found in his father's dresser drawer. Vital signs on admission were blood pressure 85/50 mm Hg, heart rate 40 beats per minute (bpm), respiratory rate 20/min. The boy received an intramuscular injection of glucagon, a hormone that activates glucagon receptors in the heart, causing a significant increase in heart contractility. Which of the following terms best defines the antagonism between glucagon and β-blockers?",
+   "choices": [
+    "Pharmacological",
+    "Chemical",
+    "Competitive",
+    "Pharmacokinetic",
+    "Functional"
+   ],
+   "answer": 4,
+   "explanation": "Glucagon is sometimes used to treat β-blocker overdose. By blocking β1 receptors in the heart, β-blockers lead to a dose-dependent decrease in heart contractility. Glucagon-induced activation of glucagon receptors leads to an increase in heart contractility. When a drug response mediated by the activation of a receptor is antagonized by an opposite response produced by another drug acting on a different set of receptors, the antagonism is defined as functional (also called physiologic). A, C-E See correct answer explanation.",
+   "source": "Pharmacology I-2 Q6",
+   "topic": "Easy",
+   "topic_n": 4
+  },
+  {
+   "question": "A 65-year-old woman suffering from atrial fibrillation had been taking a drug to treat this condition for 6 months. The drug had no intrinsic activity and bound reversibly to β1 receptors. Which of the following terms best defines this drug?",
+   "choices": [
+    "Functional antagonist",
+    "Partial agonist",
+    "Competitive antagonist",
+    "Full agonist",
+    "Noncompetitive antagonist",
+    "Inverse agonist"
+   ],
+   "answer": 2,
+   "explanation": "By definition, a drug without intrinsic activity is one that is able to bind receptors but is not able to activate them. Therefore, it is defined as an antagonist. When the binding is reversible, the antagonism is referred to as competitive, and the drug is a competitive antagonist. A-D, F See correct answer explanation.",
+   "source": "Pharmacology I-2 Q8",
+   "topic": "Easy",
+   "topic_n": 5
+  },
+  {
+   "question": "A new β-blocker was tested in healthy volunteers. The cumulative frequency distribution of subjects showing a decrease of 10 bpm in the heart rate was plotted against the log dose. Which of the following drug parameters can be determined from this cumulative frequency distribution?",
+   "choices": [
+    "Median effective dose",
+    "Maximal efficacy",
+    "Therapeutic index",
+    "Receptor affinity",
+    "Therapeutic window"
+   ],
+   "answer": 0,
+   "explanation": "The cumulative frequency distribution of subjects showing a desired effect when treated with increasing doses of a drug is called a quantal log dose-response curve. From this curve, the dose that can produce that effect in 50% of individuals (called the median effective dose) can be read on the abscissa (x-axis). A Affinity is the tendency of a drug to bind to a receptor. It can be measured by plotting the fraction of receptors bound by a drug against the log of the drug concentration. It cannot be measured from a quantal log dose-response curve. C, D The therapeutic index is a ratio between the toxic (TD50) and the effective (ED50) dose of a drug. The therapeutic window is the interval between the minimum effective dose and the minimum toxic dose. In order to measure these variables, two quantal log dose-effect curves are needed. E Maximal efficacy is the maximal effect a drug can produce. It can be measured with a graded log dose-response curve, but not with a quantal log dose-response curve.",
+   "source": "Pharmacology I-2 Q9",
+   "topic": "Medium",
+   "topic_n": 3
+  },
+  {
+   "question": "A 65-year-old woman who had been admitted to the hospital with a myocardial infarction developed ventricular tachycardia and received an intravenous injection of lidocaine. Her cardiologist knew that the dose given must be within the range of doses that have a high probability of therapeutic success. Which of the following terms best defines this range?",
+   "choices": [
+    "Therapeutic index",
+    "Intrinsic activity",
+    "Therapeutic window",
+    "Efficacy",
+    "Response variability",
+    "Potency"
+   ],
+   "answer": 2,
+   "explanation": "The therapeutic window is the interval between the minimum therapeutic dose (or plasma concentration) and the minimum toxic dose (or plasma concentration) of a drug. Because doses below the minimum therapeutic dose are by definition ineffective, and doses above the minimum toxic dose are, by definition, toxic, this window defines the range of doses that have a high probability of therapeutic success. A Intrinsic activity refers to the ability of a drug (once bound to a receptor) to initiate changes that lead to a biologic response. B Efficacy refers to the maximal effect that a drug can produce. C Potency refers to the dose of a drug required to produce a given effect. D The therapeutic index is a ratio between a toxic dose and an effective dose of a drug. Like the therapeutic window, it is an index of the safety of a drug, but it is a single value and therefore cannot predict the range of doses that are both safe and effective. F Response variability refers to the range of responses, not to the doses eliciting the responses.",
+   "source": "Pharmacology I-2 Q13",
+   "topic": "Easy",
+   "topic_n": 6
+  },
+  {
+   "question": "A 67-year-old man suffering from terminal cancer started analgesic treatment with an opioid drug. Knowing that tolerance to opioids is pronounced, which of the following drug parameters was most likely increased after a few days of treatment?",
+   "choices": [
+    "Half-life",
+    "Median effective dose",
+    "Therapeutic index",
+    "Maximal efficacy",
+    "Potency"
+   ],
+   "answer": 1,
+   "explanation": "By definition, tolerance is a decreased responsiveness to the action of a drug. Therefore, a higher dose of that drug will be necessary to obtain the given effect in 50% of the population (the median effective dose [ED50]) when tolerance has occurred. A The maximal efficacy refers to the maximum effect achievable if the dose is taken to very high levels. In tolerant subjects, maximal efficacy may still be achieved, even if higher doses are needed to obtain it. C The therapeutic index is the ratio between a toxic dose and an effective dose. Because the effective dose is increased as a result of tolerance, the therapeutic index is expected to decrease or to remain the same (if the toxic dose is also increased). D Potency, which refers to the dose of the drug needed to produce a given effect, is decreased when tolerance has occurred. E Tolerance can be due to increased metabolism of the drug. In this case, however, the half-life would be decreased, not increased.",
+   "source": "Pharmacology I-2 Q14",
+   "topic": "Medium",
+   "topic_n": 4
+  },
+  {
+   "question": "A 17-year-old girl started smoking 1 month ago, and now she is smoking 5 to 10 cigarettes daily. She has noticed that the first cigarette of the day often causes mild tachycardia, which does not usually occur with the following cigarettes. Which of the following terms best defines this tolerance pattern?",
+   "choices": [
+    "Pharmacokinetic tolerance",
+    "Cross-tolerance",
+    "Innate tolerance",
+    "Tachyphylaxis",
+    "Sensitization"
+   ],
+   "answer": 3,
+   "explanation": "Tachyphylaxis refers to a drug tolerance that appears rapidly (in a matter of hours) and also disappears rapidly when the drug is withdrawn. So, the first cigarette caused tachycardia because tolerance to nicotine effects disappeared overnight, but tolerance to those effects was rapidly resumed when smoking was reinstated. A Cross-tolerance refers to tolerance to a drug that is shared by other drugs with similar chemical structure and/or similar pharmacological effects. C Tolerance is called pharmacokinetic when it is due to a decrease in the effective concentration of the drug at the site of action. D Innate tolerance refers to a genetically determined lack of sensitivity to a drug that is observed the first time the drug is administered. E Sensitization refers to a drug response that increases with the repetition of the same dose of that drug.",
+   "source": "Pharmacology I-2 Q15",
+   "topic": "Medium",
+   "topic_n": 5
+  },
+  {
+   "question": "A 64-year-old man with terminal cancer had been suffering from continuous pain and started treatment with morphine. After a few days of treatment, the initial dose was no longer effective, and the physician gradually increased the dose, knowing that pharmacodynamic tolerance most likely had occurred. Which of the following best explains the mechanism of tolerance in this patient?",
+   "choices": [
+    "Decreased binding of morphine to plasma proteins",
+    "Increased affinity of receptors to morphine",
+    "Decreased morphine receptor density",
+    "Decreased concentration of morphine in the brain",
+    "Accelerated morphine metabolism"
+   ],
+   "answer": 2,
+   "explanation": "Opiates exhibit pharmacodynamic tolerance, which can be defined as the decreased responsiveness to the action of a drug whose concentration at the site of action remains the same. The most common mechanism underlying pharmacodynamic tolerance is receptor downregulation; a decrease in receptor density. Other listed mechanisms refer to homeostatic adaptive changes of the organism that counteract the drug effect. A, E Tolerance due to increased metabolism of the drug and to decreased concentration of the drug at the site of action is called pharmacokinetic, not pharmacodynamic, tolerance. B, C These events would have increased, not decreased, the effects of morphine.",
+   "source": "Pharmacology I-2 Q16",
+   "topic": "Medium",
+   "topic_n": 6
+  },
+  {
+   "question": "A 17-year-old boy drank increasing amounts of alcohol when attending parties. He noticed that lately he was able to better tolerate alcohol effects and asked his physician the reason for this. The physician said that pharmacodynamic tolerance had probably occurred. Which of the following actions most likely mediated this tolerance?",
+   "choices": [
+    "Homeostatic adaptive changes that counteract the drug effect",
+    "Decreased bioavailability of the drug",
+    "Increased biotransformation of the drug",
+    "Increased number of drug receptors",
+    "Decreased concentration of the drug at the site of action"
+   ],
+   "answer": 0,
+   "explanation": "Tolerance can be defined as a state of decreased responsiveness to the action of a drug that results from prior exposure to that drug or to a related drug. Drug tolerance can involve a decreased concentration of the drug at the site of action, due mainly to an increased biotransformation of the drug (pharmacokinetic tolerance), or it can occur even when the concentration of the drug at the site of action is not modified (pharmacodynamic tolerance). In the latter case, the underlying mechanism can be either a decreased number of receptors (the most common), a change in the postreceptor mechanisms, or homeostatic adaptive changes that counteract the drug effect. Homeostatic adaptive changes seem especially important in tolerance to ethanol. In fact, central nervous system (CNS) effects are more pronounced when ethanol concentrations reaches a certain level than when the same concentration is present during recovery from drunkenness. This indicates that homeostatic adaptive changes occurred in the CNS during the intoxication period. A, C, D These mechanisms explain pharmacokinetic, not pharmacodynamic, tolerance. E A decreased, not increased, number of receptors can explain pharmacodynamic tolerance.",
+   "source": "Pharmacology I-2 Q17",
+   "topic": "Medium",
+   "topic_n": 7
+  },
+  {
+   "question": "A 46-year-old woman complained to her physician that the sedative effect of the drug she was taking had increased substantially. The woman, who was suffering from generalized anxiety disorder, had been taking diazepam, one tablet daily. A few days earlier, she had started taking cimetidine to treat her heartburn. Cimetidine is an inhibitor of the cytochrome P-450 system in the liver. Which of the following terms best defines this cimetidine-diazepam interaction?",
+   "choices": [
+    "Additive effect",
+    "Synergism",
+    "Sensitization",
+    "Potentiation",
+    "Reverse tolerance"
+   ],
+   "answer": 3,
+   "explanation": "Although benzodiazepines are no longer first-line agents for generalized anxiety disorder, they are still used when other drugs are poorly tolerated or ineffective, as most likely occurred in this case. Potentiation occurs when a drug enhances the effect of another drug but is devoid of that effect when given alone. Cimetidine is devoid of sedative effects but can increase the sedative effect of diazepam by inhibiting hepatic metabolism of diazepam. A Additive effect occurs when the response elicited by combined drugs is equal to the combined responses of the individual drugs. C Synergism occurs when the response elicited by combined drugs is greater than the combined responses of the individual drugs. D, E These terms refer to drug effects that increase over time when the drug is given chronically.",
+   "source": "Pharmacology I-2 Q18",
+   "topic": "Easy",
+   "topic_n": 7
+  },
+  {
+   "question": "A 45-year-old woman recently diagnosed with a urinary tract infection started therapy with a trimethoprim-sulfamethoxazole combination. Both trimethoprim and sulfamethoxazole are bacteriostatic drugs when given alone. However, a bactericidal effect is obtained when the two drugs are given in combination. Which of the following terms best defines this drug interaction?",
+   "choices": [
+    "Sensitization",
+    "Potentiation",
+    "Synergism",
+    "Reverse tolerance",
+    "Additive effect"
+   ],
+   "answer": 2,
+   "explanation": "A drug interaction is defined as synergistic when the response elicited by combined drugs is greater than the combined responses of the individual drugs. In other words, the response elicited by the drug combination is more than simply additive. In the present case, the effects of the individual drugs are bacteriostatic, whereas the effect of the combined drugs is more than an additive bacteriostatic effect (by definition, a bactericidal effect is greater than a bacteriostatic effect). The interaction is therefore defined as synergism. A Additive effects occur when the response elicited by combined drugs is equal to the combined responses of the individual drugs. B Potentiation occurs when a drug enhances the effect of another drug but is devoid of that effect when given alone. D, E These terms refer to drug effects that increase over time, when the drug is chronically given.",
+   "source": "Pharmacology I-2 Q19",
+   "topic": "Easy",
+   "topic_n": 8
+  },
+  {
+   "question": "A 2-year-old girl was rushed to the emergency department after ingesting several tablets of a medication containing iron. An emergency treatment was started that included the intravenous administration of deferoxamine. This drug is able to combine with iron in plasma to form an inactive complex and therefore to antagonize iron effects. Which of the following terms best defines this antagonism?",
+   "choices": [
+    "Chemical",
+    "Pharmacokinetic",
+    "Functional",
+    "Noncompetitive",
+    "Competitive"
+   ],
+   "answer": 0,
+   "explanation": "Chemical antagonism is said to occur when a drug combines chemically with the drug to be antagonized, making that drug pharmacologically inactive, as in the present example. A chemical antagonist does not act on receptors or on the pharmacokinetics of the drug to be antagonized. A-C, E See correct answer explanation.",
+   "source": "Pharmacology I-2 Q20",
+   "topic": "Easy",
+   "topic_n": 9
+  },
+  {
+   "question": "A new drug was tested in an in vitro system. The relationship between the concentration of the drug and the association and dissociation of the drug-receptor complex was evaluated. Which of the following factors regulates this relationship?",
+   "choices": [
+    "The pharmacological response",
+    "The law of mass action",
+    "The rate of signal transduction",
+    "The volume of distribution of the drug",
+    "The total clearance of the drug"
+   ],
+   "answer": 1,
+   "explanation": "According to the law of mass action, the number of receptors occupied by a drug depends on the drug concentration and the affinity of the drug-receptor complex. In other words, the higher the concentration (i.e., mass) of the drug, the higher the number of receptors occupied by the drug. A, E These factors depend on receptor activation and on the association and dissociation of the drug-receptor complex, but they do not regulate them. B, C These are pharmacokinetic parameters. Pharmacokinetic changes do not regulate pharmacodynamic properties.",
+   "source": "Pharmacology I-2 Q21",
+   "topic": "Easy",
+   "topic_n": 10
+  },
+  {
+   "question": "An 83-year-old woman suffering from overflow urinary incontinence started a therapy with a cholinergic drug that was able to relieve leaking. Which of the following best defines the molecular event initiated by drug-receptor binding and ending with the therapeutic effect in this patient?",
+   "choices": [
+    "Receptor upregulation",
+    "Signal transduction pathway",
+    "Drug efficacy",
+    "Drug potency",
+    "Drug-receptor interaction"
+   ],
+   "answer": 1,
+   "explanation": "The detailed molecular pathway that starts from the drug binding to its receptor and leads to a measurable pharmacological effect is called the signal transduction pathway. It can include several steps that occur following the activation of the receptor and are termed postreceptor mechanisms. An example of a postreceptor mechanism is the opening of ion channels, or the activation of G proteins, which in turn causes the increased or decreased synthesis of second messengers. These messengers ultimately produce a pharmacological effect, often through the activation of different protein kinases. A, B, D, E See correct answer explanation.",
+   "source": "Pharmacology I-2 Q22",
+   "topic": "Easy",
+   "topic_n": 11
+  },
+  {
+   "question": "A 9-year-old boy suffering from mild asthma used a β2 agonist “as needed” by inhalation. Which of the following was most likely the immediate consequence of the activation of β2 receptors?",
+   "choices": [
+    "Opening of ligand-gated K+ channels",
+    "Increased synthesis of cAMP",
+    "Conformational change of a G protein",
+    "Decreased synthesis of cAMP",
+    "Phosphorylation of a G protein"
+   ],
+   "answer": 2,
+   "explanation": "When a metabotropic receptor, e.g., the β2 receptor, is activated, it binds to a G protein, which undergoes a conformational change leading to a free guanosine triphosphate (GTP)-α subunit that can regulate a membrane enzyme or an ion channel. A-C These are consequences of G-protein activation, not the immediate event following the activation of metabotropic receptors. E Activation of a G protein can ultimately cause phosphorylation of many proteins, thus controlling their function, but the G protein does not undergo phosphorylation.",
+   "source": "Pharmacology I-2 Q23",
+   "topic": "Easy",
+   "topic_n": 12
+  },
+  {
+   "question": "A 57-year-old man who was in the hospital after a surgical procedure complained of a severe abdominal pain. The physician decided to start analgesic treatment with an opioid. The drugs he was considering were morphine (10 mg IM) and buprenorphine (0.3 mg IM). Morphine is a full agonist at mu (µ) opioid receptors, whereas buprenorphine is a partial agonist at the same receptors. The above-mentioned doses of the two drugs are equieffective. Which of the following pairs of statements correctly defines the potency and efficacy of morphine and buprenorphine?",
+   "choices": [
+    "Morphine is more potent. Buprenorphine is more effective.",
+    "Morphine is less potent. Buprenorphine is less effective.",
+    "Morphine is more potent. Buprenorphine is less effective.",
+    "Morphine is less potent. Buprenorphine is more effective."
+   ],
+   "answer": 1,
+   "explanation": "Potency of a drug refers to the dose of that drug needed to obtain a given effect. Because 10 mg of morphine is needed to get an analgesic effect equal to that given by 0.3 mg of buprenorphine, morphine is less potent than buprenorphine. Efficacy refers to the maximal effect produced by a drug. By definition, partial agonists have a maximal efficacy lower than that of full agonists. Because morphine is a full agonist and buprenorphine a partial agonist at the same receptor, buprenorphine is less effective than morphine. A-C See correct answer explanation.",
+   "source": "Pharmacology I-2 Q24",
+   "topic": "Easy",
+   "topic_n": 13
+  },
+  {
+   "question": "A 45-year-old woman recently diagnosed with lupus erythematosus started a treatment with a synthetic steroid. Which of the following is the most likely time lapse expected between receptor activation and therapeutic response?",
+   "choices": [
+    "Few milliseconds",
+    "Few minutes",
+    "Several hours or days",
+    "Few seconds",
+    "One or 2 hours"
+   ],
+   "answer": 2,
+   "explanation": "Drugs that activate nuclear receptors to affect transcription usually have a relatively long response time following receptor activation. These drugs regulate gene transcription, which in turn causes an increase or decrease of synthesis of specific proteins. This is consistent with the observation that there is a time lag of hours or days between drug administration and the therapeutic effect of these drugs. A-D See correct answer explanation.",
+   "source": "Pharmacology I-2 Q27",
+   "topic": "Medium",
+   "topic_n": 8
+  },
+  {
+   "question": "Some new drugs acting on the same receptor were studied in laboratory animals. It was found that: Drug X was able to decrease the constitutive level of activity of the receptor. Drug Y was able to increase the constitutive level of activity of the receptor. Drug Z was able to antagonize the effects of both drug X and drug Y. Which of the following terms best defines drug X?",
+   "choices": [
+    "Irreversible antagonist",
+    "Inverse agonist",
+    "Full agonist",
+    "Partial agonist",
+    "Competitive antagonist"
+   ],
+   "answer": 1,
+   "explanation": "Although most receptors are activated only when an agonist molecule is bound, it has been shown that some receptors can show an appreciable level of activation (called constitutive activation) even when no ligand is present. Examples include receptors for gamma-aminobutyric acid (GABA), cannabinoids, and serotonin. Drugs acting on these receptors are defined as agonists if they increase the level of constitutive activation (e.g., drug Y); defined as inverse agonists if they decrease the level of constitutive activation (e.g., drug X); defined as antagonists if they do not change the level of constitutive activation but can antagonize the effects of both agonists and inverse agonists (e.g., drug Z). Constitutive activation is a relatively recent discovery and may prove to be of greater pharmacological significance in the future. A, B, D, E See correct answer explanation.",
+   "source": "Pharmacology I-2 Q29",
+   "topic": "Easy",
+   "topic_n": 14
+  },
+  {
+   "question": "A clinical trial was conducted by orally administering a new analgesic drug to a group of patients suffering from arthritic pain. One hour after administration, the patients were questioned about pain relief, and a sample of blood was collected from each patient to measure plasma drug levels. Pain relief generally correlated well with plasma levels, but three patients whose plasma levels were equal to zero reported good pain relief. Which of the following is the most likely explanation of the analgesic effect of the drug in those three patients?",
+   "choices": [
+    "Small volume of distribution of the drug",
+    "High bioavailability of the drug",
+    "Placebo effect",
+    "Poor patient compliance",
+    "Very low clearance of the drug"
+   ],
+   "answer": 2,
+   "explanation": "When a plasma level of a drug administered 1 hour previously is equal to zero, a pharmacological effect of the drug is exceedingly unlikely. Therefore, the pain relief must be due to an effect that is independent from the pharmacological action of the drug and operates through psychological mechanisms (i.e., a placebo effect). Placebo effect is common in drug therapy. It is always present (more or less pronounced) in any drug effect, even for drugs whose efficacy is undisputed. On average, 35% of diseases are favorably influenced by a placebo treatment. A-C All these factors would have caused a significant plasma level of the drug. D Poor patient compliance cannot explain a good pharmacological effect.",
+   "source": "Pharmacology I-2 Q30",
+   "topic": "Medium",
+   "topic_n": 9
+  }
+ ]
+}

@@ -1,0 +1,491 @@
+{
+ "questions": [
+  {
+   "question": "Directions for questions 1-5: Match each cholinergic drug with the appropriate description (each lettered option can be selected once, more than once, or not at all). Inhibition of cholinesterases by this drug is very short (2-10 minutes).",
+   "choices": [
+    "Donepezil",
+    "Physostigmine",
+    "Pralidoxime",
+    "Parathion",
+    "Carbachol",
+    "Bethanechol",
+    "Acetylcholine",
+    "Neostigmine",
+    "Muscarine",
+    "Pilocarpine",
+    "Edrophonium"
+   ],
+   "answer": 10,
+   "explanation": "Matching item. Correct match: Edrophonium.",
+   "source": "Pharmacology II-4 Q1",
+   "topic": "Easy",
+   "topic_n": 1
+  },
+  {
+   "question": "Directions for questions 1-5: Match each cholinergic drug with the appropriate description (each lettered option can be selected once, more than once, or not at all). This drug can inhibit cholinesterases equally well in the periphery as in the central nervous system.",
+   "choices": [
+    "Pralidoxime",
+    "Edrophonium",
+    "Muscarine",
+    "Acetylcholine",
+    "Pilocarpine",
+    "Carbachol",
+    "Physostigmine",
+    "Donepezil",
+    "Neostigmine",
+    "Bethanechol",
+    "Parathion"
+   ],
+   "answer": 6,
+   "explanation": "Matching item. Correct match: Physostigmine.",
+   "source": "Pharmacology II-4 Q2",
+   "topic": "Easy",
+   "topic_n": 2
+  },
+  {
+   "question": "Directions for questions 1-5: Match each cholinergic drug with the appropriate description (each lettered option can be selected once, more than once, or not at all). This compound can be absorbed effectively through the intact skin.",
+   "choices": [
+    "Bethanechol",
+    "Carbachol",
+    "Neostigmine",
+    "Parathion",
+    "Acetylcholine",
+    "Physostigmine",
+    "Pilocarpine",
+    "Donepezil",
+    "Muscarine",
+    "Pralidoxime",
+    "Edrophonium"
+   ],
+   "answer": 3,
+   "explanation": "Matching item. Correct match: Parathion.",
+   "source": "Pharmacology II-4 Q3",
+   "topic": "Easy",
+   "topic_n": 3
+  },
+  {
+   "question": "Directions for questions 1-5: Match each cholinergic drug with the appropriate description (each lettered option can be selected once, more than once, or not at all). This drug is able to regenerate cholinesterases blocked by organophosphates.",
+   "choices": [
+    "Physostigmine",
+    "Pralidoxime",
+    "Bethanechol",
+    "Parathion",
+    "Acetylcholine",
+    "Muscarine",
+    "Carbachol",
+    "Edrophonium",
+    "Pilocarpine",
+    "Donepezil",
+    "Neostigmine"
+   ],
+   "answer": 1,
+   "explanation": "Matching item. Correct match: Pralidoxime.",
+   "source": "Pharmacology II-4 Q4",
+   "topic": "Easy",
+   "topic_n": 4
+  },
+  {
+   "question": "Directions for questions 1-5: Match each cholinergic drug with the appropriate description (each lettered option can be selected once, more than once, or not at all). This drug can inhibit cholinesterases and directly activate Nm cholinergic receptors.",
+   "choices": [
+    "Bethanechol",
+    "Physostigmine",
+    "Parathion",
+    "Edrophonium",
+    "Muscarine",
+    "Carbachol",
+    "Acetylcholine",
+    "Neostigmine",
+    "Pilocarpine",
+    "Pralidoxime",
+    "Donepezil"
+   ],
+   "answer": 7,
+   "explanation": "Matching item. Correct match: Neostigmine.",
+   "source": "Pharmacology II-4 Q5",
+   "topic": "Easy",
+   "topic_n": 5
+  },
+  {
+   "question": "A new autonomic drug was given intravenously to dogs during a lab experiment. It was found that the drug was able to increase cholinergic transmission in both the peripheral and central nervous systems. Which of the following drugs does the new agent most resemble?",
+   "choices": [
+    "Neostigmine",
+    "Carbachol",
+    "Acetylcholine",
+    "Bethanechol",
+    "Physostigmine"
+   ],
+   "answer": 4,
+   "explanation": "To increase cholinergic transmission in the central nervous system, the drug must activate (directly or indirectly) central acetylcholine receptors. Physostigmine is an anticholinesterase drug that is able to cross the blood-brain barrier. The increased acetylcholine availability in the central nervous system accounts for the increased cholinergic transmission. A-D These drugs do not affect cholinergic transmission in the central nervous system because they very poorly cross the blood-brain barrier.",
+   "source": "Pharmacology II-4 Q6",
+   "topic": "Medium",
+   "topic_n": 1
+  },
+  {
+   "question": "A 62-year-old man suffering from open-angle glaucoma underwent ocular surgery for canaloplasty. Before the operation, the ophthalmologist instilled a few drops of carbachol in the conjunctival sac. Which of the following anatomical structures represents the primary site of action of the drug in this patient?",
+   "choices": [
+    "Ganglionic neurons",
+    "Radial muscle of the iris",
+    "Brainstem",
+    "Lens",
+    "Ciliary muscle"
+   ],
+   "answer": 4,
+   "explanation": "Carbachol is used in ocular surgery to decrease the intraocular pressure by increasing the outflow of the aqueous humor. The drug can activate both muscarinic and nicotinic neuronal receptors located on the body of autonomic ganglia. However, when the drug is given locally, it can reach the ciliary muscle but cannot reach the ciliary ganglion that is located on the posterior orbit. Therefore, the primary site of action of the drug given locally in the conjunctival sac is the ciliary muscle. Activation of muscarinic M3 receptors leads to the contraction of the ciliary muscle, which in turn causes the opening of trabecular meshwork, thus increasing the outflow of the aqueous humor. C, D The lens and the radial muscle of the iris are devoid of Nn and M3 receptors. A, E See correct answer explanation.",
+   "source": "Pharmacology II-4 Q7",
+   "topic": "Hard",
+   "topic_n": 1
+  },
+  {
+   "question": "A 51-year-old diabetic woman presented to the emergency room with severe ocular pain and redness, decreased vision, colored halos, and nausea and vomiting. Ophthalmoscopy revealed anterior chamber inflammation, and tonometry measured an intraocular pressure of 48 mm Hg in the right eye (normal 10-20 mm Hg). A diagnosis of an acute glaucoma attack was made, and two drugs were instilled in the conjunctival sac. Another drug was given by the same route 15 minutes later. Which of the following three drugs were most likely administered?",
+   "choices": [
+    "Homatropine, carbachol, and timolol",
+    "Prazosin, physostigmine, and mannitol",
+    "Homatropine, carbachol, and dorzolamide",
+    "Scopolamine, dorzolamide, and phenylephrine",
+    "Timolol, apraclonidine, and pilocarpine"
+   ],
+   "answer": 4,
+   "explanation": "An acute glaucoma attack is usually the first symptom of acute angle-closure glaucoma, a disease associated with a closed anterior chamber angle. When this occurs, intraocular pressure rises, because the obstruction of the peripheral iris prevents the normal drainage of aqueous humor from the eye. An acute glaucoma attack is a medical emergency because vision can be lost quickly. Aqueous humor production must be decreased. Therefore, a topical β-blocker (e.g., timolol) and an α2 agonist (e.g., apraclonidine) are immediately administered. Then pilocarpine is given to increase aqueous humor outflow (cholinergic drugs alone are generally ineffective when the intraocular pressure is more than 40 mm Hg). B-D Homatropine and scopolamine are contraindicated in angle-closure glaucoma because they induce mydriasis, which increases the risk of closing the anterior chamber. E Prazosin is ineffective in glaucoma. Mannitol is not given topically, but intravenously, and is used to lower the intraocular pressure only if the response to the first treatment is inadequate.",
+   "source": "Pharmacology II-4 Q8",
+   "topic": "Hard",
+   "topic_n": 2
+  },
+  {
+   "question": "A 62-year-old woman had no bowel movements 4 days after surgery to remove a colon cancer. A diagnosis of adynamic ileus was made, and an intramuscular injection of neostigmine was given. The activation of which of the following pairs of receptors most likely mediated the therapeutic effect of the drug in the patient's disorder?",
+   "choices": [
+    "Nm cholinergic and α1 adrenergic",
+    "Nm and M2 cholinergic",
+    "Nn and M3 cholinergic",
+    "β2 adrenergic and Nn cholinergic",
+    "Nn cholinergic and α1 adrenergic",
+    "β2 adrenergic and M3 cholinergic"
+   ],
+   "answer": 2,
+   "explanation": "Neostigmine is a reversible cholinesterase inhibitor sometimes used to increase smooth muscle activity in adynamic ileus or atony of the urinary bladder. The drug increases the availability of acetylcholine at cholinergic terminals, which in turn activates both the nicotinic neuronal receptors on parasympathetic ganglia and the muscarinic M3 receptors on smooth muscle. A, C-F See correct answer explanation.",
+   "source": "Pharmacology II-4 Q9",
+   "topic": "Medium",
+   "topic_n": 2
+  },
+  {
+   "question": "A 74-year-old man complained to his physician of memory impairment that had worsened over the past 2 months. He also reported that he had increasing difficulty in recognizing familiar objects and in planning everyday activities such as shopping. Physical examination revealed no neurologic deficits, but the man performed very poorly in the Folstein Mini-Mental Status Exam. Donepezil was prescribed. Which of the following molecular mechanisms most likely mediated the therapeutic effect of the drug in the patient's disease?",
+   "choices": [
+    "Inhibition of choline acetyltransferase",
+    "Stimulation of norepinephrine release",
+    "Blockade of nicotinic neuronal receptors",
+    "Inhibition of cholinesterase",
+    "Inhibition of norepinephrine reuptake",
+    "Blockade of muscarinic M1 receptors"
+   ],
+   "answer": 3,
+   "explanation": "The patient's symptoms and the results of the Mini-Mental Status Exam indicate that he was most likely in the early stages of Alzheimer disease (AD). To date, no drugs are available that can halt or reverse the progression of the disease, but drugs are approved for the treatment of memory deficit associated with AD. Acetylcholine is significantly reduced in AD, and drugs that can increase its levels in the brain have shown moderate success in slowing the progression of the disease. Donepezil selectively inhibits cholinesterase in the central nervous system with less effect on cholinesterase in peripheral tissues. A-C, E, F See correct answer explanation.",
+   "source": "Pharmacology II-4 Q10",
+   "topic": "Easy",
+   "topic_n": 6
+  },
+  {
+   "question": "A 71-year-old man suffering from myasthenia gravis was admitted to the hospital for evaluation. His therapy included neostigmine, three tablets daily. It was found that the patient had a slow heart rate (46 bpm), which the physician thought was related to neostigmine therapy. Which of the following molecular mechanisms most likely mediated this adverse effect of the drug?",
+   "choices": [
+    "Opening of ligand-gated Ca2+ channels",
+    "Opening of ligand-gated K+ channels",
+    "Opening of voltage-gated Na+ channels",
+    "Increased synthesis of adenylyl cyclase",
+    "Increased synthesis of inositol triphosphate (IP3) and diacylglycerol (DAG)"
+   ],
+   "answer": 1,
+   "explanation": "By inhibiting cholinesterase, neostigmine increases acetylcholine availability in the synaptic cleft of cholinergic fibers. This can increase the activity of both sympathetic and parasympathetic ganglia supplying the heart and can activate muscarinic M2 receptors, which are the most abundant acetylcholine receptors in the sinoatrial (SA), atrium, and atrioventricular (AV) nodes. This activation in turn opens acetylcholine-sensitive K+ channels, increasing the hyperpolarization of SA and AV cardiac fibers. The final result is a negative chronotropic and dromotropic effect. B-E See correct answer explanation.",
+   "source": "Pharmacology II-4 Q11",
+   "topic": "Medium",
+   "topic_n": 3
+  },
+  {
+   "question": "A 67-year-old woman suffering from glaucoma underwent trabeculectomy, a surgical procedure to remove part of the trabecular meshwork of the eye. Before the operation, the ophthalmologist instilled a few drops of pilocarpine in the conjunctival sac. Which of the following sets of effects most likely occurred shortly after the administration of the drug? (Each option is a row of the printed table giving, in order, the effect on pupillary diameter, lens curvature, and ocular pressure; + = increased, - = decreased, 0 = negligible effect.)",
+   "choices": [
+    "Pupillary diameter: 0 (negligible effect); Lens curvature: 0 (negligible effect); Ocular pressure: decreased",
+    "Pupillary diameter: increased; Lens curvature: 0 (negligible effect); Ocular pressure: decreased",
+    "Pupillary diameter: increased; Lens curvature: 0 (negligible effect); Ocular pressure: 0 (negligible effect)",
+    "Pupillary diameter: decreased; Lens curvature: increased; Ocular pressure: decreased",
+    "Pupillary diameter: increased; Lens curvature: decreased; Ocular pressure: increased"
+   ],
+   "answer": 3,
+   "explanation": "Pilocarpine is a muscarinic agonist. The drug-induced activation of M3 receptors causes contraction of the sphincter muscle of the iris (decreasing pupillary diameter) and contraction of the ciliary muscle (increasing lens curvature). Ocular pressure is decreased because the contraction of the ciliary muscle opens the pores of the trabecular meshwork, facilitating the outflow of aqueous humor into the Schlemm canal. A, C-E See correct answer explanation.",
+   "source": "Pharmacology II-4 Q12",
+   "topic": "Medium",
+   "topic_n": 4
+  },
+  {
+   "question": "A 79-year-old female resident of a nursing home was recently diagnosed with urinary overflow incontinence due to an atonic bladder, and a treatment with bethanechol was prescribed. Which of the following actions most likely mediated the therapeutic effectiveness of the drug in the patient's disorder?",
+   "choices": [
+    "Increased bladder sphincter tone",
+    "Decreased ureteral peristalsis",
+    "Decreased compliance of the bladder",
+    "Increased tone of the bladder trigone",
+    "Decreased diuresis"
+   ],
+   "answer": 2,
+   "explanation": "Overflow incontinence occurs when the weight of urine in a distended bladder overcomes outlet resistance. It results from an anatomical outlet obstruction or an atonic bladder, as in this case. Bethanechol is a cholinergic agonist that primarily activates muscarinic M3 receptors. This activation causes a contraction of the detrusor muscle of the bladder; therefore, the amount of bladder space that can be filled (i.e., the distensibility of the bladder, or its compliance) is decreased. A, B, E Activation of M3 receptors causes effects opposite to those described. D Diuresis refers to the production of urine by the kidney. Bethanechol does not affect diuresis.",
+   "source": "Pharmacology II-4 Q13",
+   "topic": "Medium",
+   "topic_n": 5
+  },
+  {
+   "question": "A 58-year-old woman with a long history of depression was brought to the emergency department with vomiting, urinary incontinence, profuse salivation, cold sweat, rapid and irregular pulse, tachypnea, and mental confusion. She admitted attempting suicide by ingesting several tablets found in her husband's bureau drawer. Soon after admission, the woman experienced a tonic-clonic seizure. Which of the following drugs most likely caused the patient's poisoning?",
+   "choices": [
+    "Neostigmine",
+    "Clonidine",
+    "Nicotine",
+    "Scopolamine",
+    "Bethanechol"
+   ],
+   "answer": 2,
+   "explanation": "The history of the patient, together with her symptoms and signs, is consistent with the diagnosis of nicotine poisoning, likely due to lozenge tablets used by her husband to quit smoking. Nicotine causes a rapid activation of both the sympathetic and parasympathetic nervous systems, as well as stimulation of different areas of the brain. Signs in this patient due to parasympathetic activation are vomiting, urinary incontinence, and profuse salivation. Signs of sympathetic activation are cold sweat (sweat glands are stimulated and skin vessels constricted) and rapid and irregular pulse (activation of nicotinic neuronal [Nn] receptors releases epinephrine from adrenal medulla). Central stimulation accounts for the mental confusion and the tonic-clonic seizure. A Clonidine does not cause most of the symptoms exhibited by the patient. B Scopolamine is used for the prevention of motion sickness. The drug is a muscarinic antagonist; therefore, the symptoms of overdose would be the opposite of those exhibited by the patient. D Bethanechol is a muscarinic agonist. Symptoms of overdose would be limited to parasympathetic activation. E Neostigmine is a cholinesterase inhibitor. Many symptoms of poisoning by cholinesterase inhibitors are similar to those of nicotine overdose (both drugs can activate, directly or indirectly, nicotinic receptors). However, in the case of neostigmine poisoning, central effects would be minimal, as the amount of drug crossing the blood-brain barrier is negligible.",
+   "source": "Pharmacology II-4 Q14",
+   "topic": "Hard",
+   "topic_n": 3
+  },
+  {
+   "question": "A 65-year-old man suffering from open-angle glaucoma had been receiving several drugs over the past 6 months, but the control of intraocular pressure proved inadequate. The ophthalmologist decided to add a drug and prescribed echothiophate. Which of the following actions most likely mediated the therapeutic effect of echothiophate in the patient's disease?",
+   "choices": [
+    "Decreased production of aqueous humor",
+    "Dilation of the episcleral venous plexus",
+    "Contraction of the sphincter of the iris",
+    "Contraction of the radial muscle of the iris",
+    "Dilation of retinal vessels",
+    "Contraction of the ciliary muscle"
+   ],
+   "answer": 5,
+   "explanation": "When control of glaucoma is not achieved with standard pharmacotherapy, anticholinesterase agents may be prescribed as a last topical therapy option. Echothiophate is an irreversible cholinesterase inhibitor. When given locally in the subconjunctival sac, it increases the availability of acetylcholine at cholinergic synapses. By activating muscarinic M3 receptors, acetylcholine contracts the ciliary muscle, which in turn opens the trabecular meshwork and Schlemm canal, increasing the outflow of aqueous humor. In this way, the intraocular pressure is decreased. Being an irreversible inhibitor, the drug has a long duration of action that affords good control of glaucoma. A, C-E Acetylcholine does not cause these effects. B By activating M3 receptors, acetylcholine can contract the sphincter of the iris, but this action has negligible effects on the intraocular pressure.",
+   "source": "Pharmacology II-4 Q15",
+   "topic": "Medium",
+   "topic_n": 6
+  },
+  {
+   "question": "A 49-year-old farmer came to the emergency department complaining of blurred vision, nausea, and painful muscle contractions in his legs. He said the symptoms started soon after coming in from his soybean field. The attending physician appropriately administered pralidoxime intravenously soon after the man arrived. An agent from which of the following drug classes most likely caused the patient's symptoms?",
+   "choices": [
+    "Cholinergic antagonists",
+    "Adrenergic antagonists",
+    "Alcohols",
+    "Organophosphates",
+    "Carbamates"
+   ],
+   "answer": 3,
+   "explanation": "The history and the patient's symptoms and signs indicate that he was most likely suffering from organophosphate poisoning. Serious poisoning from organophosphate pesticides is rare today because of enforced occupational health and safety standards, but mild poisoning is still surprisingly common. A, C, E Poisoning by these drugs does not cause the symptoms and signs shown by the patient. B Symptoms of poisoning from carbamates, which are reversible cholinesterase inhibitors, are usually indistinguishable from those caused by organophosphates. However, in case of poisoning from reversible cholinesterase inhibitors, pralidoxime is useless (and can also be dangerous). The fact that the attending physician administered pralidoxime indicates that he or she was sure, from the patient's information, that an organophosphate was the culprit drug.",
+   "source": "Pharmacology II-4 Q16",
+   "topic": "Easy",
+   "topic_n": 7
+  },
+  {
+   "question": "A 41-year-old man was brought to the emergency department because of severe vomiting and diarrhea that started about 1 hour after a meal. The patient showed profuse salivation, lacrimation, and wheezing. His skin was moist, and his pupils were miotic. Skeletal muscle movements were normal. Blood pressure was 80/50 mm Hg, pulse 46 bpm. Poisoning of this patient was most likely due to which of the following agents?",
+   "choices": [
+    "Nicotine-containing insecticide",
+    "Muscarine-containing mushrooms",
+    "Atropine-containing mushrooms",
+    "Carbamate-containing insecticide",
+    "Organophosphate-containing insecticide"
+   ],
+   "answer": 1,
+   "explanation": "The patient's signs and symptoms are consistent with the diagnosis of muscarine poisoning. High concentrations of muscarine are present in various species of Inocybe and Clitocybe mushrooms. The symptoms of muscarine intoxication start within 1 hour after the ingestion and are all attributable to activation of muscarinic receptors. B Nicotine poisoning results from the activation, and later the blockade, of nicotinic neuronal (Nn) and nicotinic muscular (Nm) receptors. Activation of Nn receptors in ganglia and adrenal medulla causes increased sympathetic firing and increased release of norepinephrine. Early signs include cold sweat, rapid and irregular pulse, and hypertension, followed by hypotension and collapse. Moreover, the activation of Nm receptors at the motor end plate would cause muscle paralysis due to depolarization blockade, which is absent in this patient. C Poisoning by organophosphates causes symptoms due to activation of muscarinic receptors; in addition, there are symptoms due to activation of nicotinic receptors (i.e., skeletal muscle paralysis due to depolarization blockade). D Some mushroom species contain atropine. The symptoms of atropine poisoning are due to blockade of muscarinic receptors and are the opposite of those exhibited by the patient. E Carbamate insecticides are reversible cholinesterase inhibitors. Symptoms of poisoning by these agents are the same as the symptoms of poisoning by organophosphates.",
+   "source": "Pharmacology II-4 Q17",
+   "topic": "Medium",
+   "topic_n": 7
+  },
+  {
+   "question": "A 61-year-old man complained to his physician of brow ache, difficulty with far vision, and problems seeing in dim light. The man had a long history of open-angle glaucoma. One month earlier, he had changed his ophthalmic medication. Which of the following was most likely his new drug?",
+   "choices": [
+    "Phenylephrine",
+    "Epinephrine",
+    "Apraclonidine",
+    "Pilocarpine",
+    "Neostigmine",
+    "Timolol"
+   ],
+   "answer": 3,
+   "explanation": "Pilocarpine is a cholinergic agonist that activates only muscarinic M1, M2, and M3 receptors (activation of nicotinic receptors is negligible). Activation of M3 receptors in the ciliary muscle causes cyclospasm, which in turn increases the lens curvature. The eye is accommodated for near vision, and far vision becomes difficult. Activation of M3 receptors in the sphincter muscle of the iris causes miosis, which impairs vision in poor light. B, C Timolol and apraclonidine decrease the production of aqueous humor but have a negligible effect on accommodation. D, E Epinephrine and phenylephrine activate α1 receptors in the radial muscle of the iris. This would cause mydriasis, which would favor, not impair, vision in poor light. F Neostigmine is a cholinesterase inhibitor that could have caused effects similar to those of pilocarpine. However, it has been approved only for the treatment of myasthenia gravis and some gastrointestinal and urologic problems. It is not used to treat glaucoma.",
+   "source": "Pharmacology II-4 Q18",
+   "topic": "Easy",
+   "topic_n": 8
+  },
+  {
+   "question": "A 64-year-old man, recently diagnosed with myasthenia gravis, started treatment with neostigmine. Which of the following adverse effects would be most likely in this patient?",
+   "choices": [
+    "Overflow incontinence",
+    "Mydriasis",
+    "Constipation",
+    "Sialorrhea",
+    "Near vision impairment"
+   ],
+   "answer": 3,
+   "explanation": "Neostigmine is a cholinesterase inhibitor and therefore increases the availability of acetylcholine at all cholinergic synapses, eliciting muscarinic effects, mainly in the gastrointestinal tract. A-C, E By increasing acetylcholine availability, neostigmine causes effects opposite to those listed.",
+   "source": "Pharmacology II-4 Q19",
+   "topic": "Easy",
+   "topic_n": 9
+  },
+  {
+   "question": "A 63-year-old woman underwent a total hysterectomy to remove a uterine leiomyoma. General anesthesia was induced with thiopental sodium, maintained with halothane and nitrous oxide, and supplemented with tubocurarine. Which of the following drugs did the patient most likely receive after the operation to reverse the skeletal muscle paralysis?",
+   "choices": [
+    "Pralidoxime",
+    "Bethanechol",
+    "Edrophonium",
+    "Neostigmine",
+    "Physostigmine"
+   ],
+   "answer": 3,
+   "explanation": "Reversible cholinesterase inhibitors such as neostigmine can reverse the paralysis induced by nondepolarizing neuromuscular blocking drugs such as tubocurarine. Tubocurarine blocks nicotinic muscular (Nm) receptors at the motor end plate, whereas acetylcholine activates these receptors. The two drugs competitively antagonize each other, and the increased availability of acetylcholine brought about by cholinesterase inhibitors can therefore reverse the muscle paralysis induced by tubocurarine. This antagonism is exploited clinically, and reversible cholinesterase inhibitors are often used to speed recovery from the neuromuscular blockade remaining after completion of surgery. Neostigmine is the preferred drug, as it does not enter the brain and is therefore free of central adverse effects. A Physostigmine is not indicated because it can cross the blood-brain barrier. B Edrophonium is not indicated because it has a very short duration of action (its half-life is 1 to 10 minutes). D, E Bethanechol and pralidoxime do not act at Nm receptors.",
+   "source": "Pharmacology II-4 Q20",
+   "topic": "Medium",
+   "topic_n": 8
+  },
+  {
+   "question": "A 74-year-old man with a long history of type 2 diabetes complained to his physician of difficult urination. Further examination led to the diagnosis of a disorder, and treatment with bethanechol improved the symptoms. Which of the following was most likely the patient's disorder?",
+   "choices": [
+    "Impaired diuresis",
+    "Urinary tract infection",
+    "Detrusor hyperreflexia",
+    "Neurogenic atony of the bladder",
+    "Prostatic hyperplasia"
+   ],
+   "answer": 3,
+   "explanation": "The fact that bethanechol was able to improve the patient's symptoms points out that he suffered from overflow incontinence due to an acontractile bladder. Neurogenic atony of the bladder is common in diabetic neuropathy and was most likely the cause of the patient's disorder. By activating muscarinic M3 receptors, bethanechol causes increased detrusor muscle contractility, which can facilitate voiding of the bladder. A Prostatic hyperplasia can cause overflow incontinence due to urethral stricture, but bethanechol is contraindicated in any case of overflow incontinence due to urethral obstruction, as the increased detrusor contractility cannot overcome the obstruction, thus causing painful bladder spasms. B Diuresis refers to the production of urine by the kidney. A drug acting on the bladder has nothing to do with urine production. C, E Bethanechol is contraindicated, not indicated, in these conditions, as the activity of the detrusor muscle is already increased.",
+   "source": "Pharmacology II-4 Q21",
+   "topic": "Medium",
+   "topic_n": 9
+  },
+  {
+   "question": "A 47-year-old man was admitted to the emergency department because of extreme muscle weakness, ptosis, diplopia, and difficulty in swallowing, speaking, and breathing. The man, recently diagnosed with severe myasthenia gravis, had been receiving neostigmine for the past 3 months. Which of the following responses to 2 mg of intravenous edrophonium would indicate a cholinergic crisis?",
+   "choices": [
+    "Fasciculations, decreased muscle strength",
+    "No fasciculations, decreased muscle strength",
+    "No fasciculations, increased muscle strength",
+    "Fasciculations, increased muscle strength",
+    "No fasciculations, no change in muscle strength"
+   ],
+   "answer": 0,
+   "explanation": "Myasthenic patients under treatment with cholinesterase inhibitors may exhibit decreased muscle strength because of an excessive concentration of acetylcholine that causes depolarization blockade of the motor end plate. This is referred to as a cholinergic crisis. These patients may also exhibit decreased muscle strength because of a sudden exacerbation of the disease. This is called a myasthenic crisis. Edrophonium can be used to distinguish between the two syndromes. In fact, in cases of cholinergic crisis, edrophonium administration will produce no relief or worsen the syndrome (a decrease in muscle strength), whereas in cases of myasthenic crisis, the drug will improve the syndrome (an increase in muscle strength). Moreover, an edrophonium-induced decrease of muscle strength is accompanied by fasciculations (brief muscle contractions before the paralysis), as acetylcholine briefly activates nicotinic receptors, whereas an increase in muscle strength is not accompanied by fasciculations. A, C-E See correct answer explanation.",
+   "source": "Pharmacology II-4 Q22",
+   "topic": "Medium",
+   "topic_n": 10
+  },
+  {
+   "question": "A 60-year-old male patient presented for routine ophthalmic examination. Tonometry measured an intraocular pressure of 28 mm Hg in both eyes (normal 10-20 mm Hg). The patient had been suffering from complete atrioventricular (AV) block for 2 years. The ophthalmologist prescribed appropriate eye drops. Which of the following drugs was most likely included in the treatment?",
+   "choices": [
+    "Homatropine",
+    "Timolol",
+    "Prazosin",
+    "Albuterol",
+    "Pilocarpine",
+    "Isoproterenol"
+   ],
+   "answer": 4,
+   "explanation": "The patient was most likely suffering from open-angle glaucoma. Pilocarpine historically was the initial treatment of choice, but today it is used only as an alternative therapy when other drugs are contraindicated, as in this case (see answer explanations below). A Beta-blockers are first-line therapy for glaucoma but are contraindicated in this case because of the AV block. In fact, systemic effects can occur even after a topical administration, especially in the elderly, secondary to inadvertent overdose due to poor administration technique. In patients with complete AV block, the heart rate is maintained by a rhythm that is driven by a ventricular pacemaker and is about 50 bpm. By blocking β receptors in the ventricle, a β-blocker can reduce this barely sufficient heart rate, causing heart failure. Pilocarpine is not dangerous because in a patient with a complete AV block, the AV conduction is, by definition, already completely blocked, and the parasympathetic control of the ventricle is negligible, due to lack of innervation. B, C, E These drugs are not used for treating glaucoma.",
+   "source": "Pharmacology II-4 Q23",
+   "topic": "Hard",
+   "topic_n": 4
+  },
+  {
+   "question": "A 3-year-old boy was rushed to the emergency department with mental confusion, restlessness, incoherence, and hallucinatory behavior. His mother stated that the child had eaten several black berries of a wild plant while playing with friends in the woods. Physical examination revealed mydriasis; dry, hot, and scarlet skin; and a distended abdomen with no bowel sounds. Vital signs were temperature 104.5°F (40.3°C), heart rate 145 bpm, blood pressure 105/60 mm Hg. Which of the following drugs would antagonize most of the symptoms exhibited by the patient?",
+   "choices": [
+    "Neostigmine",
+    "Albuterol",
+    "Prazosin",
+    "Physostigmine",
+    "Epinephrine",
+    "Phenylephrine"
+   ],
+   "answer": 3,
+   "explanation": "The patient's symptoms, signs, and history indicate that he was most likely poisoned by black berries of deadly nightshade (Atropa belladonna), a plant containing antimuscarinic alkaloids (mainly atropine and scopolamine). Antimuscarinic syndrome is due to competitive blockade of muscarinic receptors all over the body. Physostigmine is an anticholinesterase inhibitor that can cross the blood-brain barrier, increasing the availability of acetylcholine both in the central nervous system and in the periphery. Although theoretically a cholinesterase inhibitor would be the ideal therapy for antimuscarinic poisoning, physostigmine can have dangerous central nervous system effects. Therefore, it is used only in patients with dangerous hyperthermia or severe tachycardia, as in this case. A Neostigmine, a quaternary ammonium compound, is a cholinesterase inhibitor that cannot cross the blood-brain barrier and therefore is unable to counteract the central effects of atropine and scopolamine. B, D-F These drugs interact with the adrenergic system and are therefore useless, or even dangerous, in antimuscarinic poisoning.",
+   "source": "Pharmacology II-4 Q24",
+   "topic": "Medium",
+   "topic_n": 11
+  },
+  {
+   "question": "A high dose of nicotine was administered intravenously to dogs in a laboratory experiment. An initial increase in blood pressure was soon followed by a profound decrease of blood pressure. Which of the following molecular mechanisms most likely mediated the decrease in blood pressure?",
+   "choices": [
+    "Long-lasting activation of nicotinic neuronal receptors",
+    "Prevention of acetylcholine release from presynaptic terminals",
+    "Prevention of catecholamine release from chromaffin cells",
+    "Long-lasting blockade of muscarinic M1 receptors",
+    "Long-lasting blockade of muscarinic M2 receptors"
+   ],
+   "answer": 0,
+   "explanation": "Prolonged activation of nicotinic receptors causes a persistent depolarization of the postjunctional cell membrane that prevents the return to the resting state. Because it is the change in the resting potential that triggers the action potential, the depolarized membrane is resistant to further depolarization, and neuronal transmission is blocked (depolarization blockade). Impairment of neuronal transmission in sympathetic ganglia decreases the sympathetic tone, thus causing a decrease in blood pressure. B, C Blockade of ganglionic M2 and M1 receptors would prevent the production of inhibitory postsynaptic potential and early slow excitatory postsynaptic potential. These potentials are not involved in the production of the action potential. D, E Nicotine does not prevent acetylcholine or catecholamine release.",
+   "source": "Pharmacology II-4 Q25",
+   "topic": "Medium",
+   "topic_n": 12
+  },
+  {
+   "question": "A 55-year-old woman presented to a clinic because of a gradual onset of a scratchy sensation on both eyes and extreme dryness of the mouth and lips. Lab tests showed elevated levels of antibodies against gamma globulin. A diagnosis of Sjögren syndrome was made, and a drug was prescribed to relieve the patient's xerostomia. Which of the following drugs was most likely administered?",
+   "choices": [
+    "Acetylcholine",
+    "Donepezil",
+    "Pilocarpine",
+    "Phenylephrine",
+    "Prazosin"
+   ],
+   "answer": 2,
+   "explanation": "Sjögren syndrome is a diffuse connective tissue disease in which lymphocytes infiltrate mucosal and other tissues. Lymphocytic infiltration in salivary glands causes gland atrophy. Saliva diminishes, resulting in extreme dryness of the mouth and lips. If glands are not severely atrophied, pilocarpine can be used to stimulate salivary production. A Acetylcholine is not used for systemic therapy because of its very short duration of action. B-D Phenylephrine, prazosin, and donepezil have little effect on salivary production.",
+   "source": "Pharmacology II-4 Q26",
+   "topic": "Easy",
+   "topic_n": 10
+  },
+  {
+   "question": "A 59-year-old man underwent surgery to remove a colon carcinoma. Three days after surgery, he developed fever (103°F, 39.4°C), abdominal distention, and vomiting. Palpation showed tenderness over the entire abdomen, and auscultation revealed no bowel sounds. Which of the following therapeutic measures would be absolutely contraindicated in this case?",
+   "choices": [
+    "Subcutaneous administration of neostigmine",
+    "Parenteral administration of an antipyretic",
+    "Nasogastric intubation and suction",
+    "Parenteral antibiotic therapy",
+    "Intravenous administration of fluid and electrolytes"
+   ],
+   "answer": 0,
+   "explanation": "The patient's signs and symptoms suggest the diagnosis of adynamic ileus due to intraperitoneal infection (see the high-grade fever). Ileus means paralysis of the gut. When this paralysis is only due to a lack of autonomic neurotransmission (as in most cases of postoperative ileus), a drug such as neostigmine, which increases the levels of acetylcholine, can help to restore the motor activity of the gut. On the other hand, when the paralysis is due to obstruction or inflammation of the gut, cholinergic drugs are absolutely contraindicated, as an increase in gut motility in these conditions can exacerbate the inflammation and lead to perforation of the intestine. A-C, E All of these therapeutic measures are indicated, not contraindicated, in case of ileus due to intraperitoneal infection.",
+   "source": "Pharmacology II-4 Q27",
+   "topic": "Medium",
+   "topic_n": 13
+  },
+  {
+   "question": "A 6-year-old boy, on vacation with his parents in Mexico, was brought unconscious to the emergency department. His parents reported that the boy had eaten an apple bought from a local vendor 2 hours earlier. Physical examination showed that the boy was salivating profusely and was incontinent with regard to both urine and feces. He had pinpoint pupils, moist skin, and shallow respiration. A diagnosis was made, and two appropriate drugs were administered intravenously. Which of the following pairs of drugs were most likely given?",
+   "choices": [
+    "Atropine and pralidoxime",
+    "Pralidoxime and propranolol",
+    "Physostigmine and propranolol",
+    "Atropine and propranolol",
+    "Physostigmine and pralidoxime",
+    "Physostigmine and atropine"
+   ],
+   "answer": 0,
+   "explanation": "The patient's symptoms and signs indicate that he was most likely poisoned by an organophosphate insecticide. The use of these pesticides is now banned or restricted in many countries, but they are still commonly used in underdeveloped countries. The two first-line agents for this poisoning are atropine and a cholinesterase reactivator such as pralidoxime. Atropine is essential to counteract muscarinic effects on the central nervous system, as pralidoxime does not appreciably cross the blood-brain barrier. A-E See correct answer explanation.",
+   "source": "Pharmacology II-4 Q28",
+   "topic": "Medium",
+   "topic_n": 14
+  },
+  {
+   "question": "A 13-year-old boy started smoking his first cigarette. Which of the following effects was most likely elicited by nicotine soon after smoking?",
+   "choices": [
+    "Bronchodilation",
+    "Increased epinephrine secretion from the adrenal medulla",
+    "Dilation of the skin and splanchnic vessels",
+    "Inhibition of gastrointestinal secretions",
+    "Relaxation of the detrusor muscle"
+   ],
+   "answer": 1,
+   "explanation": "By activating nicotinic neuronal receptors, nicotine increases the release of epinephrine from chromaffin cells of the adrenal medulla, which is the only peripheral organ able to synthesize epinephrine. A, B, D, E Nicotine causes effects opposite to those listed.",
+   "source": "Pharmacology II-4 Q29",
+   "topic": "Easy",
+   "topic_n": 11
+  },
+  {
+   "question": "A 12-year-old girl started smoking her first cigarette. A few minutes later, she had two episodes of nausea and vomiting. Activation of receptors located in which of the following sites most likely mediated this adverse effect of nicotine?",
+   "choices": [
+    "Vestibular nuclei",
+    "Locus ceruleus",
+    "Sympathetic ganglia",
+    "Adrenal medulla",
+    "Chemoreceptor trigger zone"
+   ],
+   "answer": 4,
+   "explanation": "Nicotine can directly stimulate the chemoreceptor trigger zone, and this seems to be the main mechanism of nicotine-induced nausea and vomiting. Additional mechanisms involve the afferent stimulation of the vomiting center by sensory receptors present in the tongue and lungs. A, C, D Nicotine can act on these sites, but they are not involved in the mechanism of nausea and vomiting. E Nicotine does not interfere significantly with vestibular function.",
+   "source": "Pharmacology II-4 Q30",
+   "topic": "Easy",
+   "topic_n": 12
+  }
+ ]
+}

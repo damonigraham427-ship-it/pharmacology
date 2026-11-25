@@ -1,0 +1,317 @@
+{
+ "questions": [
+  {
+   "question": "An agonist at a, and imidazoline receptors",
+   "choices": [
+    "Guanfacine",
+    "Dextroamphetamine",
+    "Atomoxetine",
+    "Risperidone",
+    "Desmopressin",
+    "Lisdexamfetamine",
+    "Clonidine",
+    "Aripiprazole",
+    "Methylphenidate",
+    "Bupropion"
+   ],
+   "answer": 6,
+   "explanation": "Matching question; the book prints only the answer key for matching sets (key: D).",
+   "source": "Pharmacology III-11 Q1",
+   "topic": "Easy",
+   "topic_n": 1
+  },
+  {
+   "question": "A partial agonist at central dopaminergic receptors",
+   "choices": [
+    "Clonidine",
+    "Bupropion",
+    "Desmopressin",
+    "Aripiprazole",
+    "Methylphenidate",
+    "Guanfacine",
+    "Dextroamphetamine",
+    "Risperidone",
+    "Atomoxetine",
+    "Lisdexamfetamine"
+   ],
+   "answer": 3,
+   "explanation": "Matching question; the book prints only the answer key for matching sets (key: A).",
+   "source": "Pharmacology III-11 Q2",
+   "topic": "Easy",
+   "topic_n": 2
+  },
+  {
+   "question": "A prodrug that is used to treat attention deficit hyperactivity disorder",
+   "choices": [
+    "Lisdexamfetamine",
+    "Risperidone",
+    "Guanfacine",
+    "Bupropion",
+    "Clonidine",
+    "Atomoxetine",
+    "Desmopressin",
+    "Methylphenidate",
+    "Dextroamphetamine",
+    "Aripiprazole"
+   ],
+   "answer": 0,
+   "explanation": "Matching question; the book prints only the answer key for matching sets (key: I).",
+   "source": "Pharmacology III-11 Q3",
+   "topic": "Easy",
+   "topic_n": 3
+  },
+  {
+   "question": "An 8-year-old boy recently diagnosed with attention deficit hyperactivity disorder (ADHD) started a treatment with methylphenidate. Which of the following neural pathways most likely represent the main site of therapeutic action of the drug in this child?",
+   "choices": [
+    "Spinothalamic",
+    "Tuberoinfundibular",
+    "Mesocortical",
+    "Si B. Mesolimbic : iatal"
+   ],
+   "answer": 2,
+   "explanation": "Attention deficit hyperactivity disorder (ADHD) is associated with alterations in regulation of motor behavior and attention. The prefrontal cortex (PFC) is important for sustaining attention over a delay, inhibiting distractions, and dividing attention. The PFC in the right hemisphere is especially important for behavioral inhibition. Lesions to the PFC produce a profile of distractibility, forgetfulness, impulsivity, poor planning, and locomotor hyperactivity. The PFC is very sensitive to its neurochemical environment, and optimal levels of norepinephrine and dopamine are needed for proper PFC control of behavior and attention. Recent electrophysiological studies in animals suggest that norepinephrine enhances “signals” through postsynaptic a,, adrenoceptors in the PFC, whereas dopamine decreases “noise” through modest levels of D, receptor stimulation. Stimulant medications such as methylphenidate and amphetamines most likely cause some of their therapeutic effects by increasing endogenous activation of a,, adrenoceptors and dopamine D, receptors in the PFC, optimizing PFC regulation of behavior and attention. A, B, D, E See correct answer explanation.",
+   "source": "Pharmacology III-11 Q4",
+   "topic": "Easy",
+   "topic_n": 4
+  },
+  {
+   "question": "A7-year-old boy was taken to the hospital by his mother for a scheduled checkup. The boy, recently diagnosed with attention deficit hyperactivity disorder (ADHD), had started an appropriate pharmacotherapy 2 weeks earlier. The mother reported that the child was able to focus better and was less hyperactive and less impulsive. However, she was concerned because her son frequently exhibited eye blinking, grimacing, and twitching. The physician said that these abnormal movements could be related to the child’s therapy. Which of the following drugs might have caused these adverse effects?",
+   "choices": [
+    "Fluphenazine",
+    "Ethosuximide",
+    "Methylphenidate",
+    "Paroxetine",
+    "Atomoxetine"
+   ],
+   "answer": 2,
+   "explanation": "The mother’s report indicated that the child was most likely affected by a tic disorder, which is fairly common in childhood. In some cases the disorder appears to be caused or worsened by prescription medications. The drugs most commonly involved are psychomotor stimulants, such as methylphenidate and amphetamines. Because the child was most likely under methylphenidate therapy, the drug probably caused his tic disorder. A Fluphenazine can cause tics and dystonias, but the drug is not used for attention deficit hyperactivity disorder (ADHD). C Atomoxetine is approved for ADHD, but the appearance of tics with this drug is exceedingly rare. D, E These drugs are not used in ADHD.",
+   "source": "Pharmacology III-11 Q5",
+   "topic": "Easy",
+   "topic_n": 5
+  },
+  {
+   "question": "A 6-year-old boy was in his family physician’s office for a scheduled visit. The boy, recently diagnosed with attention deficit hyperactivity disorder (ADHD), had started an appropriate pharmacotherapy 1 week earlier. Vital signs were blood pressure 155/88 mm Hg, heart rate 85 bpm, respirations 16/ min. Which of the following drugs most likely caused the patient's high blood pressure?",
+   "choices": [
+    "Norepinephrine",
+    "Clonidine",
+    "Atomoxetine",
+    "Phenylephrine",
+    "Guanfacine"
+   ],
+   "answer": 2,
+   "explanation": "Atomoxetine is an antidepressant drug approved for the treatment of attention deficit hyperactivity disorder (ADHD). The drug selectively inhibits norepinephrine reuptake in noradrenergic terminals; this mechanism most likely underlies the increase in blood pressure, which occurs in about 10% of patients treated with the drug, especially during the first days of therapy. B, C Norepinephrine phenylephrine can increase blood pressure but they are not used to treat ADHD. D, E Guanfacine and clonidine are used to treat ADHD but are also used as antihypertensive agents.",
+   "source": "Pharmacology III-11 Q6",
+   "topic": "Easy",
+   "topic_n": 6
+  },
+  {
+   "question": "A 24-year-old woman who had been suffering frorn depression for 3 years was recently diagnosed with attention deficit hyperactivity disorder (ADHD). Which of the following pairs of drugs would be appropriate for this patient?",
+   "choices": [
+    "Bupropion and haloperidol",
+    "P E. Guanfacine and lorazepam",
+    "Dextroamphetamine and diazepam",
+    "Atomoxetine and fluphenazine",
+    "Methylphenidate and sertraline"
+   ],
+   "answer": 4,
+   "explanation": "7. BADHD and depression frequently occur together. When this is the case, a combined therapy with two drugs can be appropriate. Methylphenidate is a commonly used drug for ADHD, and sertraline is a selective serotonin reuptake inhibitor antidepressant drug. A, C-E None of these options have a drug that is appropriate for use as an antidepressant.",
+   "source": "Pharmacology III-11 Q7",
+   "topic": "Medium",
+   "topic_n": 1
+  },
+  {
+   "question": "A 12-year-old girl suffering from attention deficit hyperactivity disorder (ADHD) was treated in the past with different drugs with little success. The physician decided to try another drug that is a selective inhibitor of norepinephrine reuptake. Which of the following drugs was most likely prescribed?",
+   "choices": [
+    "Methylphenidate",
+    "Dre excrne",
+    "Cocaine",
+    "Bupropion"
+   ],
+   "answer": 1,
+   "explanation": "Although the precise mechanism by which atomoxetine produces beneficial effects in ADHD is still uncertain, it is thought that the drug exerts its effects through selective inhibition of norepinephrine reuptake in noradrenergic terminals. The drug-binding sites in the brain are consistent with the known distribution of norepinephrine-containing neurons. It is hypothesized that the atomoxetine-induced increase in norepinephrine in the prefrontal cortex, a region involved in attention and memory, mediates the therapeutic effect of atomoxetine in ADHD. A, C, E Cocaine, atomoxetine, and bupropion are nonselective inhibitors of catecholamine transporters. D Dextroamphetamine acts by increasing catecholamine release from adrenergic terminals.",
+   "source": "Pharmacology III-11 Q8",
+   "topic": "Easy",
+   "topic_n": 7
+  },
+  {
+   "question": "An 8-year-old boy was brought to his pediatrician with complaints of repeated head jerking, blinking, and grimacing for the past 2 months. The boy had never had a tic-free period for more than a few days and recently had started making grunting noises and saying obscenities. Which of the following drugs would be useful to treat the patient’s condition? lh Fluoxetine",
+   "choices": [
+    "Lithium",
+    "Naltrexone",
+    "Clonazepam",
+    "Aripiprazole",
+    "Imipramine"
+   ],
+   "answer": 2,
+   "explanation": "The patient’s symptoms suggest that the boy is affected by Tourette syndrome, a chronic familial disorder characterized by motor and phonic tics. The syndrome usually appears at about the age of 5 and occurs in 1 out of 1000 males and 1 out of 10,000 females. Tics are sudden, involuntary movements or sounds that can be suppressed voluntarily with difficulty and are often accompanied with coprolalia (foul language). Prognosis is generally good, as the syndrome usually disappears in adulthood, but some cases can persist later in life. Expert consensus recommends a trial with atypical neuroleptics before considering haloperidol, which is approved by the U.S. Food and Drug Administration, because of established efficacy and lower risk of extrapyramidal side effects. Unlike other atypical neuroleptics, aripiprazole does not cause weight gain. Because potential obesity is a problem in children, the drug can be a good choice for this age group. Other drugs approved for Tourette syndrome are clonidine and guanfacine. A, CF These drugs are ineffective in treating Tourette syndrome.",
+   "source": "Pharmacology III-11 Q9",
+   "topic": "Medium",
+   "topic_n": 2
+  },
+  {
+   "question": "A 10-year-old boy recently diagnosed with attention deficit hyperactivity disorder (ADHD) started a treatment with dextroamphetamine. The therapy significantly improved the disease, but the parents were concerned because the boy was never hungry. Which of the following was most likely a site of this anorectic action of amphetamines?",
+   "choices": [
+    "Putamen",
+    "Lateral hypothalamus",
+    "Amygdala 2 a Locus ceruleus",
+    "Temporal cortex",
+    "Ventrolateral medulla"
+   ],
+   "answer": 1,
+   "explanation": "Amphetamines are thought to suppress appetite by increasing norepinephrine and serotonin release in the lateral hypothalamus. This increase can interfere with several peptides that increase food intake by activating the feeding center (neuropeptide Y, orexins A and B, etc.). A-C, E, F See correct answer explanation.",
+   "source": "Pharmacology III-11 Q10",
+   "topic": "Easy",
+   "topic_n": 8
+  },
+  {
+   "question": "A 23-year-old woman presented to her physician complaining that she felt fearful, helpless, and worried almost continuously during the day. She also had difficulty organizing her thoughts and claimed that cognitive concepts were exceedingly difficult to grasp. Past history of the patient indicated that she was a difficult child to manage and often impulsive and unproductive in school. She started smoking at the age of 12 and now smoked two packs of cigarettes daily. She tried to quit smoking several times with no success. The physician suggested trying a drug that was effective in treating both depressive and attention deficit disorders, as well as in smoking cessation. Which of the following drugs was most likely prescribed?",
+   "choices": [
+    "Bupropion",
+    "Paroxetine",
+    "Guanfacine we Amitriptyline",
+    "Methylphenidate"
+   ],
+   "answer": 0,
+   "explanation": "Bupropion is an antidepressant that was also found to be effective in treating attention deficit hyperactivity disorder (ADHD) and is approved as an adjunct in the management of smoking cessation. Because the patient has symptoms of both depression and ADHD and wants to quit smoking, bupropion can be an appropriate drug. A, D Methylphenidate and guanfacine are effective in ADHD but are not antidepressants. B, E The antidepressants paroxetine and amitriptyline are not effective in ADHD.",
+   "source": "Pharmacology III-11 Q11",
+   "topic": "Medium",
+   "topic_n": 3
+  },
+  {
+   "question": "A 7-year-old boy was brought by his mother to his family pediatrician because he still wet the bed. The boy achieved daytime bladder control by 3 years of age but wet his bed once or twice a week. A conditioning therapy with the aid of a bell and pad alarm, started 2 weeks previously, was only partially effective. The pediatrician ordered a drug to be given by nasal spray. Which of the following drugs was most likely prescribed?",
+   "choices": [
+    "Haloperidol",
+    "Clonidine",
+    "Atropine",
+    "Desmopressin",
+    "Imipramine",
+    "Fluoxetine"
+   ],
+   "answer": 3,
+   "explanation": "Desmopressin acetate, a synthetic analogue of the natural human antidiuretic hormone arginine vasopressin, is approved as nasal spray and oral tablet for the treatment of nocturnal enuresis. Some studies have shown that some patients with enuresis do not have a normal circadian rhythm of vasopressin secretion and as a result produce a large amount of urine during the night. Desmopressin increases renal water reabsorption, thus reducing the volume of urine entering the bladder. It is effective in reducing the number of wet nights in 70% of children. B Imipramine was used in the past with some success in nocturnal enuresis, even though its mechanism of action in this disorder remains unknown. However, the drug has several disadvantages (relapse is high, overdose toxicity can be lethal, etc.) and is therefore rarely prescribed today. Moreover, it is not available by nasal spray. C Some anticholinergics were used in the past for nocturnal enuresis, but they have a vast array of adverse effects, and their efficacy is minimal. D-F These drugs are not effective in nocturnal enuresis.",
+   "source": "Pharmacology III-11 Q12",
+   "topic": "Medium",
+   "topic_n": 4
+  },
+  {
+   "question": "A 7-year-old boy was referred for psychiatric evaluation because he was unable to sit still in school for more than 1 minute at a time. During story time, he interrupted, wandered around the classroom, or poked his neighbors. After the psychiatric evaluation, a diagnosis was made, and a drug was prescribed that acts by increasing catecholamine release in the central nervous system. Which of the following drugs was most likely prescribed?",
+   "choices": [
+    "Methylphenidate",
+    "Cocaine",
+    "Dextroamphetamine",
+    "Guanfacine",
+    "Bupropion"
+   ],
+   "answer": 2,
+   "explanation": "The symptoms and signs of the patient suggest that he was affected by attention deficit hyperactivity disorder (ADHD). Dysregulation of central noradrenergic and dopaminergic networks has long been hypothesized as underlying the pathophysiology of ADHD. This hypothesis derives largely from pharmacological data documenting that drugs that modulate noradrenergic and dopaminergic function are effective in treating ADHD. Amphetamines increase the availability of catecholamines in the synaptic cleft mainly because they stimulate the release of catecholamines from adrenergic terminals. A, C, E These drugs act by blocking the reuptake of catecholamines into adrenergic terminals. D Guanfacine activates centrally acting «,-adrenoceptors.",
+   "source": "Pharmacology III-11 Q13",
+   "topic": "Medium",
+   "topic_n": 5
+  },
+  {
+   "question": "A 24-year-old man recently diagnosed with attention deficit hyperactivity disorder (ADHD) started behavioral therapy and treatment with methylphenidate. Which of the following adverse effects was the patient most likely to experience during the first week of therapy?",
+   "choices": [
+    "Insomnia",
+    "Hallucinations",
+    "Seizures",
+    "Increased appetite",
+    "Growth suppression"
+   ],
+   "answer": 0,
+   "explanation": "Nervousness and insomnia are the most common adverse reactions to methylphenidate and may occur with all formulations. Insomnia occurs in up to 16% of adult patients but typically resolves within a few days of use, provided the dosage is appropriate and doses are not administered within 6 hours of bedtime. Insomnia is most likely related to the drug-induced increase in norepinephrine and dopamine availability, which causes a stimulation of the brainstem arousal system. A Adrenergic drugs actually cause decreased, not increased, appetite. B Methylphenidate-induced growth suppression has been reported in children (even if the issue is controversial) but cannot occur in an adult patient. C Methylphenidate has the potential to lower the seizure threshold mainly in patients with a prior history of seizures. However, seizures are exceptionally rare in nonepileptic patients. E Hallucinations and delusions can occur with methylphenidate, but their frequency is low (less than 0.1%).",
+   "source": "Pharmacology III-11 Q14",
+   "topic": "Easy",
+   "topic_n": 9
+  },
+  {
+   "question": "A 12-year-old boy was referred to a psychiatrist because he recently became very irritable and would hit his head on a wall or furniture if the room was too noisy. The boy lived in a group home and attended a special school program for adolescents with developmental disabilities. He preferred tasks that allowed him to be alone and was described as a distant child who would not participate in group activities. Although he had superior ability in mathematics, he tested in the medium range of mental retardation. The boy had been diagnosed as autistic at age 4. The psychiatrist prescribed a drug to decrease irritability and self-injurious behavior. Which of the following drugs was most likely appropriately prescribed?",
+   "choices": [
+    "Methylphenidate",
+    "Clonidine",
+    "Risperidone",
+    "Fluoxetine",
+    "Atomoxetine",
+    "Bupropion"
+   ],
+   "answer": 2,
+   "explanation": "There is no specific treatment or cure for autism, but pharmacological treatment, behavioral therapy, and special education can improve some symptoms. Antipsychotic medications have been used widely and appear to be effective in reducing stereotypies, irritability, and self-injurious behavior. Atypical neuroleptics seem to offer some advantage over classical ones, and aripiprazole and risperidone are approved by the U.S. Food and Drug Administration for treating irritability in autistic children. A, C-F All of these drugs are useless or even contraindicated in autistic disorder.",
+   "source": "Pharmacology III-11 Q15",
+   "topic": "Medium",
+   "topic_n": 6
+  },
+  {
+   "question": "An 11-year-old girl recently diagnosed with attention deficit hyperactivity disorder (ADHD) started treatment with methylphenidate. Which of the following molecular actions on central adrenergic neurons most likely mediated the therapeutic effect of the drug in the patient’s disease?",
+   "choices": [
+    "Activation of glutamate receptors SE Pe Cos Blockade of gamma-aminobutyric acid (GABA) receptors",
+    "Blockade of dopamine reuptake",
+    "Blockade of serotonergic receptors",
+    "Stimulation of norepinephrine metabolism"
+   ],
+   "answer": 1,
+   "explanation": "Methylphenidate exerts many of its effects through blockade of dopamine uptake by central adrenergic neurons. As a result, sympathomimetic activity in the central nervous system (CNS) is increased. The main sites of CNS activity appear to be the brainstem arousal system and the cerebral cortex. B-E Methylphenidate does not elicit these effects.",
+   "source": "Pharmacology III-11 Q16",
+   "topic": "Easy",
+   "topic_n": 10
+  },
+  {
+   "question": "A 15-year-old girl was recently diagnosed with attention deficit hyperactivity disorder (ADHD). Her physician was concerned about the abuse potential of drugs used for this disorder, as the girl admitted smoking marijuana occasionally with her friends. Which of the following drugs would be most appropriate for this patient?",
+   "choices": [
+    "Paroxetine",
+    "Alprazolam",
+    "Methylphenidate",
+    "Dextroamphetamine",
+    "Atomoxetine we PS Aripiprazole"
+   ],
+   "answer": 4,
+   "explanation": "Atomoxetine is a drug approved for the treatment of ADHD. The drug is not a psychostimulant and lacks abuse potential. It is therefore suitable for patients at risk of drug abuse. A, C These drugs are psychostimulants with a high abuse potential. B, D, F These drugs are not used for treating ADHD.",
+   "source": "Pharmacology III-11 Q17",
+   "topic": "Easy",
+   "topic_n": 11
+  },
+  {
+   "question": "An8-year-old girl was in her physician's office for a follow-up visit regarding her attention deficit hyperactivity disorder (ADHD). She had been treated with two different drugs over the past 6 weeks with little success. The physician decided to stop the ongoing therapy and to start a drug that acts as a central a,-receptor agonist. Which of the following drugs was most likely prescribed?",
+   "choices": [
+    "Bupropion",
+    "Methylphenidate",
+    "Epinephrine",
+    "Dextroamphetamine",
+    "Guanfacine"
+   ],
+   "answer": 4,
+   "explanation": "Guanfacine is an oral, centrally acting «,-adrenoceptor agonist approved for the treatment of hypertension and attention deficit hyperactivity disorder (ADHD). It has been theorized that ADHD is the result of dysfunction in frontostriatal pathways, possibly related to dysregulation of neurotransmitters such as catecholamines. Frontal networks control attention and motor intentional behavior. Animal studies have demonstrated that guanfacine improves prefrontal cortical function through postsynaptic a,-receptor agonist effects in the prefrontal cortex. A, B, D These drugs are not «,-adrenoceptor agonists. E Epinephrine is an a,-receptor agonist but does not cross the blood-brain barrier and is not used to treat ADHD.",
+   "source": "Pharmacology III-11 Q18",
+   "topic": "Medium",
+   "topic_n": 7
+  },
+  {
+   "question": "A6-year-old girl had difficulty sustaining attention in activities at school and at home. She failed to pay close attention to teachers and often made careless mistakes in schoolwork. She repeatedly exhibited hyperactivity and impulsivity. She has had these symptoms since starting kindergarten last year. A treatment with guanfacine was started. Which of the following adverse effects did the patient most likely experience during the first days of therapy?",
+   "choices": [
+    "Increased appetite",
+    "Hypotension",
+    "Salivation",
+    "Anhidrosis",
+    "Aggressive behavior"
+   ],
+   "answer": 1,
+   "explanation": "Guanfacine is an a, selective agonist. It is approved for the therapy of attention deficit hyperactivity disorder (ADHD) antihypertensive action and hypertension. Its mechanism of is close to that of clonidine. Hypotension and palpitations are the most frequently reported cardiovascular adverse effects of the drug. These tend to diminish or subside with continued therapy or with reduced dosage. B Guanfacine tends to cause anorexia. C Dry mouth, not salivation, is a frequent adverse effect of the drug. D Aggressive behavior can occur very rarely in some children with risk factor for bipolar disease. E Sweating, not anhidrosis, is a reported adverse effect of the drug.",
+   "source": "Pharmacology III-11 Q19",
+   "topic": "Easy",
+   "topic_n": 12
+  },
+  {
+   "question": "An 8-year-old boy who had been suffering from Tourette syndrome for 1 year was recently diagnosed with attention deficit hyperactivity disorder. Which of the following drugs would be appropriate to treat both disorders?",
+   "choices": [
+    "Dextroamphetamine",
+    "Haloperidol",
+    "Clonidine",
+    "Methylphenidate",
+    "Risperidone"
+   ],
+   "answer": 2,
+   "explanation": "Over 90% of children with Tourette syndrome have coexisting conditions, such as ADHD (75%), mood disorders (60%), obsessive-compulsive disorder (40%), other anxiety disorders, or a combination of comorbidities. Clonidine is extensively used and approved by the USS. Food and Drug Administration for the treatment of Tourette syndrome; it has been recently approved for the treatment of ADHD. The drug is an «,-receptor agonist, and this mechanism of action likely mediates its therapeutic efficacy in both disorders. A, C The psychostimulants methylphenidate and dextroamphetamine are currently used in ADHD, but their use in Tourette syndrome is controversial, as they can exacerbate tics. D, E Haloperidol and risperidone have been used in Tourette syndrome with various success, but they are ineffective in ADHD.",
+   "source": "Pharmacology III-11 Q20",
+   "topic": "Medium",
+   "topic_n": 8
+  }
+ ]
+}

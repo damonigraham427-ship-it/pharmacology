@@ -1,0 +1,540 @@
+{
+ "questions": [
+  {
+   "question": "An adrenocorticotropic hormone (ACTH) analogue",
+   "choices": [
+    "Leuprolide",
+    "Follitropin alfa",
+    "Somatropin",
+    "Desmopressin",
+    "Pegvisomant",
+    "Cosyntropin",
+    "Cabergoline",
+    "Octreotide",
+    "Degarelix",
+    "Chorionic gonadotropin",
+    "Oxytocin"
+   ],
+   "answer": 5,
+   "explanation": "Matching item. The printed answer key gives C — Cosyntropin.",
+   "source": "Pharmacology V-1 Q1",
+   "topic": "Easy",
+   "topic_n": 1
+  },
+  {
+   "question": "A recombinant follicle-stimulating hormone (FSH) analogue",
+   "choices": [
+    "Chorionic gonadotropin",
+    "Leuprolide",
+    "Pegvisomant",
+    "Somatropin",
+    "Cabergoline",
+    "Follitropin alfa",
+    "Desmopressin",
+    "Oxytocin",
+    "Octreotide",
+    "Cosyntropin",
+    "Degarelix"
+   ],
+   "answer": 5,
+   "explanation": "Matching item. The printed answer key gives F — Follitropin alfa.",
+   "source": "Pharmacology V-1 Q2",
+   "topic": "Easy",
+   "topic_n": 2
+  },
+  {
+   "question": "A somatropin receptor antagonist",
+   "choices": [
+    "Desmopressin",
+    "Follitropin alfa",
+    "Oxytocin",
+    "Somatropin",
+    "Octreotide",
+    "Leuprolide",
+    "Pegvisomant",
+    "Degarelix",
+    "Cosyntropin",
+    "Chorionic gonadotropin",
+    "Cabergoline"
+   ],
+   "answer": 6,
+   "explanation": "Matching item. The printed answer key gives J — Pegvisomant.",
+   "source": "Pharmacology V-1 Q3",
+   "topic": "Easy",
+   "topic_n": 3
+  },
+  {
+   "question": "A somatostatin analogue",
+   "choices": [
+    "Cosyntropin",
+    "Leuprolide",
+    "Follitropin alfa",
+    "Oxytocin",
+    "Degarelix",
+    "Somatropin",
+    "Chorionic gonadotropin",
+    "Cabergoline",
+    "Desmopressin",
+    "Pegvisomant",
+    "Octreotide"
+   ],
+   "answer": 10,
+   "explanation": "Matching item. The printed answer key gives H — Octreotide.",
+   "source": "Pharmacology V-1 Q4",
+   "topic": "Easy",
+   "topic_n": 4
+  },
+  {
+   "question": "A gonadotropin-releasing hormone (GnRH) analogue",
+   "choices": [
+    "Chorionic gonadotropin",
+    "Leuprolide",
+    "Desmopressin",
+    "Somatropin",
+    "Cabergoline",
+    "Cosyntropin",
+    "Octreotide",
+    "Pegvisomant",
+    "Degarelix",
+    "Oxytocin",
+    "Follitropin alfa"
+   ],
+   "answer": 1,
+   "explanation": "Matching item. The printed answer key gives G — Leuprolide.",
+   "source": "Pharmacology V-1 Q5",
+   "topic": "Easy",
+   "topic_n": 5
+  },
+  {
+   "question": "A drug with luteinizing hormone (LH) activity",
+   "choices": [
+    "Desmopressin",
+    "Cosyntropin",
+    "Pegvisomant",
+    "Degarelix",
+    "Follitropin alfa",
+    "Octreotide",
+    "Somatropin",
+    "Leuprolide",
+    "Oxytocin",
+    "Chorionic gonadotropin",
+    "Cabergoline"
+   ],
+   "answer": 9,
+   "explanation": "Matching item. The printed answer key gives B — Chorionic gonadotropin.",
+   "source": "Pharmacology V-1 Q6",
+   "topic": "Easy",
+   "topic_n": 6
+  },
+  {
+   "question": "A 27-year-old primipara woman was admitted to the obstetrical unit for labor induction because of a postdate pregnancy. An intravenous infusion of oxytocin was started. Activation of which of the following signaling pathways most likely mediates the therapeutic efficacy of this drug?",
+   "choices": [
+    "Gene transcription",
+    "Cyclic adenosine monophosphate (cAMP) synthesis",
+    "Tyrosine residue phosphorylation",
+    "Phosphoinositide hydrolysis",
+    "Cyclic guanosine monophosphate (cGMP) synthesis"
+   ],
+   "answer": 3,
+   "explanation": "Oxytocin causes sustained contraction of uterine smooth muscle. Because calcium is needed to contract muscle cells, the activated signaling pathway must lead to increased intracellular calcium. This is brought about by a receptor-mediated activation of phospholipase C that splits by hydrolysis the phosphatidylinositol 4,5-bisphosphate into two second messengers, inositol triphosphate (IP3) and diacylglycerol (DAG). IP3 triggers the release of calcium from storage vesicles, whereas DAG activates protein kinase C, an enzyme with a vast array of physiological effects, including smooth muscle contraction. A, C-E Although the activation of these signaling pathways can in some cases cause increased intracellular calcium, the activation of the phosphoinositide pathway remains the most important trigger for intracellular calcium increase in smooth muscle cells.",
+   "source": "Pharmacology V-1 Q7",
+   "topic": "Easy",
+   "topic_n": 7
+  },
+  {
+   "question": "A 37-year-old man recently diagnosed with acromegaly started a treatment with octreotide. Which of the following cells most likely represent the main site of action of the drug in this patient?",
+   "choices": [
+    "Supraoptic neurons",
+    "Pituitary somatotrophs",
+    "Pituitary thyrotrophs",
+    "Ventromedial neurons",
+    "Paraventricular neurons"
+   ],
+   "answer": 1,
+   "explanation": "Octreotide is a somatostatin analogue that acts by activating receptors located in several organs, including the pituitary, pancreas, and gastrointestinal tract, and some types of tumors. In this patient, octreotide activates receptors located on somatotroph cells of the pituitary. This activation decreases the release of growth hormone, thus improving the patient's signs and symptoms. A, D, E See correct answer explanation. C Somatostatin receptors are also located on these cells, and their activation can inhibit the secretion of thyrotropin, but this inhibition is not the reason for the therapeutic effect of the drug in this patient.",
+   "source": "Pharmacology V-1 Q8",
+   "topic": "Easy",
+   "topic_n": 8
+  },
+  {
+   "question": "A 33-year-old woman who had been unable to conceive a baby for 3 years started a controlled ovarian hyperstimulation treatment for in vitro fertilization. Which of the following drugs was most likely administered daily to suppress the luteinizing hormone surge that could prematurely trigger ovulation?",
+   "choices": [
+    "Somatropin",
+    "Leuprolide",
+    "Cosyntropin",
+    "Testosterone",
+    "Octreotide"
+   ],
+   "answer": 1,
+   "explanation": "Controlled ovarian hyperstimulation is used to stimulate the development of multiple ovarian follicles during a single cycle, resulting in the release of a larger than normal number of eggs that can be used for in vitro fertilization. In most cases, follicle-stimulating hormone (FSH) preparation is administered for 7 to 12 days, starting the third day after menstruation. Spontaneous ovulation during the cycle is typically prevented by daily subcutaneous injection of leuprolide or daily nasal application of nafarelin. A, B, D, E See correct answer explanation.",
+   "source": "Pharmacology V-1 Q9",
+   "topic": "Medium",
+   "topic_n": 1
+  },
+  {
+   "question": "A 34-year-old woman complained to her gynecologist of severe pelvic pain during both menstrual and nonmenstrual days. The woman, diagnosed with endometriosis 1 year earlier, had good pain relief after surgical ablation of endometriotic lesions, but her symptoms had returned. Her gynecologist prescribed a cycle of therapy with leuprolide. Which of the following adverse effects would be expected to occur during the therapy?",
+   "choices": [
+    "Galactorrhea",
+    "Menorrhagia",
+    "Hot flushes",
+    "Venous thrombosis",
+    "Vaginal infections"
+   ],
+   "answer": 2,
+   "explanation": "Pharmacologic therapy and surgery are both effective in relieving most symptoms of endometriosis. Oral contraceptives or nonsteroidal anti-inflammatory drugs are recommended as first-line therapy, but gonadotropin-releasing hormone (GnRH) agonists can be employed in women for whom the first-line agents are inadequate. Leuprolide, goserelin, and nafarelin are GnRH agonists approved by the U.S. Food and Drug Administration for this purpose. Continuous administration of these drugs inhibits the release of follicle-stimulating hormone (FSH) and luteinizing hormone (LH) from the pituitary, resulting in a hypoestrogenic state. Adverse effects of the GnRH therapy are similar to those of menopause, and hot flushes are very common (more than 80% with leuprolide). A-C, E These are all adverse effects of estrogens. Therefore, they are unlikely in a hypoestrogenic patient.",
+   "source": "Pharmacology V-1 Q10",
+   "topic": "Easy",
+   "topic_n": 9
+  },
+  {
+   "question": "A 54-year-old woman complained to her physician of an uncomfortable flushing for the past few days. Further exams led to the diagnosis of carcinoid syndrome due to primary carcinoid tumor of the lung, and the patient was scheduled for surgery. Which of the following drugs would be appropriate to control the patient's symptoms and to prevent a surgery-induced carcinoid crisis?",
+   "choices": [
+    "Prolactin",
+    "Octreotide",
+    "Desmopressin",
+    "Somatropin",
+    "Leuprolide"
+   ],
+   "answer": 1,
+   "explanation": "Carcinoid syndrome develops in some people with endocrinologically active malignant tumors that develop from enterochromaffin cells located mostly in the ileum, and (rarely) in other organs. Carcinoid syndrome is characterized by cutaneous flushing, abdominal cramps, and diarrhea. Flushing is the most common and often the earliest sign, occurring in more than 90% of patients. The syndrome results from vasoactive substances, including serotonin, bradykinin, histamine, and prostaglandins, secreted by the tumor. Resection of primary lung carcinoid is often curative. Somatostatin can reduce symptoms caused by a variety of hormone-secreting tumors, and octreotide, a long-acting somatostatin analogue, is a first-line agent to control flushing in carcinoid syndrome. Octreotide given before surgery is also the best drug to avoid carcinoid crisis, a dangerous condition that can occur during surgery, likely due to manipulation of the tumor. It is characterized by a profound drop in blood pressure, causing shock, sometimes accompanied by prolonged severe flushing, bronchospasm, and hemodynamic instability. A-C, E See correct answer explanation.",
+   "source": "Pharmacology V-1 Q11",
+   "topic": "Medium",
+   "topic_n": 2
+  },
+  {
+   "question": "A 64-year-old woman was found to have high serum levels of insulin-like growth factor 1 (IGF-1) during a regular clinic visit. Her medical history was significant for atrial fibrillation presently controlled with a pacemaker and for a pituitary adenoma diagnosed 8 months ago. Because radiation therapy was contraindicated, the patient had been receiving octreotide since then. Which of the following drugs would be appropriate to add to the patient's therapy at this time?",
+   "choices": [
+    "Cabergoline",
+    "Mecasermin",
+    "Degarelix",
+    "Cosyntropin",
+    "Leuprolide"
+   ],
+   "answer": 0,
+   "explanation": "The woman was most likely suffering from acromegaly, as high serum levels of insulin-like growth factor 1 (IGF-1) are highly specific for acromegaly and correlate with clinical indexes of disease activity. Radiation therapy was contraindicated in this patient because modern pacemakers using metal oxide conductors are sensitive to radiation. Dopamine D2 agonists such as cabergoline have been shown to reduce IGF-1 and growth hormone levels in about 50% of patients with acromegaly, when given alone, even in patients with normal prolactin levels. Moreover, they enhance the action of somatostatin analogues such as octreotide. Therefore, they are often added when octreotide alone is not fully effective, as in this case (see high levels of IGF-1). The reason for the effectiveness of D2 agonists in acromegaly is still uncertain, but it is notable that dopamine appears to inhibit growth hormone-releasing hormone (GH-RH) release, and also that of the anterior pituitary hormones, growth hormone is most similar to prolactin. A-C, E See correct answer explanation.",
+   "source": "Pharmacology V-1 Q12",
+   "topic": "Easy",
+   "topic_n": 10
+  },
+  {
+   "question": "A 52-year-old woman presented to the hospital with a 3-week history of fatigue, cold intolerance, and constipation. Physical examination showed a patient with coarse, dry, scaly skin, eyelid drop, a puffy face, and a large tongue. Pertinent serum values on admission were free thyroxine (FT4) 0.2 ng/dL (normal 0.4-2 ng/dL), thyroid-stimulating hormone (TSH) 0.3 µIU/mL (normal 0.5-4.7). An intravenous injection of thyrotropin-releasing hormone (TRH) was given to better clarify the diagnosis. Serum TSH levels measured soon after the injection showed a significant increase in TSH. Which of the following was most likely the cause of the patient's syndrome?",
+   "choices": [
+    "Hashimoto thyroiditis",
+    "Hypothalamic dysfunction",
+    "Papillary thyroid carcinoma",
+    "Graves disease",
+    "Pituitary dysfunction"
+   ],
+   "answer": 1,
+   "explanation": "The signs and symptoms of the patient suggest she was affected by hypothyroidism, which is confirmed by the low free thyroxine (FT4) serum levels. The fact that thyroid-stimulating hormone (TSH) was low suggests that hypothyroidism was not primary (i.e., due to failure of the thyroid itself) but secondary (i.e., due to pituitary failure) or tertiary (i.e., due to hypothalamic failure). A thyrotropin-releasing hormone (TRH) test can be useful to clarify the diagnosis, although it is not often done. After TRH challenge, TSH will be increased if the source is hypothalamic failure, whereas it will not be increased in pituitary failure. A, C These diseases would cause primary hypothyroidism, as the thyroid itself cannot synthesize thyroid hormones. D Graves disease causes hyperthyroidism, not hypothyroidism. E See correct answer explanation.",
+   "source": "Pharmacology V-1 Q13",
+   "topic": "Medium",
+   "topic_n": 3
+  },
+  {
+   "question": "A 45-year-old woman was seen at the clinic because of episodic weakness, paresthesias, and constipation for the past week. Vital signs were blood pressure 100/55 mm Hg, pulse 95 bpm, respirations 16/min. Physical examination revealed increased pigmentation, especially on skinfolds and extensor surfaces. Bluish black discoloration of the areolae and mucous membranes was also noted. Significant serum levels on admission were Na+ 122 mEq/L (normal 136-145 mEq/L), K+ 6.2 mEq/L (normal 3.5-5.5 mEq/L), fasting glucose 58 mg/dL (normal 70-110 mg/dL), blood urea nitrogen (BUN) 34 mg/dL (normal 7-18 mg/dL). The serum level of a hormone was measured before and after the intravenous injection of a test drug to confirm the diagnosis. Which of the following test drugs was most likely administered?",
+   "choices": [
+    "Somatostatin",
+    "Somatropin",
+    "Mecasermin",
+    "Octreotide",
+    "Adrenocorticotropic hormone (ACTH)",
+    "Leuprolide"
+   ],
+   "answer": 4,
+   "explanation": "The signs and symptoms of the patient suggest the diagnosis of Addison disease, which in the United States is mainly due to idiopathic atrophy of the adrenal cortex, probably caused by autoimmune processes. ACTH is currently used to establish the diagnosis by demonstrating failure to increase serum cortisol levels upon administration of the hormone. A, B, D-F See correct answer explanation.",
+   "source": "Pharmacology V-1 Q14",
+   "topic": "Hard",
+   "topic_n": 1
+  },
+  {
+   "question": "A 50-year-old man was admitted to the hospital because of two episodes of hematochezia and hematemesis of dark red blood over a 7-hour period. Past history of the patient was significant for alcoholism for 12 years. Physical examination showed a somnolent but easily arousable man with subicteric skin. The abdomen was mildly distended with a 10-cm liver span. Small fluid waves were present. An esophagoscopy was ordered, and a drug was given by continuous infusion after an intravenous loading dose. Which of the following drugs was most likely administered?",
+   "choices": [
+    "Vasopressin",
+    "Adrenaline",
+    "Prazosin",
+    "Nifedipine",
+    "Albuterol"
+   ],
+   "answer": 0,
+   "explanation": "The patient was likely suffering from liver cirrhosis, which caused an acute variceal hemorrhage secondary to portal hypertension. Esophageal varices represent a consequence of collaterals that develop in cirrhosis to shunt blood from the portal system (which is obstructed, usually at the level of sinusoids) into the systemic circulation. A consequence of this is that the perfusion pressure of the hepatic artery is partly transmitted into the portal vein, thus increasing the portal pressure. Endoscopic sclerotherapy is the procedure of choice to control acute bleeding. Pharmacologic agents can also be administered to decrease portal pressure. Most experience has been with vasopressin, a nonselective, very powerful vasoconstrictor that directly constricts mesenteric arterioles and decreases portal venous inflow, thereby reducing portal pressure. Other drugs used for the same purpose are nonselective β-blockers and octreotide. A, B Adrenaline and albuterol are β2 stimulants. The β2 receptor-mediated vasodilation would increase, not decrease, hepatic blood flow. C, D Nifedipine and prazosin can reduce the systemic blood pressure but would have unpredictable effects on the perfusion pressure of liver arterial vessels.",
+   "source": "Pharmacology V-1 Q15",
+   "topic": "Medium",
+   "topic_n": 4
+  },
+  {
+   "question": "A 37-year-old woman recently diagnosed with pituitary adenoma underwent ablative radiation therapy, but the treatment failed to control the patient's symptoms. Lab tests still showed a high level of insulin-like growth factor 1. A pharmacotherapy with octreotide was prescribed. Which of the following actions most likely mediated the therapeutic effect of the drug in the patient's disorder?",
+   "choices": [
+    "Blockade of thyroid-stimulating hormone (TSH) receptors",
+    "Inhibition of growth hormone release",
+    "Blockade of growth hormone receptors",
+    "Inhibition of insulin release",
+    "Stimulation of growth hormone metabolism"
+   ],
+   "answer": 1,
+   "explanation": "The diagnosis of pituitary adenoma and the high level of insulin-like growth factor 1 indicate that the patient was most likely suffering from acromegaly. Octreotide is a somatostatin analogue that effectively inhibits the secretion of growth hormone and represents a common treatment of acromegaly when radiation therapy is contraindicated or not effective, as in this case. A, D, E Somatostatin does not have these effects. C Somatostatin can inhibit insulin release, but this is not the cause of the therapeutic effect of the drug in acromegaly.",
+   "source": "Pharmacology V-1 Q16",
+   "topic": "Easy",
+   "topic_n": 11
+  },
+  {
+   "question": "A 41-year-old man was found to have growth hormone deficiency after irradiation of the hypophysis to treat a parasellar tumor. Therapy with somatropin was started. Which of the following adverse effects is most likely to occur in this patient?",
+   "choices": [
+    "Osteoporosis",
+    "Hypoglycemia",
+    "Arthralgias",
+    "Dehydration",
+    "Weigh loss"
+   ],
+   "answer": 2,
+   "explanation": "Arthralgias are the most common adverse effects of somatropin therapy in adults, being present in up to 23% of patients. They are likely related to the stimulation of chondrogenesis and skeletal growth that is mediated by insulin-like growth factor 1. B-E Growth hormone tends to cause actions opposite to those listed.",
+   "source": "Pharmacology V-1 Q17",
+   "topic": "Easy",
+   "topic_n": 12
+  },
+  {
+   "question": "A 26-year-old man wishing to start a family was diagnosed with infertility due to oligospermia. He started a treatment that included intramuscular injection of human chorionic gonadotropin three times weekly. Which of the following molecular actions is the intended target for this therapy?",
+   "choices": [
+    "Stimulation of Leydig cell testosterone production",
+    "Activation of testosterone receptors in the hypothalamus",
+    "Stimulation of secretion of prostatic fluid",
+    "Stimulation of mitotic activity of Sertoli cells",
+    "Inhibition of growth hormone-releasing hormone (GnRH) secretion from the hypothalamus"
+   ],
+   "answer": 0,
+   "explanation": "Human chorionic gonadotropin (hCG) is produced by human placenta and extracted from the urine of pregnant women. The structure and actions of hCG are practically identical to those of luteinizing hormone, the hormone that in men stimulates the Leydig cell secretion of testosterone, which is needed for normal growth and division of germinal cells in forming sperm. B The drug is not a testosterone agonist. C The hypothalamic secretion of gonadotropin-releasing hormone is inhibited by testosterone. D The production of prostatic fluid is stimulated by dihydrotestosterone. E The mitotic activity of Sertoli cells is stimulated by follicle-stimulating hormone.",
+   "source": "Pharmacology V-1 Q18",
+   "topic": "Medium",
+   "topic_n": 5
+  },
+  {
+   "question": "A 62-year-old man diagnosed with metastasized prostate cancer started a treatment that included a depot preparation of goserelin. Which of the following actions most likely mediated the therapeutic effect of the drug in the patient's disease?",
+   "choices": [
+    "Inhibition of aromatase enzyme",
+    "Inhibition of topoisomerase I",
+    "Blockade of gonadotropin receptors",
+    "Blockade of prostate testosterone receptors",
+    "Inhibition of follicle-stimulating hormone (FSH) and luteinizing hormone (LH) release"
+   ],
+   "answer": 4,
+   "explanation": "Goserelin is a synthetic analogue of naturally occurring gonadotropin-releasing hormone (GnRH). The hormone is physiologically released in pulses that vary in frequency in different phases of the menstrual cycle and control the synthesis and release of follicle-stimulating hormone (FSH) and luteinizing hormone (LH) in both women and men. Because the release of GnRH is pulsatile, the secretion of FSH and LH is also pulsatile, which is essential for the maintenance of normal ovulatory menstrual cycles and the normal production of sperm. However, when given continuously (or as a depot preparation), GnRH inhibits the release of FSH and LH in both men and women. This inhibition causes suppression of ovulation in women and cessation of testicular androgen synthesis in men. The synthetic analogues of GnRH are currently used alone or in combination with an antiandrogen in the pharmacotherapy of advanced prostate cancer. A, C-E See correct answer explanation.",
+   "source": "Pharmacology V-1 Q19",
+   "topic": "Easy",
+   "topic_n": 13
+  },
+  {
+   "question": "A 56-year-old man recently diagnosed with carcinoid tumor of the lung started a treatment that included octreotide. The patient was most likely at increased risk of which of the following adverse effects as a result of this therapy?",
+   "choices": [
+    "Flushing",
+    "Hypoglycemia",
+    "Drowsiness",
+    "Gallstones",
+    "Heat intolerance"
+   ],
+   "answer": 3,
+   "explanation": "A major undesirable effect that can occur as a result of octreotide therapy is reduction of bile production and gallbladder contractility, which leads to increased viscosity of bile and increased incidence of gallstones. This can occur in up to 30% of patients after 6 months of treatment. B The drug does not efficiently cross the blood-brain barrier, so drowsiness is unlikely. C Because the drug can inhibit insulin secretion, hypoglycemia is rare. D The drug can inhibit thyrotropin secretion, which can lead to hypothyroidism. This in turn can lead to cold, not heat, intolerance. E In patients with carcinoid tumor, the drug can effectively reduce, not cause, flushing.",
+   "source": "Pharmacology V-1 Q20",
+   "topic": "Medium",
+   "topic_n": 6
+  },
+  {
+   "question": "A 6-year-old girl presented to her pediatrician with pubic hair, breast development, and regular menstruation. After clinical and laboratory evaluations, a diagnosis of true precocious puberty was made. Which of the following drugs would be appropriate for this girl?",
+   "choices": [
+    "Leuprolide",
+    "Bromocriptine",
+    "Somatropin",
+    "Menotropins",
+    "Testosterone",
+    "Estradiol"
+   ],
+   "answer": 0,
+   "explanation": "True precocious puberty is the most frequent endocrine symptom of hypothalamic disease. The pathophysiology of the disorder is related to an activation of the hypothalamic-pituitary-gonadal axis. The therapy is to suppress pituitary gonadotropin secretion until an appropriate age for normal puberty to begin. Continuous administration of a gonadotropin-releasing hormone (GnRH) analogue such as leuprolide (intravenous infusion or depot formulation) inhibits follicle-stimulating hormone and luteinizing hormone secretion (due to receptor desensitization or downregulation) and will shut down the stimulation of ovarian function. The treatment is fully reversible, and normal function will resume when therapy is stopped. A-E See correct answer explanation.",
+   "source": "Pharmacology V-1 Q21",
+   "topic": "Easy",
+   "topic_n": 14
+  },
+  {
+   "question": "A 71-year-old man suffering from symptomatic advanced prostate cancer started a treatment with a drug that functions as competitive antagonist at gonadotropin-releasing hormone (GnRH) receptors. Which of the following drugs did the patient most likely take?",
+   "choices": [
+    "Cabergoline",
+    "Degarelix",
+    "Mecasermin",
+    "Pegvisomant",
+    "Leuprolide"
+   ],
+   "answer": 1,
+   "explanation": "Degarelix is a synthetic decapeptide that functions as competitive antagonist at GnRH receptors. It reduces concentrations of gonadotropins and androgens more rapidly than GnRH agonists and avoids the initial testosterone surge seen with those drugs. Degarelix is approved for the treatment of symptomatic advanced prostate cancer. B-E See correct answer explanation.",
+   "source": "Pharmacology V-1 Q22",
+   "topic": "Easy",
+   "topic_n": 15
+  },
+  {
+   "question": "An 8-year-old healthy girl was referred to a pediatric endocrinologist for short stature. Physical examination and karyotype analysis led to the diagnosis of Turner syndrome. Which of the following drugs would be most appropriate to treat the patient's disease?",
+   "choices": [
+    "Testosterone",
+    "Somatropin",
+    "Octreotide",
+    "Oxandrolone",
+    "Cabergoline",
+    "Somatostatin"
+   ],
+   "answer": 1,
+   "explanation": "Treatment with growth hormone (somatropin) has been shown to have a strong beneficial effect on final height in girls with Turner syndrome, the most common sex chromosome anomaly in females. Continuous chronic treatment of these girls can increase the mean stature by 10 to 12 cm. A Oxandrolone can increase the growth rate in girls with Turner syndrome, but the increase is limited (5 cm), and the drug is not currently used to treat Turner syndrome. C-F All of these drugs are useless, or even dangerous, in Turner syndrome.",
+   "source": "Pharmacology V-1 Q23",
+   "topic": "Medium",
+   "topic_n": 7
+  },
+  {
+   "question": "An 8-year-old boy was referred to a pediatric endocrinologist because of growth retardation. Lab tests showed increased serum growth hormone levels but very low serum levels of insulin-like growth factor 1 (IGF-1). Further exams led to the diagnosis of Laron dwarfism. Which of the following drugs would be most appropriate for this boy?",
+   "choices": [
+    "Mecasermin",
+    "Octreotide",
+    "Cabergoline",
+    "Somatropin",
+    "Oxandrolone"
+   ],
+   "answer": 0,
+   "explanation": "Laron syndrome (also called Laron dwarfism) is an autosomal recessive disorder characterized by growth hormone insensitivity (also referred to as primary insulin-like growth factor 1 [IGF-1] deficiency) caused by a variant of growth hormone receptor. Because of this, growth hormone serum levels are normal or increased, but the hormone is ineffective. A major consequence of this insensitivity is extremely low serum levels of IGF-1, leading to severe impairment of growth. Recently, recombinant IGF-1 (mecasermin) was approved by the U.S. Food and Drug Administration for dwarfism due to growth hormone insensitivity. Although the number of children treated with the drug is low (the disease is very rare), all data show a good increment of growth rate with mecasermin during the first year of treatment. A, B, D, E See correct answer explanation.",
+   "source": "Pharmacology V-1 Q24",
+   "topic": "Medium",
+   "topic_n": 8
+  },
+  {
+   "question": "A 70-year-old man, recently diagnosed with a small-cell carcinoma, was admitted to the hospital for surgical resection of the lung. On admission, the patient appeared lethargic and confused. Pertinent lab results on admission were Serum: Na+ 120 mEq/L (normal 136-145 mEq/L), K+ 4.8 mEq/L (normal 4.5-5.0 mEq/L), Osmolality 250 mOsm/L (normal 275-300 mOsm/L); Urine: Na+ 50 mEq/L (normal 40-220 mEq/L), Osmolality 400 mOsm/L (normal 50-1200 mOsm/L). A drug from which of the following classes would be useful in correcting the patient's electrolyte imbalance?",
+   "choices": [
+    "Thiazide diuretics",
+    "Glucocorticoids",
+    "Antidiuretic hormone (ADH) agonists",
+    "Loop diuretics",
+    "ADH antagonists"
+   ],
+   "answer": 4,
+   "explanation": "The patient was most likely suffering from syndrome of inappropriate antidiuretic hormone secretion (SIADH), a disorder characterized by low serum osmolality, high urine osmolality with respect to serum, and hypervolemic (or sometimes normovolemic) hyponatremia. SIADH is caused by an increased secretion of ADH, which is associated with a myriad of disorders, including malignancy, intracranial pathology (encephalitis, meningitis, subarachnoid hemorrhage, etc.), hormonal deficiency states (adrenal and thyroid insufficiency), and metabolic diseases (acute intermittent porphyria). The exact mechanism whereby these disorders provoke an increase in concentration of ADH is uncertain, but this patient was suffering from small-cell lung cancer, which is known to synthesize ADH de novo. Treatment modalities of SIADH depend on the underlying cause. In cases where this cause is untreatable, water restriction and ADH antagonists (conivaptan and tolvaptan) are the treatment of choice. These drugs block vasopressin receptors, causing reversible nephrogenic diabetes insipidus. A, B These diuretics tend to cause hyponatremia and are therefore contraindicated in SIADH. C ADH agonists (vasopressin and desmopressin) are contraindicated, as the syndrome is caused by an excessive ADH secretion. D Glucocorticoids are useless, as SIADH secretion is not due to adrenal insufficiency (see the normal serum levels of K+).",
+   "source": "Pharmacology V-1 Q25",
+   "topic": "Medium",
+   "topic_n": 9
+  },
+  {
+   "question": "A 34-year-old man presented to the hospital with a history of joint pain, headache, excessive sweating, and deepening of the voice. Physical examination revealed hypertension, enlargement of the hands, a doughy appearance of the skin, and a barrel chest. A computed tomography scan disclosed a pituitary adenoma, and the patient underwent radiotherapy. Which of the following drugs would be appropriate for this patient while waiting for radiotherapy to work?",
+   "choices": [
+    "Somatropin",
+    "Degarelix",
+    "Octreotide",
+    "Leuprolide",
+    "Cosyntropin"
+   ],
+   "answer": 2,
+   "explanation": "The patient's signs and symptoms indicate that he was affected by acromegaly due to pituitary adenoma, which is the cause of the disease in virtually all patients affected by acromegaly. Somatostatin can reduce growth hormone (GH) levels and symptoms in acromegaly, and octreotide (a somatostatin analogue) is frequently used for this purpose. The drug is 40 times more potent than somatostatin in blocking GH secretion but only twice as potent in blocking insulin secretion, and is therefore more suitable than the natural hormone to treat acromegaly. A-C, E See correct answer explanation.",
+   "source": "Pharmacology V-1 Q26",
+   "topic": "Medium",
+   "topic_n": 10
+  },
+  {
+   "question": "A 36-year-old man was found to have high serum levels of insulin-like growth factor 1 (IGF-1) during a regular clinic visit. Ten months earlier, the man was diagnosed with acromegaly and underwent radiation therapy, but the treatment was only partially effective, and the man had been receiving octreotide since then. Addition of which of the following drugs would be appropriate for the patient at this time?",
+   "choices": [
+    "Methimazole",
+    "Degarelix",
+    "Pegvisomant",
+    "Cosyntropin",
+    "Leuprolide"
+   ],
+   "answer": 2,
+   "explanation": "The high serum levels of insulin-like growth factor 1 (IGF- 1) are highly specific for acromegaly and correlate with clinical indices of disease activity. They are the simplest way to monitor the response to therapy, as they do not fluctuate like growth hormone levels do. The fact that IGF-1 levels are still elevated in this patient indicates that the therapy with octreotide was not completely effective. Pegvisomant is a growth hormone receptor antagonist. The drug is particularly useful in patients resistant to somatostatin analogues because it has been shown that it can normalize the high serum levels of IGF-1 in these patients. B-E See correct answer explanation.",
+   "source": "Pharmacology V-1 Q27",
+   "topic": "Easy",
+   "topic_n": 16
+  },
+  {
+   "question": "A 36-year-old woman complained to her physician of amenorrhea for the past 2 months and of a white discharge from her breasts during the past month. A computed tomography scan showed a pituitary adenoma. A drug with which of the following mechanism of action would be most appropriate for this patient?",
+   "choices": [
+    "Stimulation of growth hormone (GH) metabolism",
+    "Activation of D2 receptors",
+    "Inhibition of GH release",
+    "Stimulation of dopamine synthesis",
+    "Blockade of D2 receptors",
+    "Blockade of GH receptors"
+   ],
+   "answer": 1,
+   "explanation": "The signs and symptoms of the patient indicate that she is most likely affected by prolactinoma, the most common secretory tumor in the pituitary. Dopamine agonists such as cabergoline and bromocriptine are widely used as first-line agents. By activating D2 receptors in the pituitary, these drugs mimic the effect of dopamine to inhibit the secretion of prolactin. They can restore abnormal menstrual function in up to 90% of women, shrink prolactinomas, and improve galactorrhea and tumor-associated headache. A-E See correct answer explanation.",
+   "source": "Pharmacology V-1 Q28",
+   "topic": "Medium",
+   "topic_n": 11
+  },
+  {
+   "question": "A 35-year-old woman presented to her gynecologist with concern that she and her husband had not conceived despite unprotected intercourse for the past 15 months. Further exams led to the diagnosis of unexplained infertility, and the woman started a “step-up” protocol of ovulation induction that included initial daily injections of follitropin alfa. The drug can activate specific receptors located in granulosa cells of the ovary to produce which of the following enzymes?",
+   "choices": [
+    "Dehydrogenase",
+    "Desmolase",
+    "Topoisomerase II",
+    "Transglycosylase",
+    "Aromatase"
+   ],
+   "answer": 4,
+   "explanation": "Follitropin alfa is recombinant follicle-stimulating hormone (FSH). It activates specific receptors that act via the adenylyl cyclase pathway to stimulate the granulosa cells of the ovary to produce aromatase. This enzyme (also called estrogen synthase) is a key step in biosynthesis of estrogens. It converts androstenedione to estrone and testosterone to estradiol. A “step-up” protocol of ovulation induction mimics the natural menstrual cycle. Increasing doses of FSH are given during the first half of the cycle to promote follicular development. Then an injection of human chorionic gonadotropin is administered to simulate the luteinizing hormone surge that naturally occurs in midcycle and triggers ovulation. A-D See correct answer explanation.",
+   "source": "Pharmacology V-1 Q29",
+   "topic": "Medium",
+   "topic_n": 12
+  },
+  {
+   "question": "A 34-year-old man was admitted to the hospital because of prolonged, massive watery diarrhea for the past 2 days. Physical and lab exams indicated a pancreatic tumor, and radioimmunoassay confirmed the diagnosis of vipoma. The patient was given intravenous fluids for hydration and was scheduled for surgery. Which of the following drugs would be appropriate to control the patient's diarrhea?",
+   "choices": [
+    "Octreotide",
+    "Adrenocorticotropic hormone (ACTH)",
+    "Leuprolide",
+    "Cabergoline",
+    "Somatotropin",
+    "Hydrochlorothiazide"
+   ],
+   "answer": 0,
+   "explanation": "Octreotide is a somatostatin analogue. When given in pharmacological amounts, somatostatin inhibits virtually all exocrine and endocrine secretions of the pancreas (insulin, glucagon, and pancreatic enzymes), stomach (gastrin), and intestine (secretin, motilin, vasoactive intestinal polypeptide [VIP], gastric inhibitory polypeptide [GIP], and serotonin), as well as secretion of growth hormone, thyroid-stimulating hormone, parathyroid hormone, calcitonin, and adrenocorticotropic hormone. Because of this, octreotide is used to reduce symptoms caused by a variety of hormone-secreting tumors. Vipoma is a rare VIP-secreting tumor of non-B pancreatic islet cells, causing a syndrome of prolonged, massive watery diarrhea, hypokalemia, and achlorhydria (WDHA syndrome). Octreotide effectively controls the diarrhea in most patients, but large doses may be needed. A-C, E, F See correct answer explanation.",
+   "source": "Pharmacology V-1 Q30",
+   "topic": "Hard",
+   "topic_n": 2
+  },
+  {
+   "question": "A 35-year-old woman presented to the clinic complaining of continuous thirst and polyuria. She reported that she often awoke at night because of thirst and the need to urinate. History showed that 6 months previously, she had sustained a basal skull fracture during a car accident from which she recovered completely. Lab tests showed a urine osmolality of 20 mOsm/kg (normal 50-1200 mOsm/kg) and undetectable serum antidiuretic hormone (ADH) levels. Which of the following drugs would be most appropriate for this patient?",
+   "choices": [
+    "Chlorpropamide",
+    "Desmopressin",
+    "Carbamazepine",
+    "Hydrochlorothiazide",
+    "Amiloride"
+   ],
+   "answer": 1,
+   "explanation": "Polyuria and nocturia, with low urine osmolality, suggest the diagnosis of diabetes insipidus (DI). The previous basal skull fracture indicates that the DI is most likely related to a trauma of the pituitary stalk, and the undetectable serum antidiuretic hormone (ADH) levels confirms that the DI is neurogenic in nature. Desmopressin is the agent of choice in this disease. Unlike vasopressin, its vasoconstricting activity is negligible, as it activates only V2 receptors. A Thiazide diuretics paradoxically reduce polyuria both in central and nephrogenic DI (likely because of volume contraction, leading to enhanced proximal reabsorption), but they are not used in central DI, where a much better therapeutic choice exists. B Amiloride is effective only in lithium-induced DI. D, E Carbamazepine and chlorpropamide are ADH-releasing drugs used only when ADH secretion is not completely abolished (partial neurogenic DI) or when the patient cannot tolerate exogenous ADH.",
+   "source": "Pharmacology V-1 Q31",
+   "topic": "Medium",
+   "topic_n": 13
+  },
+  {
+   "question": "A 7-year-old boy recently diagnosed with idiopathic hypopituitarism started a treatment with somatropin, a recombinant growth hormone with a molecular weight of about 22,000 D. Which of the following was most likely the main site of distribution of this drug?",
+   "choices": [
+    "Extracellular fluids",
+    "Plasma",
+    "Fat tissue",
+    "Cell cytosol",
+    "Total body water"
+   ],
+   "answer": 0,
+   "explanation": "Somatropin is a peptide hormone that is usually administered subcutaneously. Its molecular weight indicates that it is sufficiently small to be absorbed from the injection site by bulk flow transport and to leave the blood by the same transport system. However, it is too big to cross cell membranes. Therefore, it distributes primarily in the extracellular fluid. This is also indicated by the volume of distribution of the drug that is about 12 L. A, B, D, E See correct answer explanation.",
+   "source": "Pharmacology V-1 Q32",
+   "topic": "Medium",
+   "topic_n": 14
+  },
+  {
+   "question": "A 55-year-old woman was admitted to the emergency department with the diagnosis of septic shock. Despite fluid therapy and norepinephrine, she was still hypotensive (80/50 mm Hg) and tachycardic (120 bpm), and the cardiologist decided to start an intravenous infusion of another drug. A few minutes later, her blood pressure was 106/75 mm Hg, and her pulse was 88 bpm. Which of the following was most likely the drug given to the patient?",
+   "choices": [
+    "Desmopressin",
+    "Dobutamine",
+    "Epinephrine",
+    "Vasopressin",
+    "Phenylephrine"
+   ],
+   "answer": 3,
+   "explanation": "The patient's poor response to norepinephrine suggests that she was most likely suffering from septic shock that was catecholamine-resistant. Septic shock is a vasodilatory shock, and sepsis is a common cause of the disorder. Vasodilatory shock is characterized by low arterial blood pressure due to decreased systemic vascular resistance. Catecholamines are first-line agents for the therapy of vasodilatory shock, but loss of adrenergic sensitivity can occur due to multiple mechanisms, including downregulation of adrenoceptors, impairment of postreceptor signal pathways, and excessive production of nitric oxide and other inflammatory mediators. Mortality rates of vasodilatory shock are excessively high, and if the shock becomes catecholamine-resistant, mortality can be near 100%. Recently, several investigators have demonstrated that vasopressin can successfully stabilize hemodynamics even in advanced vasodilatory shock, and current guidelines suggest that vasopressin should be reserved for patients in whom adequate hemodynamic stabilization cannot be achieved with conventional therapy, as in this case. A, C, D Because the shock is catecholamine-resistant, the use of these drugs may be dangerous by causing significant catecholamine toxicity. B Desmopressin has negligible vasoconstricting activity because it activates only V2 receptors.",
+   "source": "Pharmacology V-1 Q33",
+   "topic": "Medium",
+   "topic_n": 15
+  }
+ ]
+}

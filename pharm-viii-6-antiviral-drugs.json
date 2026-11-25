@@ -1,0 +1,651 @@
+{
+ "questions": [
+  {
+   "question": "A nucleoside reverse transcriptase inhibitor used to treat both HIV and hepatitis B viral infections",
+   "choices": [
+    "Didanosine",
+    "Stavudine",
+    "Lamivudine",
+    "Fomivirsen",
+    "Efavirenz",
+    "Zalcitabine",
+    "Maraviroc",
+    "Enfuvirtide",
+    "Abacavir",
+    "Trifluridine",
+    "Ritonavir",
+    "Raltegravir",
+    "Oseltamivir"
+   ],
+   "answer": 2,
+   "explanation": "Lamivudine is a nucleoside reverse transcriptase inhibitor used to treat both HIV and hepatitis B viral infections. (Matching key, Questions 1-3: 1. F)",
+   "source": "Pharmacology VIII-6 Q1",
+   "topic": "Easy",
+   "topic_n": 1
+  },
+  {
+   "question": "This drug is active against HIV-1 but not against HIV-2 or other retroviruses.",
+   "choices": [
+    "Raltegravir",
+    "Enfuvirtide",
+    "Efavirenz",
+    "Maraviroc",
+    "Oseltamivir",
+    "Trifluridine",
+    "Stavudine",
+    "Didanosine",
+    "Ritonavir",
+    "Fomivirsen",
+    "Abacavir",
+    "Zalcitabine",
+    "Lamivudine"
+   ],
+   "answer": 2,
+   "explanation": "Efavirenz, a nonnucleoside reverse transcriptase inhibitor, is active against HIV-1 but not against HIV-2 or other retroviruses. (Matching key, Questions 1-3: 2. C)",
+   "source": "Pharmacology VIII-6 Q2",
+   "topic": "Easy",
+   "topic_n": 2
+  },
+  {
+   "question": "This drug is administered by intravitreal injection to treat cytomegalovirus retinitis.",
+   "choices": [
+    "Fomivirsen",
+    "Stavudine",
+    "Abacavir",
+    "Ritonavir",
+    "Maraviroc",
+    "Zalcitabine",
+    "Raltegravir",
+    "Lamivudine",
+    "Oseltamivir",
+    "Efavirenz",
+    "Trifluridine",
+    "Didanosine",
+    "Enfuvirtide"
+   ],
+   "answer": 0,
+   "explanation": "Fomivirsen is administered by intravitreal injection to treat cytomegalovirus retinitis. (Matching key, Questions 1-3: 3. E)",
+   "source": "Pharmacology VIII-6 Q3",
+   "topic": "Easy",
+   "topic_n": 3
+  },
+  {
+   "question": "At a routine clinic visit, a 40-year-old man with a long history of AIDS was found to have a CD4+ lymphocyte count of 122 cells/mm3 (normal > 500 cells/mm3) despite his current highly active antiretroviral therapy. The physician decided to change the therapy and to include a drug that blocks the integration of reverse-transcribed HIV DNA into the chromosomes of host cells. Which of the following drugs was most likely given?",
+   "choices": [
+    "Atazanavir",
+    "Lopinavir",
+    "Ritonavir",
+    "Zidovudine",
+    "Raltegravir"
+   ],
+   "answer": 4,
+   "explanation": "Raltegravir is an integrase inhibitor. Drugs from this class block the transfer of reverse-transcribed HIV DNA into the chromosomes of host cells, thus preventing the final step of provirus integration. It is used mainly when standard antiretroviral therapy is not effective for a given patient, as in this case. A This drug is a reverse transcriptase inhibitor. B-D These drugs are protease inhibitors.",
+   "source": "Pharmacology VIII-6 Q4",
+   "topic": "Easy",
+   "topic_n": 4
+  },
+  {
+   "question": "A 35-year-old man with AIDS started a therapy that included a combination of lopinavir-ritonavir. Which of the following statements best explains the main reason for this combination regimen?",
+   "choices": [
+    "Lopinavir enhances ritonavir intestinal absorption.",
+    "Ritonavir inhibits lopinavir metabolism.",
+    "Ritonavir enhances lopinavir intestinal absorption.",
+    "Ritonavir prevents lopinavir resistance.",
+    "Lopinavir prevents ritonavir resistance.",
+    "Lopinavir inhibits ritonavir metabolism."
+   ],
+   "answer": 1,
+   "explanation": "Ritonavir is a powerful inhibitor of the CYP3A4 enzymes. Even when given in subtherapeutic doses, the drug inhibits the metabolism of lopinavir with a resultant increase of lopinavir plasma levels. This permits lower or less frequent dosing with greater tolerability. Therefore, in this combination, ritonavir is mainly acting as a pharmacokinetic enhancer, and for this reason it is currently given mainly in association with another protease inhibitor. A-D, F See correct answer explanation.",
+   "source": "Pharmacology VIII-6 Q5",
+   "topic": "Medium",
+   "topic_n": 1
+  },
+  {
+   "question": "A 30-year-old man with AIDS presented to the clinic complaining of recent weight gain. The man had been using a highly active antiretroviral therapy for 6 months. Physical examination showed a patient with truncal obesity and cushingoid appearance. Lab tests revealed hyperglycemia and hyperlipidemia. A drug from which of the following antiretroviral drug classes most likely caused these adverse effects?",
+   "choices": [
+    "Entry inhibitors",
+    "Protease inhibitors",
+    "Nonnucleoside reverse transcriptase inhibitors",
+    "Integrase inhibitors",
+    "Nucleoside reverse transcriptase inhibitors"
+   ],
+   "answer": 1,
+   "explanation": "Most protease inhibitors can cause a Cushing-like syndrome with central obesity, dorsocervical fat enlargement (buffalo hump), and peripheral wasting. The syndrome is related to an impairment of glucose and lipid metabolism (hyperlipidemia and hyperglycemia with insulin resistance are common) and may affect up to 50% of patients receiving protease inhibitors for several months. A-D These antiretroviral drugs do not cause a Cushing-like syndrome.",
+   "source": "Pharmacology VIII-6 Q6",
+   "topic": "Easy",
+   "topic_n": 5
+  },
+  {
+   "question": "A 34-year-old woman reported to her physician that she had experienced genital burning pain for the past 2 days. The pain and burning were worse during urination and accompanied by fever and malaise. Physical examination revealed multiple blisters and ulcerative lesions in the vaginal area. A presumptive diagnosis of herpes genitalis was made, and an oral drug was prescribed. Which of the following steps of the viral growth cycle was most likely primarily inhibited by the prescribed drug?",
+   "choices": [
+    "Assembly",
+    "Uncoating",
+    "Translation",
+    "Entry",
+    "Transcription",
+    "Proteolytic cleavage"
+   ],
+   "answer": 4,
+   "explanation": "The prescribed drug was most likely acyclovir, a first-line agent for herpes genitalis. Oral therapy speeds up the healing and reduces the frequency of reactivation episodes. Acyclovir must be activated by phosphorylation, then the triphosphate compound competitively inhibits viral DNA polymerase, thus blocking DNA synthesis. Transcription is therefore inhibited. A, B, D-F See correct answer explanation.",
+   "source": "Pharmacology VIII-6 Q7",
+   "topic": "Medium",
+   "topic_n": 2
+  },
+  {
+   "question": "A 33-year-old woman with AIDS was recently diagnosed with cytomegalovirus retinitis. The ophthalmologist prescribed a drug that must be phosphorylated first by virus-specific enzymes, then by host cell enzymes to become active. Which of the following drugs was most likely given?",
+   "choices": [
+    "Foscarnet",
+    "Ribavirin",
+    "Zidovudine",
+    "Ganciclovir",
+    "Vidarabine",
+    "Acyclovir"
+   ],
+   "answer": 3,
+   "explanation": "Ganciclovir and acyclovir are nucleoside analogues that must be phosphorylated first by virus-specific enzymes. Both drugs are phosphorylated by a viral thymidine kinase in herpes simplex virus (HSV)-infected cells. Ganciclovir is also phosphorylated by a specific viral phosphotransferase in cytomegalovirus (CMV)-infected cells. This explains why both drugs are active against HSV, but only ganciclovir is effective against CMV. A Foscarnet is used in CMV retinitis, but it does not require activation by phosphorylation. B, D Ribavirin and acyclovir have no activity against CMV infections. E, F Vidarabine and zidovudine are nucleoside analogues that must be phosphorylated to become active. However, for these drugs, phosphorylation is carried out by host cell enzymes only, and these drugs are not effective against CMV.",
+   "source": "Pharmacology VIII-6 Q8",
+   "topic": "Medium",
+   "topic_n": 3
+  },
+  {
+   "question": "An 80-year-old man was brought from a nursing home to the emergency department with chief complaints of fever (102.8°F, 39.3°C), cough, headache, malaise, anorexia, and photophobia. Conventional antibiotic therapy was ineffective, and 3 days later, influenza virus was detected from sputum. Over the next week, three other nursing home patients developed similar symptoms. Vaccination and chemoprophylaxis were planned for all nursing home residents and staff. Which of the following drugs would be appropriate to administer as a prophylactic measure?",
+   "choices": [
+    "Zidovudine",
+    "Ganciclovir",
+    "Foscarnet",
+    "Acyclovir",
+    "Ribavirin",
+    "Oseltamivir"
+   ],
+   "answer": 5,
+   "explanation": "Vaccination plus chemoprophylaxis against influenza is advisable for residents of nursing homes or other chronic care facilities and personnel who have extensive contacts with high-risk patients, as in this case. Oseltamivir and zanamivir are inhibitors of neuraminidases produced by influenza A and B viruses. These enzymes cleave sialic acid residues from cell surfaces, thus promoting the release of newly formed virus from the surface of infected cells. Both drugs cause a significant reduction of the symptoms of influenza A and B and are therefore preferable to amantadine, which is effective only against influenza A. Resistance to neuraminidase inhibitors was uncommon until recently, but now rates of resistance to oseltamivir among H1N1 virus (a subtype of influenza A) have risen abruptly and dramatically. A-D, F These drugs are not effective against influenza viruses.",
+   "source": "Pharmacology VIII-6 Q9",
+   "topic": "Easy",
+   "topic_n": 6
+  },
+  {
+   "question": "A 72-year-old man was admitted to the hospital with a 1-week history of malaise, night sweats, and increasing shortness of breath. Blood tests on admission were notable for hemoglobin 10 mg/dL (normal > 13.5 mg/dL) and creatinine 3.2 mg/dL (normal 0.6-1.2 mg/dL). On admission, physical examination showed a cyanotic and dyspneic patient in obvious distress. Auscultation revealed decreased lung sounds bilaterally. A viral culture from bronchoalveolar lavage was positive for herpes simplex virus. Parenteral therapy with acyclovir was started. The patient was at increased risk of developing which of the following adverse effects as a result of this therapy?",
+   "choices": [
+    "Neutropenia",
+    "Pancreatitis",
+    "Agranulocytosis",
+    "Renal failure",
+    "Hepatic cirrhosis",
+    "Hemolytic anemia"
+   ],
+   "answer": 3,
+   "explanation": "The patient was most likely suffering from herpes simplex virus (HSV) pneumonia, a disease that affects primarily immunocompromised and elderly people. Acyclovir is a first-line agent for HSV infection. More than 90% of acyclovir is eliminated unchanged by the kidneys, and nephrotoxic effects can occur with parenteral administration as a result of crystallization of the drug within the nephron. Acyclovir has low solubility in urine. Low urine volume associated with volume contraction may contribute to crystalluria, which in turn can lead to azotemia, renal tubular obstruction, renal failure, and death. Crystalluria is more likely to occur during administration of large parenteral doses, as in this case. Renal failure is more likely in this patient because of his renal insufficiency (see creatinine levels). A, C-F Acyclovir has no significant toxicity on the bone marrow, liver, or pancreas.",
+   "source": "Pharmacology VIII-6 Q10",
+   "topic": "Medium",
+   "topic_n": 4
+  },
+  {
+   "question": "A 74-year-old diabetic woman was brought to the emergency department with fever (102.7°F, 39.3°C), shaking chills, cough, headache, and malaise. Physical examination showed profound dyspnea, and rales were audible on auscultation of both lungs. Chest x-ray showed bilateral infiltrates, and blood gas analysis revealed significant hypoxia. A Gram stain of the sputum showed no bacteria. Fluorescent antibodies identified influenza A virus on cells of nasal aspirates. An appropriate therapy was started that included a drug that acts by inhibiting viral uncoating. Which of the following drugs was most likely given?",
+   "choices": [
+    "Zidovudine",
+    "Cidofovir",
+    "Amantadine",
+    "Ganciclovir",
+    "Foscarnet",
+    "Indinavir"
+   ],
+   "answer": 2,
+   "explanation": "Amantadine and rimantadine are adamantane derivatives approved for both prophylaxis and therapy of influenza A. They act by preventing uncoating of the virus once it is fused into host cell membranes. These drugs can reduce the severity of symptoms and the duration of illness and are mainly used in elderly patients or in those with underlying diseases, as in the present case. The drugs have no effect on influenza B and C viruses or parainfluenza viruses. Unfortunately, more than 90% of circulating influenza A viruses are now resistant to adamantane derivatives. A-C, E, F These antiviral drugs are not active against influenza viruses.",
+   "source": "Pharmacology VIII-6 Q11",
+   "topic": "Easy",
+   "topic_n": 7
+  },
+  {
+   "question": "A 34-year-old man presented to the clinic with jaundice and complaints of incapacitating fatigue and vague intermittent abdominal pain for the past month. The patient had a history of intravenous drug abuse and alcohol abuse. Hepatitis serologic tests were positive for hepatitis B surface antigen. Which of the following drugs would be appropriate for this patient?",
+   "choices": [
+    "Interferon alfa-2a",
+    "Foscarnet",
+    "Atazanavir",
+    "Enfuvirtide",
+    "Ganciclovir",
+    "Amantadine"
+   ],
+   "answer": 0,
+   "explanation": "The chronic occurrence of jaundice in a young patient is suggestive of hepatitis, and the presence of hepatitis B surface antigen (HBsAg) in serum is diagnostic for hepatitis B virus (HBV) infection. Approximately 5% of the world's population is infected with HBV. The most prominent risk factors associated with the disease are sexual contacts (> 50%) and injected drug use (15%). Subclinical infections are common, but 25% of carriers develop chronic active hepatitis. Worldwide, one million deaths a year are attributed to HBV-related diseases, including hepatocellular carcinoma. Drugs for the treatment of chronic hepatitis B include interferons, adefovir, entecavir, tenofovir, and lamivudine. These drugs are only moderately effective in treating the disease. Remission may be sustained, but in many patients, viral replication reappears following cessation of therapy. Interferons are cytokines that possess antiviral, immunomodulating, and antiproliferative actions. They induce over two dozen proteins in the host cells that contribute to viral resistance through different mechanisms, including inhibition of viral penetration and uncoating, synthesis of viral DNA and RNA, and viral assembly and release. A-C, E, F These antiviral drugs are not effective against HBV.",
+   "source": "Pharmacology VIII-6 Q12",
+   "topic": "Easy",
+   "topic_n": 8
+  },
+  {
+   "question": "A 30-year-old man with AIDS was recently diagnosed with cytomegalovirus retinitis, and a therapy with ganciclovir was started. Two weeks later, the disease was not much improved, and the ophthalmologist decided to add a drug that, unlike ganciclovir, can directly inhibit DNA polymerase without requiring activation by phosphorylation. Which of the following drugs was most likely prescribed?",
+   "choices": [
+    "Nevirapine",
+    "Lopinavir",
+    "Foscarnet",
+    "Ribavirin",
+    "Acyclovir",
+    "Trifluridine"
+   ],
+   "answer": 2,
+   "explanation": "Foscarnet is an inorganic pyrophosphate analogue that inhibits viral DNA polymerase, RNA polymerase, and HIV reverse transcriptase directly without requiring activation by phosphorylation. The drug, given only by intravenous injection, is effective in the treatment of cytomegalovirus (CMV) infections, including retinitis, colitis, and esophagitis. It is often given together with ganciclovir because it has been shown that the combination is superior to either agent alone in delaying the progression of retinitis. Adverse effects can be severe, and renal impairment may occur in up to 30% of patients. A-C, E, F None of these drugs are effective in CMV retinitis.",
+   "source": "Pharmacology VIII-6 Q13",
+   "topic": "Easy",
+   "topic_n": 9
+  },
+  {
+   "question": "A 23-year-old man had recurrent genital herpes that was effectively treated each time by acyclovir. The patient asked his physician why the treatment was not able to prevent recurrence. Which of the following would be the most appropriate answer for the physician to give?",
+   "choices": [
+    "Resistance to acyclovir is the rule after one cycle of therapy.",
+    "Recurrence is due to a new contact with infected partners.",
+    "Antiviral drugs have no effect on the latent state of viral disease.",
+    "Recurrence is due to a hypersensitivity reaction to viral proteins.",
+    "Acyclovir has a very short duration of action."
+   ],
+   "answer": 2,
+   "explanation": "Herpes viruses replicate in the skin or mucous membranes at the initial site of infection, then migrate up the neuron and become latent in the sensory ganglion cells. The virus can be reactivated from the latent state by a variety of factors, including sunlight, hormonal changes, trauma, stress, and fever. Upon reactivation, the virus migrates down the neuron and replicates in the skin, causing lesions. No currently available antiviral drugs can attack viruses during latency; they act only on actively replicating viruses. A, B, D, E See correct answer explanation.",
+   "source": "Pharmacology VIII-6 Q14",
+   "topic": "Easy",
+   "topic_n": 10
+  },
+  {
+   "question": "A 56-year-old man suffering from viral hepatitis B had started a treatment with interferon alfa-2a, but 9 months later, he was still positive for hepatitis B early antigen. The gastroenterologist decided to stop interferon and start another drug. Which of the following drugs would be appropriate for the patient at this time?",
+   "choices": [
+    "Ganciclovir",
+    "Raltegravir",
+    "Nevirapine",
+    "Lamivudine",
+    "Didanosine",
+    "Lopinavir"
+   ],
+   "answer": 3,
+   "explanation": "Lamivudine is the first nucleoside analogue approved by the U.S. Food and Drug Administration for use in patients with hepatitis B virus (HBV). It inhibits HBV DNA polymerase and HIV reverse transcriptase by competing with deoxycytidine triphosphate for incorporation into the viral DNA. Lamivudine is an effective agent for patients with chronic hepatitis B. It can suppress HBV DNA to undetectable levels in about 40% of patients and can normalize liver transaminase in up to 75% of patients. Unfortunately, resistance is a problem, developing in up to 70% of patients after 5 years of therapy. A-E These antiviral drugs are not effective against HBV.",
+   "source": "Pharmacology VIII-6 Q15",
+   "topic": "Medium",
+   "topic_n": 5
+  },
+  {
+   "question": "A 34-year-old woman with AIDS was found to have a CD4+ lymphocyte count of 45 cells/mm3 (normal > 500 cells/mm3) at her last clinic visit. The patient had an extensive history of treatment with a variety of antiretroviral drugs and had been taking zidovudine, lamivudine, and ritonavir. A tropism test showed that her HIV used the CCR5 receptor to enter the host cells. Therapy was started with a drug that prevents entry. Which of the following drugs was most likely given?",
+   "choices": [
+    "Indinavir",
+    "Enfuvirtide",
+    "Didanosine",
+    "Atazanavir",
+    "Maraviroc",
+    "Ribavirin"
+   ],
+   "answer": 4,
+   "explanation": "Maraviroc binds to the host protein CCR5 receptor, one of the two chemokine receptors necessary for entrance of HIV into CD4+ cells. This blocks the fusion of viral and cellular membranes, preventing viral entry. It has been shown that about 50% of patients in whom at least two antiviral regimens had failed were infected with R5 HIV-1. Because maraviroc is active exclusively against HIV strains that use CCR5 but not against other HIV strains, tropism testing should be performed before starting a treatment with this drug, as in this case. A Ribavirin is not an antiretroviral agent. B Enfuvirtide is an entry inhibitor but targets a gp41 subunit of the viral envelope. C Didanosine is a reverse transcriptase inhibitor. E, F Indinavir and atazanavir are protease inhibitors.",
+   "source": "Pharmacology VIII-6 Q16",
+   "topic": "Easy",
+   "topic_n": 11
+  },
+  {
+   "question": "A 35-year-old man with AIDS was found to have a CD4+ lymphocyte count of 190 cells/mm3 (normal > 500 cells/mm3) at his last follow-up visit. The patient had an extensive history of treatment with a variety of drug regimens. He was currently taking lopinavir, ritonavir, lamivudine, maraviroc, and raltegravir. Which of these drugs acts by inhibiting the viral enzyme that uses viral RNA to make a complementary DNA copy?",
+   "choices": [
+    "Ritonavir",
+    "Maraviroc",
+    "Raltegravir",
+    "Lopinavir",
+    "Lamivudine"
+   ],
+   "answer": 4,
+   "explanation": "Lamivudine is a reverse transcriptase inhibitor. Reverse transcriptase is an enzyme specific to retroviruses that uses viral RNA to make a complementary single-stranded DNA copy. The copy is then duplicated to form the double-stranded proviral DNA, which migrates into the nucleus and becomes integrated with the genetic material of the host cell. All reverse transcriptase inhibitors can block the initial phase of viral replication. In this way, they can prevent the infection of new cells, but they do not affect chronically infected cells in which the HIV genome is already integrated into the host genome. A-D These drugs do not affect reverse transcriptase activity.",
+   "source": "Pharmacology VIII-6 Q17",
+   "topic": "Easy",
+   "topic_n": 12
+  },
+  {
+   "question": "A 43-year-old man with AIDS complained to his physician of multiple painful ulcers on his tongue and palate. Exfoliative cytology led to the diagnosis of herpes simplex infection, and therapy with oral acyclovir was initiated. Two weeks later, no improvement was seen, and the dose of the drug was increased, but without success. Which of the following was most likely the cause of failure of acyclovir therapy?",
+   "choices": [
+    "Mutation of reverse transcriptase",
+    "Viral transpeptidase deficiency",
+    "Viral neuraminidase deficiency",
+    "Viral thymidine kinase deficiency",
+    "Mutation of aspartate protease"
+   ],
+   "answer": 3,
+   "explanation": "Acyclovir resistance is the most common cause of failure of acyclovir therapy. Acyclovir-resistant strains of the herpes simplex and varicella zoster viruses arise chiefly from mutations in the thymidine kinase gene that result in little or no production of the enzyme. Because viral thymidine kinase is essential for conversion of acyclovir to active derivatives, resistance to the drug ensues. Resistant strains are most commonly reported in severely immunocompromised patients receiving an extended course of the drug, as in this case. A, B, D, E None of these enzymes are involved in the mechanism of action of acyclovir.",
+   "source": "Pharmacology VIII-6 Q18",
+   "topic": "Easy",
+   "topic_n": 13
+  },
+  {
+   "question": "A 5-month-old baby girl born prematurely at 31 weeks' gestation was found to have bronchopulmonary dysplasia and required oxygen administration. A respiratory syncytial virus (RSV) outbreak was ongoing in the community, and the pediatrician decided to prescribe a drug to prevent RSV infection. Which of the following drugs would be appropriate for this baby?",
+   "choices": [
+    "Lamivudine",
+    "Lopinavir",
+    "Raltegravir",
+    "Amantadine",
+    "Trastuzumab",
+    "Palivizumab"
+   ],
+   "answer": 5,
+   "explanation": "Palivizumab is a humanized monoclonal antibody that binds to the A antigen site on the F surface protein of respiratory syncytial virus (RSV). It is approved for the prevention of RSV infection in high-risk infants and children, such as those with pulmonary dysplasia, as in this case. A-D, F These drugs are not effective against RSV infection.",
+   "source": "Pharmacology VIII-6 Q19",
+   "topic": "Easy",
+   "topic_n": 14
+  },
+  {
+   "question": "A 61-year-old woman suffering from the hepatitis B virus (HBV) underwent a follow-up examination. She was found to have more than 10^8 HBV DNA copies/mL and alanine transaminase of 210 U/L (normal 8-20 U/L). Therapy with entecavir was started. Inhibition of which of the following viral enzymes most likely mediated the therapeutic effect of the drug in the patient's disease?",
+   "choices": [
+    "HIV protease",
+    "DNA polymerase",
+    "Neuraminidase",
+    "Phosphotransferase",
+    "RNA polymerase",
+    "Thymidine kinase"
+   ],
+   "answer": 1,
+   "explanation": "Entecavir is a guanosine derivative that inhibits hepatitis B virus (HBV) DNA polymerase. The drug is more effective than lamivudine against hepatitis B and is highly effective in lamivudine-resistant strains. Clinical resistance to entecavir is very rare (< 1% at 4 years). B-F These enzymes are not inhibited by entecavir.",
+   "source": "Pharmacology VIII-6 Q20",
+   "topic": "Easy",
+   "topic_n": 15
+  },
+  {
+   "question": "A 47-year-old man with AIDS was found to have a CD4+ lymphocyte count of 170 cells/mm3 (normal > 500 cells/mm3) at his last clinic visit. The patient had an extensive history of treatment with a variety of antiretroviral drugs and had been currently taking abacavir, lamivudine, and atazanavir. The physician decided to add enfuvirtide to the current therapy. Which of the following steps of the viral growth cycle was most likely inhibited by the prescribed drug?",
+   "choices": [
+    "Proteolytic cleavage",
+    "Assembly",
+    "Uncoating",
+    "Translation",
+    "Entry",
+    "Transcription"
+   ],
+   "answer": 4,
+   "explanation": "Enfuvirtide inhibits HIV-1 entry into the host cell by binding to the gp41 subunit of the viral envelope glycoprotein, preventing the conformational changes required for the fusion of viral and cellular membranes. It has no activity against HIV-2. B-F See correct answer explanation.",
+   "source": "Pharmacology VIII-6 Q21",
+   "topic": "Easy",
+   "topic_n": 16
+  },
+  {
+   "question": "A 40-year-old man was recently found to be HIV positive, and he started a highly active antiretroviral therapy (HAART) with lamivudine, stavudine, and atazanavir. Which of the following two steps in the HIV growth cycle were specifically affected by this drug regimen?",
+   "choices": [
+    "Transcription and attachment",
+    "Entry and proteolytic cleavage",
+    "Transcription and proteolytic cleavage",
+    "Entry and uncoating",
+    "Attachment and uncoating"
+   ],
+   "answer": 2,
+   "explanation": "Lamivudine and stavudine are nucleoside reverse transcriptase inhibitors (NRTIs). They block the reverse transcription of RNA into DNA. Atazanavir is a protease inhibitor that blocks the proteolytic cleavage of immature budding particles, thus preventing the assembly of structural proteins around genomic RNA to form a nucleocapsid. A-D At least one of these two steps is not affected by NRTIs or protease inhibitors.",
+   "source": "Pharmacology VIII-6 Q22",
+   "topic": "Medium",
+   "topic_n": 6
+  },
+  {
+   "question": "A 32-year-old woman visited her physician complaining of very painful blisters on her abdomen. Physical examination showed localized blisters on her left abdomen consistent with a cutaneous zoster infection. Therapy with acyclovir was started. Which of the following enzymes was most likely inhibited by the administered drug?",
+   "choices": [
+    "Aspartate protease",
+    "Reverse transcriptase",
+    "Transpeptidase",
+    "Neuraminidase",
+    "DNA polymerase",
+    "Integrase"
+   ],
+   "answer": 4,
+   "explanation": "Drugs for varicella zoster virus (VZV) infection include acyclovir, famciclovir, and penciclovir. These drugs are activated by phosphorylation, catalyzed by the virus-specific thymidine kinase in infected cells. The triphosphate derivatives are potent inhibitors of both viral DNA and mammalian DNA polymerase. However, viral DNA polymerase is more sensitive to inhibition than the DNA polymerase of the host cell. A, C-F These enzymes are not inhibited by acyclovir.",
+   "source": "Pharmacology VIII-6 Q23",
+   "topic": "Easy",
+   "topic_n": 17
+  },
+  {
+   "question": "A 71-year-old man was brought to the emergency department because of fever (103.2°F, 39.6°C), chills, dyspnea, and generalized aches in his back and legs. Social history of the patient was significant for an outbreak of flu in the community. A clinical diagnosis of influenza was made, and treatment with a neuraminidase inhibitor was started. Which of the following actions most likely mediated the therapeutic effect of the drug in the patient's disease?",
+   "choices": [
+    "Inhibition of viral protein synthesis",
+    "Inhibition of viral proteolytic cleavage",
+    "Inhibition of viral transcription",
+    "Blockade of fusion of the virus with the host cell",
+    "Prevention of virus release from infected cells"
+   ],
+   "answer": 4,
+   "explanation": "Oseltamivir and zanamivir are inhibitors of neuraminidase, an enzyme produced by influenza A and B viruses. The enzyme cleaves sialic acid residues from cell surfaces, promoting the release of newly formed virus from the surface of infected cells. By blocking the enzyme, these drugs inhibit virus release from the infected cells. B-E See correct answer explanation.",
+   "source": "Pharmacology VIII-6 Q24",
+   "topic": "Easy",
+   "topic_n": 18
+  },
+  {
+   "question": "A 31-year-old man with AIDS was recently diagnosed with cytomegalovirus pneumonia. The patient's current medications included zidovudine, didanosine, and atazanavir. Intravenous therapy with ganciclovir was started. Which of the following adverse effects would be predicted to be most likely to occur due to the concurrent administration of ganciclovir and the antiretroviral drugs?",
+   "choices": [
+    "Anemia and neutropenia",
+    "Cataract",
+    "Sexual dysfunction",
+    "Hyperglycemia",
+    "Lactic acidosis",
+    "Retinal detachment"
+   ],
+   "answer": 0,
+   "explanation": "Ganciclovir is a drug of choice for cytomegalovirus (CMV) infections. The dose-limiting toxicity of both zidovudine and ganciclovir is bone marrow suppression; therefore, anemia and neutropenia can be predicted from the concurrent administration of ganciclovir and zidovudine. B, C Retinal detachment and cataracts are adverse effects of ganciclovir that can occur following intravitreal administration of the drug for CMV retinitis. They do not occur when the drug is administered intravenously for systemic anti-CMV therapy. D Sexual dysfunction is not an adverse effect of the drugs the patient has been receiving. E Hyperglycemia can occur after prolonged administration of protease inhibitors such as atazanavir, but it does not occur with ganciclovir. F Lactic acidosis has been reported with the use of nucleoside reverse transcriptase inhibitors such as zidovudine and didanosine, but it does not occur with ganciclovir.",
+   "source": "Pharmacology VIII-6 Q25",
+   "topic": "Medium",
+   "topic_n": 7
+  },
+  {
+   "question": "A 34-year-old woman with AIDS had been taking an antiretroviral therapy that included zalcitabine and stavudine. Which of the following adverse effects would be predicted to be most likely, as it is shared by both drugs?",
+   "choices": [
+    "Peripheral neuropathy",
+    "Hallucinations",
+    "Myelosuppression",
+    "Altered body fat distribution",
+    "Nephrolithiasis"
+   ],
+   "answer": 0,
+   "explanation": "Peripheral neuropathy is a dose-limiting adverse effect of both zalcitabine and stavudine, which can occur in up to 30% of patients. It is slowly reversible upon the prompt discontinuation of the drug. A Nephrolithiasis is a potential adverse effect of indinavir, not of zalcitabine and stavudine. B Myelosuppression is a typical adverse effect of zidovudine. Zalcitabine and stavudine very rarely cause myelosuppression. C Zalcitabine and stavudine easily enter the central nervous system, but hallucinations are not reported. E Altered body fat distribution is a typical adverse effect of protease inhibitors. Zalcitabine and stavudine do not cause this effect.",
+   "source": "Pharmacology VIII-6 Q26",
+   "topic": "Medium",
+   "topic_n": 8
+  },
+  {
+   "question": "A 35-year-old man recently diagnosed with herpes simplex keratitis started a topical therapy with eye drops. Which of the following drugs would be appropriate for this patient?",
+   "choices": [
+    "Lopinavir",
+    "Zidovudine",
+    "Zanamivir",
+    "Adefovir",
+    "Nevirapine",
+    "Trifluridine"
+   ],
+   "answer": 5,
+   "explanation": "Herpes simplex keratitis is a common ocular disorder and one of the most frequent causes of blindness in the United States. The illness is usually treated topically, and trifluridine eye drops 8 or 9 times daily are effective in most cases. The drug is phosphorylated intracellularly by host cell enzymes and then competes with thymidine triphosphate for incorporation by the viral DNA polymerase, thus inhibiting the enzyme. Incorporation into both viral and host DNA prevents its systemic use. The drug is not effective against herpes zoster keratitis. Another pharmacotherapy used occasionally for herpes simplex keratitis is oral acyclovir, especially for recurrent infection. A Adefovir is used for viral hepatitis. B-D Lopinavir, nevirapine, and zidovudine are used for HIV infection. F Zanamivir is used for influenza.",
+   "source": "Pharmacology VIII-6 Q27",
+   "topic": "Easy",
+   "topic_n": 19
+  },
+  {
+   "question": "A 35-year-old HIV-positive man presented for a follow-up visit. His CD4+ lymphocyte count was 350 cells/mm3 (normal > 500 cells/mm3). A highly active antiretroviral therapy (HAART) was initiated. Which of the following triple-drug regimens was most likely used?",
+   "choices": [
+    "Didanosine + ganciclovir + zidovudine",
+    "Vidarabine + foscarnet + didanosine",
+    "Ribavirin + atazanavir + zidovudine",
+    "Flucytosine + acyclovir + atazanavir",
+    "Zidovudine + didanosine + atazanavir"
+   ],
+   "answer": 4,
+   "explanation": "HAARTs are prescribed to many HIV-positive patients even before they develop symptoms of AIDS. These therapies have dramatically altered the natural progression of infection and significantly improved the quality of life of many HIV-infected patients. HAART usually includes two nucleoside reverse transcriptase inhibitors (NRTIs; e.g., zidovudine and didanosine), plus a protease inhibitor (e.g., atazanavir) or a nonnucleoside reverse transcriptase inhibitor (NNRTI). A-D All of these drug combinations include at least one drug that is not an antiretroviral agent.",
+   "source": "Pharmacology VIII-6 Q28",
+   "topic": "Medium",
+   "topic_n": 9
+  },
+  {
+   "question": "A 34-year-old pregnant woman was admitted to the hospital at term for delivery. Two weeks earlier, the woman was diagnosed with asymptomatic HIV. An oral dose of nevirapine was given to the woman at the onset of labor. Which of the following best explains the reason for this administration?",
+   "choices": [
+    "To reduce AIDS symptoms in the near future",
+    "To prevent respiratory distress syndrome in the newborn",
+    "To prevent HIV transmission in the newborn",
+    "To start a highly effective antiretroviral therapy",
+    "To prevent bleeding after delivery"
+   ],
+   "answer": 2,
+   "explanation": "It is known that HIV can be transmitted to the fetus or newborn during pregnancy, delivery, or breast feeding. It has been shown that certain antiretroviral drugs, when given to the mother and to the newborn during the perinatal period, can prevent the transmission of HIV. Zidovudine, given for 6 weeks before delivery, was used in the past, but recently it has been found that nevirapine is more convenient, as a single dose of the drug is effective when administered to women at the onset of labor and followed by an oral dose to the neonate within 3 days after the delivery. A A highly effective antiretroviral therapy (HAART) usually includes more than one drug. B A single dose of an antiretroviral drug cannot prevent AIDS. C Nevirapine is not an oxytocic drug. Moreover, oxytocic drugs are given after the delivery, not at the onset of labor. E Prevention of newborn respiratory distress syndrome is usually achieved with glucocorticoid antenatal therapy.",
+   "source": "Pharmacology VIII-6 Q29",
+   "topic": "Easy",
+   "topic_n": 20
+  },
+  {
+   "question": "A 31-year-old HIV-positive man at a routine clinic visit was found to have a CD4+ lymphocyte count of 122 cells/mm3 (normal > 500 cells/mm3). A highly active antiretroviral therapy was started that included a drug that does not require phosphorylation to become active. Which of the following is an antiretroviral drug with this property?",
+   "choices": [
+    "Efavirenz",
+    "Stavudine",
+    "Didanosine",
+    "Abacavir",
+    "Lamivudine",
+    "Foscarnet"
+   ],
+   "answer": 0,
+   "explanation": "The highly active antiretroviral therapy (HAART) can be nonnucleoside based, that is, one nonnucleoside reverse transcriptase inhibitor (NNRTI) plus two nucleoside reverse transcriptase inhibitors (NRTIs). Efavirenz is an NNRTI. Unlike NRTIs, no NNRTIs require phosphorylation to be activated. B Foscarnet does not require phosphorylation to be activated, but it is not an antiretroviral drug. C-F Because these drugs are NRTIs, they require phosphorylation to become active.",
+   "source": "Pharmacology VIII-6 Q30",
+   "topic": "Medium",
+   "topic_n": 10
+  },
+  {
+   "question": "A 34-year-old man with AIDS presented to the clinic because of fever (103.4°F, 39.7°C), malaise, myalgias, nausea, and diarrhea. Three weeks earlier, the patient had started a highly active antiretroviral therapy. He stated that the symptoms were most prominent several hours after each dose and that they seemed to be getting progressively worse with each dose. Physical examination disclosed a fine maculopapular rash over his face, trunk, and arms. Which of the following drugs most likely caused the patient's syndrome?",
+   "choices": [
+    "Ribavirin",
+    "Zidovudine",
+    "Lamivudine",
+    "Abacavir",
+    "Foscarnet",
+    "Zanamivir"
+   ],
+   "answer": 3,
+   "explanation": "The patient was most likely suffering from a hypersensitivity reaction to abacavir. This is a multiorgan systemic illness that occurs in up to 8% of HIV-infected patients who initiate therapy with abacavir. Abacavir hypersensitivity reaction can cause life-threatening complications if abacavir is continued despite progressive symptoms. In addition, among persons who have experienced the abacavir hypersensitivity reaction, subsequent rechallenge with abacavir following discontinuation can cause an immediate and potentially fatal reaction. A, E These drugs very rarely cause hypersensitivity reactions. B, C, F These drugs are not active against HIV.",
+   "source": "Pharmacology VIII-6 Q31",
+   "topic": "Easy",
+   "topic_n": 21
+  },
+  {
+   "question": "A 12-day-old premature baby boy developed a poor feeding pattern, irritability, and respiratory distress. His mother, who had suffered several episodes of genital herpes, had presented to the hospital in labor with premature rupture of the membranes. Physical examination of the baby revealed several small vesicular skin lesions located on the scalp, and dendritic keratitis was present in both eyes. Which of the following drugs would be appropriate to include in the therapeutic treatment of this baby?",
+   "choices": [
+    "Atazanavir",
+    "Zidovudine",
+    "Acyclovir",
+    "Metronidazole",
+    "Fluconazole",
+    "Pentamidine"
+   ],
+   "answer": 2,
+   "explanation": "The mother's history (several episodes of genital herpes) and the patient's signs (prematurity, respiratory distress, and cutaneous vesicles) suggest that the baby was suffering from congenital herpes, a disease that affects about 1 in 3000 live births and is acquired, in most cases, during passage through the birth canal. The diagnosis is confirmed by the finding of dendritic keratitis, which is pathognomonic of herpetic keratoconjunctivitis. Antiherpes drugs include acyclovir, several acyclovir congeners, foscarnet, ganciclovir, cidofovir, and trifluridine. Acyclovir is still the first-line agent for systemic treatment. Foscarnet and cidofovir can be used for acyclovir-resistant strains. Trifluridine can be used topically to manage keratitis. A, C Atazanavir and zidovudine are antiretroviral drugs used only in HIV infection. D-F These drugs are not antiviral agents.",
+   "source": "Pharmacology VIII-6 Q32",
+   "topic": "Medium",
+   "topic_n": 11
+  },
+  {
+   "question": "A 25-year-old man recently diagnosed with AIDS started an antiretroviral therapy that included atazanavir. Which of the following steps of the viral growth cycle was primarily inhibited by this drug?",
+   "choices": [
+    "Entry",
+    "Uncoating",
+    "Assembly",
+    "Translation",
+    "Proteolytic cleavage",
+    "Transcription"
+   ],
+   "answer": 4,
+   "explanation": "During the late stage of the HIV growth cycle, the gene products become immature budding particles. The immature core (noninfectious) is cleaved into smaller infectious particles by viral aspartate protease. Atazanavir is a protease inhibitor that blocks the proteolytic cleavage, preventing viral maturation. Unlike other protease inhibitors, it does not appear to be associated with the impairment of glucose and lipid metabolism. A-D, F None of these steps are affected by protease inhibitors.",
+   "source": "Pharmacology VIII-6 Q33",
+   "topic": "Easy",
+   "topic_n": 22
+  },
+  {
+   "question": "A 39-year-old man with AIDS was taking an antiretroviral therapy that included a drug with a pronounced inhibitory effect on CYP3A4. Which of the following drugs most likely has this inhibitory action?",
+   "choices": [
+    "Zidovudine",
+    "Ritonavir",
+    "Enfuvirtide",
+    "Atazanavir",
+    "Lamivudine"
+   ],
+   "answer": 1,
+   "explanation": "All of the antiretroviral protease inhibitors are substrates and inhibitors of CYP3A4, with ritonavir having the most pronounced inhibitory effect and saquinavir the least. As a result, there is a huge potential for drug-drug interactions with other antiretroviral agents and other commonly used medications. This potential is also exploited therapeutically in the marketed ritonavir-lopinavir combination. Ritonavir acts as a pharmacokinetic enhancer by inhibiting lopinavir metabolism. A-C, E These drugs have no clinically significant inhibitory effect on CYP3A4.",
+   "source": "Pharmacology VIII-6 Q34",
+   "topic": "Easy",
+   "topic_n": 23
+  },
+  {
+   "question": "A 71-year-old woman was admitted to the hospital with a 2-day history of progressive dyspnea, fever, cough, and wheezing. A chest radiograph was normal, but a bronchoscopy showed marked erythema of the trachea and bronchi, with multiple ulcerations. A bronchial biopsy confirmed the diagnosis of herpetic tracheobronchitis. The patient received intravenous acyclovir for 3 days, but no improvement was seen. Resistance to acyclovir was suspected, and an alternative drug was given intravenously. Which of the following drugs would be most appropriate for the patient at this time?",
+   "choices": [
+    "Atazanavir",
+    "Foscarnet",
+    "Trifluridine",
+    "Zidovudine",
+    "Amantadine"
+   ],
+   "answer": 1,
+   "explanation": "Herpetic tracheobronchitis has been documented in both immunocompromised and immunocompetent individuals. Normal hosts typically are elderly individuals. Early detection of herpetic tracheobronchitis appears critical so that acyclovir, which is a drug of first choice for herpes simplex virus (HSV) infections, can be given during the time of peak viral replication, which tends to coincide with symptomatic clinical illness. The most common cause of failure of acyclovir therapy is the presence of thymidine kinase-deficient strains of HSV. Because acyclovir must be phosphorylated by a viral thymidine kinase to become a nucleotide analogue that inhibits viral DNA polymerase, these strains are acyclovir-resistant. In this case, foscarnet, which directly inhibits viral DNA polymerase, represents a useful alternative. B-D Atazanavir, amantadine, and zidovudine are not active against HSV. E Trifluridine is effective against HSV, but it is very toxic and therefore is only used topically.",
+   "source": "Pharmacology VIII-6 Q35",
+   "topic": "Hard",
+   "topic_n": 1
+  },
+  {
+   "question": "A 43-year-old woman with AIDS started a highly active antiretroviral therapy with zidovudine, lamivudine, and atazanavir. Which of the following reasons best explains an important rationale for triple therapy in AIDS patients?",
+   "choices": [
+    "To increase the half-life of any one of the agents",
+    "To delay the appearance of drug resistance",
+    "To expand the antimicrobial efficacy to opportunistic infections",
+    "To inhibit each other's drug metabolism",
+    "To destroy both the replicating and nonreplicating viral genome"
+   ],
+   "answer": 1,
+   "explanation": "The primary goal of highly active antiretroviral therapy is to delay the emergence of resistance, as mutations conferring resistance to one drug do not necessarily confer resistance to other drugs. An additional benefit of the combination therapy is to decrease the risk of toxicity associated with any one of the agents, as the drugs have different toxicity profiles. A There are no drugs able to kill nonreplicating viruses. B, D This can occur in rare cases but is not the purpose of the combination therapy. E Antiviral drugs usually have no effect on opportunistic infections, which are primarily bacterial infections.",
+   "source": "Pharmacology VIII-6 Q36",
+   "topic": "Easy",
+   "topic_n": 24
+  },
+  {
+   "question": "A 43-year-old HIV-positive woman was admitted to the hospital with a 2-day history of nausea, vomiting, and severe epigastric pain radiating through to the back. The woman had been taking an antiretroviral therapy for 3 months. Vital signs on admission were: blood pressure 100/50 mm Hg, heart rate 130 bpm, respirations 32/min and shallow. Physical examination showed an acutely ill and sweaty patient with abdominal distention, tenderness in the epigastric area, and absent bowel sounds. Lab results on admission revealed serum amylase of 520 IU/L (normal < 115 IU/L). A preliminary diagnosis was made. Which of the following antiviral drugs most likely caused the patient's disorder?",
+   "choices": [
+    "Zidovudine",
+    "Abacavir",
+    "Didanosine",
+    "Ribavirin",
+    "Acyclovir",
+    "Lamivudine"
+   ],
+   "answer": 2,
+   "explanation": "The patient's signs, symptoms, and lab tests indicate that she was most likely suffering from acute pancreatitis, the most serious adverse effect associated with didanosine therapy. The effect is dose-dependent and can occur in up to 7% of patients on antiretroviral therapy with this drug. A, B, D The risk of acute pancreatitis with these drugs is negligible. E, F These drugs are not antiretroviral agents.",
+   "source": "Pharmacology VIII-6 Q37",
+   "topic": "Hard",
+   "topic_n": 2
+  },
+  {
+   "question": "A 5-year-old girl was admitted to the emergency department because of fever (102°F, 38.8°C) and disorientation in time and space. Soon after admission, the patient had a seizure. Ceftriaxone and dexamethasone were initiated, but the next day, the patient became lethargic and lapsed into a coma. Examination of the cerebrospinal fluid revealed no bacteria. A computed tomography scan of the head showed decreased density in a small area of the right parietal lobe of the brain. Intravenous acyclovir was started, and 5 days later, the child became responsive. Which of the following diseases most likely caused the patient's signs and symptoms?",
+   "choices": [
+    "Toxoplasmic encephalitis",
+    "Cytomegalovirus encephalitis",
+    "Herpes encephalitis",
+    "Neisseria meningitis",
+    "Cryptococcal meningitis"
+   ],
+   "answer": 2,
+   "explanation": "The patient's signs and symptoms suggested the presumptive diagnosis of bacterial meningitis, but the lack of efficacy of antibiotic therapy and the negative cerebrospinal fluid result raised the suspicion of herpes simplex virus (HSV) encephalitis, the most common sporadic viral infection of the central nervous system. Acyclovir is the first-line agent for HSV infection, and the efficacy of therapy confirms that the patient was suffering from herpes encephalitis. A See correct answer explanation. B, C These diseases are rare in patients without HIV and cannot be cured with antiviral drugs. D Cytomegalovirus (CMV) infection occurs mainly in immunocompromised patients or is congenital, and acyclovir is not active against CMV.",
+   "source": "Pharmacology VIII-6 Q38",
+   "topic": "Medium",
+   "topic_n": 12
+  },
+  {
+   "question": "A 41-year-old woman with AIDS started a highly active antiretroviral therapy that included abacavir and efavirenz. Which of the following adverse effects would most likely be predicted because it was shared by both drugs?",
+   "choices": [
+    "Lactic acidosis",
+    "Liver cirrhosis",
+    "Macrocytic anemia",
+    "Hallucinations",
+    "Erythematous skin rash",
+    "Pancreatitis"
+   ],
+   "answer": 4,
+   "explanation": "Abacavir and efavirenz can frequently cause skin rashes. Abacavir can cause allergic reactions in up to 8% of patients, and an erythematous skin rash occurs in about one half of patients presenting such reactions. Efavirenz can cause skin rashes in up to 28% of patients. Because the patient was taking both drugs, there is a high probability that an erythematous skin rash might occur. B Efavirenz can cause psychotic symptoms, but the frequency of such adverse effects is exceedingly low. C-E The risk of these adverse effects is negligible.",
+   "source": "Pharmacology VIII-6 Q39",
+   "topic": "Medium",
+   "topic_n": 13
+  },
+  {
+   "question": "A 23-year-old woman with AIDS came to the clinic complaining of floating spots in her vision and difficulty in reading. Funduscopic examination revealed the presence of alternating areas of hemorrhagic tissue and fluffy white patches in the proximity of the retinas of both eyes, consistent with hemorrhagic retinitis. Which of the following drugs would be appropriate for the treatment of the patient's ocular disorder?",
+   "choices": [
+    "Ribavirin",
+    "Doxycycline",
+    "Gentamicin",
+    "Lopinavir",
+    "Amantadine",
+    "Ganciclovir"
+   ],
+   "answer": 5,
+   "explanation": "Hemorrhagic retinitis in an AIDS patient suggests the diagnosis of cytomegalovirus (CMV) retinitis, which accounts for more than 75% of CMV end-organ disease in HIV-positive patients. Treatment options for CMV retinitis include ganciclovir, foscarnet, and cidofovir. These drugs are administered intravenously or by intraocular injections. Fomivirsen is another drug used for CMV retinitis and is administered only by intraocular injection. A, B, D These antiviral drugs are not used for CMV retinitis. E, F These drugs are not antiviral agents.",
+   "source": "Pharmacology VIII-6 Q40",
+   "topic": "Medium",
+   "topic_n": 14
+  }
+ ]
+}
